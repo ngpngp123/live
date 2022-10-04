@@ -2,59 +2,8 @@
 
 {
            "league": "Champion league",
-            "date": "Now",
-            "time": "Ended",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
-            "hteam" : "Marseille",
-            "ateam" : "Sporting CP",
-            "hotmat":"no",
-            "link":[
-                
-              {
-                    "type": "1 SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-157365.m3u8?auth_key=1664923646-0-0-fb7350456c5b66678bb1ae6da5632613"
-         
-                },
-{
-                    "type": "720 HD",
-                "livelink":"https://live-ak.vimeocdn.com/exp=1664909566~acl=%2F110c2d44-8d7a-45fd-8d0f-4e0f0b99bd52%2F%2A~hmac=71fc2079ffeeb458d795f36bca0a7857fb103c7d755c62b3db39d771c9b4c0d4/110c2d44-8d7a-45fd-8d0f-4e0f0b99bd52/chunklist_b728000.m3u8?max_segments=10"
-         
-                }
-                
-              
-                
-            ]
-},
-{
-           "league": "Champion league",
-            "date": "Now",
-            "time": "Ended",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6033.png",
-            "teams" : "Bayern München Plzen Vs 0",
-            "hteam" : "Bayern München",
-            "ateam" : "Viktoria Plzen",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1664922206-0-0-de7721d7ab047525b9ff077c177d264a"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1HD/may1HD@456.m3u8"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"http://37.49.224.248:8081/live/ch2/chunks.m3u8"
-                }
-            ]
-         },
-{
-           "league": "Champion league",
             "date": "October 5",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
             "teams" : "Ajax Vs Napoli",
@@ -69,17 +18,13 @@
                 {
                     "type": "480HD",
                 "livelink":"0"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"0"
                 }
             ]
          },
 {
            "league": "Champion league",
             "date": "October 5",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8342_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
             "teams" : "Club Brugge Vs Atletico Madrid",
@@ -89,14 +34,10 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115429.m3u8?auth_key=1664931746-0-0-32ca2c56e7028e4051296b12125dcf3d"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320SD",
                 "livelink":"0"
                 }
             ]
@@ -189,14 +130,10 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-101641.m3u8?auth_key=1664931506-0-0-11278f2c301d238c7bd9a19bf7abf60c"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-143449.m3u8?auth_key=1664931746-0-0-bae9a2d3f61be3d16788a80419c92b99"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320SD",
                 "livelink":"0"
                 }
             ]
