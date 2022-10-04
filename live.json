@@ -20,6 +20,31 @@
               
                 
             ]
-}
+},
+{
+           "league": "Champion league",
+            "date": "Now",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6033.png",
+            "teams" : "Bayern München Plzen Vs 0",
+            "hteam" : "Bayern München",
+            "ateam" : "Viktoria Plzen",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1664922206-0-0-de7721d7ab047525b9ff077c177d264a"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         }
   
   ]
