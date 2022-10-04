@@ -129,7 +129,7 @@
 {
            "league": "Champion league",
             "date": "October 5",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "teams" : "Inter Vs Barcelona",
@@ -139,7 +139,7 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1664929826-0-0-3e51ee2f56024583e7f0882f0452d894"
                 },
                 {
                     "type": "480HD",
