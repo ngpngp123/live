@@ -38,11 +38,11 @@
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1HD/may1HD@456.m3u8"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"http://37.49.224.248:8081/live/ch2/chunks.m3u8"
                 }
             ]
          }
