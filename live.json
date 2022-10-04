@@ -45,6 +45,131 @@
                 "livelink":"http://37.49.224.248:8081/live/ch2/chunks.m3u8"
                 }
             ]
+         },
+{
+           "league": "Champion league",
+            "date": "October 5",
+            "time": "1:30 AM",
+            "himg": "0",
+            "aimg": "0",
+            "teams" : "0 Vs 0",
+            "hteam" : "0",
+            "ateam" : "0",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Champion league",
+            "date": "October 5",
+            "time": "1:30 AM",
+            "himg": "0",
+            "aimg": "0",
+            "teams" : "0 Vs 0",
+            "hteam" : "0",
+            "ateam" : "0",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Champion league",
+            "date": "October 5",
+            "time": "1:30 AM",
+            "himg": "0",
+            "aimg": "0",
+            "teams" : "0 Vs 0",
+            "hteam" : "0",
+            "ateam" : "0",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Champion league",
+            "date": "October 5",
+            "time": "1:30 AM",
+            "himg": "0",
+            "aimg": "0",
+            "teams" : "0 Vs 0",
+            "hteam" : "0",
+            "ateam" : "0",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Champion league",
+            "date": "October 5",
+            "time": "1:30 AM",
+            "himg": "0",
+            "aimg": "0",
+            "teams" : "0 Vs 0",
+            "hteam" : "0",
+            "ateam" : "0",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
          }
   
   ]
