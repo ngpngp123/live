@@ -15,6 +15,11 @@
                     "type": "1 SD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-157365.m3u8?auth_key=1664923646-0-0-fb7350456c5b66678bb1ae6da5632613"
          
+                },
+{
+                    "type": "720 HD",
+                "livelink":"https://live-ak.vimeocdn.com/exp=1664909566~acl=%2F110c2d44-8d7a-45fd-8d0f-4e0f0b99bd52%2F%2A~hmac=71fc2079ffeeb458d795f36bca0a7857fb103c7d755c62b3db39d771c9b4c0d4/110c2d44-8d7a-45fd-8d0f-4e0f0b99bd52/chunklist_b728000.m3u8?max_segments=10"
+         
                 }
                 
               
