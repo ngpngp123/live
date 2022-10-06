@@ -2,7 +2,7 @@
 {
            "league": "Europa league",
             "date": "October 6",
-            "time": "11:15 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8044_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "teams" : "Omonia Nicosia Vs Man United",
@@ -12,7 +12,7 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":""
+                "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1665095246-0-0-2c1531b0d29c67fbd62ec932bdf009ef"
                 },
                 {
                     "type": "480HD",
