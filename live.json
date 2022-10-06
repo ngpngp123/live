@@ -25,6 +25,48 @@
             ]
          },
 {
+           "league": "Europa League",
+            "date": "October 6",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10014_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+            "teams" : "Sturm Graz Vs Lazio",
+            "hteam" : "Sturm Graz",
+            "ateam" : "Lazio",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may4/chunklist.m3u8"
+                },
+                {
+                    "type": "HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1665095726-0-0-46ed2e296e0aeb6cbfe1ef1bce8ef07d"
+                }
+            ]
+         },
+{
+           "league": "Europa League",
+            "date": "October 6",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9729_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+            "teams" : "FC Sheriff Vs Real Sociedad",
+            "hteam" : "FC Sheriff",
+            "ateam" : "Real Sociedad",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-144861.m3u8?auth_key=1665095906-0-0-ea9d525c7ed0fb3a359238f4ead196a6"
+                },
+                {
+                    "type": "SD",
+                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may7/may7@456.m3u8"
+                }
+            ]
+         },
+{
            "league": "Europa league",
             "date": "October 7",
             "time": "1:30 AM",
