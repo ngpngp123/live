@@ -125,12 +125,12 @@
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "720 HD",
-                "livelink":""
+                    "type": "HD",
+                "livelink":"ttps://jq9sucdqmflivnt.vcdn.com.vn/may91/may91@456.m3u8"
                 },
                 {
-                    "type": "480HD",
-                "livelink":""
+                    "type": "SD",
+                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8"
                 }
             ]
          }
