@@ -1,136 +1,426 @@
 [
 {
-           "league": "Europa league",
-            "date": "October 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8044_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "teams" : "Omonia Nicosia Vs Man United",
-            "hteam" : "Omonia Nicosia",
-            "ateam" : "Man United",
+           "league": "Laliga",
+            "date": "October 8",
+            "time": "6:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
+            "teams" : "Almeria Vs Rayo Vallecano",
+            "hteam" : "Almeria",
+            "ateam" : "Rayo Vallecano",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Serie A",
+            "date": "October 8",
+            "time": "7:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "teams" : "Sassuolo Vs Inter",
+            "hteam" : "Sassuolo",
+            "ateam" : "Inter",
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1665095246-0-0-2c1531b0d29c67fbd62ec932bdf009ef"
+                    "type": "SD",
+                "livelink":"0"
                 },
                 {
-                    "type": "480HD",
-                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may91/may91@456.m3u8"
+                    "type": "HD",
+                "livelink":"0"
                 },
-{
-                    "type": "English FHD",
-                "livelink":"https://omenmynewsde918.s3-accelerate.amazonaws.com/chelsea_720p60.m3u8"
-         
-                },
-{
-                    "type": "English HD",
-                "livelink":"http://37.49.224.248:8081/live/ch1/chunks.m3u8"
+                {
+                    "type": "Full HD",
+                "livelink":"0"
                 }
             ]
          },
 {
-           "league": "Europa Conf League",
-            "date": "October 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8635_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-            "teams" : "Anderlecht Vs West Ham",
-            "hteam" : "Anderlecht",
-            "ateam" : "West Ham",
+           "league": "Bundesliga",
+            "date": "October 8",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
+            "teams" : "Leverkusen Vs Schalke 04",
+            "hteam" : "Leverkusen",
+            "ateam" : "Schalke 04",
          "hotmat":"no",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8"
+                "livelink":"0"
                 },
                 {
                     "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-160430.m3u8?auth_key=1665096086-0-0-d716d8e17642f7dc155ceb9c01ef86ff"
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
                 }
             ]
          },
 {
-           "league": "Europa League",
-            "date": "October 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10014_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
-            "teams" : "Sturm Graz Vs Lazio",
-            "hteam" : "Sturm Graz",
-            "ateam" : "Lazio",
+           "league": "Bundesliga",
+            "date": "October 8",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
+            "teams" : "VfL Bochum Vs Frankfurt",
+            "hteam" : "VfL Bochum",
+            "ateam" : "Frankfurt",
          "hotmat":"no",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may4/chunklist.m3u8"
+                "livelink":"0"
                 },
                 {
                     "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1665095726-0-0-46ed2e296e0aeb6cbfe1ef1bce8ef07d"
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
                 }
             ]
          },
 {
-           "league": "Europa League",
-            "date": "October 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9729_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-            "teams" : "FC Sheriff Vs Real Sociedad",
-            "hteam" : "FC Sheriff",
-            "ateam" : "Real Sociedad",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-144861.m3u8?auth_key=1665095906-0-0-ea9d525c7ed0fb3a359238f4ead196a6"
-                },
-                {
-                    "type": "SD",
-                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may7/may7@456.m3u8"
-                }
-            ]
-         },
-{
-           "league": "Europa League",
-            "date": "October 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9752_small.png",
-            "teams" : "Monaco Vs Trabzonspor",
-            "hteam" : "Monaco",
-            "ateam" : "Trabzonspor",
+           "league": "Bundesliga",
+            "date": "October 8",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+            "teams" : "Mainz Vs RB Leipzig",
+            "hteam" : "Mainz",
+            "ateam" : "RB Leipzig",
          "hotmat":"no",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may71/may71@456.m3u8"
+                "livelink":"0"
                 },
                 {
                     "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-170430.m3u8?auth_key=1665095726-0-0-9b8825aaf6989b04a784f3c75fdded6f"
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
                 }
             ]
          },
 {
-           "league": "Europa League",
-            "date": "October 7",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8402_small.png",
-            "teams" : "Arsenal Vs Bodø/Glimt",
-            "hteam" : "Arsenal",
-            "ateam" : "Bodø/Glimt",
+           "league": "Premier League",
+            "date": "October 8",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
+            "teams" : "Man City Vs Southampton",
+            "hteam" : "Man City",
+            "ateam" : "Southampton",
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "HD",
-                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may91/may91@456.m3u8"
+                    "type": "SD",
+                "livelink":"0"
                 },
                 {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "October 8",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+            "teams" : "Chelsea Vs Wolves",
+            "hteam" : "Chelsea",
+            "ateam" : "Wolves",
+         "hotmat":"yes",
+            "link":[
+                {
                     "type": "SD",
-                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8"
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "October 8",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+            "teams" : "Bournemouth Vs Leicester",
+            "hteam" : "Bournemouth",
+            "ateam" : "Leicester",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "October 8",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+            "teams" : "Newcastle Vs Brentford",
+            "hteam" : "Newcastle",
+            "ateam" : "Brentford",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Laliga",
+            "date": "October 8",
+            "time": "8:45 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+            "teams" : "AT Madrid Vs Girona",
+            "hteam" : "AT Madrid",
+            "ateam" : "Girona",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Ligue 1",
+            "date": "October 8",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8576_small.png",
+            "teams" : "Marseille Vs AC Ajaccio",
+            "hteam" : "Marseille",
+            "ateam" : "Ajaccio",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Serie A",
+            "date": "October 8",
+            "time": "10:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "teams" : "AC Milan Vs Juventus",
+            "hteam" : "AC Milan",
+            "ateam" : "Juventus",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Bundesliga",
+            "date": "October 8",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+            "teams" : "Dortmund Vs Bayern München",
+            "hteam" : "Dortmund",
+            "ateam" : "Bayern München",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "October 8",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+            "teams" : "Brighton Vs Tottenham",
+            "hteam" : "Brighton",
+            "ateam" : "Tottenham",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Laliga",
+            "date": "October 8",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+            "teams" : "Sevilla Vs Bilbao",
+            "hteam" : "Sevilla",
+            "ateam" : "Bilbao",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Laliga",
+            "date": "October 9",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "teams" : "Getafe Vs Real Madrid",
+            "hteam" : "Getafe",
+            "ateam" : "Real Madrid",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Ligue 1",
+            "date": "October 9",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+            "teams" : "Reims Vs PSG",
+            "hteam" : "Reims",
+            "ateam" : "PSG",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
                 }
             ]
          }
