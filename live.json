@@ -1,129 +1,5 @@
 [
-{
-           "league": "Laliga",
-            "date": "October 8",
-            "time": "6:30 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-            "teams" : "Almeria Vs Rayo Vallecano",
-            "hteam" : "Almeria",
-            "ateam" : "Rayo Vallecano",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
-{
-           "league": "Serie A",
-            "date": "October 8",
-            "time": "7:30 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-            "teams" : "Sassuolo Vs Inter",
-            "hteam" : "Sassuolo",
-            "ateam" : "Inter",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
-{
-           "league": "Bundesliga",
-            "date": "October 8",
-            "time": "8:00 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
-            "teams" : "Leverkusen Vs Schalke 04",
-            "hteam" : "Leverkusen",
-            "ateam" : "Schalke 04",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
-{
-           "league": "Bundesliga",
-            "date": "October 8",
-            "time": "8:00 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
-            "teams" : "VfL Bochum Vs Frankfurt",
-            "hteam" : "VfL Bochum",
-            "ateam" : "Frankfurt",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
-{
-           "league": "Bundesliga",
-            "date": "October 8",
-            "time": "8:00 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-            "teams" : "Mainz Vs RB Leipzig",
-            "hteam" : "Mainz",
-            "ateam" : "RB Leipzig",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
+
 {
            "league": "Premier League",
             "date": "October 8",
@@ -141,7 +17,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/123HD/123HD@456.m3u8"
                 },
                 {
                     "type": "Full HD",
@@ -166,7 +42,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8"
                 },
                 {
                     "type": "Full HD",
