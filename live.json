@@ -67,7 +67,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"http://P135@45.86.191.47:8081/live/ch4/chunks.m3u8"
                 },
                 {
                     "type": "Full HD",
