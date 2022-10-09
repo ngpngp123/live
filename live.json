@@ -59,6 +59,11 @@
                 "livelink":"https://hls1.yuanzhi.org.cn/live/H1031005.m3u8?txSecret=2baf0d16cf7e342d267d6617ea6e230c&txTime=6344578C&_s=stream"
          
                 },
+                       {
+                    "type": "English HD",
+                "livelink":"https://stream.doball.com/hls/ch14.m3u8"
+         
+                },
 {
                     "type": "720 HD",
                 "livelink":"https://sun.meta-scores.com/97c2707b38/97c2707b38@720p.m3u8"
