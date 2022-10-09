@@ -74,7 +74,7 @@
 {
            "league": "Serie A",
             "date": "October 10",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
             "teams" : "Roma Vs Lecce",
@@ -84,7 +84,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"http://standard.pull.cqlwny.com/sm/10021_649429_lhd.m3u8?auth_key=1665425771-0-0-2e07a134153c12ccc380eceeed0ea106"
                 },
                 {
                     "type": "HD",
