@@ -55,6 +55,11 @@
             "ateam" : "Liverpool",
          "hotmat":"yes",
             "link":[
+{
+                    "type": "720 HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1665349646-0-0-502fc569156099d6f40346697538bc31"
+         
+                },
                 {
                     "type": "SD",
                 "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8"
