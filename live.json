@@ -1,49 +1,7 @@
 [
 
 
-{
-           "league": "Laliga",
-            "date": "October 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-            "teams" : "Cadiz Vs Espanyol",
-            "hteam" : "Cadiz",
-            "ateam" : "Espanyol",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-101641.m3u8?auth_key=1665345746-0-0-86456eb5bd56ae46c39ba59caab28b95"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-101641.m3u8?auth_key=1665345746-0-0-86456eb5bd56ae46c39ba59caab28b95"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"http://37.49.224.248:8081/live/ch3/chunks.m3u8"
-                }
-            ]
-         },
-{
-           "league": "Ligue 1",
-            "date": "October 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
-            "teams" : "Rennes Vs Nantes",
-            "hteam" : "Rennes",
-            "ateam" : "Nantes",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-456906.m3u8?auth_key=1665349275-0-0-37346105528d9d5afe6fc2b0e466fb81"
-                }
-                
-            ]
-         },
+
 {
            "league": "Premier League",
             "date": "October 9",
@@ -87,7 +45,7 @@
 {
            "league": "Serie A",
             "date": "October 9",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
             "teams" : "Cremonese Vs Napoli",
@@ -97,11 +55,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1665351555-0-0-41c58024fcd08823fe9b3a0c5fba1501"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"http://37.49.224.248:8081/live/ch5/chunks.m3u8"
                 },
                 {
                     "type": "Full HD",
