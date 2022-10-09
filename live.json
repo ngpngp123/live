@@ -1,29 +1,5 @@
 [
-{
-           "league": "Serie A",
-            "date": "October 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
-            "teams" : "Torino Vs Empoli",
-            "hteam" : "Torino",
-            "ateam" : "Empoli",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may111/may111@456.m3u8"
-                },
-                {
-                    "type": "HD1",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1665331886-0-0-f02cf8e2b35501fd9bbf6887c5ee5b66"
-                },
-                {
-                    "type": "HD2",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1665331886-0-0-f02cf8e2b35501fd9bbf6887c5ee5b66"
-                }
-            ]
-         },
+
 {
            "league": "Ligue 1",
             "date": "October 9",
@@ -77,7 +53,7 @@
 {
            "league": "Premier League",
             "date": "October 9",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "teams" : "Crystal Palace Vs Leeds",
@@ -87,11 +63,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-279875.m3u8?auth_key=1665340395-0-0-5118eb41a61158eafa350fcfc0f81bd2"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-220098.m3u8?auth_key=1665340346-0-0-48479ead0696e04cb9ffb01edb5acc7e"
                 },
                 {
                     "type": "Full HD",
@@ -102,7 +78,7 @@
 {
            "league": "Premier League",
             "date": "October 9",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "teams" : "West Ham Vs Fulham",
@@ -112,11 +88,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1665340286-0-0-7e20c04f180c1b09256b56f9f7f0f41f"
                 },
                 {
                     "type": "Full HD",
@@ -127,7 +103,7 @@
 {
            "league": "Serie A",
             "date": "October 9",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
             "teams" : "Udinese Vs Atalanta",
@@ -137,7 +113,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8"
                 },
                 {
                     "type": "HD",
@@ -152,7 +128,7 @@
 {
            "league": "Serie A",
             "date": "October 9",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
             "teams" : "Monza Vs Spezia",
@@ -162,7 +138,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1665340395-0-0-15315e87091fa0c003959a0bc9e05d1d"
                 },
                 {
                     "type": "HD",
@@ -177,7 +153,7 @@
 {
            "league": "Ligue 1",
             "date": "October 9",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
             "teams" : "Brest  Vs Lorient",
@@ -187,7 +163,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8"
                 },
                 {
                     "type": "HD",
@@ -202,7 +178,7 @@
 {
            "league": "Ligue 1",
             "date": "October 9",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
             "teams" : "Nice Vs Troyes",
@@ -212,7 +188,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8"
                 },
                 {
                     "type": "HD",
