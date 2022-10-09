@@ -67,8 +67,12 @@
                     "type": "SD",
                 "livelink":"https://jq9sucdqmfliv.vcdn.cloud/may1HD/may1HD@456.m3u8"
                 },
+                          {
+                    "type": "HD 1",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1665359066-0-0-df2417a04a3de8eb6e07baa7ed954b7c"
+                },
                 {
-                    "type": "HD",
+                    "type": "HD 2",
                 "livelink":"https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1665358335-0-0-a37ef1dc3ea6ddde52ad52dc1dbdcb84"
                 },
                 {
