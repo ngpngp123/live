@@ -69,9 +69,13 @@
                     "type": "HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-220098.m3u8?auth_key=1665340346-0-0-48479ead0696e04cb9ffb01edb5acc7e"
                 },
+{
+                    "type": "Eng",
+                "livelink":"http://37.49.224.248:8081/live/ch2/chunks.m3u8"
+                },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://live-ak.vimeocdn.com/exp=1665323420~acl=%2F5cc6971e-5d51-4fe8-947e-0d5cf595a75b%2F%2A~hmac=470d28d2b2db4225607c7269b74e3315b0f30126fa5837932b7585f94c9cd573/5cc6971e-5d51-4fe8-947e-0d5cf595a75b/chunklist_b3256000.m3u8"
                 }
             ]
          },
@@ -94,9 +98,13 @@
                     "type": "HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1665340286-0-0-7e20c04f180c1b09256b56f9f7f0f41f"
                 },
+{
+                    "type": "Eng",
+                "livelink":"http://37.49.224.248:8081/live/ch1/chunks.m3u8"
+                },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://live-ak.vimeocdn.com/exp=1665323420~acl=%2F5cc6971e-5d51-4fe8-947e-0d5cf595a75b%2F%2A~hmac=470d28d2b2db4225607c7269b74e3315b0f30126fa5837932b7585f94c9cd573/5cc6971e-5d51-4fe8-947e-0d5cf595a75b/chunklist_b3256000.m3u8"
                 }
             ]
          },
@@ -117,7 +125,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"http://37.49.224.248:8081/live/ch5/chunks.m3u8"
                 },
                 {
                     "type": "Full HD",
