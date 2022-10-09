@@ -211,7 +211,7 @@
 {
            "league": "Bundesliga",
             "date": "October 9",
-            "time": "8:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
             "teams" : "M'Gladbach Vs Köln",
@@ -221,7 +221,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-466758.m3u8?auth_key=1665343335-0-0-eeeb3323ca9eb72227ef32932e6bf505"
                 },
                 {
                     "type": "HD",
@@ -236,7 +236,7 @@
 {
            "league": "Bundesliga",
             "date": "October 9",
-            "time": "8:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
             "teams" : "Hertha BSC Vs Freiburg",
@@ -246,7 +246,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1664670554-0-0-7ddc213c629f35a0a497402ab7a2d0a0"
                 },
                 {
                     "type": "HD",
