@@ -70,7 +70,7 @@
 {
            "league": "Laliga",
             "date": "October 9",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
             "teams" : "Real Sociedad Vs Villarreal",
@@ -80,7 +80,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-441616.m3u8?auth_key=1665353355-0-0-aa2c50c17ae44bacf3d855965d914516"
                 },
                 {
                     "type": "HD",
