@@ -64,6 +64,11 @@
                     "type": "SD",
                 "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8"
                 },
+{
+                    "type": "Eng HD",
+                "livelink":"http://37.49.224.248:8081/live/ch1/chunks.m3u8"
+         
+                },
                 {
                     "type": "HD",
                 "livelink":"https://live-ak.vimeocdn.com/exp=1665331340~acl=%2Fbd218b49-e34d-4535-a33b-9de679db03d3%2F%2A~hmac=2531e35527b31c23a6c1ccce0c388b7ad062b10a46e4e9b4a05430b42ecd215f/bd218b49-e34d-4535-a33b-9de679db03d3/chunklist_b6256000.m3u8?max_segments=10"
