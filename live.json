@@ -13,10 +13,7 @@
             "ateam" : "Man United",
          "hotmat":"yes",
             "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://live-ak.vimeocdn.com/exp=1665341777~acl=%2F31bcbca5-bf3b-4787-828b-45a3b95dc333%2F%2A~hmac=5b048de6a9c83f013734fe6dfcbe2af77fd068bdd243828fcb38774213dca76c/31bcbca5-bf3b-4787-828b-45a3b95dc333/chunklist_b416000.m3u8?max_segments=10"
-                },
+                
                           {
                     "type": "HD 1",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1665359066-0-0-df2417a04a3de8eb6e07baa7ed954b7c"
