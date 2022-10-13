@@ -1,38 +1,13 @@
 [
 {
            "league": "Champion League",
-            "date": "October 11",
-            "time": "11:15 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8391_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-            "teams" : "FC København Vs Man City",
-            "hteam" : "FC København",
-            "ateam" : "Man City",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
-{
-           "league": "Champion League",
-            "date": "October 11",
-            "time": "11:15 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10185_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-            "teams" : "Maccabi Haifa Vs Juventus",
-            "hteam" : "Maccabi Haifa",
-            "ateam" : "Juventus",
+            "date": "October 13",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8402_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+            "teams" : "Bodø/Glimt Vs Arsenal",
+            "hteam" : "Bodø/Glimt",
+            "ateam" : "Arsenal",
          "hotmat":"yes",
             "link":[
                 {
@@ -49,4 +24,5 @@
                 }
             ]
          }
+
 ]
