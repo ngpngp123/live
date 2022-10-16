@@ -136,35 +136,11 @@
                 }
             ]
          },
-{
-           "league": "Bundesliga",
-            "date": "October 16",
-            "time": "10:00 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-            "teams" : "Union Berlin Vs Dortmund",
-            "hteam" : "Union Berlin",
-            "ateam" : "Dortmund",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
+
 {
            "league": "Serie A",
             "date": "October 16",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
             "teams" : "Napoli Vs Bologna",
@@ -174,7 +150,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8"
                 },
                 {
                     "type": "HD",
