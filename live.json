@@ -103,11 +103,11 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1665950236-0-0-a2c8065276a898fc8c8ac951e2c0b014"
                 },
                 {
-                    "type": "Full HD",
-                "livelink":"0"
+                    "type": "SHD",
+                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8"
                 }
             ]
          },
