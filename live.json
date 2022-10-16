@@ -1,18 +1,18 @@
 [
 {
-           "league": "Champion League",
-            "date": "October 13",
+           "league": "Premier League",
+            "date": "October 16",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8402_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "teams" : "Bodø/Glimt Vs Arsenal",
-            "hteam" : "Bodø/Glimt",
-            "ateam" : "Arsenal",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "teams" : "Man United Vs Newcastle",
+            "hteam" : "Man United",
+            "ateam" : "Newcastle",
          "hotmat":"yes",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
+                "livelink":"0"
                 },
                 {
                     "type": "HD",
@@ -20,9 +20,183 @@
                 },
                 {
                     "type": "Full HD",
-                "livelink":"https://1093384063.cdn.khmer-hd.com/may2FHD/chunks.m3u8"
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "October 16",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+            "teams" : "Leeds Vs Arsenal",
+            "hteam" : "Leeds",
+            "ateam" : "Arsenal",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "October 16",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+            "teams" : "Aston Villa Vs Chelsea",
+            "hteam" : "Aston Villa",
+            "ateam" : "Chelsea",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "October 16",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+            "teams" : "Southampton Vs West Ham",
+            "hteam" : "Southampton",
+            "ateam" : "West Ham",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Laliga",
+            "date": "October 16",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "teams" : "Real Madrid Vs Barcelona",
+            "hteam" : "Real Madrid",
+            "ateam" : "Barcelona",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "October 16",
+            "time": "10:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "teams" : "Liverpool Vs Man City",
+            "hteam" : "Liverpool",
+            "ateam" : "Man City",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Bundesliga",
+            "date": "October 16",
+            "time": "10:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "teams" : "Union Berlin Vs Dortmund",
+            "hteam" : "Union Berlin",
+            "ateam" : "Dortmund",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Serie A",
+            "date": "October 16",
+            "time": "10:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
+            "teams" : "Napoli Vs Bologna",
+            "hteam" : "Napoli",
+            "ateam" : "Bologna",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
                 }
             ]
          }
-
 ]
