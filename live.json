@@ -15,12 +15,12 @@
                 "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1666224567-0-0-cb002dc94fa99152187ea34947fc0851"
                 },
                 {
-                    "type": "English",
-                "livelink":"https://cdn10.footballstreams.top/live/ch4/chunks.m3u8?nimblesessionid=15930002&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMiA2OjMwOjI5IFBNJmhhc2hfdmFsdWU9M0lUWlpSSVNEcWxyZ0lnbUxDd1RLUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjA5Ljk3LjE2Ny4xMjcmc3RybV9sZW49NQ=="
-                },
+                    "type": "English SD",
+                "livelink":"https://saurabh0900000.s3-accelerate.amazonaws.com/falcons2_240.m3u8"
+},
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://saurabh0900000.s3-accelerate.amazonaws.com/falcons2_720.m3u8"
                 }
             ]
          },
@@ -36,16 +36,16 @@
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "SD",
+                    "type": "HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1666225227-0-0-620eb963a87d95a3c4159dbe6a4ac8be"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "SD",
+                "livelink":"https://saurabh0900000.s3-accelerate.amazonaws.com/saints2_240.m3u8"
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://saurabh0900000.s3-accelerate.amazonaws.com/saints2_720.m3u8"
                 }
             ]
          },
@@ -91,11 +91,11 @@
                 },
                 {
                     "type": "English FHD",
-                "livelink":"https://cdn4.footballstreams.top/live/ch3/chunks.m3u8?nimblesessionid=11100284&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMiA2OjM0OjEwIFBNJmhhc2hfdmFsdWU9dHMzVW9OTkVGbE50UEZaZ3hKNjc5dz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjA5Ljk3LjE2Ny4xMjcmc3RybV9sZW49NQ=="
+                "livelink":"http://stat.cdn7-bongakamai.xyz/live/adaptive_bong-4/live/bong-4_480p/chunks.m3u8"
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"http://stat.cdn7-bongakamai.xyz/live/adaptive_bong-4/live/bong-4_480p/chunks.m3u8"
                 }
             ]
          },
@@ -140,12 +140,12 @@
                 "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1666227987-0-0-afcd594040fd915c84731db40c07cde5"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "FHD",
+                "livelink":"https://saurabh0900000.s3-accelerate.amazonaws.com/redzone_1080.m3u8"
                 },
                 {
-                    "type": "Full HD",
-                "livelink":"0"
+                    "type": "250 SD",
+                "livelink":"https://saurabh0900000.s3-accelerate.amazonaws.com/redzone_240.m3u8"
                 }
             ]
          }
