@@ -1,164 +1,176 @@
 [
 {
-           "league": "Premier League",
-            "date": "October 16",
-            "time": "end",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-            "teams" : "Man United Vs Newcastle",
-            "hteam" : "Man United",
-            "ateam" : "Newcastle",
-         "hotmat":"yes",
+           "league": "Laliga",
+            "date": "October 20",
+            "time": "00:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+            "teams" : "Real Sociedad Vs Mallorca",
+            "hteam" : "Real Sociedad",
+            "ateam" : "Mallorca",
+         "hotmat":"no",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-137359.m3u8?auth_key=1665944187-0-0-88354a8327f9aa99b1a7ea3e25ea35a4"
+                "livelink":"0"
                 },
                 {
                     "type": "HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-5356701.m3u8?auth_key=1665945076-0-0-307236b980f13b0cc38ed62f898e526e"
+                "livelink":"0"
                 },
                 {
                     "type": "Full HD",
-                "livelink":"https://sun.meta-scores.com/2a88b661c2/2a88b661c2@720p.m3u8"
+                "livelink":"0"
                 }
             ]
          },
 {
            "league": "Premier League",
-            "date": "October 16",
-            "time": "end",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "teams" : "Leeds Vs Arsenal",
-            "hteam" : "Leeds",
-            "ateam" : "Arsenal",
+            "date": "October 20",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+            "teams" : "Liverpool Vs West Ham",
+            "hteam" : "Liverpool",
+            "ateam" : "West Ham",
          "hotmat":"yes",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-120778.m3u8?auth_key=1665945747-0-0-0956008c32de522cd1007cfddad727fe"
+                "livelink":"0"
                 },
                 {
                     "type": "HD",
-                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may2SD/may2SD@456.m3u8"
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
                 }
-                
             ]
          },
 {
            "league": "Premier League",
-            "date": "October 16",
-            "time": "end",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+            "date": "October 20",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "teams" : "Aston Villa Vs Chelsea",
-            "hteam" : "Aston Villa",
+            "teams" : "Brentford Vs Chelsea",
+            "hteam" : "Brentford",
             "ateam" : "Chelsea",
          "hotmat":"yes",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1665945327-0-0-eddfa53abb1ba069eec2a5a604a80c2b"
+                "livelink":"0"
                 },
                 {
                     "type": "HD",
-                "livelink":"http://P135@45.86.191.47:8081/live/ch3/chunks.m3u8"
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
                 }
-                
             ]
          },
 {
            "league": "Premier League",
-            "date": "October 16",
-            "time": "end",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-            "teams" : "Southampton Vs West Ham",
-            "hteam" : "Southampton",
-            "ateam" : "West Ham",
+            "date": "October 20",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
+            "teams" : "AFC Bournemouth Vs Southampton",
+            "hteam" : "AFC Bournemouth",
+            "ateam" : "Southampton",
          "hotmat":"no",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-187579.m3u8?auth_key=1665946167-0-0-8f19dd7bf6351928a7402941339aedd0"
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
                 }
-                
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "October 20",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+            "teams" : "Newcastle United Vs Everton",
+            "hteam" : "Newcastle United",
+            "ateam" : "Everton",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
             ]
          },
 {
            "league": "Laliga",
-            "date": "October 16",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-            "teams" : "Real Madrid Vs Barcelona",
-            "hteam" : "Real Madrid",
-            "ateam" : "Barcelona",
+            "date": "October 20",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "teams" : "Elche Vs Real Madrid",
+            "hteam" : "Elche",
+            "ateam" : "Real Madrid",
          "hotmat":"yes",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1665950667-0-0-eaa53ce386ba29b62eb4ddd7732aec10"
+                "livelink":"0"
                 },
                 {
                     "type": "HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1665950236-0-0-a2c8065276a898fc8c8ac951e2c0b014"
+                "livelink":"0"
                 },
                 {
-                    "type": "SHD",
-                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may3SD/may3SD@456.m3u8"
+                    "type": "Full HD",
+                "livelink":"0"
                 }
             ]
          },
 {
            "league": "Premier League",
-            "date": "October 16",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-            "teams" : "Liverpool Vs Man City",
-            "hteam" : "Liverpool",
-            "ateam" : "Man City",
-         "hotmat":"no",
+            "date": "October 20",
+            "time": "1:45 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+            "teams" : "Man United Vs Tottenham",
+            "hteam" : "Man United",
+            "ateam" : "Tottenham",
+         "hotmat":"yes",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1665954807-0-0-be8775cc24a99bc4d093e02ca28155a0"
+                "livelink":"0"
                 },
                 {
                     "type": "HD",
-                "livelink":"https://jq9sucdqmflivcf.vcdn.com.vn/may1SD/may1SD@456.m3u8"
+                "livelink":"0"
                 },
                 {
                     "type": "Full HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-5356701.m3u8?auth_key=1665954136-0-0-395e31211ff1679f554bc542aad81ccd"
-                }
-            ]
-         },
-
-{
-           "league": "Serie A",
-            "date": "October 16",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-            "teams" : "Napoli Vs Bologna",
-            "hteam" : "Napoli",
-            "ateam" : "Bologna",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1665955576-0-0-a147d11508d0f3c5a811a8b069427181"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1665955576-0-0-a147d11508d0f3c5a811a8b069427181"
+                "livelink":"0"
                 }
             ]
          }
