@@ -65,8 +65,8 @@
                 "livelink":"https://pullalilive.livnvess.com/live/stream-100684_ld.m3u8?auth_key=1666224147-0-0-742b42e99615429ac91acbb7155f93c0"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "English",
+                "livelink":"https://cdn7.footballstreams.top/live/ch1/chunks.m3u8?nimblesessionid=15892401&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMiA2OjMxOjM4IFBNJmhhc2hfdmFsdWU9dDZCUG5HaDlUUWtHa3pDOHVGbC9xdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjA5Ljk3LjE2Ny4xMjcmc3RybV9sZW49NQ=="
                 },
                 {
                     "type": "Full HD",
