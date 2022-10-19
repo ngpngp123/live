@@ -146,6 +146,11 @@
                 {
                     "type": "250 SD",
                 "livelink":"https://saurabh0900000.s3-accelerate.amazonaws.com/redzone_240.m3u8"
+                },
+{
+                    "type": "FHD",
+                "livelink":"https://cdn1.footballstreams.top/live/ch5/chunks.m3u8?nimblesessionid=7227747&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMiA3OjQyOjAxIFBNJmhhc2hfdmFsdWU9L0poTVBhRzYxU2MzN0ZXRmpORUc3dz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjA5Ljk3LjE2Ny4xMjcmc3RybV9sZW49NQ=="
+         
                 }
             ]
          }
