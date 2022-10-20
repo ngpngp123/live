@@ -1,72 +1,147 @@
 [
 {
            "league": "Premier League",
-            "date": "October 20",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-            "teams" : "Liverpool Vs West Ham",
-            "hteam" : "Liverpool",
-            "ateam" : "West Ham",
+            "date": "October 22",
+            "time": "6:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "teams" : "Nottingham Vs Liverpool",
+            "hteam" : "Nottingham",
+            "ateam" : "Liverpool",
          "hotmat":"yes",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1666224567-0-0-cb002dc94fa99152187ea34947fc0851"
+                "livelink":"0"
                 },
-                {
-                    "type": "English SD",
-                "livelink":"https://saurabh0900000.s3-accelerate.amazonaws.com/falcons2_240.m3u8"
-},
-                {
-                    "type": "Full HD",
-                "livelink":"https://saurabh0900000.s3-accelerate.amazonaws.com/falcons2_720.m3u8"
-                }
-            ]
-         },
-{
-           "league": "Premier League",
-            "date": "October 20",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "teams" : "Brentford Vs Chelsea",
-            "hteam" : "Brentford",
-            "ateam" : "Chelsea",
-         "hotmat":"yes",
-            "link":[
                 {
                     "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1666225227-0-0-620eb963a87d95a3c4159dbe6a4ac8be"
-                },
-                {
-                    "type": "SD",
-                "livelink":"https://saurabh0900000.s3-accelerate.amazonaws.com/saints2_240.m3u8"
+                "livelink":"0"
                 },
                 {
                     "type": "Full HD",
-                "livelink":"https://saurabh0900000.s3-accelerate.amazonaws.com/saints2_720.m3u8"
+                "livelink":"0"
                 }
             ]
          },
 {
-           "league": "Premier League",
-            "date": "October 20",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
-            "teams" : "AFC Bournemouth Vs Southampton",
-            "hteam" : "AFC Bournemouth",
-            "ateam" : "Southampton",
+           "league": "Laliga",
+            "date": "October 22",
+            "time": "6:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
+            "teams" : "Rayo Vallecano Vs Cadiz",
+            "hteam" : "Rayo Vallecano",
+            "ateam" : "Cadiz",
          "hotmat":"no",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-100684_ld.m3u8?auth_key=1666224147-0-0-742b42e99615429ac91acbb7155f93c0"
+                "livelink":"0"
                 },
                 {
-                    "type": "English",
-                "livelink":"https://cdn7.footballstreams.top/live/ch1/chunks.m3u8?nimblesessionid=15892401&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMiA2OjMxOjM4IFBNJmhhc2hfdmFsdWU9dDZCUG5HaDlUUWtHa3pDOHVGbC9xdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjA5Ljk3LjE2Ny4xMjcmc3RybV9sZW49NQ=="
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Serie A",
+            "date": "October 22",
+            "time": "7:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
+            "teams" : "Salernitana Vs Spezia",
+            "hteam" : "Salernitana",
+            "ateam" : "Spezia",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Bundesliga",
+            "date": "October 22",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+            "teams" : "TSG Hoffenheim Vs Bayern München",
+            "hteam" : "TSG Hoffenheim",
+            "ateam" : "Bayern München",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Bundesliga",
+            "date": "October 22",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
+            "teams" : "Borussia Dortmund Vs VfB Stuttgart",
+            "hteam" : "Borussia Dortmund",
+            "ateam" : "VfB Stuttgart",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Bundesliga",
+            "date": "October 22",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
+            "teams" : "SC Freiburg Vs Werder Bremen",
+            "hteam" : "SC Freiburg",
+            "ateam" : "Werder Bremen",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
                 },
                 {
                     "type": "Full HD",
@@ -76,81 +151,276 @@
          },
 {
            "league": "Premier League",
-            "date": "October 20",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-            "teams" : "Newcastle United Vs Everton",
-            "hteam" : "Newcastle United",
-            "ateam" : "Everton",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-120778.m3u8?auth_key=1666224387-0-0-d89cea67cb1f8f9513d487043fda4beb"
-                },
-                {
-                    "type": "English FHD",
-                "livelink":"http://stat.cdn7-bongakamai.xyz/live/adaptive_bong-4/live/bong-4_480p/chunks.m3u8"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"http://stat.cdn7-bongakamai.xyz/live/adaptive_bong-4/live/bong-4_480p/chunks.m3u8"
-                }
-            ]
-         },
-{
-           "league": "Laliga",
-            "date": "October 20",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "teams" : "Elche Vs Real Madrid",
-            "hteam" : "Elche",
-            "ateam" : "Real Madrid",
+            "date": "October 22",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+            "teams" : "Man City Vs Brighton",
+            "hteam" : "Man City",
+            "ateam" : "Brighton",
          "hotmat":"yes",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1666227447-0-0-4497b1eb277238b24f5b30b87970c803"
+                "livelink":"0"
                 },
                 {
                     "type": "HD",
-                "livelink":"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b300000.m3u8"
+                "livelink":"0"
                 },
                 {
                     "type": "Full HD",
-                "livelink":"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8"
+                "livelink":"0"
                 }
             ]
          },
 {
            "league": "Premier League",
-            "date": "October 20",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-            "teams" : "Man United Vs Tottenham",
-            "hteam" : "Man United",
-            "ateam" : "Tottenham",
+            "date": "October 22",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+            "teams" : "Everton Vs Crystal Palace",
+            "hteam" : "Everton",
+            "ateam" : "Crystal Palace",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Laliga",
+            "date": "October 22",
+            "time": "8:45 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+            "teams" : "Real Valladolid Vs Real Sociedad",
+            "hteam" : "Real Valladolid",
+            "ateam" : "Real Sociedad",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Ligue 1",
+            "date": "October 22",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+            "teams" : "Montpellier Vs Lyon",
+            "hteam" : "Montpellier",
+            "ateam" : "Lyon",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Serie A",
+            "date": "October 22",
+            "time": "10:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
+            "teams" : "Milan Vs Monza",
+            "hteam" : "Milan",
+            "ateam" : "Monza",
          "hotmat":"yes",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1666227987-0-0-afcd594040fd915c84731db40c07cde5"
+                "livelink":"0"
                 },
                 {
-                    "type": "FHD",
-                "livelink":"https://saurabh0900000.s3-accelerate.amazonaws.com/redzone_1080.m3u8"
+                    "type": "HD",
+                "livelink":"0"
                 },
                 {
-                    "type": "250 SD",
-                "livelink":"https://saurabh0900000.s3-accelerate.amazonaws.com/redzone_240.m3u8"
-                },
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
 {
-                    "type": "FHD",
-                "livelink":"https://cdn1.footballstreams.top/live/ch5/chunks.m3u8?nimblesessionid=7227747&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMiA3OjQyOjAxIFBNJmhhc2hfdmFsdWU9L0poTVBhRzYxU2MzN0ZXRmpORUc3dz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjA5Ljk3LjE2Ny4xMjcmc3RybV9sZW49NQ=="
-         
+           "league": "Premier League",
+            "date": "October 22",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "teams" : "Chelsea Vs Man United",
+            "hteam" : "Chelsea",
+            "ateam" : "Man United",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Laliga",
+            "date": "October 22",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+            "teams" : "Valencia Vs Mallorca",
+            "hteam" : "Valencia",
+            "ateam" : "Mallorca",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Bundesliga",
+            "date": "October 22",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
+            "teams" : "M'Gladbach Vs Frankfurt",
+            "hteam" : "M'Gladbach",
+            "ateam" : "Frankfurt",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Serie A",
+            "date": "October 23",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "teams" : "Fiorentina Vs Inter",
+            "hteam" : "Fiorentina",
+            "ateam" : "Inter",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Real Madrid",
+            "date": "October 23",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+            "teams" : "Real Madrid Vs Sevilla",
+            "hteam" : "Real Madrid",
+            "ateam" : "Sevilla",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Ligue 1",
+            "date": "October 23",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
+            "teams" : "Marseille Vs Lens",
+            "hteam" : "Marseille",
+            "ateam" : "Lens",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
                 }
             ]
          }
