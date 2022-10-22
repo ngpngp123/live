@@ -41,12 +41,12 @@
                 "livelink":"https://pullalilive.livnvess.com/live/stream-113906.m3u8?auth_key=1666459947-0-0-c43af94dff95de82d46a233ed2d849c0"
                 },
                 {
-                    "type": " Wait HD",
-                "livelink":"0"
+                    "type": "SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/chunklist.m3u8"
                 },
                 {
-                    "type": "မရသေးHD",
-                "livelink":"0"
+                    "type": "China",
+                "livelink":""
                 }
             ]
          },
