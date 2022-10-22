@@ -209,8 +209,8 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1666471097-0-0-576e6e89fbc67e98f45621e0fe00cd42"
                 },
                 {
-                    "type": "Wait HD",
-                "livelink":"0"
+                    "type": "HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-120778.m3u8?auth_key=1666471708-0-0-9010d6cac14cf60925c4d002bcea6c3f"
                 }
                 
             ]
