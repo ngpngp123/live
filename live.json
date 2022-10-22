@@ -74,6 +74,11 @@
                 {
                     "type": "FHD(ENG)",
                 "livelink":"https://rhwa9kp20aia.s3-accelerate.amazonaws.com/manu_720p60.m3u8"
+                },
+{
+                    "type": "SDD",
+                "livelink":"https://hls1.yuanzhi.org.cn/live/H1068353.m3u8?txSecret=23f34c9d89e6ebc7e30fdd0072e49b0a&txTime=63555FDF&_s=stream"
+         
                 }
             ]
          },
@@ -92,6 +97,11 @@
                 {
                     "type": "HD",
                 "livelink":"https://sun.meta-scores.com/7a2a231654/7a2a231654@720p.m3u8"
+                },
+{
+                    "type": "720 HD",
+                "livelink":"https://v.stnye.cc/live/https://pullalilive.livnvess.com/live/stream-104776.m3u8?auth_key=1666476507-0-0-e9a4dac44e1b9bed2abdd392b3455afb"
+         
                 }
             ]
          },
@@ -109,6 +119,11 @@
                 {
                     "type": "HD",
                 "livelink":"https://sun.meta-scores.com/701d65c6f3/701d65c6f3@720p.m3u8"
+                },
+{
+                    "type": "720 HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115447.m3u8?auth_key=1666476928-0-0-8274b6a56a3ae49bac3e4801ced8be92"
+         
                 }
             ]
          },
