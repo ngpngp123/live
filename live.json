@@ -180,17 +180,11 @@
             "ateam" : "Real Sociedad",
          "hotmat":"no",
             "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
+                
                 {
                     "type": "HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1666468517-0-0-fca05a3c9873a8e7802a7a06a9dabb00"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                
                 }
             ]
          },
