@@ -28,7 +28,7 @@
 {
            "league": "Laliga",
             "date": "October 22",
-            "time": "6:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
             "teams" : "Rayo Vallecano Vs Cadiz",
@@ -37,15 +37,15 @@
          "hotmat":"no",
             "link":[
                 {
-                    "type": "SD",
+                    "type": "Soco",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-113906.m3u8?auth_key=1666459947-0-0-c43af94dff95de82d46a233ed2d849c0"
+                },
+                {
+                    "type": " Wait HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
+                    "type": "မရသေးHD",
                 "livelink":"0"
                 }
             ]
