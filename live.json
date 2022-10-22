@@ -1,25 +1,5 @@
 [
-           {
-           "league": "UFC LIVE",
-            "date": "Live Now",
-            "time": "live",
-            "himg": "https://pbs.twimg.com/profile_images/963434650210357248/torW1jHV_400x400.jpg",
-            "aimg": "https://pbs.twimg.com/profile_images/963434650210357248/torW1jHV_400x400.jpg",
-            "teams" : "Nottingham Vs Liverpool",
-            "hteam" : "UFC",
-            "ateam" : "LIVE",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "AUTO",
-                "livelink":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666422585/ei/2UJTY_3jFKLnz7sP5ZyrYA/ip/202.165.91.73/id/D7aub8CsFuk.1~45367092/source/yt_live_broadcast/requiressl/yes/tx/24287370/txs/24287370%2C24287371%2C24287372/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKYyrM4JkGAb_6JNkGA3yPRsoXTb4C8o63oTAsHLLkO7AiEAt1IfcEGoFkKvr6VeLlPIUfuBWQEWG3szmjx4uQH37UM%3D/file/index.m3u8"
-                },
-                        {
-                    "type": "HD",
-                "livelink":"http://quality-restream.com:8080/googleiptvex/icuSCHionCuLovoLEFeR/82628"
-                }
-            ]
-         },
+     
 {
            "league": "Premier League",
             "date": "October 22",
