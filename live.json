@@ -76,7 +76,7 @@
 {
            "league": "Premier League",
             "date": "October 22",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "teams" : "Chelsea Vs Man United",
@@ -90,7 +90,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://sun.meta-scores.com/b11f67fdb2/b11f67fdb2@720p.m3u8"
                 },
                 {
                     "type": "Full HD",
