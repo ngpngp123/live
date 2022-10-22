@@ -1,24 +1,5 @@
 [
      
-
-{
-           "league": "Serie A",
-            "date": "October 22",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
-            "teams" : "Salernitana Vs Spezia",
-            "hteam" : "Salernitana",
-            "ateam" : "Spezia",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-100684.m3u8?auth_key=1666463787-0-0-f6357eae5c78dc9805d93f1c209b03bf"
-                }
-                
-            ]
-         },
 {
            "league": "Bundesliga",
             "date": "October 22",
@@ -82,7 +63,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may7/chunklist.m3u8"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1666472068-0-0-6c3e487e0cda1f45fd98bf102d35b2c3"
                 
                 }
             ]
