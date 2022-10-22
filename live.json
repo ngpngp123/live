@@ -153,6 +153,11 @@
                     "type": "HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1666467628-0-0-2397758ab91b35fcb1f797f20310080e"
                 },
+{
+                    "type": "Eng HD",
+                "livelink":"http://nbvcop.azureedge.net/scripts/NTcwNw==/1080p.m3u8"
+         
+                },
                 {
                     "type": "China",
                 "livelink":"https://yypull.gdsth.com/live/stream-279875.m3u8?auth_key=1666467497-0-0-f9cb697ad939f228d6caefc918ea93ad"
@@ -177,6 +182,11 @@
                 {
                     "type": "Soco HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-201986.m3u8?auth_key=1666468048-0-0-455d9b18c7ca93789580c85d0980357c"
+                },
+{
+                    "type": "720 HD",
+                "livelink":"https://sun.meta-scores.com/d7d3d5937c/d7d3d5937c@720p.m3u8"
+         
                 },
                 {
                     "type": "China HD",
