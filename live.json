@@ -180,6 +180,11 @@
             "ateam" : "Real Sociedad",
          "hotmat":"no",
             "link":[
+                  {
+                    "type": "480",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-106737.m3u8?auth_key=1666469788-0-0-392b4bcb0021ec95461c6bc73055acee"
+                
+                },
                 
                 {
                     "type": "HD",
