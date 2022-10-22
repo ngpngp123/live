@@ -1,30 +1,5 @@
 [
 
-
-{
-           "league": "Laliga",
-            "date": "October 22",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-            "teams" : "Real Valladolid Vs Real Sociedad",
-            "hteam" : "Real Valladolid",
-            "ateam" : "Real Sociedad",
-         "hotmat":"no",
-            "link":[
-                  {
-                    "type": "480",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-106737.m3u8?auth_key=1666469788-0-0-392b4bcb0021ec95461c6bc73055acee"
-                
-                },
-                
-                {
-                    "type": "HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1666468517-0-0-fca05a3c9873a8e7802a7a06a9dabb00"
-                
-                }
-            ]
-         },
 {
            "league": "Ligue 1",
             "date": "October 22",
@@ -105,7 +80,7 @@
 {
            "league": "Laliga",
             "date": "October 22",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
             "teams" : "Valencia Vs Mallorca",
@@ -123,7 +98,7 @@
 {
            "league": "Bundesliga",
             "date": "October 22",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
             "teams" : "M'Gladbach Vs Frankfurt",
