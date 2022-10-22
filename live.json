@@ -1,27 +1,6 @@
 [
 
-{
-           "league": "Ligue 1",
-            "date": "October 22",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-            "teams" : "Montpellier Vs Lyon",
-            "hteam" : "Montpellier",
-            "ateam" : "Lyon",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1666471097-0-0-576e6e89fbc67e98f45621e0fe00cd42"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-120778.m3u8?auth_key=1666471708-0-0-9010d6cac14cf60925c4d002bcea6c3f"
-                }
-                
-            ]
-         },
+
 {
            "league": "Serie A",
             "date": "October 22",
@@ -63,10 +42,7 @@
                     "type": "SD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-100684.m3u8?auth_key=1666475667-0-0-04197905d2d27f965d92e9c329d0576c"
                 },
-                         {
-                    "type": "SKY HD",
-                "livelink":"https://11.calcio02.pw:5866/hls/united.m3u8"
-                },
+              
                 {
                     "type": "HD",
                 "livelink":"https://sun.meta-scores.com/b11f67fdb2/b11f67fdb2@720p.m3u8"
@@ -74,17 +50,6 @@
                 {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1666476257-0-0-278dba0e65c45be48de6a26f664d15f3"
-                },
-{
-                    "type": "English HD",
-                "livelink":"https://cdn2.footballstreams.top/live/ch1/chunks.m3u8?nimblesessionid=7315065&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMiA0OjE2OjM3IFBNJmhhc2hfdmFsdWU9Q2lNY251eHJvQURhK1o0L0lGZTROUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjA5Ljk3LjE2Ny4xMjcmc3RybV9sZW49NQ=="
-         
-                },
-              
-{
-                    "type": "SDD",
-                "livelink":"https://hls1.yuanzhi.org.cn/live/H1068353.m3u8?txSecret=23f34c9d89e6ebc7e30fdd0072e49b0a&txTime=63555FDF&_s=stream"
-         
                 }
             ]
          },
