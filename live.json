@@ -1,65 +1,6 @@
 [
 
-{
-           "league": "Premier League",
-            "date": "October 22",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-            "teams" : "Man City Vs Brighton",
-            "hteam" : "Man City",
-            "ateam" : "Brighton",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1666467628-0-0-2397758ab91b35fcb1f797f20310080e"
-                },
-{
-                    "type": "Eng HD",
-                "livelink":"http://nbvcop.azureedge.net/scripts/NTcwNw==/1080p.m3u8"
-         
-                },
-                {
-                    "type": "China",
-                "livelink":"https://yypull.gdsth.com/live/stream-279875.m3u8?auth_key=1666467497-0-0-f9cb697ad939f228d6caefc918ea93ad"
-                }
-            ]
-         },
-{
-           "league": "Premier League",
-            "date": "October 22",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-            "teams" : "Everton Vs Crystal Palace",
-            "hteam" : "Everton",
-            "ateam" : "Crystal Palace",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-201986.m3u8?auth_key=1666468048-0-0-455d9b18c7ca93789580c85d0980357c"
-                },
-{
-                    "type": "720 HD",
-                "livelink":"https://sun.meta-scores.com/d7d3d5937c/d7d3d5937c@720p.m3u8"
-         
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-279875.m3u8?auth_key=1666467497-0-0-f9cb697ad939f228d6caefc918ea93ad"
-                }
-            ]
-         },
+
 {
            "league": "Laliga",
             "date": "October 22",
@@ -117,6 +58,10 @@
             "ateam" : "Monza",
          "hotmat":"yes",
             "link":[
+                       {
+                    "type": "Full HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-160430.m3u8?auth_key=1666475248-0-0-c65fbbe499509e132ed6ca36309adc43"
+                },
                 {
                     "type": "Soco",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-160430.m3u8?auth_key=1666474887-0-0-90222e5c136192b7ed8794f3a9b38bdd"
@@ -124,11 +69,8 @@
                 {
                     "type": "HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-160430.m3u8?auth_key=1666474767-0-0-24f01b2612127d0fbf46e411ff49ab9b"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
                 }
+                
             ]
          },
 {
@@ -144,7 +86,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-100684.m3u8?auth_key=1666475667-0-0-04197905d2d27f965d92e9c329d0576c"
                 },
                 {
                     "type": "HD",
