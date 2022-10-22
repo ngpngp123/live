@@ -63,6 +63,10 @@
                     "type": "SD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-100684.m3u8?auth_key=1666475667-0-0-04197905d2d27f965d92e9c329d0576c"
                 },
+                         {
+                    "type": "SD 2",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8"
+                },
                 {
                     "type": "HD",
                 "livelink":"https://sun.meta-scores.com/b11f67fdb2/b11f67fdb2@720p.m3u8"
@@ -71,10 +75,7 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1666476257-0-0-278dba0e65c45be48de6a26f664d15f3"
                 },
-                {
-                    "type": "FHD(ENG)",
-                "livelink":"https://rhwa9kp20aia.s3-accelerate.amazonaws.com/manu_720p60.m3u8"
-                },
+              
 {
                     "type": "SDD",
                 "livelink":"https://hls1.yuanzhi.org.cn/live/H1068353.m3u8?txSecret=23f34c9d89e6ebc7e30fdd0072e49b0a&txTime=63555FDF&_s=stream"
