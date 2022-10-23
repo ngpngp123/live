@@ -112,11 +112,16 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-190631_ld.m3u8?auth_key=1666550788-0-0-0535f9a11b6d3bbbcd0a7dae6f8db52f"
                 },
                 {
                     "type": "HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-306929.m3u8?auth_key=1666550117-0-0-8b8d58293ca9ca782077795e9a76d1b4"
+                },
+{
+                    "type": "SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8"
+         
                 },
                 {
                     "type": "Full HD",
