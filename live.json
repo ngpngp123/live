@@ -185,7 +185,7 @@
 {
            "league": "Laliga",
             "date": "October 23",
-            "time": "8:45 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
             "teams" : "Real Betis Vs Atletico Madrid",
@@ -195,7 +195,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-116784_ld.m3u8?auth_key=1666556008-0-0-06bb9b738e8a60b2a228fd7414e64ce4"
                 },
                 {
                     "type": "HD",
