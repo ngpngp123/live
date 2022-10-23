@@ -49,31 +49,7 @@
                 }
             ]
          },
-{
-           "league": "",
-            "date": "October ",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
+
 {
            "league": "Laliga",
             "date": "October 23",
