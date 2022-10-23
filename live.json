@@ -85,12 +85,12 @@
                 "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1666548868-0-0-f27760aba771cccc19656923fb80ec6f"
                 },
                 {
-                    "type": "Wait HD",
-                "livelink":"0"
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1666549637-0-0-932e7a707969d73c05859c77ccfdd79b"
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://cdn10.footballstreams.top/live/ch4/playlist.m3u8"
                 }
             ]
          },
@@ -132,7 +132,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"Soco"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1666549948-0-0-fc9d693e8ba451da9d06cfad4d0054b1"
                 },
                 {
                     "type": "HD",
@@ -161,11 +161,11 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-306929.m3u8?auth_key=1666550117-0-0-8b8d58293ca9ca782077795e9a76d1b4"
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://cdn4.footballstreams.top/live/ch1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMiAxMjo0NDowNiBQTSZoYXNoX3ZhbHVlPUxoZEoyc25zSktPVmJj"
                 }
             ]
          },
