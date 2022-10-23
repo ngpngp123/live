@@ -43,6 +43,11 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1666549637-0-0-932e7a707969d73c05859c77ccfdd79b"
                 },
+{
+                    "type": "480 HD",
+                "livelink":"https://d1huo96hgz8id2.cloudfront.net/out/v1/8e14def0a2934ca3b424fa78a6ad1360/index_3.m3u8"
+         
+                },
                 {
                     "type": "Full HD",
                 "livelink":"https://cdn10.footballstreams.top/live/ch4/playlist.m3u8"
