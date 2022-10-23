@@ -97,7 +97,7 @@
 {
            "league": "Premier League",
             "date": "October 23",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
             "teams" : "Wolves Vs Leicester",
@@ -106,8 +106,8 @@
          "hotmat":"no",
             "link":[
                 {
-                    "type": "SD",
-                "livelink":"0"
+                    "type": "Soco",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-137359.m3u8?auth_key=1666550248-0-0-47686db2fcf6f3f6390ca917584f8040"
                 },
                 {
                     "type": "HD",
