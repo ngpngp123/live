@@ -16,11 +16,11 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://hls1.yuanzhi.org.cn/live/H1070840.m3u8?txSecret=012ec1b2a2d7995c9f36764bc6595093&txTime=63565DEE&_s=stream"
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://moon.meta-scores.com/295eb0a4ab_fhd2/295eb0a4ab_fhd2@720p.m3u8"
                 }
             ]
          },
