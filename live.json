@@ -107,7 +107,7 @@
 {
            "league": "Laliga",
             "date": "October 23",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
             "teams" : "Villarreal Vs Almeria",
@@ -117,7 +117,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/chunklist.m3u8"
                 },
                 {
                     "type": "HD",
