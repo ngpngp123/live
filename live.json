@@ -122,7 +122,7 @@
 {
            "league": "Premier League",
             "date": "October 23",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "teams" : "Leeds United Vs Fulham",
@@ -132,7 +132,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"Soco"
                 },
                 {
                     "type": "HD",
