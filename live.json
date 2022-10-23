@@ -80,7 +80,7 @@
 {
            "league": "Bundesliga",
             "date": "October 23",
-            "time": "10:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
             "teams" : "Hertha BSC Vs Schalke 04",
@@ -90,7 +90,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1666558937-0-0-2a9e80413bbc9cae411024f6483b0b6c"
                 },
                 {
                     "type": "HD",
