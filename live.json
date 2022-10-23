@@ -121,7 +121,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://api.livesportstream.club/playlist/ch4/index.m3u8"
                 },
                 {
                     "type": "Full HD",
