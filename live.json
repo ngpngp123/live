@@ -1,66 +1,13 @@
 [
-
-
-
 {
            "league": "Serie A",
             "date": "October 23",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-            "teams" : "Fiorentina Vs Inter",
-            "hteam" : "Fiorentina",
-            "ateam" : "Inter",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1666483757-0-0-263f11af43b09598db08a014f1dd3fb6"
-                },
-                {
-                    "type": "soco D",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1666485327-0-0-35d6d331dbecd2a35ee00aad56e6ea83"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
-{
-           "league": "Real Madrid",
-            "date": "October 23",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-            "teams" : "Real Madrid Vs Sevilla",
-            "hteam" : "Real Madrid",
-            "ateam" : "Sevilla",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1666484897-0-0-11e0e064c376bd8bdafb86cac3ac6b91"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
-{
-           "league": "Ligue 1",
-            "date": "October 23",
-            "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
-            "teams" : "Marseille Vs Lens",
-            "hteam" : "Marseille",
-            "ateam" : "Lens",
+            "time": "5:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
+            "teams" : "Udinese Vs Torino",
+            "hteam" : "Udinese",
+            "ateam" : "Torino",
          "hotmat":"no",
             "link":[
                 {
