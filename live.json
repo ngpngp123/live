@@ -39,10 +39,7 @@
                     "type": "Eng",
                 "livelink":"https://11.calcio02.pw:5866/hls/angers.m3u8"
                 },
-                {
-                    "type": "HD",
-                "livelink":""
-                },
+                
                 {
                     "type": "Full HD",
                 "livelink":"https://moon.meta-scores.com/f694a5df29/f694a5df29@720p.m3u8"
@@ -53,7 +50,7 @@
 {
            "league": "Laliga",
             "date": "October 23",
-            "time": "6:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
             "teams" : "Espanyol Vs Elche",
@@ -62,16 +59,13 @@
          "hotmat":"no",
             "link":[
                 {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://11.calcio02.pw:5866/hls/laliga.m3u8"
                 },
+                
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://livehdl.ltjuq.top/ofmatch/HD903251.flv"
                 }
             ]
          },
