@@ -72,8 +72,12 @@
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
                 {
-                    "type": "Soco",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1666548868-0-0-f27760aba771cccc19656923fb80ec6f"
+                    "type": "Engo",
+                "livelink":"http://sea.azureedge.net/scripts/NTc0MA==/1080p.m3u8"
+                },
+{
+                    "type": "Eng Soco",
+                "livelink":"https://cdn9.footballstreams.top/live/ch4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMiAzOjEyOjU4IFBNJmhhc2hfdmFsdWU9WEpZR1BLblVhWVpqUSsw"
                 }
             ]
          },
