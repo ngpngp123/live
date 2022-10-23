@@ -55,7 +55,7 @@
 {
            "league": "Premier League",
             "date": "October 23",
-            "time": "10:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "teams" : "Tottenham Hotspur Vs Newcastle United",
@@ -65,7 +65,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1666558757-0-0-4068f178854fbe24f438478e2592299c"
                 },
                 {
                     "type": "HD",
