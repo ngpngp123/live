@@ -1,14 +1,14 @@
 [
 {
            "league": "Champion League",
-            "date": "October 25",
+            "date": "October 27",
             "time": "11:15 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "teams" : "Salzburg Vs Chelsea",
-            "hteam" : "Salzburg",
-            "ateam" : "Chelsea",
-         "hotmat":"yes",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6033_small.png",
+            "teams" : "Inter Vs Viktoria Plzen",
+            "hteam" : "Inter",
+            "ateam" : "Viktoria Plzen",
+         "hotmat":"no",
             "link":[
                 {
                     "type": "SD",
@@ -26,14 +26,39 @@
          },
 {
            "league": "Champion League",
-            "date": "October 25",
+            "date": "October 26",
             "time": "11:15 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8391_small.png",
-            "teams" : "Sevilla Vs FC København",
-            "hteam" : "Sevilla",
-            "ateam" : "FC København",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8342_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",
+            "teams" : "Club Brugge Vs FC Porto",
+            "hteam" : "Club Brugge",
+            "ateam" : "FC Porto",
          "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Champion League",
+            "date": "October 27",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "teams" : "Ajax Vs Liverpool",
+            "hteam" : "Ajax",
+            "ateam" : "Liverpool",
+         "hotmat":"yes",
             "link":[
                 {
                     "type": "SD",
