@@ -51,13 +51,13 @@
          },
 {
            "league": "Champion League",
-            "date": "October 26",
+            "date": "October 27",
             "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-            "teams" : "Dortmund Vs Man City",
-            "hteam" : "Dortmund",
-            "ateam" : "Man City",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+            "teams" : "Barcelona Vs Bayern München",
+            "hteam" : "Barcelona",
+            "ateam" : "Bayern München",
          "hotmat":"yes",
             "link":[
                 {
@@ -76,13 +76,13 @@
          },
 {
            "league": "Champion League",
-            "date": "October 26",
+            "date": "October 27",
             "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "teams" : "RB Leipzig Vs Real Madrid",
-            "hteam" : "RB Leipzig",
-            "ateam" : "Real Madrid",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+            "teams" : "AT Madrid Vs Leverkusen",
+            "hteam" : "AT Madrid",
+            "ateam" : "Leverkusen",
          "hotmat":"yes",
             "link":[
                 {
@@ -101,13 +101,13 @@
          },
 {
            "league": "Champion League",
-            "date": "October 26",
+            "date": "October 27",
             "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10156_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-            "teams" : "Dinamo Zagreb Vs Milan",
-            "hteam" : "Dinamo Zagreb",
-            "ateam" : "Milan",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
+            "teams" : "Frankfurt Vs Marseille",
+            "hteam" : "Frankfurt",
+            "ateam" : "Marseille",
          "hotmat":"no",
             "link":[
                 {
@@ -126,14 +126,14 @@
          },
 {
            "league": "Champion League",
-            "date": "October 26",
+            "date": "October 27",
             "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10185_small.png",
-            "teams" : "PSG Vs Maccabi Haifa",
-            "hteam" : "PSG",
-            "ateam" : "Maccabi Haifa",
-         "hotmat":"yes",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8548_small.png",
+            "teams" : "Napoli Vs Rangers",
+            "hteam" : "Napoli",
+            "ateam" : "Rangers",
+         "hotmat":"no",
             "link":[
                 {
                     "type": "SD",
@@ -151,14 +151,14 @@
          },
 {
            "league": "Champion League",
-            "date": "October 26",
+            "date": "October 27",
             "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-            "teams" : "Benfica Vs Juventus",
-            "hteam" : "Benfica",
-            "ateam" : "Juventus",
-         "hotmat":"yes",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
+            "teams" : "Tottenham Vs Sporting CP",
+            "hteam" : "Tottenham",
+            "ateam" : "Sporting CP",
+         "hotmat":"no",
             "link":[
                 {
                     "type": "SD",
