@@ -68,56 +68,7 @@
                 {
                     "type": "HD",
                 "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001666889241-0-0-c090b42547fc59096913bec816598443"
-                }
-            ]
-         },
-{
-           "league": "Europa League",
-            "date": "October 27",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8695_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-            "teams" : "Fenerbahçe Vs Rennes",
-            "hteam" : "Fenerbahçe",
-            "ateam" : "Rennes",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1666909458-0-0-056e8f278306e77b971b413640212fa9"
-                },
-             
-                {
-                    "type": "HD",
-                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001666889143-0-0-fd01e924ed69e1c1e3cbea4011953577"
-                }
-            ]
-         },
-{
-           "league": "Europa League",
-            "date": "October 27",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8113_small.png",
-            "teams" : "Lazio Vs Midtjylland",
-            "hteam" : "Lazio",
-            "ateam" : "Midtjylland",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8?auth_key=3000001666890272-0-0-0d65b3f85d1780a7e742d4dbd8e31b42"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1666909708-0-0-86c4dd1669f36c5143929384740137ad"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://moon.meta-scores.com/2305e89bd8_fhd2/2305e89bd8_fhd2@720p.m3u8"
-                }
-            ]
-         },
+
 {
            "league": "Europa League",
             "date": "October 27",
@@ -165,7 +116,7 @@
 {
            "league": "Europa League",
             "date": "October 28",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9729_small.png",
             "teams" : "Manchester United Vs FC Sheriff",
@@ -175,7 +126,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1666918288-0-0-3d2ad4ad7c486abc21a71691b64351ca"
                 },
                 {
                     "type": "HD",
