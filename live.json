@@ -2,7 +2,7 @@
 {
            "league": "Europa League",
             "date": "October 27",
-            "time": "11:15 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8640_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "teams" : "PSV Vs Arsenal",
@@ -12,7 +12,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001666887826-0-0-2d07c0658300bffb86d3421193c21290"
                 },
                 {
                     "type": "HD",
@@ -27,7 +27,7 @@
 {
            "league": "Europa League",
             "date": "October 27",
-            "time": "11:15 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10243_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8402_small.png",
             "teams" : "FC Zürich Vs Bodø/Glimt",
@@ -37,7 +37,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001666887893-0-0-29648399269718de200f3ac5828af9d5"
                 },
                 {
                     "type": "HD",
@@ -52,7 +52,7 @@
 {
            "league": "Europa League",
             "date": "October 27",
-            "time": "11:15 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7797_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8688_small.png",
             "teams" : "AEK Larnaca Vs Dynamo Kyiv",
@@ -62,7 +62,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001666887932-0-0-6bbed9e7727972e10484104d410c0bd7"
                 },
                 
                 {
@@ -74,7 +74,7 @@
 {
            "league": "Europa League",
             "date": "October 27",
-            "time": "11:15 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8695_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
             "teams" : "Fenerbahçe Vs Rennes",
@@ -84,7 +84,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001666887964-0-0-867a1c908584a001b7ad680d0e02ba21"
                 },
              
                 {
@@ -96,7 +96,7 @@
 {
            "league": "Europa League",
             "date": "October 27",
-            "time": "11:15 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8113_small.png",
             "teams" : "Lazio Vs Midtjylland",
@@ -106,7 +106,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8?auth_key=3000001666888027-0-0-52daf20167658d4f236cf7a5eee47d5a"
                 },
                 {
                     "type": "HD",
@@ -121,7 +121,7 @@
 {
            "league": "Europa League",
             "date": "October 27",
-            "time": "11:15 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/210173_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
             "teams" : "Razgrad Vs Real Betis",
@@ -131,7 +131,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001666887997-0-0-12d5a2c212de6d59e09bfe27247d17ec"
                 },
               
                 {
