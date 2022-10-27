@@ -1,14 +1,14 @@
 [
 {
-           "league": "Champion League",
+           "league": "Europa League",
             "date": "October 27",
             "time": "11:15 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6033_small.png",
-            "teams" : "Inter Vs Viktoria Plzen",
-            "hteam" : "Inter",
-            "ateam" : "Viktoria Plzen",
-         "hotmat":"no",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8640_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+            "teams" : "PSV Vs Arsenal",
+            "hteam" : "PSV",
+            "ateam" : "Arsenal",
+         "hotmat":"yes",
             "link":[
                 {
                     "type": "SD",
@@ -25,14 +25,14 @@
             ]
          },
 {
-           "league": "Champion League",
-            "date": "October 26",
+           "league": "Europa League",
+            "date": "October 27",
             "time": "11:15 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8342_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",
-            "teams" : "Club Brugge Vs FC Porto",
-            "hteam" : "Club Brugge",
-            "ateam" : "FC Porto",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10243_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8402_small.png",
+            "teams" : "FC Zürich Vs Bodø/Glimt",
+            "hteam" : "FC Zürich",
+            "ateam" : "Bodø/Glimt",
          "hotmat":"no",
             "link":[
                 {
@@ -50,24 +50,21 @@
             ]
          },
 {
-           "league": "Champion League",
+           "league": "Europa League",
             "date": "October 27",
-            "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "teams" : "Ajax Vs Liverpool",
-            "hteam" : "Ajax",
-            "ateam" : "Liverpool",
-         "hotmat":"yes",
+            "time": "11:15 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7797_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8688_small.png",
+            "teams" : "AEK Larnaca Vs Dynamo Kyiv",
+            "hteam" : "AEK Larnaca",
+            "ateam" : "Dynamo Kyiv",
+         "hotmat":"no",
             "link":[
                 {
                     "type": "SD",
                 "livelink":"0"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                 {
                     "type": "Full HD",
                 "livelink":"0"
@@ -75,24 +72,21 @@
             ]
          },
 {
-           "league": "Champion League",
+           "league": "Europa League",
             "date": "October 27",
-            "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-            "teams" : "Barcelona Vs Bayern München",
-            "hteam" : "Barcelona",
-            "ateam" : "Bayern München",
-         "hotmat":"yes",
+            "time": "11:15 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8695_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
+            "teams" : "Fenerbahçe Vs Rennes",
+            "hteam" : "Fenerbahçe",
+            "ateam" : "Rennes",
+         "hotmat":"no",
             "link":[
                 {
                     "type": "SD",
                 "livelink":"0"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+             
                 {
                     "type": "Full HD",
                 "livelink":"0"
@@ -100,39 +94,14 @@
             ]
          },
 {
-           "league": "Champion League",
+           "league": "Europa League",
             "date": "October 27",
-            "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-            "teams" : "AT Madrid Vs Leverkusen",
-            "hteam" : "AT Madrid",
-            "ateam" : "Leverkusen",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
-{
-           "league": "Champion League",
-            "date": "October 27",
-            "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
-            "teams" : "Frankfurt Vs Marseille",
-            "hteam" : "Frankfurt",
-            "ateam" : "Marseille",
+            "time": "11:15 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8113_small.png",
+            "teams" : "Lazio Vs Midtjylland",
+            "hteam" : "Lazio",
+            "ateam" : "Midtjylland",
          "hotmat":"no",
             "link":[
                 {
@@ -150,14 +119,83 @@
             ]
          },
 {
-           "league": "Champion League",
+           "league": "Europa League",
             "date": "October 27",
+            "time": "11:15 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/210173_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
+            "teams" : "Razgrad Vs Real Betis",
+            "hteam" : "Razgrad",
+            "ateam" : "Real Betis",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+              
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Europa League",
+            "date": "October 27",
+            "time": "11:15 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
+            "teams" : "Union Berlin Vs Braga",
+            "hteam" : "Union Berlin",
+            "ateam" : "Braga",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Europa League",
+            "date": "October 28",
             "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8548_small.png",
-            "teams" : "Napoli Vs Rangers",
-            "hteam" : "Napoli",
-            "ateam" : "Rangers",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9729_small.png",
+            "teams" : "Manchester United Vs FC Sheriff",
+            "hteam" : "Manchester United",
+            "ateam" : "FC Sheriff",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Europa League",
+            "date": "October 28",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9861_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+            "teams" : "HJK Vs Roma",
+            "hteam" : "HJK",
+            "ateam" : "Roma",
          "hotmat":"no",
             "link":[
                 {
@@ -175,14 +213,114 @@
             ]
          },
 {
-           "league": "Champion League",
-            "date": "October 27",
+           "league": "Europa League",
+            "date": "October 28",
             "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
-            "teams" : "Tottenham Vs Sporting CP",
-            "hteam" : "Tottenham",
-            "ateam" : "Sporting CP",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8044_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+            "teams" : "Omonia Vs Real Sociedad",
+            "hteam" : "Omonia",
+            "ateam" : "Real Sociedad",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Europa League",
+            "date": "October ",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8222_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
+            "teams" : "Ferencvaros Vs Monaco",
+            "hteam" : "Ferencvaros",
+            "ateam" : "Monaco",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Europa League",
+            "date": "October ",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7981_small.png",
+            "teams" : "Nantes Vs Qarabag FK",
+            "hteam" : "Nantes",
+            "ateam" : "Qarabag FK",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Europa League",
+            "date": "October ",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8638_small.png",
+            "teams" : "SC Freiburg Vs Olympiacos",
+            "hteam" : "SC Freiburg",
+            "ateam" : "Olympiacos",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Europa League",
+            "date": "October 28",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10014_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10235_small.png",
+            "teams" : "Sturm Graz Vs Feyenoord",
+            "hteam" : "Sturm Graz",
+            "ateam" : "Feyenoord",
          "hotmat":"no",
             "link":[
                 {
