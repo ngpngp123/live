@@ -12,7 +12,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001666887826-0-0-2d07c0658300bffb86d3421193c21290"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1666908448-0-0-95e6c575090f338d098604f5c15be55b"
                 },
                 {
                     "type": "HD",
@@ -109,8 +109,8 @@
                 "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8?auth_key=3000001666888027-0-0-52daf20167658d4f236cf7a5eee47d5a"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "Soco HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1666909708-0-0-86c4dd1669f36c5143929384740137ad"
                 },
                 {
                     "type": "Full HD",
