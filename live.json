@@ -1,118 +1,6 @@
 [
-{
-           "league": "Europa League",
-            "date": "October 27",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8640_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "teams" : "PSV Vs Arsenal",
-            "hteam" : "PSV",
-            "ateam" : "Arsenal",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1666908448-0-0-95e6c575090f338d098604f5c15be55b"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://moon.meta-scores.com/b8ee81da1e/b8ee81da1e@720p.m3u8"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001666887826-0-0-2d07c0658300bffb86d3421193c21290"
-                }
-            ]
-         },
-{
-           "league": "Europa League",
-            "date": "October 27",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10243_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8402_small.png",
-            "teams" : "FC Zürich Vs Bodø/Glimt",
-            "hteam" : "FC Zürich",
-            "ateam" : "Bodø/Glimt",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-187579.m3u8?auth_key=1666909348-0-0-38ed46b5ebeb96801444af3ed5677087"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001666889342-0-0-6c763a106ac4b3f940f976cbc24ef371"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001666889342-0-0-6c763a106ac4b3f940f976cbc24ef371"
-                }
-            ]
-         },
-{
-           "league": "Europa League",
-            "date": "October 27",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7797_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8688_small.png",
-            "teams" : "AEK Larnaca Vs Dynamo Kyiv",
-            "hteam" : "AEK Larnaca",
-            "ateam" : "Dynamo Kyiv",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-170430.m3u8?auth_key=1666909408-0-0-cb85be0504be973ec60ab5c19f0fdbaa"
-                },
-                
-                {
-                    "type": "HD",
-                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001666889241-0-0-c090b42547fc59096913bec816598443"
 
-{
-           "league": "Europa League",
-            "date": "October 27",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/210173_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-            "teams" : "Razgrad Vs Real Betis",
-            "hteam" : "Razgrad",
-            "ateam" : "Real Betis",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1666908858-0-0-ff78efbf2517292e1dd5d4cd6d348293"
-                },
-              
-                {
-                    "type": "Full HD",
-                "livelink":"https://moon.meta-scores.com/caaacccbde/caaacccbde@720p.m3u8"
-                }
-            ]
-         },
-{
-           "league": "Europa League",
-            "date": "October 27",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
-            "teams" : "Union Berlin Vs Braga",
-            "hteam" : "Union Berlin",
-            "ateam" : "Braga",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel13.m3u8?auth_key=3000001666888090-0-0-af8056c2006df89c715b68ad65ff9ae1"
-                },
-                
-                {
-                    "type": "Full HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-104501.m3u8?auth_key=1666909648-0-0-d12cefc32c47e1db5038454d344bdd7e"
-                }
-            ]
-         },
+
 {
            "league": "Europa League",
             "date": "October 28",
@@ -141,7 +29,7 @@
 {
            "league": "Europa League",
             "date": "October 28",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9861_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "teams" : "HJK Vs Roma",
@@ -151,7 +39,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1666917328-0-0-61d8ad2b3dc66485e12dfa46e61b0a0c"
                 },
                 {
                     "type": "HD",
@@ -163,81 +51,7 @@
                 }
             ]
          },
-{
-           "league": "Europa League",
-            "date": "October 28",
-            "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8044_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-            "teams" : "Omonia Vs Real Sociedad",
-            "hteam" : "Omonia",
-            "ateam" : "Real Sociedad",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
-{
-           "league": "Europa League",
-            "date": "October ",
-            "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8222_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-            "teams" : "Ferencvaros Vs Monaco",
-            "hteam" : "Ferencvaros",
-            "ateam" : "Monaco",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
-{
-           "league": "Europa League",
-            "date": "October ",
-            "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7981_small.png",
-            "teams" : "Nantes Vs Qarabag FK",
-            "hteam" : "Nantes",
-            "ateam" : "Qarabag FK",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
+
 {
            "league": "Europa League",
             "date": "October ",
