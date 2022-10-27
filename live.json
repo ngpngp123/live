@@ -106,7 +106,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://moon.meta-scores.com/2305e89bd8_fhd2/2305e89bd8_fhd2@720p.m3u8"
+                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8?auth_key=3000001666890272-0-0-0d65b3f85d1780a7e742d4dbd8e31b42"
                 },
                 {
                     "type": "Soco HD",
@@ -114,7 +114,7 @@
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://moon.meta-scores.com/2305e89bd8_fhd2/2305e89bd8_fhd2@720p.m3u8"
                 }
             ]
          },
