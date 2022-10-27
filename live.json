@@ -16,7 +16,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://moon.meta-scores.com/b8ee81da1e/b8ee81da1e@720p.m3u8"
                 },
                 {
                     "type": "Full HD",
@@ -84,7 +84,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001666887964-0-0-867a1c908584a001b7ad680d0e02ba21"
+                "livelink":"https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1666909458-0-0-056e8f278306e77b971b413640212fa9"
                 },
              
                 {
@@ -106,7 +106,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8?auth_key=3000001666888027-0-0-52daf20167658d4f236cf7a5eee47d5a"
+                "livelink":"https://moon.meta-scores.com/2305e89bd8_fhd2/2305e89bd8_fhd2@720p.m3u8"
                 },
                 {
                     "type": "Soco HD",
@@ -131,12 +131,12 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001666887997-0-0-12d5a2c212de6d59e09bfe27247d17ec"
+                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1666908858-0-0-ff78efbf2517292e1dd5d4cd6d348293"
                 },
               
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://moon.meta-scores.com/caaacccbde/caaacccbde@720p.m3u8"
                 }
             ]
          },
