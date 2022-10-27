@@ -143,7 +143,7 @@
 {
            "league": "Europa League",
             "date": "October 27",
-            "time": "11:15 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
             "teams" : "Union Berlin Vs Braga",
@@ -153,7 +153,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel13.m3u8?auth_key=3000001666888090-0-0-af8056c2006df89c715b68ad65ff9ae1"
                 },
                 
                 {
