@@ -6,31 +6,6 @@
 
 
 
-{
-           "league": "Laliga",
-            "date": "October 29",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-            "teams" : "Cadiz Vs Atletico Madrid",
-            "hteam" : "Cadiz",
-            "ateam" : "Atletico Madrid",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459156.m3u8?auth_key=1667073558-0-0-649798efb8f31384d68beab8bbb40e7f"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://hls1.koralivetv.xyz/v1/playlist/CpYEnSFxTAYgrcfGvMLS8SVxb736jvZ7CnM0e8KV0AAma9cZmZ8GX8lKF1xlFDPa-vMWlSJVXrChf_aoPRlAMNN1dNp4ducqUddniAQPjygcyGH-KuEyyvX2X_GKPvotvl5phXHxeVZIVrxPeRMxHujW0XZQW7SKAauF7ZJZEljoG760Yc7Q0fs8WMNPQALjlRNtFu2rxKaS4cYM3mmwywFp5C7oYf5nFNMpsoQ3XFsztJh4HerBtf2jyzP7ChFWlixJTF_1jgNrK0UmXlMX4L31cGBt6aFPQ4QHJi-qZji5HByy2ARUcWPgR5fN8KV0rei8uNDfTSFfqTu4SJ3WCruxdOu4zqEa7Ps8YAIIlO24rggpeDxJr5PqpCkpzJx7BCvxPzzado50FXo7LGUZjWkd8qKnUY6soGG_2O51XSUEpUrxFI1zwp8W_06b8fNZfgouqaB5572p6GskqrHCNIl-ZFHMQ3MycUi6nDBNwP8miIS0v9UJBv1WJYydUaxjdg1dEr1mIPIkLjZWYvHW7eMf2BG-ieWzCNjJK5Ztdi-pMnzw2ZxMLH_MY919NABvo9dAxx45S1NbK072JEOoSci25hPia7dmQQ9tf1p3FTRyP1I3bPNQQG4n-ESen_EwNxhENGiP5AntOw4b2deUmchMc8lWsWFY2oLCxpQKPIz6O8Oyw06KqlUt5eXvGEuhWWiKpcnAxKOjGgw4CC8VmT4nZFfm9rQgASoJdXMtd2VzdC0yMIIF.m3u8"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
 
 {
            "league": "Ligue 1",
