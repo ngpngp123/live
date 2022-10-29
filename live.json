@@ -39,7 +39,11 @@
                 {
                     "type": "SD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-137359_ld.m3u8?auth_key=1667067028-0-0-6f218beb2d3bd92db29a56331732bb1e"
-                }
+                },
+{
+                    "type": "HD",
+                "livelink":"https://moon.meta-scores.com/a164aa11ae/a164aa11ae@720p.m3u8"
+                },
                 
             ]
          },
