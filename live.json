@@ -170,7 +170,7 @@
 {
            "league": "Serie A",
             "date": "October 29",
-            "time": "10;30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "teams" : "Lecce Vs Juventus",
@@ -180,7 +180,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-160430.m3u8?auth_key=1667080768-0-0-80d79299e2a19d41cbdf273f1d9e45ee"
                 },
                 {
                     "type": "HD",
