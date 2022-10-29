@@ -285,7 +285,7 @@
 {
            "league": "Laliga",
             "date": "October 29",
-            "time": "8:45 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
             "teams" : "Cadiz Vs Atletico Madrid",
@@ -295,7 +295,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel8.m3u8?auth_key=3000001667053362-0-0-6844a9f29985d2273eb7db94ed716525"
                 },
                 {
                     "type": "HD",
