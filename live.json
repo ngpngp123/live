@@ -104,14 +104,14 @@
          },
 
 {
-           "league": "",
+           "league": "Bundesliga",
             "date": "October 29",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
+            "teams" : "VfB Stuttgart Vs FC Augsburg",
+            "hteam" : "VfB Stuttgart",
+            "ateam" : "FC Augsburg",
          "hotmat":"no",
             "link":[
                 {
@@ -130,14 +130,14 @@
          },
 
 {
-           "league": "",
+           "league": "Bundesliga",
             "date": "October 29",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+            "teams" : "RB Leipzig Vs Leverkusen",
+            "hteam" : "RB Leipzig",
+            "ateam" : "Leverkusen",
          "hotmat":"no",
             "link":[
                 {
@@ -156,14 +156,66 @@
          },
 
 {
-           "league": "",
+           "league": "Premier League",
             "date": "October 29",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+            "teams" : "Brighton Vs Chelsea",
+            "hteam" : "Brighton",
+            "ateam" : "Chelsea",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+           "league": "Premier League",
+            "date": "October 29",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+            "teams" : "Bournemouth Vs Tottenham",
+            "hteam" : "Bournemouth",
+            "ateam" : "Tottenham",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+           "league": "Premier League",
+            "date": "October 29",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+            "teams" : "Brentford Vs Wolves",
+            "hteam" : "Brentford",
+            "ateam" : "Wolves",
          "hotmat":"no",
             "link":[
                 {
@@ -182,14 +234,14 @@
          },
 
 {
-           "league": "",
+           "league": "Premier League",
             "date": "October 29",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
+            "teams" : "Crystal Palace Vs Southampton",
+            "hteam" : "Crystal Palace",
+            "ateam" : "Southampton",
          "hotmat":"no",
             "link":[
                 {
@@ -208,14 +260,14 @@
          },
 
 {
-           "league": "",
+           "league": "Premier League",
             "date": "October 29",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+            "teams" : "Newcastle Vs Aston Villa",
+            "hteam" : "Newcastle",
+            "ateam" : "Aston Villa",
          "hotmat":"no",
             "link":[
                 {
@@ -234,14 +286,14 @@
          },
 
 {
-           "league": "",
+           "league": "Laliga",
             "date": "October 29",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
+            "time": "8:45 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+            "teams" : "Cadiz Vs Atletico Madrid",
+            "hteam" : "Cadiz",
+            "ateam" : "Atletico Madrid",
          "hotmat":"no",
             "link":[
                 {
@@ -260,14 +312,40 @@
          },
 
 {
-           "league": "",
+           "league": "Ligue 1",
             "date": "October 29",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
+            "teams" : "PSG Vs Troyes",
+            "hteam" : "PSG",
+            "ateam" : "Troyes",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+           "league": "Serie A",
+            "date": "October 29",
+            "time": "10;30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "teams" : "Lecce Vs Juventus",
+            "hteam" : "Lecce",
+            "ateam" : "Juventus",
          "hotmat":"no",
             "link":[
                 {
@@ -286,14 +364,40 @@
          },
 
 {
-           "league": "",
+           "league": "Bundesliga",
             "date": "October 29",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "teams" : "Frankfurt Vs Dortmund",
+            "hteam" : "Frankfurt",
+            "ateam" : "Dortmund",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+           "league": "Premier League",
+            "date": "October 29",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+            "teams" : "Fulham Vs Everton",
+            "hteam" : "Fulham",
+            "ateam" : "Everton",
          "hotmat":"no",
             "link":[
                 {
@@ -312,14 +416,64 @@
          },
 
 {
-           "league": "",
+           "league": "Laliga",
             "date": "October 29",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
+            "teams" : "Sevilla Vs Rayo Vallecano",
+            "hteam" : "Sevilla",
+            "ateam" : "Rayo Vallecano",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "October 30",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+            "teams" : "Liverpool Vs Leeds United",
+            "hteam" : "Liverpool",
+            "ateam" : "Leeds United",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Serie A",
+            "date": "October 30",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
+            "teams" : "Inter Vs Sampdoria",
+            "hteam" : "Inter",
+            "ateam" : "Sampdoria",
          "hotmat":"no",
             "link":[
                 {
@@ -338,93 +492,15 @@
          },
 
 {
-           "league": "",
-            "date": "October 29",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
-
-{
-           "league": "",
-            "date": "October 29",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
-
-{
-           "league": "",
-            "date": "October 29",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
-
-{
-           "league": "",
-            "date": "October 29",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
-         "hotmat":"no",
+           "league": "Laliga",
+            "date": "October 30",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "teams" : "Valencia Vs Barcelona",
+            "hteam" : "Valencia",
+            "ateam" : "Barcelona",
+         "hotmat":"yes",
             "link":[
                 {
                     "type": "SD",
@@ -440,5 +516,4 @@
                 }
             ]
          }
-
 ]
