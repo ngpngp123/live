@@ -75,8 +75,8 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1667082198-0-0-bd4b0f5baf5e91f1d991f469365dfc29"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "Soco HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1667081848-0-0-a06717fc2586ed360ba4affad1a3770c"
                 },
                 {
                     "type": "Full HD",
@@ -124,7 +124,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1667080938-0-0-af19add79cb51ba5e7428411fc9a1b4f"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-104776.m3u8?auth_key=1667082328-0-0-51aa98adf106184e3cbf3659b23e2049"
                 }
                 
             ]
