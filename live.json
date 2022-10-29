@@ -28,7 +28,7 @@
 {
            "league": "Laliga",
             "date": "October 29",
-            "time": "6:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
             "teams" : "Almeria Vs Celta Vigo",
@@ -38,16 +38,9 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-137359_ld.m3u8?auth_key=1667067028-0-0-6f218beb2d3bd92db29a56331732bb1e"
                 }
+                
             ]
          },
 
