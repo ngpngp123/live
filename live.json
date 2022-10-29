@@ -3,44 +3,6 @@
 
 
 
-{
-           "league": "Bundesliga",
-            "date": "October 29",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
-            "teams" : "Bayern München Vs Mainz 05",
-            "hteam" : "Bayern München",
-            "ateam" : "Mainz 05",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-104776.m3u8?auth_key=1667070808-0-0-2df12b0ac64fc3b660cd99603e9a3086"
-                
-                }
-            ]
-         },
-
-
-{
-           "league": "Bundesliga",
-            "date": "October 29",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-            "teams" : "RB Leipzig Vs Leverkusen",
-            "hteam" : "RB Leipzig",
-            "ateam" : "Leverkusen",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-104501.m3u8?auth_key=1667071048-0-0-66f78eecd48bc93a5ee25d92bf4b11b1"
-                
-                }
-            ]
-         },
 
 {
            "league": "Premier League",
