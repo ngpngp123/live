@@ -62,7 +62,7 @@
 {
            "league": "Bundesliga",
             "date": "October 29",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
             "teams" : "Frankfurt Vs Dortmund",
@@ -72,7 +72,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1667082198-0-0-bd4b0f5baf5e91f1d991f469365dfc29"
                 },
                 {
                     "type": "HD",
@@ -97,8 +97,8 @@
          "hotmat":"no",
             "link":[
                 {
-                    "type": "SD",
-                "livelink":"0"
+                    "type": "HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1667080818-0-0-08cd28cbcc9f46a8f47423fb1c8ff94b"
                 },
                 {
                     "type": "HD",
@@ -114,7 +114,7 @@
 {
            "league": "Laliga",
             "date": "October 29",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
             "teams" : "Sevilla Vs Rayo Vallecano",
@@ -124,16 +124,9 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1667080938-0-0-af19add79cb51ba5e7428411fc9a1b4f"
                 }
+                
             ]
          },
 {
