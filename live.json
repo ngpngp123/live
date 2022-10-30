@@ -114,7 +114,7 @@
 {
            "league": "Laliga",
             "date": "October 30",
-            "time": "9:45 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
             "teams" : "Real Madrid Vs Girona",
@@ -124,11 +124,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-160430.m3u8?auth_key=1667163688-0-0-fe57f385270240a4dcb8cbe702019ae9"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://livepro.zeuscdn.live/live/_definst_/stream_1_4831b@x68y3-2348/chunklist.m3u8"
                 },
                 {
                     "type": "Full HD",
@@ -235,7 +235,7 @@
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":""
                 }
             ]
          },
