@@ -1,25 +1,5 @@
 [
-           {   
-           "league": "MNL 2022",
-            "date": "October 30",
-            "time": "live",
-            "himg": "https://upload.wikimedia.org/wikipedia/en/9/96/Myawady.png",
-            "aimg": "https://upload.wikimedia.org/wikipedia/en/f/f2/Ayeyawady_United_logo.png",
-            "teams" : "Empoli Vs Atalanta",
-            "hteam" : "Myawady",
-            "ateam" : "Ayeyawady",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "AUTO",
-                "livelink":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667143262/ei/_kFeY_2AKpav3LUPsZGXsAo/ip/18.142.184.192/id/Y4ocMpvQzuI.1/source/yt_live_broadcast/requiressl/yes/tx/24287370/txs/24287370%2C24287371%2C24287372/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIwQEv9PszwfjpVzx04Xe_Cdo311A9acH1M-X8b_xP3FAiEA9McO-PahCjeZNxvCV93er5sij-Ylmu7avSTH0RPK8Eg%3D/file/index.m3u8"
-                },
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1667141248-0-0-25040280478556f41e774ea1ebe92dd6"
-                }
-            ]
-         },
+  
 {
            "league": "Serie A",
             "date": "October 30",
