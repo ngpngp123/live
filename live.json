@@ -2,51 +2,6 @@
   
 
 {
-           "league": "Premier League",
-            "date": "October 30",
-            "time": "End",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-            "teams" : "Arsenal Vs Nottingham Forest",
-            "hteam" : "Arsenal",
-            "ateam" : "Nottingham Forest",
-         "hotmat":"yes",
-            "link":[
-{
-                    "type": "Soco",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1667159968-0-0-e7b460091c1658257042bb6d9fc11673"
-         
-                },
-{
-                    "type": "မထစ်",
-                "livelink":"https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1667157919-0-0-edeca597a07f65d1af01ded21e388070"
-         
-                },
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1667090428-0-0-cfde3b3a1bb08540957c84a454f808b6"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1667158339-0-0-83a91351d667ed29f04b9af5b9bb569e"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://livepro.zeuscdn.live/live/_definst_/stream_1_4831b@x1y3-9931/chunklist.m3u8"
-                },
-{
-                    "type": "English FHD1",
-                "livelink":"http://trubch.azureedge.net/scripts/NTg2NQ==/1080p.m3u8"
-         
-                },
-{
-                    "type": "English FHD2",
-                "livelink":"http://wert.azureedge.net/scripts/NTg2NQ==/1080p.m3u8"
-         
-                }
-            ]
-         },
-{
            "league": "Ligue 1",
             "date": "October 30",
             "time": "live",
@@ -166,7 +121,7 @@
 {
            "league": "Premier League",
             "date": "October 30",
-            "time": "10:45 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "teams" : "Man United Vs West Ham",
@@ -176,15 +131,15 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667166738-0-0-e671a417f1df2d7f769a776299351f1f"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "English FHD",
+                "livelink":"http://nbiop.azureedge.net/scripts/NTg2Ng==/1080p.m3u8"
                 },
                 {
-                    "type": "Full HD",
-                "livelink":"0"
+                    "type": "English Full HD",
+                "livelink":"http://lkoop.azureedge.net/scripts/NTg2Ng==/1080p.m3u8"
                 }
             ]
          },
