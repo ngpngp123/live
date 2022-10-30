@@ -2,7 +2,7 @@
            {   
            "league": "MNL 2022",
             "date": "October 30",
-            "time": "3:30 PM",
+            "time": "live",
             "himg": "https://upload.wikimedia.org/wikipedia/en/9/96/Myawady.png",
             "aimg": "https://upload.wikimedia.org/wikipedia/en/f/f2/Ayeyawady_United_logo.png",
             "teams" : "Empoli Vs Atalanta",
@@ -12,7 +12,7 @@
             "link":[
                 {
                     "type": "AUTO",
-                "livelink":"0"
+                "livelink":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667141222/ei/BjpeY9yeI_WEmgfOmZvIAw/ip/18.142.184.192/id/6CZPUOLx7xI.1/source/yt_live_broadcast/requiressl/yes/tx/24287370/txs/24287370%2C24287371%2C24287372/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPvaQUO52eLNXMTtA0HgFFjafm_6Xj2QmuIL10AQoo-wCIQCFFuhPDZOYSaHZg82MSNrWzPbXLcgE_WbcYJAD88EIXg%3D%3D/file/index.m3u8"
                 }
             ]
          },
