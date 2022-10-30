@@ -67,8 +67,8 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1667158339-0-0-83a91351d667ed29f04b9af5b9bb569e"
                 },
                 {
-                    "type": "wait Full HD",
-                "livelink":"0"
+                    "type": "Full HD",
+                "livelink":"https://moon.meta-scores.com/086c1925d2/086c1925d2@720p.m3u8"
                 }
             ]
          },
