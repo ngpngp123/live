@@ -63,8 +63,8 @@
                 "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1667090428-0-0-cfde3b3a1bb08540957c84a454f808b6"
                 },
                 {
-                    "type": "Wait HD",
-                "livelink":"0"
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1667158339-0-0-83a91351d667ed29f04b9af5b9bb569e"
                 },
                 {
                     "type": "wait Full HD",
