@@ -100,7 +100,7 @@
             "teams" : "Arsenal Vs Nottingham Forest",
             "hteam" : "Arsenal",
             "ateam" : "Nottingham Forest",
-         "hotmat":"yey",
+         "hotmat":"yes",
             "link":[
                 {
                     "type": "SD",
@@ -252,7 +252,7 @@
             "teams" : "Man United Vs West Ham",
             "hteam" : "Man United",
             "ateam" : "West Ham",
-         "hotmat":"no",
+         "hotmat":"yes",
             "link":[
                 {
                     "type": "SD",
