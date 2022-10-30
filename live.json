@@ -49,7 +49,7 @@
 {
            "league": "Laliga",
             "date": "October 30",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
             "teams" : "Osasuna Vs Real Valladolid",
@@ -59,7 +59,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-553612.m3u8?auth_key=1667156239-0-0-69123c29f66e821b47f80ceaebc79980"
                 },
                 {
                     "type": "HD",
