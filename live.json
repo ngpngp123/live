@@ -1,30 +1,6 @@
 [
   
-{
-           "league": "Ligue 1",
-            "date": "October 30",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8576_small.png",
-            "teams" : "Auxerre Vs AC Ajaccio",
-            "hteam" : "Auxerre",
-            "ateam" : "AC Ajaccio",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "Soco",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-118206.m3u8?auth_key=1667152228-0-0-22744f5a9a829d82b8f6c52c9bb18104"
-                },
-                {
-                    "type": "China",
-                "livelink":"https://yypull.gdsth.com/live/stream-556902.m3u8?auth_key=1667152339-0-0-169d87f2cde7cc90717eb86b5b9ba9e3"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://livepro.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x1/chunklist.m3u8"
-                }
-            ]
-         },
+
 {
            "league": "Laliga",
             "date": "October 30",
@@ -69,6 +45,16 @@
                 {
                     "type": "Full HD",
                 "livelink":"https://moon.meta-scores.com/086c1925d2/086c1925d2@720p.m3u8"
+                },
+{
+                    "type": "English FHD1",
+                "livelink":"http://trubch.azureedge.net/scripts/NTg2NQ==/1080p.m3u8"
+         
+                },
+{
+                    "type": "English FHD2",
+                "livelink":"http://wert.azureedge.net/scripts/NTg2NQ==/1080p.m3u8"
+         
                 }
             ]
          },
@@ -85,15 +71,15 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1667158339-0-0-4f65e07bdff83e9d911ea5cc5a10b3ed"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "Cremonese vs Udinese HD2",
+                "livelink":"https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1667158099-0-0-39a8c0ccc37bd1fdb6347b390b07a95c"
                 },
                 {
-                    "type": "Full HD",
-                "livelink":"0"
+                    "type": "Spezia vs Fiorentina HD1",
+                "livelink":"https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1667158099-0-0-d6c45cfd58736878f73fe692ccb2d884"
                 }
             ]
          },
