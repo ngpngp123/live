@@ -34,6 +34,16 @@
             "ateam" : "Nottingham Forest",
          "hotmat":"yes",
             "link":[
+{
+                    "type": "Soco",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1667159968-0-0-e7b460091c1658257042bb6d9fc11673"
+         
+                },
+{
+                    "type": "မထစ်",
+                "livelink":"https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1667157919-0-0-edeca597a07f65d1af01ded21e388070"
+         
+                },
                 {
                     "type": "SD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1667090428-0-0-cfde3b3a1bb08540957c84a454f808b6"
@@ -97,10 +107,7 @@
                 {
                     "type": "SD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-100684_ld.m3u8?auth_key=1667159308-0-0-ac9d55e5e58fcd503d060b26daf34486"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
+                
                 },
                 {
                     "type": "Full HD",
