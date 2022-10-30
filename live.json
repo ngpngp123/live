@@ -2,53 +2,6 @@
   
 
 {
-           "league": "Ligue 1",
-            "date": "October 30",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
-            "teams" : "Monaco Vs Angers",
-            "hteam" : "Monaco",
-            "ateam" : "Angers",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1667158339-0-0-4f65e07bdff83e9d911ea5cc5a10b3ed"
-                },
-                {
-                    "type": "Cremonese vs Udinese HD2",
-                "livelink":"https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1667158099-0-0-39a8c0ccc37bd1fdb6347b390b07a95c"
-                },
-                {
-                    "type": "Spezia vs Fiorentina HD1",
-                "livelink":"https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1667158099-0-0-d6c45cfd58736878f73fe692ccb2d884"
-                }
-            ]
-         },
-{
-           "league": "Ligue 1",
-            "date": "October 30",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
-            "teams" : "Rennes Vs Montpellier",
-            "hteam" : "Rennes",
-            "ateam" : "Montpellier",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-100684_ld.m3u8?auth_key=1667159308-0-0-ac9d55e5e58fcd503d060b26daf34486"
-                
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-100684.m3u8?auth_key=1667159308-0-0-02f35235d57599e33bfcd0f3b2e52855"
-                }
-            ]
-         },
-{
            "league": "Bundesliga",
             "date": "October 30",
             "time": "live",
