@@ -49,7 +49,7 @@
 {
            "league": "Ligue 1",
             "date": "October ",
-            "time": "10:35 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
             "teams" : "Lorient Vs Nice",
@@ -59,16 +59,9 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-112565.m3u8?auth_key=1667166448-0-0-d2af859b4bfd1dba74facb131e05adbc"
                 }
+                
             ]
          },
 {
