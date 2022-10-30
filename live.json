@@ -3,7 +3,7 @@
 {
            "league": "Serie A",
             "date": "October 30",
-            "time": "6:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
             "teams" : "Empoli Vs Atalanta",
@@ -12,16 +12,12 @@
          "hotmat":"no",
             "link":[
                 {
-                    "type": "SD",
-                "livelink":"0"
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1667149518-0-0-50997e228cdf3a25b84569c4c3828ae9"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://moon.meta-scores.com/f0e44d5d17/f0e44d5d17@720p.m3u8"
                 }
             ]
          },
