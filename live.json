@@ -118,7 +118,7 @@
 {
            "league": "Bundesliga",
             "date": "October 30",
-            "time": "9:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
             "teams" : "Union Berlin Vs M'Gladbach",
@@ -128,16 +128,9 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-109053.m3u8?auth_key=1667161108-0-0-682fd34fd3a2fa463473e6cdf0c3cc10"
                 }
+                
             ]
          },
 {
