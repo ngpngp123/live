@@ -89,6 +89,10 @@
                     "type": "SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1667166738-0-0-e671a417f1df2d7f769a776299351f1f"
                 },
+               {
+                    "type": "HD",
+                "livelink":"https://livepro.zeuscdn.live/live/_definst_/stream_1_4831b@sk3-0034/chunklist.m3u8"
+                },
                 {
                     "type": "English FHD",
                 "livelink":"http://nbiop.azureedge.net/scripts/NTg2Ng==/1080p.m3u8"
