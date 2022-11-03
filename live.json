@@ -47,8 +47,8 @@
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667517619-0-0-07b703973402b561c3c059ec07ca668e"
+                    "type": "HD",
+                "livelink":"http://143.198.195.98:9000/1415/1415/1.m3u8"
                 },
                 {
                     "type": "English HD",
