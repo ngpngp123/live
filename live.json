@@ -70,7 +70,7 @@
                 },
 {
                     "type": "SD",
-                "livelink":"https://live-ak.vimeocdn.com/exp=1667501037~acl=%2F2958b4d3-98a7-414e-bc3e-76df984942d5%2F%2A~hmac=8fdf57513f3c40de59c1a5e79b8fc7ed2afff01af0e11ff092313ddb9a78c4cb/2958b4d3-98a7-414e-bc3e-76df984942d5/chunklist_b728000.m3u8?max_segments=10"
+                "livelink":"https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1667526379-0-0-41cbf0ca843728775d3c2d0453074717ff092313ddb9a78c4cb/2958b4d3-98a7-414e-bc3e-76df984942d5/chunklist_b728000.m3u8?max_segments=10"
          
                 }
 
@@ -89,7 +89,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-279875.m3u8?auth_key=1667517739-0-0-1c9af1872b2481eca1550142e2dd16e3"
+                "livelink":"https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1667526199-0-0-3f1a8e321f36064c354b2eb789bfb623"
                 },
 {
                     "type": "HD",
