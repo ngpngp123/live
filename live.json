@@ -97,7 +97,7 @@
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"http://213.13.19.35/shls/LIVE$SPORTTV2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END"
                 }
                 
             ]
