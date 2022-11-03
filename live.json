@@ -38,7 +38,7 @@
 {
            "league": "Europa League",
             "date": "November 4",
-            "time": "00:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "teams" : "Real Sociedad Vs Manchester United",
@@ -48,11 +48,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1667517619-0-0-07b703973402b561c3c059ec07ca668e"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "English HD",
+                "livelink":"http://gyuunn.azureedge.net/scripts/NjAxNg==/1080p.m3u8"
                 },
                 {
                     "type": "Full HD",
@@ -63,7 +63,7 @@
 {
            "league": "Europa League",
             "date": "November 4",
-            "time": "00:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10235_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
             "teams" : "Feyenoord Vs Lazio",
@@ -73,22 +73,15 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-279875.m3u8?auth_key=1667517739-0-0-1c9af1872b2481eca1550142e2dd16e3"
                 }
+                
             ]
          },
 {
            "league": "Europa League",
             "date": "November 4",
-            "time": "00:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8687_small.png",
             "teams" : "Monaco Vs FK Crvena Zvezda",
@@ -98,7 +91,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-552565.m3u8?auth_key=1667517679-0-0-0df790664980851bd045461bf4631ee5"
                 },
                 {
                     "type": "HD",
