@@ -67,6 +67,11 @@
                     "type": "720 HD",
                 "livelink":"http://213.13.19.35/shls/LIVE$SPORTTV1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END"
          
+                },
+{
+                    "type": "SD",
+                "livelink":"https://live-ak.vimeocdn.com/exp=1667501037~acl=%2F2958b4d3-98a7-414e-bc3e-76df984942d5%2F%2A~hmac=8fdf57513f3c40de59c1a5e79b8fc7ed2afff01af0e11ff092313ddb9a78c4cb/2958b4d3-98a7-414e-bc3e-76df984942d5/chunklist_b728000.m3u8?max_segments=10"
+         
                 }
 
             ]
