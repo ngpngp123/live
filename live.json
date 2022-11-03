@@ -80,8 +80,8 @@
            "league": "Europa League",
             "date": "November 4",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png.fotmob.com/image_resources/logo/teamlogo/210173_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png.fotmob.com/image_resources/logo/teamlogo/210173_small.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "teams" : "Feyenoord Vs Lazio",
             "hteam" : "Roma",
             "ateam" : "Ragard",
@@ -103,9 +103,9 @@
             ]
          },
 {
-           "league": "Europa Leagues",
+           "league": "ကျန်ပွဲများ",
             "date": "24hoursက ကြည့်ပါ",
-            "time": "live",
+            "time": "end",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8687_small.png",
             "teams" : "Monaco Vs FK Crvena Zvezda",
