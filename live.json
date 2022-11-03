@@ -39,11 +39,11 @@
            "league": "Europa League",
             "date": "November 4",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "teams" : "Real Sociedad Vs Manchester United",
-            "hteam" : "Real Sociedad",
-            "ateam" : "Manchester United",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10243_small.png",
+            "teams" : "Arsenal Vs FC Zürich",
+            "hteam" : "Arsenal",
+            "ateam" : "FC Zürich",
          "hotmat":"yes",
             "link":[
                 {
@@ -80,23 +80,31 @@
            "league": "Europa League",
             "date": "November 4",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10235_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+            "himg": "https://https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png.fotmob.com/image_resources/logo/teamlogo/210173_small.png",
+            "aimg": "https://https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png.fotmob.com/image_resources/logo/teamlogo/210173_small.png",
             "teams" : "Feyenoord Vs Lazio",
-            "hteam" : "Feyenoord",
-            "ateam" : "Lazio",
+            "hteam" : "Roma",
+            "ateam" : "Ragard",
          "hotmat":"no",
             "link":[
                 {
                     "type": "SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-279875.m3u8?auth_key=1667517739-0-0-1c9af1872b2481eca1550142e2dd16e3"
+                },
+{
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
                 }
                 
             ]
          },
 {
-           "league": "Europa League",
-            "date": "November 4",
+           "league": "Europa Leagues",
+            "date": "24hoursက ကြည့်ပါ",
             "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8687_small.png",
