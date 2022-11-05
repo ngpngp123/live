@@ -36,8 +36,8 @@
             ]
 },
 {
-           "league": "Europa League",
-            "date": "November 4",
+           "league": "Premier League",
+            "date": "November 5",
             "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
@@ -75,7 +75,7 @@
             "teams" : "Dortmund Vs VfL Bochum",
             "hteam" : "Dortmund",
             "ateam" : "VfL Bochum",
-         "hotmat":"no",
+         "hotmat":"yes",
             "link":[
                 {
                     "type": "SD",
