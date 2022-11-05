@@ -62,18 +62,33 @@
                     "type": "Soco",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-143449.m3u8?auth_key=1667681969-0-0-60223c94fe1a4c674692097e941c6f72"
          
-                },
-{
-                    "type": "720 HD",
-                "livelink":"http://213.13.19.35/shls/LIVE$SPORTTV1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END"
-         
-                },
-{
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1667526379-0-0-41cbf0ca843728775d3c2d0453074717ff092313ddb9a78c4cb/2958b4d3-98a7-414e-bc3e-76df984942d5/chunklist_b728000.m3u8?max_segments=10"
-         
                 }
 
+            ]
+         },
+{
+           "league": "Bundesliga",
+            "date": "November 5",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
+            "teams" : "Dortmund Vs VfL Bochum",
+            "hteam" : "Dortmund",
+            "ateam" : "VfL Bochum",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"http://143.198.195.98:9000/1415/1415/10.m3u8"
+                },
+                {
+                    "type": "HD",
+                "livelink":"https://pullsport.glht.top/live/sd-1-3748630.m3u8"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-144861.m3u8?auth_key=1667680829-0-0-cfb2c73f4cab9607c7640ba304e0efa6"
+                }
             ]
          },
 {
