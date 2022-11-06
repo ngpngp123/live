@@ -1,70 +1,6 @@
 [
 
-{
-           "league": "Premier League",
-            "date": "November 6",
-            "time": "end",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "teams" : "Chelsea Vs Arsenal",
-            "hteam" : "Chelsea",
-            "ateam" : "Arsenal",
-         "hotmat":"yes",
-            "link":[
 
-                {
-                    "type": "Bein Arab HD",
-                "livelink":"http://143.198.195.98:9000/1415/1415/1.m3u8"
-         
-                },
-
-{
-                    "type": "Smooth FHD",
-                "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753795"
-         
-                },
-                {
-                    "type": "Soco 2",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1667159968-0-0-e7b460091c1658257042bb6d9fc11673"
-                },
-{
-                    "type": "English",
-                "livelink":"http://cvvvbn.azureedge.net/scripts/NjA3Mw==/1080p.m3u8"
-         
-                },
-{
-                    "type": "English HD",
-                "livelink":"http://ajiko.azureedge.net/scripts/NjA3Mw==/1080p.m3u8"
-         
-                },
-{
-                    "type": "SD",
-                "livelink":"https://live-ak.vimeocdn.com/exp=1667743606~acl=%2F16f2b00b-a99f-4cf5-87e7-b208be6a89f5%2F%2A~hmac=42e0bcbb29d2b6f1859490ca5644e856c667966dbf65d83a6ee04939214dbe61/16f2b00b-a99f-4cf5-87e7-b208be6a89f5/chunklist_b416000.m3u8"
-                }
-            ]
-         },
-{
-           "league": "Ligue 1",
-            "date": "November 6",
-            "time": "end",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-            "teams" : "Lorient Vs PSG",
-            "hteam" : "Lorient",
-            "ateam" : "PSG",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1667757089-0-0-d9359eff8579646eceb572aa0bcf005e"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-552565.m3u8?auth_key=1667757020-0-0-3cfad19ff09a851a0a387687d1657ad9"
-                
-                }
-            ]
-         },
 {
            "league": "Laliga",
             "date": "November 6",
@@ -111,6 +47,11 @@
                 "livelink":"https://ingest4-8121.boxcast.com/foamy-boat/o4sjmjtad1wb6j5mlofb/480p-byteranges-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbmdlc3Q0LTgxMjEuYm94Y2FzdC5jb20vZm9hbXktYm9hdC9vNHNqbWp0YWQxd2I2ajVtbG9mYi80ODBwLWJ5dGVyYW5nZXMtZXh0Lm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2Njc4NDg0MzB9fX1dfQ__&Signature=Yfgbrojr7Vvqa5ABZX89qPb9C8N6yo1veyMlbm8Pk0taaXDb~oFRQ0MYyrUJ7HyTcgpkTt-swHh1K-ifd2-iKIWhnIjrRVgVgAmpO3UQK3zRliG4U93aenuPSanHuT3QYRdNraPffRovAfzMitmN5HQIP9qKMnw0CPw-W~yoFE3p4ZFvZJUh7UvCZGVuUDpNKYsKLdZm2yXUtPVMHIYz-be~slTmhywTojwJ5INMsMXZPpqjd4046H9YzFdYUuZhMRMsJCK3OgodMVFUigGDL2prPQ3IxU07LBrmat1jZ1HVoQojWqW25LeNWN~yHL4kePsLwojZosdd9u5~ESxfkw__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA"
          
                 },
+{
+                    "type": "Soco 2",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1667763509-0-0-861f939d89d123ba079ae01fe0b99391"
+         
+                }
 {
                     "type": "720 HD",
                 "livelink":"http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END"
