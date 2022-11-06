@@ -65,8 +65,8 @@
          
                 },
 {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1667756300-0-0-fa9d35c302029bfd33e1f0f8e9ab568a"
+                    "type": "SD",
+                "livelink":"https://live-ak.vimeocdn.com/exp=1667743387~acl=%2F55b30602-e6ea-4ac7-a825-a85a4d289347%2F%2A~hmac=6dabf5a41dd776e09a92c8c5ff852d91e2ccfb05ffdc1730c63ecbc2986d7a12/55b30602-e6ea-4ac7-a825-a85a4d289347/chunklist_b728000.m3u8?max_segments=10"
                 }
             ]
          },
