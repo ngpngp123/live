@@ -36,6 +36,11 @@
                 "livelink":"http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END"
                 },
 {
+                    "type": "Bein Premium",
+                "livelink":"http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101957"
+         
+                },
+{
                     "type": "Soco 1",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1667757089-0-0-d9359eff8579646eceb572aa0bcf005e"
          
