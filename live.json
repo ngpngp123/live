@@ -36,15 +36,7 @@
                 "livelink":"http://143.198.195.98:9000/1415/1415/1.m3u8"
          
                 },
-                {
-                    "type": "Eleven HD",
-                "livelink":"http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END"
-                },
-{
-                    "type": "Bein Premium",
-                "livelink":"http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/101957"
-         
-                },
+
 {
                     "type": "Smooth FHD",
                 "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753795"
