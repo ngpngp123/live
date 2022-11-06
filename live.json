@@ -104,7 +104,7 @@
                 },
                 {
                     "type": "Full HD",
-                "livelink":""
+                "livelink":"http://gyuunn.azureedge.net/scripts/NjA4OA==/1080p.m3u8"
                 }
             ]
          },
@@ -133,7 +133,7 @@
 {
            "league": "Premier League",
             "date": "November 6",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
             "teams" : "West Ham Vs Crystal Palace",
@@ -143,7 +143,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-431228.m3u8?auth_key=1667763500-0-0-dae4c5e72b8055da48e2a1b942075d48"
                 },
                 {
                     "type": "HD",
