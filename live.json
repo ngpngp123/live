@@ -31,8 +31,8 @@
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "BEIN sport FHD",
-                "livelink":"http://143.198.195.98:9000/1415/1415/1.m3u8"
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1667755400-0-0-0a5d2a36bcb74bc3a627e321ba2790ad"
                 },
                 {
                     "type": "Eleven HD",
