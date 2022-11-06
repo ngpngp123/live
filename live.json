@@ -45,7 +45,7 @@
 {
            "league": "Ligue 1",
             "date": "November 6",
-            "time": "10:35 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
             "teams" : "Lille Vs Rennes",
@@ -55,16 +55,9 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://hls1.yuanzhi.org.cn/live/H1107756.m3u8?txSecret=960b97ec7f04634e388d7ad72b70b4ea&txTime=636916E4&_s=stream"
                 }
+                
             ]
          },
 {
