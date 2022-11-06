@@ -95,21 +95,14 @@
                 {
                     "type": "SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-431228.m3u8?auth_key=1667763500-0-0-dae4c5e72b8055da48e2a1b942075d48"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
                 }
+                
             ]
          },
 {
            "league": "Bundesliga",
             "date": "November 6",
-            "time": "9:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
             "teams" : "Leverkusen Vs Union Berlin",
@@ -119,15 +112,8 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1667765180-0-0-00ff72ff174b332e45e54f331a7d67c7"
+                
                 }
             ]
          },
