@@ -28,7 +28,7 @@
 {
            "league": "Premier League",
             "date": "November 6",
-            "time": "6:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "teams" : "Chelsea Vs Arsenal",
@@ -37,15 +37,15 @@
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "SD",
-                "livelink":"0"
+                    "type": "BEIN sport FHD",
+                "livelink":"http://143.198.195.98:9000/1415/1415/1.m3u8"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "Eleven HD",
+                "livelink":"http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END"
                 },
                 {
-                    "type": "Full HD",
+                    "type": "Wait Full HD",
                 "livelink":"0"
                 }
             ]
