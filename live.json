@@ -30,10 +30,7 @@
             "ateam" : "Arsenal",
          "hotmat":"yes",
             "link":[
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1667755400-0-0-0a5d2a36bcb74bc3a627e321ba2790ad"
-                },
+                
                 {
                     "type": "Eleven HD",
                 "livelink":"http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END"
@@ -41,6 +38,10 @@
                 {
                     "type": "Soco",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1667159968-0-0-e7b460091c1658257042bb6d9fc11673"
+                },
+{
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1667756300-0-0-fa9d35c302029bfd33e1f0f8e9ab568a"
                 }
             ]
          },
