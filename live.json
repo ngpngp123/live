@@ -108,6 +108,11 @@
                 },
 {
                     "type": "720 HD",
+                "livelink":"https://ingest4-8121.boxcast.com/foamy-boat/o4sjmjtad1wb6j5mlofb/480p-byteranges-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9pbmdlc3Q0LTgxMjEuYm94Y2FzdC5jb20vZm9hbXktYm9hdC9vNHNqbWp0YWQxd2I2ajVtbG9mYi80ODBwLWJ5dGVyYW5nZXMtZXh0Lm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2Njc4NDg0MzB9fX1dfQ__&Signature=Yfgbrojr7Vvqa5ABZX89qPb9C8N6yo1veyMlbm8Pk0taaXDb~oFRQ0MYyrUJ7HyTcgpkTt-swHh1K-ifd2-iKIWhnIjrRVgVgAmpO3UQK3zRliG4U93aenuPSanHuT3QYRdNraPffRovAfzMitmN5HQIP9qKMnw0CPw-W~yoFE3p4ZFvZJUh7UvCZGVuUDpNKYsKLdZm2yXUtPVMHIYz-be~slTmhywTojwJ5INMsMXZPpqjd4046H9YzFdYUuZhMRMsJCK3OgodMVFUigGDL2prPQ3IxU07LBrmat1jZ1HVoQojWqW25LeNWN~yHL4kePsLwojZosdd9u5~ESxfkw__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA"
+         
+                },
+{
+                    "type": "720 HD",
                 "livelink":"http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END"
          
                 }
