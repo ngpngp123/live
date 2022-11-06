@@ -34,6 +34,10 @@
                 {
                     "type": "SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1667771240-0-0-a449c1b8ce00babf6205e974649618f5"
+                },
+{
+                    "type": "HD",
+                "livelink":"http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts"
                 }
                 
             ]
