@@ -105,6 +105,11 @@
                 {
                     "type": "Full HD",
                 "livelink":"http://gyuunn.azureedge.net/scripts/NjA4OA==/1080p.m3u8"
+                },
+{
+                    "type": "720 HD",
+                "livelink":"http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EMQU5EUk9JRF9MaXZlEgZU.v...wEWDJ8_/Level(2100000)?start=LIVE&end=END"
+         
                 }
             ]
          },
