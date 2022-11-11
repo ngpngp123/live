@@ -1,121 +1,163 @@
 [
-
-
-
+{
+           "league": "Premier League",
+            "date": "November 12",
+            "time": "7:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+            "teams" : "Man City Vs Brentford",
+            "hteam" : "Man City",
+            "ateam" : "Brentford",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Serie A",
+            "date": "November 12",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+            "teams" : "Napoli Vs Udinese",
+            "hteam" : "Napoli",
+            "ateam" : "Udinese",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
 {
            "league": "Bundesliga",
-            "date": "November 6",
-            "time": "live",
+            "date": "November 12",
+            "time": "9:00 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
-            "teams" : "Leverkusen Vs Union Berlin",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
+            "teams" : "Leverkusen Vs Stuttgart",
             "hteam" : "Leverkusen",
-            "ateam" : "Union Berlin",
+            "ateam" : "Stuttgart",
          "hotmat":"no",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1667765180-0-0-00ff72ff174b332e45e54f331a7d67c7"
-                
-                }
-            ]
-         },
-{
-           "league": "Laliga",
-            "date": "November 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-            "teams" : "Real Sociedad Vs Valencia",
-            "hteam" : "Real Sociedad",
-            "ateam" : "Valencia",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1667771240-0-0-a449c1b8ce00babf6205e974649618f5"
+                "livelink":"0"
                 },
-{
+                {
                     "type": "HD",
-                "livelink":"http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts"
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
                 }
-                
             ]
          },
 {
-           "league": "Ligue 1",
-            "date": "November 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-            "teams" : "Lille Vs Rennes",
-            "hteam" : "Lille",
-            "ateam" : "Rennes",
+           "league": "Bundesliga",
+            "date": "November 12",
+            "time": "9:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+            "teams" : "Werder Bremen Vs RB Leipzig",
+            "hteam" : "Werder Bremen",
+            "ateam" : "RB Leipzig",
          "hotmat":"no",
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://hls1.yuanzhi.org.cn/live/H1107756.m3u8?txSecret=960b97ec7f04634e388d7ad72b70b4ea&txTime=636916E4&_s=stream"
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
                 }
-                
             ]
          },
 {
            "league": "Premier League",
-            "date": "November 6",
-            "time": "live",
+            "date": "November 12",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
+            "teams" : "Liverpool Vs Southampton",
+            "hteam" : "Liverpool",
+            "ateam" : "Southampton",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "November 12",
+            "time": "9:30 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "teams" : "Tottenham Vs Liverpool",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+            "teams" : "Tottenham Vs Leeds",
             "hteam" : "Tottenham",
-            "ateam" : "Liverpool",
+            "ateam" : "Leeds",
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "Soco",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1667159968-0-0-e7b460091c1658257042bb6d9fc11673"
-                },
-                {
-                    "type": "Eng HD",
-                "livelink":"http://gyuunn.azureedge.net/scripts/NjA5MQ==/1080p.m3u8"
-                },
-                {
-                    "type": " English Full HD",
-                "livelink":"http://ujopo.azureedge.net/scripts/NjA5MQ==/1080p.m3u8"
-                },
-{
-                    "type": "Auto",
-                "livelink":"http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END"
-         
-                }
-            ]
-         },
-{
-           "league": "Bundesliga",
-            "date": "November 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
-            "teams" : "SC Freiburg Vs 1. FC Köln",
-            "hteam" : "SC Freiburg",
-            "ateam" : "1. FC Köln",
-         "hotmat":"no",
-            "link":[
-                {
                     "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-482760.m3u8?auth_key=1666560077-0-0-f8baca49809b926ee38ee56f0bf9df75"
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
                 }
             ]
          },
 {
-           "league": "Serie A",
-            "date": "November 6",
-            "time": "11:30 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
-            "teams" : "Roma Vs Lazio",
-            "hteam" : "Roma",
-            "ateam" : "Lazio",
+           "league": "Premier League",
+            "date": "November 12",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+            "teams" : "Bournemouth Vs Everton",
+            "hteam" : "Bournemouth",
+            "ateam" : "Everton",
          "hotmat":"no",
             "link":[
                 {
@@ -133,14 +175,14 @@
             ]
          },
 {
-           "league": "Laliga",
-            "date": "November 7",
-            "time": "00:00 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
-            "teams" : "Villarreal Vs Mallorca",
-            "hteam" : "Villarreal",
-            "ateam" : "Mallorca",
+           "league": "Premier League",
+            "date": "November 12",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+            "teams" : "Nottingham Vs Crystal Palace",
+            "hteam" : "Nottingham",
+            "ateam" : "Crystal Palace",
          "hotmat":"no",
             "link":[
                 {
@@ -158,15 +200,15 @@
             ]
          },
 {
-           "league": "Serie A",
-            "date": "November 7",
-            "time": "2:15 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-            "teams" : "Juventus Vs Inter",
-            "hteam" : "Juventus",
-            "ateam" : "Inter",
-         "hotmat":"yes",
+           "league": "Premier League",
+            "date": "November 12",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+            "teams" : "West Ham Vs Leicester",
+            "hteam" : "West Ham",
+            "ateam" : "Leicester",
+         "hotmat":"no",
             "link":[
                 {
                     "type": "SD",
@@ -184,13 +226,13 @@
          },
 {
            "league": "Ligue 1",
-            "date": "November 7",
-            "time": "2:15 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-            "teams" : "Marseille Vs Lyon",
-            "hteam" : "Marseille",
-            "ateam" : "Lyon",
+            "date": "November 12",
+            "time": "10:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
+            "teams" : "Lens Vs Clermont Foot",
+            "hteam" : "Lens",
+            "ateam" : "Clermont Foot",
          "hotmat":"no",
             "link":[
                 {
@@ -208,14 +250,114 @@
             ]
          },
 {
-           "league": "Laliga",
-            "date": "November 7",
-            "time": "2:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-            "teams" : "Real Betis Vs Sevilla",
-            "hteam" : "Real Betis",
-            "ateam" : "Sevilla",
+           "league": "Serie A",
+            "date": "November 12",
+            "time": "11:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
+            "teams" : "Sampdoria Vs Lecce",
+            "hteam" : "Sampdoria",
+            "ateam" : "Lecce",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "November 13",
+            "time": "00:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+            "teams" : "Newcastle Vs Chelsea",
+            "hteam" : "Newcastle",
+            "ateam" : "Chelsea",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Bundesliga",
+            "date": "November 13",
+            "time": "00:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+            "teams" : "Schalke 04 Vs Bayern München",
+            "hteam" : "Schalke 04",
+            "ateam" : "Bayern München",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "November 13",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+            "teams" : "Wolves Vs Arsenal",
+            "hteam" : "Wolves",
+            "ateam" : "Arsenal",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Serie A",
+            "date": "November 13",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
+            "teams" : "Bologna Vs Sassuolo",
+            "hteam" : "Bologna",
+            "ateam" : "Sassuolo",
          "hotmat":"no",
             "link":[
                 {
