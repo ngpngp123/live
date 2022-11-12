@@ -3,18 +3,6 @@
 
 
 
-{
-           "league": "Ligue 1",
-            "date": "November 12",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
-            "teams" : "Lens Vs Clermont Foot",
-            "hteam" : "Lens",
-            "ateam" : "Clermont Foot",
-         "hotmat":"no",
-            "link":[
-                {
 
 {
            "league": "Serie A",
@@ -41,7 +29,7 @@
 {
            "league": "Premier League",
             "date": "November 13",
-            "time": "liv6e",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "teams" : "Newcastle Vs Chelsea",
@@ -51,11 +39,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-116784_ld.m3u8?auth_key=1668293010-0-0-a3c0ccd9d76a916082a68fff4ef99a4a"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1668294030-0-0-3a92735530e6064944e66c4251963c1e"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1668293010-0-0-3274c793368b974957e72ed6fc07262c"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1668294030-0-0-1b0b7931a631a5f921b9d4545aa95bba"
                 },
                 {
                     "type": "wait Full HD",
