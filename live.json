@@ -98,37 +98,13 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/75102"
                 },
                 {
                     "type": "Full HD",
                 "livelink":"http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37368"
                 }
             ]
-         },
-{
-           "league": "Serie A",
-            "date": "November 13",
-            "time": "2:15 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
-            "teams" : "Bologna Vs Sassuolo",
-            "hteam" : "Bologna",
-            "ateam" : "Sassuolo",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
+
          }
 ]
