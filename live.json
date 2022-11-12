@@ -10,6 +10,11 @@
             "ateam" : "Brentford",
          "hotmat":"yes",
             "link":[
+{
+                    "type": "Soco HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1668276630-0-0-0d9922173fbf31186bc52e3c99c9f601"
+         
+                },
                 {
                     "type": "SD",
                 "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753796"
