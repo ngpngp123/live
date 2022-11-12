@@ -84,7 +84,7 @@
 {
            "league": "Premier League",
             "date": "November 13",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "teams" : "Wolves Vs Arsenal",
@@ -94,7 +94,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-123226_ld.m3u8?auth_key=1668298770-0-0-484f7cf8af3fdb62b4bd26f13726ffe1"
                 },
                 {
                     "type": "HD",
