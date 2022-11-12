@@ -2,50 +2,6 @@
 
 
 {
-           "league": "Bundesliga",
-            "date": "November 12",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
-            "teams" : "Leverkusen Vs Stuttgart",
-            "hteam" : "Leverkusen",
-            "ateam" : "Stuttgart",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-120778.m3u8?auth_key=1668284070-0-0-07c05a1e7164b701d20e53c779048c66"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-107307.m3u8?auth_key=1668284190-0-0-992803106edcf73c3b2db0066fc646f6"
-                },
-                {
-                    "type": "SD",
-                "livelink":"http://tv.allkaicerteam.com:8080/@Chopo31/iDW6zUuJNr/3937"
-                }
-            ]
-         },
-{
-           "league": "Bundesliga",
-            "date": "November 12",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-            "teams" : "Werder Bremen Vs RB Leipzig",
-            "hteam" : "Werder Bremen",
-            "ateam" : "RB Leipzig",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-106737.m3u8?auth_key=1668285150-0-0-4b2a9ecdf00007431853d149444da59a"
-                
-                
-                }
-            ]
-         },
-{
            "league": "Premier League",
             "date": "November 12",
             "time": "live",
@@ -203,7 +159,7 @@
 {
            "league": "Serie A",
             "date": "November 12",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
             "teams" : "Sampdoria Vs Lecce",
@@ -213,22 +169,19 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-104776_ld.m3u8?auth_key=1668293190-0-0-1e7037eab52b2b72dc4f17d4b3b060e7"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-104776_ld.m3u8?auth_key=1668293190-0-0-1e7037eab52b2b72dc4f17d4b3b060e7"
+                
                 }
             ]
          },
 {
            "league": "Premier League",
             "date": "November 13",
-            "time": "00:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "teams" : "Newcastle Vs Chelsea",
@@ -237,15 +190,15 @@
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "SD",
-                "livelink":"0"
+                    "type": "Soco SD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-116784_ld.m3u8?auth_key=1668293010-0-0-a3c0ccd9d76a916082a68fff4ef99a4a"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "Soco HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1668293010-0-0-3274c793368b974957e72ed6fc07262c"
                 },
                 {
-                    "type": "Full HD",
+                    "type": "wait Full HD",
                 "livelink":"0"
                 }
             ]
