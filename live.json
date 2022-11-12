@@ -1,112 +1,7 @@
 [
 
 
-{
-           "league": "Premier League",
-            "date": "November 12",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
-            "teams" : "Liverpool Vs Southampton",
-            "hteam" : "Liverpool",
-            "ateam" : "Southampton",
-         "hotmat":"yes",
-            "link":[
-{
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1668286470-0-0-eedcf23c342aa3b24acd993e7e73bd0c"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1668285270-0-0-a8a5eaa7bd461f65083d69a642ff11a2"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1668285561-0-0-29de775763b163c4ee1535b889823191"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://moon.meta-scores.com/ef065c1ab6_fhd2/ef065c1ab6_fhd2@720p.m3u8"
-                }
-            ]
-         },
-{
-           "league": "Premier League",
-            "date": "November 12",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-            "teams" : "Tottenham Vs Leeds",
-            "hteam" : "Tottenham",
-            "ateam" : "Leeds",
-         "hotmat":"yes",
-            "link":[
-{
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1668286590-0-0-ef78c1240e5626624641c3b33d3b5abf"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-121272.m3u8?auth_key=1668286170-0-0-6f268a35ef119422e9e3cb37243b031a"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1668285141-0-0-48b19f22d505a4dac44ef0da99bde667"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://moon.meta-scores.com/99b4a43a1e_fhd2/99b4a43a1e_fhd2@720p.m3u8"
-                }
-            ]
-         },
-{
-           "league": "Premier League",
-            "date": "November 12",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-            "teams" : "Bournemouth Vs Everton",
-            "hteam" : "Bournemouth",
-            "ateam" : "Everton",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "Soco",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-102933.m3u8?auth_key=1668286350-0-0-7f9f42a089f9cfad870715dfb8000046"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-284564.m3u8?auth_key=1668285861-0-0-a9d6c6076aa72bc2cfd3cddd00e8c9ab"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://moon.meta-scores.com/540f57781f/540f57781f@720p.m3u8"
-                }
-            ]
-         },
-{
-           "league": "Premier League",
-            "date": "November 12",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-            "teams" : "Nottingham Vs Crystal Palace",
-            "hteam" : "Nottingham",
-            "ateam" : "Crystal Palace",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "Soco",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-118582.m3u8?auth_key=1668286290-0-0-f2c2b64774262daecf6ff66496015d44"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1668285141-0-0-cfaafdfd28f0f8202b47c04060cdcf4e"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://moon.meta-scores.com/bd55172ebe/bd55172ebe@720p.m3u8"
-                }
+
 
 {
            "league": "Ligue 1",
@@ -120,16 +15,7 @@
          "hotmat":"no",
             "link":[
                 {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-104501.m3u8?auth_key=1668290490-0-0-f892e68058df5db5920e8fb21beca414"
-                },
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-104501_ld.m3u8?auth_key=1668290490-0-0-275bf21fa3f769def44c4cb482ba7f26"
-                }
-                
-            ]
-         },
+
 {
            "league": "Serie A",
             "date": "November 12",
