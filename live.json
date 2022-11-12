@@ -2,7 +2,7 @@
 {
            "league": "Premier League",
             "date": "November 12",
-            "time": "7:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
             "teams" : "Man City Vs Brentford",
@@ -12,15 +12,15 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753796"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753795"
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753794"
                 }
             ]
          },
