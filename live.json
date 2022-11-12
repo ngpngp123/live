@@ -1,30 +1,6 @@
 [
 
-{
-           "league": "Serie A",
-            "date": "November 12",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-            "teams" : "Napoli Vs Udinese",
-            "hteam" : "Napoli",
-            "ateam" : "Udinese",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "Soco",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1668282150-0-0-f731ceadd2dea6b92a0615ea4a7dea10"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-553612.m3u8?auth_key=1668282980-0-0-ed8dda882d8601bdd4934935e1e66abf"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://edge1.lbs.pw/hls/fut1/chunks.m3u8?nimblesessionid=13173366"
-                }
-            ]
-         },
+
 {
            "league": "Bundesliga",
             "date": "November 12",
@@ -205,7 +181,7 @@
 {
            "league": "Ligue 1",
             "date": "November 12",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
             "teams" : "Lens Vs Clermont Foot",
@@ -214,17 +190,14 @@
          "hotmat":"no",
             "link":[
                 {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-104501.m3u8?auth_key=1668290490-0-0-f892e68058df5db5920e8fb21beca414"
                 },
                 {
-                    "type": "Full HD",
-                "livelink":"0"
+                    "type": "SD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-104501_ld.m3u8?auth_key=1668290490-0-0-275bf21fa3f769def44c4cb482ba7f26"
                 }
+                
             ]
          },
 {
