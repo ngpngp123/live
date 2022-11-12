@@ -85,8 +85,8 @@
                 "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1668285270-0-0-a8a5eaa7bd461f65083d69a642ff11a2"
                 },
                 {
-                    "type": "wait HD",
-                "livelink":"0"
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1668285561-0-0-29de775763b163c4ee1535b889823191"
                 },
                 {
                     "type": "wait Full HD",
@@ -110,8 +110,8 @@
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1668285141-0-0-48b19f22d505a4dac44ef0da99bde667"
                 },
                 {
                     "type": "Full HD",
@@ -135,8 +135,8 @@
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-284564.m3u8?auth_key=1668285861-0-0-a9d6c6076aa72bc2cfd3cddd00e8c9ab"
                 },
                 {
                     "type": "Full HD",
@@ -160,8 +160,8 @@
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1668285141-0-0-cfaafdfd28f0f8202b47c04060cdcf4e"
                 },
                 {
                     "type": "Full HD",
@@ -172,7 +172,7 @@
 {
            "league": "Premier League",
             "date": "November 12",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
             "teams" : "West Ham Vs Leicester",
@@ -181,15 +181,15 @@
          "hotmat":"no",
             "link":[
                 {
-                    "type": "SD",
-                "livelink":"0"
+                    "type": "Soco HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-112310.m3u8?auth_key=1668285690-0-0-8cb872ce73bd24e4b40201227a15facc"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668285681-0-0-8986fe34eefd04da1d3463f1a76c1e4f"
                 },
                 {
-                    "type": "Full HD",
+                    "type": "Wait Full HD",
                 "livelink":"0"
                 }
             ]
