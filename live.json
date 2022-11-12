@@ -148,7 +148,7 @@
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://moon.meta-scores.com/540f57781f/540f57781f@720p.m3u8"
                 }
             ]
          },
@@ -173,7 +173,7 @@
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://moon.meta-scores.com/bd55172ebe/bd55172ebe@720p.m3u8"
                 }
             ]
          },
@@ -197,8 +197,8 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668285681-0-0-8986fe34eefd04da1d3463f1a76c1e4f"
                 },
                 {
-                    "type": "Wait Full HD",
-                "livelink":"0"
+                    "type": "Full HD",
+                "livelink":"https://moon.meta-scores.com/7f02f402f2/7f02f402f2@720p.m3u8"
                 }
             ]
          },
