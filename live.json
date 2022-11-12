@@ -97,7 +97,7 @@
 {
            "league": "Premier League",
             "date": "November 12",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "teams" : "Tottenham Vs Leeds",
@@ -106,8 +106,8 @@
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "SD",
-                "livelink":"0"
+                    "type": "Soco",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-121272.m3u8?auth_key=1668286170-0-0-6f268a35ef119422e9e3cb37243b031a"
                 },
                 {
                     "type": "China HD",
@@ -122,7 +122,7 @@
 {
            "league": "Premier League",
             "date": "November 12",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
             "teams" : "Bournemouth Vs Everton",
@@ -131,8 +131,8 @@
          "hotmat":"no",
             "link":[
                 {
-                    "type": "SD",
-                "livelink":"0"
+                    "type": "Soco",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-102933.m3u8?auth_key=1668286350-0-0-7f9f42a089f9cfad870715dfb8000046"
                 },
                 {
                     "type": "China HD",
@@ -147,7 +147,7 @@
 {
            "league": "Premier League",
             "date": "November 12",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
             "teams" : "Nottingham Vs Crystal Palace",
@@ -156,8 +156,8 @@
          "hotmat":"no",
             "link":[
                 {
-                    "type": "SD",
-                "livelink":"0"
+                    "type": "Soco",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-118582.m3u8?auth_key=1668286290-0-0-f2c2b64774262daecf6ff66496015d44"
                 },
                 {
                     "type": "China HD",
