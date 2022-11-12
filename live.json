@@ -11,6 +11,12 @@
          "hotmat":"yes",
             "link":[
 {
+                    "type": "Soco HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1668276275-0-0-cf7a685eee73ca711384ff950132af25"
+         
+                },
+
+{
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-423912.m3u8?auth_key=1668276741-0-0-3be7a07acbd5dbccbe8228913364e3de"
          
