@@ -80,8 +80,12 @@
             "ateam" : "Southampton",
          "hotmat":"yes",
             "link":[
-                {
+{
                     "type": "Soco SD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1668286590-0-0-ef78c1240e5626624641c3b33d3b5abf"
+                },
+                {
+                    "type": "Soco HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1668285270-0-0-a8a5eaa7bd461f65083d69a642ff11a2"
                 },
                 {
