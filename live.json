@@ -116,7 +116,7 @@
 {
            "league": "Serie A",
             "date": "November 13",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
             "teams" : "AC Milan Vs Fiorentina",
@@ -126,22 +126,18 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"j"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-104776_ld.m3u8?auth_key=1668380130-0-0-29c566aaee0c343e9ce34ec835c404ff"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-104776.m3u8?auth_key=1668380130-0-0-15044d97efecd6766f12d08002fb9500"
                 }
             ]
          },
 {
            "league": "Serie A",
-            "date": "November 13",
-            "time": "2:15 AM",
+            "date": "2.15AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
             "teams" : "Juventus Vs Lazio",
@@ -151,22 +147,22 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-114959_ld.m3u8?auth_key=1668380250-0-0-c8a3eb8c30df1871c637513c92a8098e"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1668380250-0-0-c45ebaa9f1bea46e6a98c35d85a1de67"
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-143449.m3u8?auth_key=1668380310-0-0-c8083d55484aa088abf757260f7a708f"
                 }
             ]
          },
 {
            "league": "Ligue 1",
-            "date": "November 13",
-            "time": "2:15 AM",
+            "date": "2:12AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
             "teams" : "Monaco Vs Marseille",
@@ -176,15 +172,12 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-116784_ld.m3u8?auth_key=1668380310-0-0-9547ab4882b9a4c19d07ad4def72b3b8"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1668380310-0-0-afc87fe8ebb1c7f9ed851a1df5da10a7"
+                
                 }
             ]
          }
