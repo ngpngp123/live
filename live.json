@@ -160,6 +160,31 @@
             ]
          },
 {
+           "league": "Bundesliga",
+            "date": "November 13",
+            "time": "9:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
+            "teams" : "Mainz 05 Vs Frankfurt",
+            "hteam" : "Mainz 05",
+            "ateam" : "Frankfurt",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
            "league": "Ligue 1",
             "date": "November 13",
             "time": "10:35 PM",
