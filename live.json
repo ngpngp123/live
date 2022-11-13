@@ -1,120 +1,37 @@
 [
-
-
-
-
-
 {
-           "league": "Serie A",
-            "date": "November 12",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
-            "teams" : "Sampdoria Vs Lecce",
-            "hteam" : "Sampdoria",
-            "ateam" : "Lecce",
-         "hotmat":"no",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-104776_ld.m3u8?auth_key=1668293190-0-0-1e7037eab52b2b72dc4f17d4b3b060e7"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-104776_ld.m3u8?auth_key=1668293190-0-0-1e7037eab52b2b72dc4f17d4b3b060e7"
                 
-                }
-            ]
-         },
 {
-           "league": "Premier League",
-            "date": "November 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "teams" : "Newcastle Vs Chelsea",
-            "hteam" : "Newcastle",
-            "ateam" : "Chelsea",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1668294030-0-0-3a92735530e6064944e66c4251963c1e"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1668294030-0-0-1b0b7931a631a5f921b9d4545aa95bba"
-                },
-                {
-                    "type": "Eng HD",
-                "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/749508"
-                },
-{
-                    "type": "BEIN HD",
-                "livelink":"http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/89335"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
          
-                }
-            ]
-         },
+                },
+                
 {
-           "league": "Bundesliga",
-            "date": "November 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-            "teams" : "Schalke 04 Vs Bayern München",
-            "hteam" : "Schalke 04",
-            "ateam" : "Bayern München",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-123226_ld.m3u8?auth_key=1668294750-0-0-e4359e6d94ee4ab6d3fff5dec23ce66b"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1668294750-0-0-04653ff47f65dcebddf012089c6eeabb"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SiNbpNnLSCs2raDBBlJ75L12xCcWfMUpyovA8KCk83tc"
-                }
-            ]
-         },
-{
-           "league": "Premier League",
-            "date": "November 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "teams" : "Wolves Vs Arsenal",
-            "hteam" : "Wolves",
-            "ateam" : "Arsenal",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-123226_ld.m3u8?auth_key=1668298770-0-0-484f7cf8af3fdb62b4bd26f13726ffe1"
-                },
-                {
-                    "type": "HD",
-                "livelink":"http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/75102"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/37368"
-                },
-{
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-201986.m3u8?auth_key=1668299070-0-0-209ec430dd25aff33ec8806418f4134e"
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
          
                 },
 {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-201986_ld.m3u8?auth_key=1668299070-0-0-bd3eaf0a9b0e5e9c2fb635dea0a4c173"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
          
+                },
+{
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
+                
             ]
-
-         }
+}
 ]
