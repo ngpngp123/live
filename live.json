@@ -76,7 +76,7 @@
 {
            "league": "Premier League",
             "date": "November 13",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "teams" : "Fulham Vs Man United",
@@ -86,15 +86,15 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1668373050-0-0-fc93b75a9823314f0c28b57558da9ae4"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-121256_ld.m3u8?auth_key=1668376710-0-0-00de933ca42e11470eab08a3b8a6ea1a"
                 },
                 {
                     "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1668373050-0-0-226c120fbb074fda4c8423565dfa466b"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1668376710-0-0-971830404ccd6906c60e0cf25a9d0fa2"
                 },
                 {
-                    "type": "Full HD",
-                "livelink":"0"
+                    "type": "soco SD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1668373050-0-0-fc93b75a9823314f0c28b57558da9ae4"
                 }
             ]
          },
