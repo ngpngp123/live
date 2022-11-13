@@ -34,31 +34,7 @@
                 
             ]
 },
-{
-           "league": "Serie A",
-            "date": "November 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-            "teams" : "Atalanta Vs Inter",
-            "hteam" : "Atalanta",
-            "ateam" : "Inter",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-201986_ld.m3u8?auth_key=1668359610-0-0-324ce74dd8f77f8b75727f5fd586202f"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-201986.m3u8?auth_key=1668359610-0-0-7f7414a6666fba7ede394fa2c20431c8"
-                },
-                {
-                    "type": "ENG HD",
-                "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/753799"
-                }
-            ]
-         },
+
 {
            "league": "Ligue 1",
             "date": "November 13",
@@ -97,7 +73,7 @@
 {
            "league": "Premier League",
             "date": "November 13",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
             "teams" : "Brighton Vs Aston Villa",
@@ -107,11 +83,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1668367890-0-0-7aa1fa9946fd86358aed958e7f72703e"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1668367890-0-0-f2d0778ac8d99241f70295b288ac3681"
                 },
                 {
                     "type": "Full HD",
@@ -122,7 +98,7 @@
 {
            "league": "Serie A",
             "date": "November 13",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
             "teams" : "Roma Vs Torino",
@@ -132,11 +108,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1668367950-0-0-c2f29008540ba8f4ed98b66983a64202"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1668367950-0-0-a5add62c3517cfb4e301111c3378b7be"
                 },
                 {
                     "type": "Full HD",
@@ -147,7 +123,7 @@
 {
            "league": "Ligue 1",
             "date": "November 13",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
             "teams" : "Montpellier Vs Reims",
@@ -157,11 +133,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-109053_ld.m3u8?auth_key=1668368130-0-0-4607167a1e9ad70366ec3efc4f539d8f"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-109053.m3u8?auth_key=1668368130-0-0-0884e67a16429bd76f83f1ec2729537a"
                 },
                 {
                     "type": "Full HD",
