@@ -1,30 +1,5 @@
 [
 
-{
-           "league": "Serie A",
-            "date": "November 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
-            "teams" : "Roma Vs Torino",
-            "hteam" : "Roma",
-            "ateam" : "Torino",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1668367950-0-0-c2f29008540ba8f4ed98b66983a64202"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1668367950-0-0-a5add62c3517cfb4e301111c3378b7be"
-                },
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2445688_ld.m3u8?auth_key=1668368421-0-0-f0cbbee2fdde4c42a65e0dff5df9d68a"
-                }
-            ]
-         },
 
 {
            "league": "Bundesliga",
@@ -95,6 +70,11 @@
                 {
                     "type": "soco SD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1668373050-0-0-fc93b75a9823314f0c28b57558da9ae4"
+                },
+{
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-558696_ld.m3u8?auth_key=1668377001-0-0-eda8fd20d4e6a434066261f321a78bc3"
+         
                 }
             ]
          },
