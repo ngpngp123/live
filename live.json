@@ -58,6 +58,11 @@
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-535588_ld.m3u8?auth_key=1668368301-0-0-181b9764d6859b9bb6d115c3d4681131"
+                },
+{
+                    "type": "Bein HD",
+                "livelink":"http://128.199.216.200:9000/KMA/thuta/1.m3u8"
+         
                 }
             ]
          },
