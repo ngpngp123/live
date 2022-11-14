@@ -3,13 +3,13 @@
 
 {
            "league": "Bundesliga",
-            "date": "November 13",
-            "time": "live",
+            "date": "update",
+            "time": "update",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
             "teams" : "Mainz 05 Vs Frankfurt",
-            "hteam" : "Mainz 05",
-            "ateam" : "Frankfurt",
+            "hteam" : "fot",
+            "ateam" : "live",
          "hotmat":"no",
             "link":[
                 {
@@ -23,161 +23,6 @@
                 {
                     "type": "Full HD",
                 "livelink":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8yactgLcAekKc29ct9hkkd"
-                }
-            ]
-         },
-{
-           "league": "Ligue 1",
-            "date": "November 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
-            "teams" : "Strasbourg Vs Lorient",
-            "hteam" : "Strasbourg",
-            "ateam" : "Lorient",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-105225_ld.m3u8?auth_key=1668376590-0-0-7b787fd57680402a46e1864be27d5a63"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-105225.m3u8?auth_key=1668376590-0-0-2e89527bd9ba7eda82dfb1cc671a441e"
-                }
-                
-            ]
-         },
-{
-           "league": "Premier League",
-            "date": "November 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "teams" : "Fulham Vs Man United",
-            "hteam" : "Fulham",
-            "ateam" : "Man United",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-121256_ld.m3u8?auth_key=1668376710-0-0-00de933ca42e11470eab08a3b8a6ea1a"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1668376710-0-0-971830404ccd6906c60e0cf25a9d0fa2"
-                },
-                {
-                    "type": "soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1668373050-0-0-fc93b75a9823314f0c28b57558da9ae4"
-                },
-{
-                    "type": "English FHD",
-                "livelink":"https://hgdsxzv.azureedge.net/live/usa/chunks.m3u8"
-                },
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-558696_ld.m3u8?auth_key=1668377001-0-0-eda8fd20d4e6a434066261f321a78bc3"
-         
-                },
-{
-                    "type": "BEIN English HD",
-                "livelink":"http://128.199.216.200:9000/KMA/thuta/1.m3u8"
-         
-                }
-            ]
-         },
-{
-           "league": "Bundesliga",
-            "date": "November 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
-            "teams" : "SC Freiburg Vs Union Berlin",
-            "hteam" : "SC Freiburg",
-            "ateam" : "Union Berlin",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1668377481-0-0-9616062e4f0833bd0e5f04d7de0c4ba7"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1668377481-0-0-a7f82e83c00e9c1248f73e3a2231aab4"
-                },
-{
-                    "type": "English SD",
-                "livelink":"http://teeveetv.one:2052/AnTuKdIreCts647479/VUF6kK3DnyPS/749492"
-                }
-                
-            ]
-         },
-{
-           "league": "Serie A",
-            "date": "November 13",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-            "teams" : "AC Milan Vs Fiorentina",
-            "hteam" : "AC Milan",
-            "ateam" : "Fiorentina",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-104776_ld.m3u8?auth_key=1668380130-0-0-29c566aaee0c343e9ce34ec835c404ff"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-104776.m3u8?auth_key=1668380130-0-0-15044d97efecd6766f12d08002fb9500"
-                }
-            ]
-         },
-{
-           "league": "Serie A",
-            "date": "2.15AM",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
-            "teams" : "Juventus Vs Lazio",
-            "hteam" : "Juventus",
-            "ateam" : "Lazio",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-114959_ld.m3u8?auth_key=1668380250-0-0-c8a3eb8c30df1871c637513c92a8098e"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1668380250-0-0-c45ebaa9f1bea46e6a98c35d85a1de67"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-143449.m3u8?auth_key=1668380310-0-0-c8083d55484aa088abf757260f7a708f"
-                }
-            ]
-         },
-{
-           "league": "Ligue 1",
-            "date": "2:12AM",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
-            "teams" : "Monaco Vs Marseille",
-            "hteam" : "Monaco",
-            "ateam" : "Marseille",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-116784_ld.m3u8?auth_key=1668380310-0-0-9547ab4882b9a4c19d07ad4def72b3b8"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1668380310-0-0-afc87fe8ebb1c7f9ed851a1df5da10a7"
-                
                 }
             ]
          }
