@@ -1,29 +1,37 @@
 [
-
-
 {
-           "league": "Bundesliga",
-            "date": "update",
-            "time": "update",
-            "himg": "https://3photos6.files.wordpress.com/2022/08/5-1.gif",
-            "aimg": "https://3photos6.files.wordpress.com/2022/08/5-1.gif",
-            "teams" : "Mainz Vs Frankfurt",
-            "hteam" : "fot",
-            "ateam" : "live",
-         "hotmat":"no",
+           "league": "MAN U",
+            "date": "TV Channel",
+            "time": "live",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Manchester United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-102933.m3u8?auth_key=1668371010-0-0-d73a96718e30bf80fff8bbdf3632cea5"
+                
+{
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
                 },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-102933.m3u8?auth_key=1668371010-0-0-d73a96718e30bf80fff8bbdf3632cea5"
+                
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
                 },
-                {
-                    "type": "Full HD",
-                "livelink":"http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8yactgLcAekKc29ct9hkkd"
+{
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
+                
             ]
-         }
+}
 ]
