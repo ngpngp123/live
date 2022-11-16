@@ -55,8 +55,8 @@
                 "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1668619830-0-0-3589249308fb9c21eaa2d5430941fb2d"
                 },
                 {
-                    "type": "Wait Full HD",
-                "livelink":"0"
+                    "type": "Full HD",
+                "livelink":"https://moon.meta-scores.com/942b3b1b2e/942b3b1b2e@720p.m3u8"
                 }
             ]
          },
