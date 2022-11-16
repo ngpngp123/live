@@ -33,5 +33,155 @@
                 }
                 
             ]
-}
+},
+{
+           "league": "World Cup Friendly",
+            "date": "November 16",
+            "time": "10:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5789_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
+            "teams" : "UAE Vs Argentina",
+            "hteam" : "UAE",
+            "ateam" : "Argentina",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "World Cup Friendly",
+            "date": "November 16",
+            "time": "11:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10045_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8255_small.png",
+            "teams" : "Andorra Vs Austria",
+            "hteam" : "Andorra",
+            "ateam" : "Austria",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "World Cup Friendly",
+            "date": "November 16",
+            "time": "11:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8496_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8269_small.png",
+            "teams" : "Czech Republic Vs Faroe Islands",
+            "hteam" : "Czech Republic",
+            "ateam" : "Faroe Islands",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "World Cup Friendly",
+            "date": "November 16",
+            "time": "11:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/430156_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583_small.png",
+            "teams" : "Kosovo Vs Armenia",
+            "hteam" : "Kosovo",
+            "ateam" : "Armenia",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "World Cup Friendly",
+            "date": "November 16",
+            "time": "11:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5794_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8566_small.png",
+            "teams" : "Moldova Vs Azerbaijan",
+            "hteam" : "Moldova",
+            "ateam" : "Azerbaijan",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "World Cup Friendly",
+            "date": "November 16",
+            "time": "11:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9762_small.png",
+            "teams" : "Poland Vs Chile",
+            "hteam" : "Poland",
+            "ateam" : "Chile",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         }
 ]
