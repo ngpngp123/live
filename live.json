@@ -34,28 +34,7 @@
                 
             ]
 },
-{
-           "league": "Myanmar National League",
-            "date": "November 16",
-            "time": "end",
-            "himg": "https://sta.cvndnss.com/file/common/20221116/975f5369c520251aa483fcb38d15a3fd.png",
-            "aimg": "https://sta.cvndnss.com/file/common/20221116/a64703f2703f2145c2c470e27a8fcbd7.png",
-            "teams" : "Shan United Vs ISPE FC",
-            "hteam" : "Shan United",
-            "ateam" : "ISPE FC",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-144861.m3u8?auth_key=1668613650-0-0-8ec276ba5f50649ce78fa7ffe15fe299"
-                },
-                
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-105225.m3u8?auth_key=1668613830-0-0-f33c3c724d1f0492aa3f31feb5024528"
-                }
-            ]
-         },
+
 {
            "league": "World Cup Friendly",
             "date": "November 16",
