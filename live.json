@@ -121,7 +121,7 @@
 {
            "league": "World Cup Friendly",
             "date": "November 16",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5824_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
             "teams" : "Oman Vs Germany",
@@ -131,14 +131,14 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1668638430-0-0-5ef645d4b5f7c5cc3719165605c37890"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1668638430-0-0-ac4849165f55664d46999c026136e9cb"
                 },
                 {
-                    "type": "Full HD",
+                    "type": "မရFull HD",
                 "livelink":"0"
                 }
             ]
@@ -146,7 +146,7 @@
 {
            "league": "World Cup Friendly",
             "date": "November 16",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10045_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8255_small.png",
             "teams" : "Andorra Vs Austria",
@@ -156,11 +156,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-121272_ld.m3u8?auth_key=1668638550-0-0-35155c74be96a6d1ad227e00318acb01"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-121272.m3u8?auth_key=1668638550-0-0-5f9004fed07deeba2319bc72d22c4ed1"
                 },
                 {
                     "type": "Full HD",
@@ -171,7 +171,7 @@
 {
            "league": "World Cup Friendly",
             "date": "November 16",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8496_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8269_small.png",
             "teams" : "Czech Republic Vs Faroe Islands",
@@ -181,11 +181,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-104776_ld.m3u8?auth_key=1668638670-0-0-9963bc2d3be77587bb827d9791d4bd07"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-104776.m3u8?auth_key=1668638670-0-0-e70ce2acf6e8d23c4f62f09032351d4a"
                 },
                 {
                     "type": "Full HD",
@@ -196,7 +196,7 @@
 {
            "league": "World Cup Friendly",
             "date": "November 16",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/430156_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583_small.png",
             "teams" : "Kosovo Vs Armenia",
@@ -206,11 +206,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-112565_ld.m3u8?auth_key=1668638790-0-0-e85274165eb08ed09c77d70cf837b32c"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-112565.m3u8?auth_key=1668638790-0-0-743d21705e84a4d0d14c607345c771ed"
                 },
                 {
                     "type": "Full HD",
@@ -256,11 +256,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-121256_ld.m3u8?auth_key=1668638850-0-0-fccf20feaef97aee9062e6001ccd8d7c"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1668638850-0-0-4dab8e7ff70f224feebdfdff153a32ef"
                 },
                 {
                     "type": "Full HD",
