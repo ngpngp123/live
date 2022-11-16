@@ -88,7 +88,7 @@
 {
            "league": "World Cup Friendly",
             "date": "November 16",
-            "time": "10:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5789_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
             "teams" : "UAE Vs Argentina",
@@ -98,15 +98,19 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8"
+                },
+{
+                    "type": "SD",
+                "livelink":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8"
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
                 }
             ]
          },
