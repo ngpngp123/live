@@ -138,6 +138,31 @@
            "league": "World Cup Friendly",
             "date": "November 16",
             "time": "11:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5824_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
+            "teams" : "Oman Vs Germany",
+            "hteam" : "Oman",
+            "ateam" : "Germany",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "World Cup Friendly",
+            "date": "November 16",
+            "time": "11:30 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10045_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8255_small.png",
             "teams" : "Andorra Vs Austria",
