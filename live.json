@@ -37,7 +37,7 @@
 {
            "league": "Myanmar National League",
             "date": "November 16",
-            "time": "live",
+            "time": "end",
             "himg": "https://sta.cvndnss.com/file/common/20221116/975f5369c520251aa483fcb38d15a3fd.png",
             "aimg": "https://sta.cvndnss.com/file/common/20221116/a64703f2703f2145c2c470e27a8fcbd7.png",
             "teams" : "Shan United Vs ISPE FC",
@@ -59,7 +59,7 @@
 {
            "league": "World Cup Friendly",
             "date": "November 16",
-            "time": "6:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7795_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",
             "teams" : "Saudi Arabia Vs Croatia",
@@ -69,14 +69,14 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1668619830-0-0-5e2312580bc97c0a7daa9a17e642bd44"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1668619830-0-0-3589249308fb9c21eaa2d5430941fb2d"
                 },
                 {
-                    "type": "Full HD",
+                    "type": "Wait Full HD",
                 "livelink":"0"
                 }
             ]
