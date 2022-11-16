@@ -98,15 +98,15 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1668632490-0-0-3ac581aff27f3d0ee389e1de11588acd"
                 },
 {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1668632241-0-0-1f72267475ad9858f5839ebd1c201367"
+                    "type": "HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1668632490-0-0-42a13b3c54bd1439d7b9b38e6392d305"
                 },
                 {
-                    "type": "HD",
-                "livelink":"https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8"
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1668632241-0-0-1f72267475ad9858f5839ebd1c201367"
                 },
                 {
                     "type": "Full HD",
