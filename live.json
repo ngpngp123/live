@@ -62,7 +62,7 @@
 {
            "league": "World Cup Friendly",
             "date": "November 17",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5807_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6327_small.png",
             "teams" : "Nicaragua Vs El Salvador",
@@ -72,16 +72,13 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-173024.m3u8?auth_key=1668671070-0-0-aabc479b109a47ff52a0e3a4c82607e7"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-173024_ld.m3u8?auth_key=1668671070-0-0-f2da911074d6d9d620b60bd62266ee8a"
                 }
+                
             ]
          }
 ]
