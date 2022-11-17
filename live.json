@@ -34,31 +34,7 @@
                 
             ]
 },
-{
-           "league": "World Cup Friendly",
-            "date": "November 17",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6714_small.png",
-            "teams" : "Switzerland Vs Ghana",
-            "hteam" : "Switzerland",
-            "ateam" : "Ghana",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-118206_ld.m3u8?auth_key=1668700710-0-0-33aff27722c41dd30ea0e765cbd02a0d"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-118206.m3u8?auth_key=1668700710-0-0-bd4bb911c41d377a9ca8548c014a3857"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://moon.meta-scores.com/efd58793d1/efd58793d1@720p.m3u8"
-                }
-            ]
-         },
+
 {
            "league": "World Cup Friendly",
             "date": "November 17",
