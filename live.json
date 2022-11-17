@@ -89,7 +89,7 @@
 {
            "league": "World Cup Friendly",
             "date": "November 17",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8495_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6383_small.png",
             "teams" : "Malta Vs Greece",
@@ -99,11 +99,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-113906.m3u8?auth_key=1668724770-0-0-97cc28165e53da7318024b91896452f0"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-113906_ld.m3u8?auth_key=1668724770-0-0-0dae934812a999998af72d70f74a1ab0"
                 },
                 {
                     "type": "Full HD",
@@ -114,7 +114,7 @@
 {
            "league": "World Cup Friendly",
             "date": "November 17",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8260_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
             "teams" : "North Macedonia Vs Finland",
@@ -124,11 +124,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-100684_ld.m3u8?auth_key=1668724710-0-0-e8004c94a522acd166354119521b026b"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-100684.m3u8?auth_key=1668724710-0-0-3488de67cdfb9993840decbd72857af4"
                 },
                 {
                     "type": "Full HD",
@@ -139,7 +139,7 @@
 {
            "league": "World Cup Friendly",
             "date": "November 18",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6346_small.png",
             "teams" : "Portugal Vs Nigeria",
@@ -149,11 +149,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1668724470-0-0-872f25a7c485b4794264f461d9304b36"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1668724470-0-0-7f44052aa64fd6decabfb00619b3bee6"
                 },
                 {
                     "type": "Full HD",
@@ -164,7 +164,7 @@
 {
            "league": "World Cup Friendly",
             "date": "November 18",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5791_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
             "teams" : "Ireland Vs Norway",
@@ -174,15 +174,12 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-214855_ld.m3u8?auth_key=1668724530-0-0-7bab8f368686774a862a85584c898880"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-214855.m3u8?auth_key=1668724530-0-0-50e66a925c4ac1bd4e1c0c9cd254d476"
+                
                 }
             ]
          }
