@@ -47,12 +47,12 @@
          "hotmat":"no",
             "link":[
                 {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-181398_ld.m3u8?auth_key=1668712410-0-0-6c75e6b68ac22482b22e6a93d729f1a9"
+                    "type": "HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1668717990-0-0-38ddc1488cc22231e12df5e2d6abbd8d"
                 },
                 {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-181398.m3u8?auth_key=1668712410-0-0-59b39211b7b8d48ea14959dedb2cf6c7"
+                    "type": "SD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-123226_ld.m3u8?auth_key=1668717990-0-0-28652491a922f966bd243f1fa4b636dc"
                 },
                 {
                     "type": "Full HD",
