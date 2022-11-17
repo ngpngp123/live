@@ -64,31 +64,6 @@
 {
            "league": "World Cup Friendly",
             "date": "November 17",
-            "time": "9:30 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5898_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8713_small.png",
-            "teams" : "Tajikistan Vs Russia",
-            "hteam" : "Tajikistan",
-            "ateam" : "Russia",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
-                }
-            ]
-         },
-{
-           "league": "World Cup Friendly",
-            "date": "November 17",
             "time": "10:30 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5816_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
