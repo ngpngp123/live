@@ -105,6 +105,16 @@
                     "type": "HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1668724470-0-0-7f44052aa64fd6decabfb00619b3bee6"
                 },
+{
+                    "type": "720 HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668729561-0-0-664278bde213052f18171109c998a447"
+         
+                },
+{
+                    "type": "360 SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1668729561-0-0-e4a7c8e5819f6cd18d2756794a67d70b"
+         
+                },
                 {
                     "type": "Bein HD",
                 "livelink":"http://sniperstv.vip:8080/CAFyScgh64vu/JzRcJNXdBMHw/34030"
