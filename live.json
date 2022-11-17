@@ -98,7 +98,7 @@
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "1နာရီမှ ရမည်SD",
+                    "type": "SD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1668724470-0-0-872f25a7c485b4794264f461d9304b36"
                 },
                 {
@@ -118,6 +118,10 @@
                 {
                     "type": "Bein HD",
                 "livelink":"http://sniperstv.vip:8080/CAFyScgh64vu/JzRcJNXdBMHw/34030"
+                },
+{
+                    "type": "Full HD",
+                "livelink":"http://185.236.229.13:4000/play/a040"
                 }
             ]
          },
