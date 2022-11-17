@@ -37,7 +37,7 @@
 {
            "league": "World Cup Friendly",
             "date": "November 17",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5798_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6724_small.png",
             "teams" : "Peru Vs Paraguay",
@@ -47,15 +47,15 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-100377.m3u8?auth_key=1668667830-0-0-3f526e1e14bca0226489d7f2d93b0e1f"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-100377_ld.m3u8?auth_key=1668667830-0-0-04b50c97ae5a7c2e809f11b4fbd87c30"
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://moon.meta-scores.com/d55bfdb529/d55bfdb529@720p.m3u8"
                 }
             ]
          },
