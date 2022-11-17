@@ -33,9 +33,82 @@
                 }
                 
             ]
-}
-
-
+},
+{
+           "league": "INT.Friendly",
+            "date": "November 18",
+            "time": "4:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6629_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5922_small.png",
+            "teams" : "Cameroon Vs Panama",
+            "hteam" : "Cameroon",
+            "ateam" : "Panama",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "INT.Friendly",
+            "date": "November 18",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10255_small.png",
+            "teams" : "Belgium Vs Egypt",
+            "hteam" : "Belgium",
+            "ateam" : "Egypt",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "INT.Friendly",
+            "date": "November 18",
+            "time": "10:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5901_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",
+            "teams" : "Bahrain Vs Serbia",
+            "hteam" : "Bahrain",
+            "ateam" : "Serbia",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         }
 
 ]
 
