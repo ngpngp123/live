@@ -62,8 +62,8 @@
          },
 {
            "league": "INT.Friendly",
-            "date": "November 18",
-            "time": "10:00 PM",
+            "date": "Nov 18(10:00 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5901_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",
             "teams" : "Bahrain Vs Serbia",
@@ -73,11 +73,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-116784_ld.m3u8?auth_key=1668805410-0-0-3a2976260dc1fb473d5cd5cfe761ef33"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1668805410-0-0-bae59be3b4b0ff90a0915e1811f79767"
                 },
                 {
                     "type": "Full HD",
