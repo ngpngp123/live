@@ -37,7 +37,7 @@
 {
            "league": "INT.Friendly",
             "date": "November 18",
-            "time": "4:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6629_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5922_small.png",
             "teams" : "Cameroon Vs Panama",
@@ -47,11 +47,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-121256_ld.m3u8?auth_key=1668786570-0-0-3d382c38f9e018270a386266007d9260"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1668786570-0-0-9747fcb411597f27ab99a22d86590baf"
                 },
                 {
                     "type": "Full HD",
