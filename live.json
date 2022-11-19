@@ -33,7 +33,81 @@
                 }
                 
             ]
-}
-
+},
+{
+           "league": "Int.Friendly",
+            "date": "November 19",
+            "time": "10:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5789_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8265_small.png",
+            "teams" : "UAE Vs Kazakhstan",
+            "hteam" : "UAE",
+            "ateam" : "Kazakhstan",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Int.Friendly",
+            "date": "November 19",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10024_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583_small.png",
+            "teams" : "Albania Vs Armenia",
+            "hteam" : "Albania",
+            "ateam" : "Armenia",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Int.Friendly",
+            "date": "November 19",
+            "time": "11:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6595_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8496_small.png",
+            "teams" : "Turkiye Vs Czech Republic",
+            "hteam" : "Turkiye",
+            "ateam" : "Czech Republic",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         }
 ]
 
