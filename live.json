@@ -45,8 +45,13 @@
             "ateam" : "Championship",
             "hotmat":"yes",
             "link":[
+                             {
+                    "type": "HD 1",
+                "livelink":"http://myfuturetv.com:8080/drmmaster/restream2022/36835"
+         
+                }
                        {
-                    "type": "HD",
+                    "type": "HD 2",
                 "livelink":"http://fotlivefotlivefotlivefotlivefotlivefotli.duckdns.org:9000/KMA/thuta/18.m3u8"
          
                 }
