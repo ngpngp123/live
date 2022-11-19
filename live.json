@@ -34,42 +34,7 @@
                 
             ]
 },
-           {
-           "league": "Live Now",
-            "date": "One Championship",
-            "time": "live",
-            "himg": "https://www.onefc.com/wp-content/uploads/2021/04/live-in-hd-one-on-tnt-iv-faceoffs-600x338.jpg",
-            "aimg": "https://www.onefc.com/wp-content/uploads/2021/04/live-in-hd-one-on-tnt-iv-faceoffs-600x338.jpg",
-            "teams" : "Manchester United TV",
-            "hteam" : "One",
-            "ateam" : "Championship",
-            "hotmat":"yes",
-            "link":[
-                            {
-                    "type": "SD",
-                "livelink":"http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/82628"
-         
-                },
-                            {
-                    "type": "HD 1",
-                "livelink":"http://fotlivefotlivefotlivefotlivefotlivefotli.duckdns.org:9000/KMA/thuta/18.m3u8"
-         
-                },
-                            {
-                    "type": "Auto",
-                "livelink":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1668884298/ei/6tJ4Y-u8AcOe3LUPt4i0kAc/ip/202.165.90.131/id/AEUaYjAY4Og.3~45367092/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/mm/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOYKdhXz8JdlWchOGwfQJl4YmqFJmDmpAYswuFA9yaWDAiEA1yAEmW1z-sViDF6eF0wCp4Can2nQ4o7rbGFO89qvcJ0%3D/file/index.m3u8"
-         
-                },
-                               {
-                    "type": "HD 2",
-                "livelink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941755&extension=ts&play_token=EsigBOh3mS"
-         
-                }
-                   
-                  
-                
-            ]
-},
+           
 {
            "league": "Int.Friendly",
             "date": "November 19",
