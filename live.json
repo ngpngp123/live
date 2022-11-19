@@ -37,12 +37,12 @@
            {
            "league": "Live Now",
             "date": "One Championship",
-            "time": "Wait",
+            "time": "live",
             "himg": "https://www.onefc.com/wp-content/uploads/2021/04/live-in-hd-one-on-tnt-iv-faceoffs-600x338.jpg",
             "aimg": "https://www.onefc.com/wp-content/uploads/2021/04/live-in-hd-one-on-tnt-iv-faceoffs-600x338.jpg",
             "teams" : "Manchester United TV",
-            "hteam" : "One Championship",
-            "ateam" : "TV",
+            "hteam" : "One",
+            "ateam" : "Championship",
             "hotmat":"yes",
             "link":[
                        {
