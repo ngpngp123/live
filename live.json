@@ -47,13 +47,13 @@
             "link":[
                        {
                     "type": "HD",
-                "livelink":"http://ottsansat.com:25461/0518982908/0518982908/93729"
+                "livelink":"http://myfuturetv.com:8080/drmmaster/restream2022/36835"
          
                 },
                 
 {
                     "type": "AUTO",
-                "livelink":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1668848140/ei/rEV4Y9CjAoyFkwbM7qSwCA/ip/45.131.194.241/id/HGSLD-dryRw.2~45367092/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGYX80OUKv5IgSGJ_F3Yp6O9aSUzO0RLNwc--Oo9yl6kCIQDCLO1QKv7K2B7EWGfYMHW_8UDHZNlRYbaxKr9a5mK3Pg%3D%3D/file/index.m3u8"
+                "livelink":"http://ottsansat.com:25461/0518982908/0518982908/93729"
          
                 }
                 
