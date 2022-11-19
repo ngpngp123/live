@@ -33,58 +33,7 @@
                 }
                 
             ]
-},
-
-{
-           "league": "INT.Friendly",
-            "date": "Nov 18(9:30 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10255_small.png",
-            "teams" : "Belgium Vs Egypt",
-            "hteam" : "Belgium",
-            "ateam" : "Egypt",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1668803550-0-0-98467680ccd3d2fd965d7d41f476b05f"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1668803550-0-0-5680f40b09f4b9ae7c4b31078b6d7f0e"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://moon.meta-scores.com/efdad91572/efdad91572@720p.m3u8"
-                }
-            ]
-         },
-{
-           "league": "INT.Friendly",
-            "date": "Nov 18(10:00 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5901_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",
-            "teams" : "Bahrain Vs Serbia",
-            "hteam" : "Bahrain",
-            "ateam" : "Serbia",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-143449_ld.m3u8?auth_key=1668806910-0-0-8dde99f0a783452a53fc2b2138c79790"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-143449.m3u8?auth_key=1668806910-0-0-bdaf941f4756ee38d9f5fef21c68b408"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://moon.meta-scores.com/1045b94181/1045b94181@720p.m3u8"
-                }
-            ]
-         }
+}
 
 ]
 
