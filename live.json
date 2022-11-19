@@ -46,6 +46,11 @@
             "hotmat":"yes",
             "link":[
                             {
+                    "type": "SD",
+                "livelink":"http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/82628"
+         
+                },
+                            {
                     "type": "HD 1",
                 "livelink":"http://fotlivefotlivefotlivefotlivefotlivefotli.duckdns.org:9000/KMA/thuta/18.m3u8"
          
