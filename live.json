@@ -31,9 +31,9 @@
             "time": "10:30 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5902_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
-            "teams" : "Qatar Vs Ecuador",
-            "hteam" : "Qatar",
-            "ateam" : "Ecuador",
+            "teams" : "ကာတာ Vs အီကွေဒေါ",
+            "hteam" : "ကာတာ",
+            "ateam" : "အီကွေဒေါ",
          "hotmat":"yes",
             "link":[
                 {
@@ -56,9 +56,9 @@
             "time": "7:30 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",
-            "teams" : "England Vs Iran",
-            "hteam" : "England",
-            "ateam" : "Iran",
+            "teams" : "အင်္ဂလန် Vs အီရန်",
+            "hteam" : "အင်္ဂလန်",
+            "ateam" : "အီရန်",
          "hotmat":"yes",
             "link":[
                 {
@@ -81,9 +81,9 @@
             "time": "10:30 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
-            "teams" : "Senegal Vs Netherlands",
-            "hteam" : "Senegal",
-            "ateam" : "Netherlands",
+            "teams" : "ဆီနီဂေါ Vs နယ်သာလန်",
+            "hteam" : "ဆီနီဂေါ",
+            "ateam" : "နယ်သာလန်",
          "hotmat":"yes",
             "link":[
                 {
