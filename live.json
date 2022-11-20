@@ -24,6 +24,14 @@
                     "type": "Full HD",
                 "livelink":"http://5.182.229.90:8080/6521/index.m3u8"
                 },
+{
+                    "type": "SD",
+                "livelink":"https://tv.tas-ix.tv/hls/hujiyusilil_25.m3u8"
+                },
+{
+                    "type": "Bein",
+                "livelink":"http://red.ipfox.org:8080/live/Karam2022/Karam2023/52345.ts"
+                },
 
 {
                     "type": "China SD",
