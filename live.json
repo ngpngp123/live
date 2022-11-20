@@ -2,7 +2,7 @@
 {
            "league": "🏆ကမ္ဘာ့ဖလားဖွင့်ပွဲ",
             "date": "Nov 20",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10195.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10195.png",
             "teams" : "ကာတာနိုင်ငံ ကမ္ဘာ့ဖလားဖွင့်ပွဲအခမ်းအနား",
@@ -17,10 +17,6 @@
                 {
                     "type": "HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-201986.m3u8?auth_key=1668974011-0-0-12ff9acbf4a05db20ee7f97a46b7dad2"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
                 }
             ]
          },
