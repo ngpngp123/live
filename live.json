@@ -23,7 +23,18 @@
                 {
                     "type": "Full HD",
                 "livelink":"http://5.182.229.90:8080/6521/index.m3u8"
-                }
+                },
+
+{
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1668975862-0-0-ba9eb85b67b0a2bf0b3534afddd5fa9c"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668975862-0-0-138bdf3924a33da1dbd609a9063bd109"
+                
+            
+         }
             ]
          },
 {
