@@ -14,6 +14,9 @@
                     "type": "SD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-201986_ld.m3u8?auth_key=1668974011-0-0-8f9c70b449c809e4af4eca2795aaf273"
                 },
+"type": "SD",
+                "livelink":"0"
+                },
                 {
                     "type": "HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-201986.m3u8?auth_key=1668974011-0-0-12ff9acbf4a05db20ee7f97a46b7dad2"
