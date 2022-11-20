@@ -1,42 +1,10 @@
 [
-{
-           "league": "🏆ကမ္ဘာ့ဖလားဖွင့်ပွဲ",
-            "date": "Nov 20",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10195.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10195.png",
-            "teams" : "ကာတာနိုင်ငံ ကမ္ဘာ့ဖလားဖွင့်ပွဲအခမ်းအနား",
-            "hteam" : "ကာတာ",
-            "ateam" : "ကမ္ဘာ့ဖလား",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-123226_ld.m3u8?auth_key=1668977970-0-0-20eb210efe4fed9ad3b9fd094ec8922d"
-                },
-{
-"type": "SD",
-                "livelink":"https://tv.tas-ix.tv/hls/hujiyusilil_25.m3u8"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1668977970-0-0-5fb84999da6ffd4bbddd86b04e76074d"
-                },
-                       {
-                    "type": "English",
-                "livelink":"http://red.ipfox.org:8080/live/Karam2022/Karam2023/52345.ts"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1668975862-0-0-138bdf3924a33da1dbd609a9063bd109"
-                }
-            ]
-         },
+
 
 {
            "league": "🏆ကမ္ဘာ့ဖလား",
-            "date": "Nov 20",
-            "time": "10:30 PM",
+            "date": "Nov 20(10:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5902_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
             "teams" : "ကာတာ Vs အီကွေဒေါ",
@@ -46,15 +14,15 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-123226_ld.m3u8?auth_key=1668977970-0-0-20eb210efe4fed9ad3b9fd094ec8922d"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1668977970-0-0-5fb84999da6ffd4bbddd86b04e76074d"
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"http://5.182.229.90:8080/6521/index.m3u8"
                 }
             ]
          },
