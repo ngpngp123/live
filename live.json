@@ -33,6 +33,31 @@
                 }
                 
             ]
-}
+},
+{
+           "league": "🏆World Cup",
+            "date": "Nov 20",
+            "time": "10:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5902_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
+            "teams" : "Qatar Vs Ecuador",
+            "hteam" : "Qatar",
+            "ateam" : "Ecuador",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
 ]
 
