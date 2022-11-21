@@ -55,6 +55,10 @@
                     "type": "HD",
                 "livelink":"https://moon.meta-scores.com/e1f88c86c7/e1f88c86c7@720p.m3u8"
                 },
+{
+                    "type": "Eng Full HD",
+                "livelink":"http://ajiko.azureedge.net/scripts/NjQwNA==/1080p.m3u8"
+                },
                 {
                     "type": "Full HD",
                 "livelink":"https://moon.meta-scores.com/e1f88c86c7_fhd2/e1f88c86c7_fhd2@720p.m3u8"
