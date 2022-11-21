@@ -56,6 +56,14 @@
                 "livelink":"https://moon.meta-scores.com/e1f88c86c7/e1f88c86c7@720p.m3u8"
                 },
 {
+                    "type": "HD",
+                "livelink":"https://griomreavigremant654.s3.amazonaws.com/colts_480p30.m3u8"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"https://griomreavigremant654.s3.amazonaws.com/colts_720p30.m3u8"
+                },
+{
                     "type": "Eng Full HD",
                 "livelink":"http://ajiko.azureedge.net/scripts/NjQwNA==/1080p.m3u8"
                 },
