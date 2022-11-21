@@ -24,6 +24,19 @@
                     "type": "Soco SD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1669065810-0-0-25bdf8cf26fd684dde093cc52c9e0794"
                 },
+{
+                    "type": "Auto",
+                "livelink":"https://endlovasd.s3-accelerate.amazonaws.com/england.m3u8"
+                },
+                {
+                    "type": "HD",
+                "livelink":"https://endlovasd.s3-accelerate.amazonaws.com/england_720p60.m3u8"
+                },
+                {
+                    "type": "SD",
+                "livelink":"https://endlovasd.s3-accelerate.amazonaws.com/england_240p30.m3u8"
+                },
+
                 
 {
                     "type": "China SD",
