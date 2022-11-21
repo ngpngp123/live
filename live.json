@@ -2,60 +2,10 @@
 
 
 
-
-{
-           "league": "🏆World Cup",
-            "date": "Nov 21(10:30 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
-            "teams" : "Senegal Vs Netherlands",
-            "hteam" : "Senegal",
-            "ateam" : "Netherlands",
-         "hotmat":"yes",
-            "link":[
-
-
-{
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1669065570-0-0-afbb2ca5569df72306e80cafddb51dbd"
-                },
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1669065810-0-0-25bdf8cf26fd684dde093cc52c9e0794"
-                },
-{
-                    "type": "Auto",
-                "livelink":"https://endlovasd.s3-accelerate.amazonaws.com/england.m3u8"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://endlovasd.s3-accelerate.amazonaws.com/england_720p60.m3u8"
-                },
-                {
-                    "type": "SD",
-                "livelink":"https://endlovasd.s3-accelerate.amazonaws.com/england_240p30.m3u8"
-                },
-
-                
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1669065742-0-0-3818f8fe5b2001399645689b1b9fa480"
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1669065742-0-0-a0beb5a14cdfcffd4a4afcf5be490611"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://sun.meta-scores.com/10bd253a73_dp2/10bd253a73_dp2@720p.m3u8"
-                }
-            ]
-         },
 {
            "league": "🏆World Cup",
             "date": "Nov 22",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
             "teams" : "USA Vs Wales",
@@ -65,11 +15,11 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-123226_ld.m3u8?auth_key=1669074811-0-0-69115c02549c2c85f745c7d05a260466"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1669074811-0-0-7fbef6374d951ca7694a01e37a602ecc"
                 },
                 {
                     "type": "Full HD",
