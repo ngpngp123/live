@@ -121,15 +121,19 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1669055422-0-0-c749da49c2234eaee0a6b4e76fbd79e2"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669055611-0-0-715f47e6f320fec53b58f45764bb909c"
                 },
                 {
-                    "type": "Full HD",
-                "livelink":"0"
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1669055422-0-0-c749da49c2234eaee0a6b4e76fbd79e2"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1669055422-0-0-7978ff8146451c0dc5f358ce07aba089"
                 }
             ]
          },
