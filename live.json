@@ -1,27 +1,6 @@
 [
 
-{
-           "league": "China Super League",
-            "date": "Nov 21",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/737052_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8623_small.png",
-            "teams" : "Chengdu Rongcheng Vs Shandong Taishan",
-            "hteam" : "Chengdu Rongcheng FC",
-            "ateam" : "Shandong Taishan",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-107307.m3u8?auth_key=1669051531-0-0-5bd3a684f5d87249aa57eb801d5f238b"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-107307_ld.m3u8?auth_key=1669051531-0-0-b9c14e69b55c75ed7e9766a6a848d7d2"
-                }
 
-            ]
-         },
 
 
 {
@@ -53,7 +32,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":"https://moon.meta-scores.com/e1f88c86c7/e1f88c86c7@720p.m3u8"
+                "livelink":"https://griomreavigremant654.s3.amazonaws.com/colts_720p30.m3u8"
                 },
 {
                     "type": "HD",
@@ -66,11 +45,8 @@
 {
                     "type": "Eng Full HD",
                 "livelink":"http://ajiko.azureedge.net/scripts/NjQwNA==/1080p.m3u8"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://moon.meta-scores.com/e1f88c86c7_fhd2/e1f88c86c7_fhd2@720p.m3u8"
                 }
+                
             ]
          },
 {
