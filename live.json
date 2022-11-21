@@ -5,52 +5,6 @@
 
 {
            "league": "🏆World Cup",
-            "date": "Nov 21(7:30 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",
-            "teams" : "England Vs Iran",
-            "hteam" : "England",
-            "ateam" : "Iran",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669055791-0-0-414a7bf7bf1eb5f61251a993aba8c979"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669055791-0-0-172c9c49af2902a73f025846cbdd7e92"
-                },
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1669055902-0-0-fbc91c2e5310dd385a9ada15e96d66f2"
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://endlovasd.s3-accelerate.amazonaws.com/england_480p30.m3u8"
-                },
-{
-                    "type": "HD",
-                "livelink":"https://griomreavigremant654.s3.amazonaws.com/colts_720p30.m3u8"
-                },
-{
-                    "type": "HD",
-                "livelink":"https://griomreavigremant654.s3.amazonaws.com/colts_480p30.m3u8"
-                },
-                {
-                    "type": "240 SD",
-                "livelink":"https://griomreavigremant654.s3.amazonaws.com/colts_240p30.m3u8"
-                },
-{
-                    "type": "Eng Full HD",
-                "livelink":"http://ajiko.azureedge.net/scripts/NjQwNA==/1080p.m3u8"
-                }
-                
-            ]
-         },
-{
-           "league": "🏆World Cup",
             "date": "Nov 21",
             "time": "10:30 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
