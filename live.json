@@ -34,34 +34,13 @@
                 
             ]
 },
-{
-           "league": "China Super League",
-            "date": "Nov 21",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/737052_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8623_small.png",
-            "teams" : "Chengdu Rongcheng FC Vs Shandong Taishan",
-            "hteam" : "Chengdu Rongcheng FC",
-            "ateam" : "Shandong Taishan",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-107307.m3u8?auth_key=1669051531-0-0-5bd3a684f5d87249aa57eb801d5f238b"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-107307_ld.m3u8?auth_key=1669051531-0-0-b9c14e69b55c75ed7e9766a6a848d7d2"
-                }
 
-            ]
-         },
 
 
 {
            "league": "🏆World Cup",
             "date": "Nov 21",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",
             "teams" : "England Vs Iran",
