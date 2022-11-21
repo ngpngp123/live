@@ -14,16 +14,20 @@
          "hotmat":"no",
             "link":[
                 {
-                    "type": "SD",
+                    "type": "Soco SD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-123226_ld.m3u8?auth_key=1669074811-0-0-69115c02549c2c85f745c7d05a260466"
                 },
                 {
-                    "type": "HD",
+                    "type": "soco HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1669074811-0-0-7fbef6374d951ca7694a01e37a602ecc"
                 },
                 {
-                    "type": "Full HD",
-                "livelink":"0"
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-308116_ld.m3u8?auth_key=1669075042-0-0-66a55c4ccd9aea4256cc6c40f0ada319"
+                },
+{
+                    "type": "HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1669075042-0-0-bc14ce4bdc71addedff0a98ba8631062"
                 }
             ]
          },
