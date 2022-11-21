@@ -34,12 +34,33 @@
                 
             ]
 },
+{
+           "league": "China Super League",
+            "date": "Nov 21",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/737052_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8623_small.png",
+            "teams" : "Chengdu Rongcheng FC Vs Shandong Taishan",
+            "hteam" : "Chengdu Rongcheng FC",
+            "ateam" : "Shandong Taishan",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-107307.m3u8?auth_key=1669051531-0-0-5bd3a684f5d87249aa57eb801d5f238b"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-107307_ld.m3u8?auth_key=1669051531-0-0-b9c14e69b55c75ed7e9766a6a848d7d2"
+                }
 
+            ]
+         },
 
 
 {
            "league": "🏆World Cup",
-            "date": "Nov 21",
+            "date": "Nov 21(7:30 PM)",
             "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",
@@ -50,14 +71,14 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669055791-0-0-414a7bf7bf1eb5f61251a993aba8c979"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669055791-0-0-172c9c49af2902a73f025846cbdd7e92"
                 },
                 {
-                    "type": "Full HD",
+                    "type": "Wait Full HD",
                 "livelink":"0"
                 }
             ]
@@ -100,19 +121,15 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1669055422-0-0-c749da49c2234eaee0a6b4e76fbd79e2"
+                "livelink":"0"
                 },
                 {
                     "type": "HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669055611-0-0-715f47e6f320fec53b58f45764bb909c"
+                "livelink":"0"
                 },
                 {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1669055422-0-0-c749da49c2234eaee0a6b4e76fbd79e2"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1669055422-0-0-7978ff8146451c0dc5f358ce07aba089"
+                    "type": "Full HD",
+                "livelink":"0"
                 }
             ]
          },
