@@ -2,14 +2,14 @@
 
 
 {
-           "league": "🏆ကမ္ဘာ့ဖလား",
+           "league": "🏆World Cup",
             "date": "Nov 21",
             "time": "7:30 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",
-            "teams" : "အင်္ဂလန် Vs အီရန်",
-            "hteam" : "အင်္ဂလန်",
-            "ateam" : "အီရန်",
+            "teams" : "England Vs Iran",
+            "hteam" : "England",
+            "ateam" : "Iran",
          "hotmat":"yes",
             "link":[
                 {
@@ -27,14 +27,14 @@
             ]
          },
 {
-           "league": "🏆ကမ္ဘာ့ဖလား",
+           "league": "🏆World Cup",
             "date": "Nov 21",
             "time": "10:30 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
-            "teams" : "ဆီနီဂေါ Vs နယ်သာလန်",
-            "hteam" : "ဆီနီဂေါ",
-            "ateam" : "နယ်သာလန်",
+            "teams" : "Senegal Vs Netherlands",
+            "hteam" : "Senegal",
+            "ateam" : "Netherlands",
          "hotmat":"yes",
             "link":[
                 {
@@ -52,7 +52,7 @@
             ]
          },
 {
-           "league": "🏆ကမ္ဘာ့ဖလား",
+           "league": "🏆World Cup",
             "date": "Nov 22",
             "time": "1:30 AM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",
