@@ -16,16 +16,13 @@
             "link":[
 {
                     "type": "480 SD",
-                "livelink":"https://endlovasd.s3-accelerate.amazonaws.com/england2_480p30.m3u8"
+                "livelink":"https://tv.tas-ix.tv/hls/hujiyusilil_25.m3u8"
                 },
 {
                     "type": "240 SD",
                 "livelink":"https://endlovasd.s3-accelerate.amazonaws.com/england2_240p30.m3u8"
                 },
-{
-                    "type": "720 HD",
-                "livelink":"https://endlovasd.s3-accelerate.amazonaws.com/england2_720p30.m3u8"
-                },
+
 {
                     "type": "Soco HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1669065570-0-0-afbb2ca5569df72306e80cafddb51dbd"
