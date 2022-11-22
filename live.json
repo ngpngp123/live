@@ -27,12 +27,12 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1669153102-0-0-1958812f649c621ba4b31a5fcbcfe0e7"
                 },
                 {
-                    "type": "Full HD",
+                    "type": "English HD",
                 "livelink":"https://wswanata.azureedge.net/live/FS1/chunks.m3u8"
                 },
                 {
-                    "type": "Full HD",
-                "livelink":"0"
+                    "type": "English Full HD",
+                "livelink":"http://89.187.175.143/3038/index.m3u8"
                 }
             ]
          },
