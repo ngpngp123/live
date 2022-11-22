@@ -29,6 +29,10 @@
                 {
                     "type": "Vietnam Special",
                 "livelink":"http://s1.nihontv.net:21585/vtv3/tracks-v1a1/mono.m3u8"
+                },
+{
+                    "type": "SD",
+                "livelink":"https://sbautumn.net/lba/NzJkOWM4ZTA0MDVmMzhkMGEzMWQ4OGZkYzcyYTEzYWM=/g1/mfootball1.m3u8?token=NzJkOWM4ZTA0MDVmMzhkMGEzMWQ4OGZkYzcyYTEzYWM=&id=M2RlMGIzMTk4NTM3M2I2YjI5NDc1OGZmYjc0MDU5Mjc=&vip=1669135731&dip=NGZlNzIzZGVjOWRhYjM3ZmU3ZmE1Mjk2N2MxMzFlOWU=&pip=MDYwNTJkYzJiZThiNGIyZGZmZjg3ZWFiYTdjMTg2ZTM=&hip=NjBlZDY4OTg5MzA2OWM2ZDFiM2JlYmZlN2VlN2RhNGM="
                 }
             ]
          },
