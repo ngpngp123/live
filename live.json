@@ -31,8 +31,8 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-318894.m3u8?auth_key=1669142062-0-0-c704e15cbf5819a0a0ca349257b5dfa0"
                 },
    {
-                    "type": "240 SD",
-                "livelink":"https://griomreavigremant654.s3.amazonaws.com/redzone_240p30.m3u8"
+                    "type": "HD",
+                "livelink":"https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8"
                 },
                 {
                     "type": "480 SD",
