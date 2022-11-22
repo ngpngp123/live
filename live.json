@@ -1,45 +1,39 @@
 [
-
-
-
 {
-           "league": "🏆World Cup",
-            "date": "Nov 22",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
-            "teams" : "USA Vs Wales",
-            "hteam" : "USA",
-            "ateam" : "Wales",
-         "hotmat":"no",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669076131-0-0-49088617b1c47b9334f062265f70a51c"
+                
+{
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
                 },
-                {
-                    "type": "soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669076131-0-0-0ec88b4274f8b2bd6560d49d425c7aca"
+                
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
                 },
 {
-                    "type": "English HD",
-                "livelink":"https://endlovasd.s3-accelerate.amazonaws.com/fifa_720p60.m3u8"
-                },
-                {
-                    "type": "English SD",
-                "livelink":"https://endlovasd.s3-accelerate.amazonaws.com/fifa_480p30.m3u8"
-                },
-
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-308116_ld.m3u8?auth_key=1669075042-0-0-66a55c4ccd9aea4256cc6c40f0ada319"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
                 },
 {
-                    "type": "FHD",
-                "livelink":"http://89.187.175.143:80/3038/index.m3u8"
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
+                
             ]
-         },
+},
 {
            "league": "🏆World Cup",
             "date": "Nov 22",
