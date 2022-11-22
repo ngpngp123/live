@@ -37,7 +37,7 @@
 {
            "league": "🏆World Cup",
             "date": "Nov 23",
-            "time": "live",
+            "time": "wait",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",
             "teams" : "France Vs Australia",
@@ -47,7 +47,7 @@
             "link":[
                 {
                     "type": "China HD",
-                "livelink":"https://p.ggiptv.com/play.php?token=Slpqq%2Ff2e7qTElDTOfab9aex&tid=ty&id=1"
+                "livelink":""
                 },
                 {
                     "type": "HD",
