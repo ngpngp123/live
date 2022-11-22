@@ -29,11 +29,11 @@
                 },
 {
                     "type": "240",
-                "livelink":"https://d1oercrdt4qbyi.cloudfront.net/out/v1/a24e45fe05444d1ca3ece02e71574ac1/index_4.m3u8"
+                "livelink":"https://d2m5n28htvbpd2.cloudfront.net/out/v1/02017866ae1b4a1b8dd5d9a5e0572262/index_4.m3u8"
                 },
                 {
                     "type": "480",
-                "livelink":"https://d1oercrdt4qbyi.cloudfront.net/out/v1/a24e45fe05444d1ca3ece02e71574ac1/index_3.m3u8"
+                "livelink":"https://d2m5n28htvbpd2.cloudfront.net/out/v1/02017866ae1b4a1b8dd5d9a5e0572262/index_3.m3u8"
                 },
 {
                     "type": "720",
@@ -41,7 +41,7 @@
                 },
                 {
                     "type": "Auto",
-                "livelink":"https://40a6smm5mh4fkw.data.mediastore.eu-west-2.amazonaws.com/livea/main_720p30.m3u8"
+                "livelink":"https://d2m5n28htvbpd2.cloudfront.net/out/v1/02017866ae1b4a1b8dd5d9a5e0572262/index_2.m3u8"
                 }
             ]
          },
