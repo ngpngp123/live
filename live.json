@@ -46,12 +46,24 @@
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "SD",
+                    "type": "Vietnam SD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-121256_ld.m3u8?auth_key=1669152871-0-0-967e89b5570eeb3194b7e0d13bfd732a"
                 },
                 {
-                    "type": "HD",
+                    "type": "Vietnam HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1669152871-0-0-1a8fb12ff69632361932a87ee25199e3"
+                },
+   {
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-3378908_ld.m3u8?auth_key=1669153102-0-0-3d9870e9f8f270f6983e3e2c5111105b"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1669153102-0-0-1958812f649c621ba4b31a5fcbcfe0e7"
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
                 },
                 {
                     "type": "Full HD",
