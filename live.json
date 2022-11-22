@@ -30,8 +30,12 @@
                     "type": "English HD",
                 "livelink":"https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8"
                 },
+{
+                    "type": "English FHD1",
+                "livelink":"http://pitie.azureedge.net/scripts/NjQwOQ==/1080p.m3u8"
+                },
                 {
-                    "type": "English Full HD",
+                    "type": "English Full HD2",
                 "livelink":"http://89.187.175.143/3038/index.m3u8"
                 }
             ]
