@@ -23,8 +23,8 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669162762-0-0-a31791cb485f5bb35fe21a87a8be5664"
                 },
                 {
-                    "type": "China Special",
-                "livelink":"https://pull-l3-cny.douyincdn.com/live/4a5c6e0e8b750d80e7ba6787a8ef8628.m3u8"
+                    "type": "Eng Special",
+                "livelink":"http://89.187.175.143:80/3038/index.m3u8"
                 },
                 {
                     "type": "Vietnam Special",
