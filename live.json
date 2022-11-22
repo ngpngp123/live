@@ -36,8 +36,8 @@
 },
 {
            "league": "🏆World Cup",
-            "date": "Nov 23",
-            "time": "wait",
+            "date": "Nov 23(1:30 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",
             "teams" : "France Vs Australia",
@@ -46,16 +46,24 @@
          "hotmat":"no",
             "link":[
                 {
-                    "type": "China HD",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669162591-0-0-0bc146762627a30a887fd2206b634dd1"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "Soco HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669162591-0-0-64994a3d08f94970c3e69863844fb205"
+                },
+{
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669162762-0-0-a31791cb485f5bb35fe21a87a8be5664"
                 },
                 {
-                    "type": "Full HD",
-                "livelink":"0"
+                    "type": "China Special",
+                "livelink":"https://pull-l3-cny.douyincdn.com/live/4a5c6e0e8b750d80e7ba6787a8ef8628.m3u8"
+                },
+                {
+                    "type": "Vietnam Special",
+                "livelink":"http://s1.nihontv.net:21585/vtv3/tracks-v1a1/mono.m3u8"
                 }
             ]
          },
