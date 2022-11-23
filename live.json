@@ -1,45 +1,6 @@
 [
-{
-           "league": "🏆World Cup",
-            "date": "Nov 23",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6705_small.png",
-            "teams" : "Spain Vs Costa Rica",
-            "hteam" : "Spain",
-            "ateam" : "Costa Rica",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669239391-0-0-6208dee0378e928f481b2fef48c29971"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669239391-0-0-74ba1bd2588ba289e2e3ba058e89335e"
-                },
-                {
-                    "type": "Vietnam",
-                "livelink":"https://saoke2.cdn.khmer-hd.com/x3y1/playlist.m3u8"
-                },
-{
-                    "type": "Eng SD",
-                "livelink":"https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8"
-                },
-                {
-                    "type": "Eng HD",
-                "livelink":"https://wswanata.azureedge.net/live/FOX/chunks.m3u8"
-                },
-{
-                    "type": "Eng HD Pro",
-                "livelink":"https://griomreavigremant654.s3.amazonaws.com/redzone_720p30.m3u8"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
-                }
-            ]
-         },
+
+    
 {
            "league": "🏆World Cup",
             "date": "Nov 24",
