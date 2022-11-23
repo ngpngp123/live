@@ -16,8 +16,8 @@
                 "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669216291-0-0-dede87707e50dc5afbff7f1fb56263df"
                 },
                 {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669216291-0-0-fa297c40783e2a25fd8f077d7b477a2e"
+                    "type": "Vietnam HD",
+                "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8"
                 },
                 {
                     "type": "China SD",
@@ -28,8 +28,8 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1669215922-0-0-5e72131b2da5cdf07f661f48cf659776"
                 },
 {
-                    "type": "Vietnam HD",
-                "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8"
+                    "type": "Soco HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669216291-0-0-fa297c40783e2a25fd8f077d7b477a2e"
                 },
 {
                     "type": "English FHD",
