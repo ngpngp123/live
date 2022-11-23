@@ -74,6 +74,10 @@
                 "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
                 },
 {
+                    "type": "HD",
+                "livelink":"https://live-bn.zeuscdn.live/live/_definst_/stream_1_4831b@sk3-0063/playlist.m3u8"
+                },
+{
                     "type": "English HD",
                 "livelink":"https://wswanata.azureedge.net/live/FS1/playlist.m3u8"
                 },
