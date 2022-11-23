@@ -1,43 +1,9 @@
 [
-{
-           "league": "MAN U",
-            "date": "TV Channel",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "teams" : "Man United TV",
-            "hteam" : "MAN U",
-            "ateam" : "TV",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "MUTV 360 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "MUTV 240 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MUTV 540 HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MAN U TV 1080HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                }
-                
-            ]
-},
+
 {
            "league": "🏆World Cup",
             "date": "Nov 23",
-            "time": "4:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6262_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",
             "teams" : "Morocco Vs Croatia",
@@ -46,16 +12,24 @@
          "hotmat":"no",
             "link":[
                 {
-                    "type": "SD",
-                "livelink":"0"
+                    "type": "Soco SD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669216291-0-0-dede87707e50dc5afbff7f1fb56263df"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "Soco HD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669216291-0-0-fa297c40783e2a25fd8f077d7b477a2e"
                 },
                 {
-                    "type": "Full HD",
-                "livelink":"0"
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-232996_ld.m3u8?auth_key=1669215922-0-0-69c1b5c5cad11feb334ceec953533954"
+                },
+{
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-232996.m3u8?auth_key=1669215922-0-0-5e72131b2da5cdf07f661f48cf659776"
+                },
+{
+                    "type": "Vietnam HD",
+                "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8"
                 }
             ]
          },
