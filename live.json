@@ -23,16 +23,20 @@
                 "livelink":"https://pullalilive.livnvess.com/live/pullalilive.livnvess.com_stream-167414-1669217826230.ts"
                 },
                 {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1669239502-0-0-7c497bafa36b874cff8fd391af512bc2"
+                    "type": "Vietnam",
+                "livelink":"https://saoke2.cdn.khmer-hd.com/x3y1/playlist.m3u8"
                 },
 {
-                    "type": "Vietnam Special",
-                "livelink":"http://s4live.tv1asia.com:21585/vtv2/index.m3u8"
+                    "type": "Eng SD",
+                "livelink":"https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "Eng HD",
+                "livelink":"https://wswanata.azureedge.net/live/FOX/chunks.m3u8"
+                },
+{
+                    "type": "Eng HD Pro",
+                "livelink":"http://89.187.175.143:80/3038/index.m3u8"
                 },
                 {
                     "type": "Full HD",
