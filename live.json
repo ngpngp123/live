@@ -30,11 +30,15 @@
                 },
                 {
                     "type": "Vietnam Special",
-                "livelink":"http://s4live.tv1asia.com:21585/vtv2/tracks-v1a1/mono.m3u8"
+                "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
                 },
                 {
-                    "type": "SD",
-                "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8"
+                    "type": "English FHD",
+                "livelink":"https://wswanata.azureedge.net/live/FOX/chunks.m3u8"
+                },
+{
+                    "type": "English SD",
+                "livelink":"https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8"
                 },
                 {
                     "type": "Full HD",
