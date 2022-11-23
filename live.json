@@ -1,60 +1,39 @@
 [
-
-    
 {
-           "league": "🏆World Cup",
-            "date": "Nov 23",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
-            "teams" : "Germany Vs Japan",
-            "hteam" : "Germany",
-            "ateam" : "Japan",
-         "hotmat":"no",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
+                
 {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669227691-0-0-67efc14b0550b843be3456e458ef0fcc"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
                 },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669227691-0-0-5721c319551d25030c32e31dd439b988"
-                },
-                {
-                    "type": "Vietnam Special",
-                "livelink":"http://s4live.tv1asia.com:21585/vtv2/index.m3u8"
-                },
+                
 {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-308116_ld.m3u8?auth_key=1669227802-0-0-5130236421f8f77f0f41676dc9d586a7"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1669227802-0-0-9d8d87f3b1254f721a6d04dbba5e7bcc"
-                },
-
-                {
-                    "type": "Full HD",
-                "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
                 },
 {
-                    "type": "HD",
-                "livelink":"https://live-bn.zeuscdn.live/live/_definst_/stream_1_4831b@sk3-0063/playlist.m3u8"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
                 },
 {
-                    "type": "English HD",
-                "livelink":"http://P135@89.187.175.143/3056/index.m3u8"
-                },
-{
-                    "type": "English FHD",
-                "livelink":"http://89.187.175.143:80/3038/index.m3u8"
-                },
-{
-                    "type": "English SD",
-                "livelink":"https://griomreavigremant654.s3.amazonaws.com/redzone2_480p30.m3u8"
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
+                
             ]
-         },
+},
 {
            "league": "🏆World Cup",
             "date": "Nov 23",
