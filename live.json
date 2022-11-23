@@ -32,16 +32,16 @@
                 "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669216291-0-0-fa297c40783e2a25fd8f077d7b477a2e"
                 },
 {
-                    "type": "English HD1",
-                "livelink":"http://P135@89.187.175.143/3056/index.m3u8"
+                    "type": "English SD",
+                "https://griomreavigremant654.s3.amazonaws.com/redzone2_240p30.m3u8"
                 },
 {
-                    "type": "Eng HD2",
-                "livelink":"http://89.187.175.143/3056/mpegts"
+                    "type": "Eng HD",
+                "livelink":"https://griomreavigremant654.s3.amazonaws.com/redzone2_480p30.m3u8"
                 },
 {
                     "type": "English FHD",
-                "livelink":"http://89.187.175.143:80/3038/index.m3u8"
+                "livelink":"https://griomreavigremant654.s3.amazonaws.com/redzone2.m3u8"
                 }
             ]
          },
