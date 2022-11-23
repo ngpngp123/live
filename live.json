@@ -36,12 +36,12 @@
                 "livelink":"https://griomreavigremant654.s3.amazonaws.com/redzone2_240p30.m3u8"
                 },
 {
-                    "type": "Eng HD",
-                "livelink":"https://griomreavigremant654.s3.amazonaws.com/redzone2_480p30.m3u8"
+                    "type": "HD",
+                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001669199150-0-0-6819fdb6229c84e5ff2e1fa8aeeb64e6"
                 },
 {
                     "type": "English FHD",
-                "livelink":"https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001669199150-0-0-6819fdb6229c84e5ff2e1fa8aeeb64e6"
+                "livelink":"https://wswanata.azureedge.net/live/FS1/chunks.m3u8"
                 }
             ]
          },
