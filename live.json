@@ -37,7 +37,7 @@
 {
            "league": "🏆World Cup",
             "date": "Nov 23",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
             "teams" : "Germany Vs Japan",
@@ -47,7 +47,7 @@
             "link":[
                 {
                     "type": "SD",
-                "livelink":"0"
+                "livelink":"http://s4live.tv1asia.com:21585/vtv2/index.m3u8"
                 },
                 {
                     "type": "HD",
@@ -55,7 +55,7 @@
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
                 }
             ]
          },
