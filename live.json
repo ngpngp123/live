@@ -48,6 +48,10 @@
 {
                     "type": "English FHD",
                 "livelink":"http://89.187.175.143:80/3038/index.m3u8"
+                },
+{
+                    "type": "English SD",
+                "livelink":"https://griomreavigremant654.s3.amazonaws.com/redzone2_480p30.m3u8"
                 }
             ]
          },
