@@ -36,6 +36,10 @@
                     "type": "English HD",
                 "livelink":"http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8"
                 },
+{
+                    "type": "HD",
+                "livelink":"http://146.59.19.1/5002/mpegts"
+                },
                 {
                     "type": "English SD",
                 "livelink":"https://msmol.s3-accelerate.amazonaws.com/portugal_480p30.m3u8"
