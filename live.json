@@ -1,43 +1,8 @@
 [
 {
-           "league": "MAN U",
-            "date": "TV Channel",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "teams" : "Man United TV",
-            "hteam" : "MAN U",
-            "ateam" : "TV",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "MUTV 360 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "MUTV 240 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MUTV 540 HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MAN U TV 1080HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Qatar World Cup",
             "date": "Nov 24",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
             "teams" : "Uruguay Vs South Korea",
@@ -46,8 +11,24 @@
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "SD",
+                    "type": "Soco SD",
                 "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+{
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669314862-0-0-dcef91bf32021f09e23f979a0b226366"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669314862-0-0-1f7aac16a753e8d3209b8cdea3669663"
+                },
+{
+                    "type": "Vietnam Special",
+                "livelink":"https://vips-livecdn.fptplay.net/sevent/vtv2_4000.stream/chunklist.m3u8"
                 },
                 {
                     "type": "HD",
