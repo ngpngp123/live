@@ -10,6 +10,10 @@
             "ateam" : "South Korea",
          "hotmat":"yes",
             "link":[
+{
+                    "type": "Thai SD",
+                "livelink":"https://smart-tv.livedoomovies.com:4431/02_2sporthd2_480p/chunklist.m3u8"
+                },
                 {
                     "type": "Soco SD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-123226_ld.m3u8?auth_key=1669315651-0-0-07ba69a3f687c83275418ca440189533"
