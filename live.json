@@ -31,8 +31,8 @@
                 "livelink":"https://vips-livecdn.fptplay.net/sevent/vtv2_4000.stream/chunklist.m3u8"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "Bein HD",
+                "livelink":"http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854"
                 },
                 {
                     "type": "Full HD",
