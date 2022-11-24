@@ -34,6 +34,10 @@
                 {
                     "type": "English",
                 "livelink":"http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8"
+                },
+{
+                    "type": "English",
+                "livelink":"https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8"
                 }
             ]
          },
