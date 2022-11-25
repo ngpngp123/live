@@ -1,41 +1,5 @@
 [
-{
-           "league": "🏆 Qatar World Cup",
-            "date": "Nov 25",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
-            "teams" : "Netherlands Vs Ecuador",
-            "hteam" : "Netherlands",
-            "ateam" : "Ecuador",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1669412071-0-0-dd1f6d8805c684816069329b5131b68c"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669412071-0-0-25ed3d6a903e9a835919cdf1db80f07a"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-259579_ld.m3u8?auth_key=1669412302-0-0-e7ec58c30c5282f782307f61ac07f55c"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-259579_ld.m3u8?auth_key=1669412302-0-0-e7ec58c30c5282f782307f61ac07f55c"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
-                },
-                {
-                    "type": "Eng FHD",
-                "livelink":"https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8"
-                }
-            ]
-         },
+
 {
            "league": "🏆 Qatar World Cup",
             "date": "Nov 26(1:30 AM)",
@@ -57,11 +21,11 @@
                 },
               {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-535588_ld.m3u8?auth_key=1669400602-0-0-683c4c1934874c2aca159d9a974abd8a"
                 },
                 {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-535588.m3u8?auth_key=1669400602-0-0-02a0cd8a004017b231cacd8ef04c841f"
                 },
                {
                     "type": "Vietnam Special",
@@ -69,7 +33,7 @@
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://saoke2.cdn.khmer-hd.com/x3y1/chunks.m3u8"
                 }
             ]
          },
