@@ -1,42 +1,4 @@
 [
-
-{
-           "league": "🏆 Qatar World Cup",
-            "date": "Nov 26(1:30 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",
-            "teams" : "England Vs USA",
-            "hteam" : "England",
-            "ateam" : "USA",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1668354390-0-0-ce616bf1cd1fc8df048ada8987649361"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1666735588-0-0-121d7b0693693bfa8e4e34abe7cf2887"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-535588_ld.m3u8?auth_key=1669400602-0-0-683c4c1934874c2aca159d9a974abd8a"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-535588.m3u8?auth_key=1669400602-0-0-02a0cd8a004017b231cacd8ef04c841f"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://saoke2.cdn.khmer-hd.com/x3y1/chunks.m3u8"
-                }
-            ]
-         },
 {
            "league": "🏆 Qatar World Cup",
             "date": "Nov 26",
