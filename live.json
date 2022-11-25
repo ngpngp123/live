@@ -31,8 +31,8 @@
                 "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
                 },
                 {
-                    "type": "Full HD",
-                "livelink":"0"
+                    "type": "Eng HD",
+                "livelink":"https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8"
                 }
             ]
          },
