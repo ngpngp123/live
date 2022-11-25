@@ -1,5 +1,4 @@
 [
-
 {
            "league": "🏆 Qatar World Cup",
             "date": "Nov 25",
@@ -13,19 +12,19 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-114959_ld.m3u8?auth_key=1669400971-0-0-95bc8d928d6ebf71191f64501d346c48"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1669400971-0-0-a75ad483d6e95e4e152a729d3067d4df"
                 },
               {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669401262-0-0-f84cd95f21cfc58b3e8eb31e9c167bc2"
                 },
                 {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669401262-0-0-aeae117486bed919541c4e6b9fbf546b"
                 },
                {
                     "type": "Vietnam Special",
