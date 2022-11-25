@@ -28,10 +28,10 @@
                 },
                {
                     "type": "Vietnam Special",
-                "livelink":""
+                "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
                 },
                 {
-                    "type": "Full HD",
+                    "type": "English",
                 "livelink":"0"
                 }
             ]
