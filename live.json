@@ -1,49 +1,5 @@
 [
-{
-           "league": "🏆 Qatar World Cup",
-            "date": "Nov 25(4:30 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",
-            "teams" : "Wales Vs Iran",
-            "hteam" : "Wales",
-            "ateam" : "Iran",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1669390291-0-0-ed1a55229a81133501fa1761fba2a352"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1669390291-0-0-201da5cc6b6ec52a9a15fcd6f05823dd"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669390762-0-0-9361d16f5d2c8f73037d3af647dc9f25"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669390702-0-0-e9f7d90e6cad5a263e16be83182dccdb"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
-                },
-{
-                    "type": "English FHD",
-                "livelink":"http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8"
-                },
-{
-                    "type": "English HD",
-                "livelink":"https://griomreavigremant654.s3.amazonaws.com/redzone_480p30.m3u8"
-                },
-                {
-                    "type": "English SD",
-                "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8"
-                }
-            ]
-         },
+
 {
            "league": "🏆 Qatar World Cup",
             "date": "Nov 25",
