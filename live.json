@@ -34,6 +34,10 @@
 {
                     "type": "Eng",
                 "livelink":"https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8"
+                },
+{
+                    "type": "Eng HD",
+                "livelink":"https://lisa.xonthebeach.net/live/bbconeuk_720p/index.m3u8"
                 }
                 
             ]
