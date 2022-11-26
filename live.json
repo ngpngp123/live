@@ -32,6 +32,10 @@
                 "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
                 },
 {
+                    "type": "Bein",
+                "livelink":"http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854"
+                },
+{
                     "type": "English HD",
                 "livelink":"https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8"
                 }
