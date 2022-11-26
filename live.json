@@ -1,38 +1,5 @@
 [
-{
-           "league": "🏆 Qatar World Cup",
-            "date": "Nov 27(1:30 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6710_small.png",
-            "teams" : "Argentina Vs Mexico",
-            "hteam" : "Argentina",
-            "ateam" : "Mexico",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669507591-0-0-30fb30f313aee0f3c6c418f3fb9b8d7d"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669507591-0-0-29e0f2da86bd0d4bbc9908077b8780bb"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669507762-0-0-fca0ee54141631b3580b2e8f2459c123"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669507762-0-0-907943d4e4f937ef5e469e7bd1e3c94e"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
-                }
-                
-            ]
-         },
+
 {
            "league": "🏆 Qatar World Cup",
             "date": "Nov 27",
