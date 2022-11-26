@@ -2,8 +2,8 @@
 
 {
            "league": "🏆 Qatar World Cup",
-            "date": "Nov 26",
-            "time": "7:30 PM",
+            "date": "Nov 26(7:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7795_small.png",
             "teams" : "Poland Vs Saudi Arabia",
@@ -13,19 +13,19 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669486531-0-0-bd5df35a6113b9a13965266b4ea6ef82"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669486531-0-0-bf7e5b204f18bab476a37a9f5a00f950"
                 },
               {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669486702-0-0-822a91961b703f9f7735577eb022f3e7"
                 },
                 {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669486702-0-0-e4a1c7762ed83162af6c2a5fe1f6a0b0"
                 },
                {
                     "type": "Vietnam Special",
