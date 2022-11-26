@@ -1,43 +1,4 @@
 [
-
-{
-           "league": "🏆 Qatar World Cup",
-            "date": "Nov 26(7:30 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7795_small.png",
-            "teams" : "Poland Vs Saudi Arabia",
-            "hteam" : "Poland",
-            "ateam" : "Saudi Arabia",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1669489411-0-0-3ed31c0319a59443fe3ae93bacd2bb3b"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1669489411-0-0-c13099e281e3c7769b077c6721771c8a"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669486702-0-0-822a91961b703f9f7735577eb022f3e7"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669486702-0-0-e4a1c7762ed83162af6c2a5fe1f6a0b0"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
-                },
-{
-                    "type": "English HD",
-                "livelink":"https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8"
-                }
-                
-            ]
-         },
 {
            "league": "🏆 Qatar World Cup",
             "date": "Nov 26",
