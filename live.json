@@ -47,11 +47,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669475671-0-0-340ddda362c834475309df054820828d"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669475671-0-0-497641d1cf34bac4a63597fb29cbe628"
                 },
               {
                     "type": "China SD",
