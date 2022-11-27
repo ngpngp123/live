@@ -1,47 +1,6 @@
 [
 {
            "league": "🏆 Qatar World Cup",
-            "date": "Nov 28(1:30 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
-            "teams" : "Spain Vs Germany",
-            "hteam" : "Spain",
-            "ateam" : "Germany",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1669594972-0-0-920f2d9d8ea517a24dfbd6350cf6b8e7"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669594972-0-0-f28af69ff87eb3308de43a286f997a6f"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669593922-0-0-1575f1821609dc9481a9622bc4a7cf22"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669593922-0-0-7e328d5ccd20c7ef9d43517cd55ae636"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
-                },
-{
-                    "type": "Eng SD",
-                "livelink":"https://turnthe.gameon.tel/live/bbconeuk/index.m3u8"
-                },
-               {
-                    "type": "Eng HD",
-                "livelink":"https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8"
-                } 
-            ]
-         },
-{
-           "league": "🏆 Qatar World Cup",
             "date": "Nov 28",
             "time": "4:30 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6629_small.png",
