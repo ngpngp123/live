@@ -2,8 +2,8 @@
 
 {
            "league": "🏆 Qatar World Cup",
-            "date": "Nov 27",
-            "time": "7:30 PM",
+            "date": "Nov 27(7:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6262_small.png",
             "teams" : "Belgium Vs Morocco",
@@ -21,11 +21,11 @@
                 },
               {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669573342-0-0-909cdccb1bada8749d42ccc7827e1330"
                 },
                 {
                     "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669573102-0-0-b28d2f27ad8a086cdbdbb61eba11f680"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669573342-0-0-76dceee164608f16b79c735d9722346c"
                 },
                {
                     "type": "Vietnam Special",
