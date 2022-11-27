@@ -2,8 +2,8 @@
 
 {
            "league": "🏆 Qatar World Cup",
-            "date": "Nov 27",
-            "time": "4:30 PM",
+            "date": "Nov 27(4:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6705_small.png",
             "teams" : "Japan Vs Costa Rica",
@@ -13,19 +13,19 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-114959_ld.m3u8?auth_key=1669561912-0-0-63a2f615ab1e48da86c42355dc5cffa9"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1669561912-0-0-376b2a800155b0b60289789eb71b2e98"
                 },
               {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669562062-0-0-e5c7b0237735cb9b73cf39bb35bec248"
                 },
                 {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669562062-0-0-4fd5267f299f352edba97b0d0fd3e0f1"
                 },
                {
                     "type": "Vietnam Special",
