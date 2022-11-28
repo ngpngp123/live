@@ -21,11 +21,11 @@
                 },
               {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669681342-0-0-489b07636efd4bca37d06437f31ef9e3"
                 },
                 {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669681342-0-0-9f6a6c13eb631deef6d619ae21c8f3a5"
                 },
                {
                     "type": "Vietnam Special",
