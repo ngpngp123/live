@@ -1,46 +1,5 @@
 [
-{
-           "league": "🏆 Qatar World Cup",
-            "date": "Nov 28(10:30 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",
-            "teams" : "Brazil Vs Switzerland",
-            "hteam" : "Brazil",
-            "ateam" : "Switzerland",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1669670629-0-0-4751f326774f686c7cbbffc5fba198fc"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669670629-0-0-14c655e848cfef3d59ad943784fd38c6"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669670842-0-0-daec0dccdfae1e48bbb8ba571ec8569d"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669670842-0-0-6e99263844701fb44425958a3c7db9a8"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
-                },
-               {
-                    "type": "Eng HD",
-                "livelink":"https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8"
-                },
-{
-                    "type": "English FHD ",
-                "livelink":"https://playing.whydontyoustreamwme.com/live/itvuk/index.m3u8"
-                }
-                
-            ]
-         },
+
 {
            "league": "🏆 Qatar World Cup",
             "date": "Nov 29",
