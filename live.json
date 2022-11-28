@@ -1,50 +1,8 @@
 [
 {
            "league": "🏆 Qatar World Cup",
-            "date": "Nov 28",
+            "date": "Nov 28(7:30 PM)",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6629_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",
-            "teams" : "Cameroon Vs Serbia",
-            "hteam" : "Cameroon",
-            "ateam" : "Serbia",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1669649932-0-0-4a94003f90a4110d68f790aecf75c389"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669649932-0-0-eafcd2825a33f2c685433d549f035685"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669650022-0-0-1f011fbaadaedf334c55cc073aed02fd"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669650022-0-0-67214abe828f2e26447a1897973ee204"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
-                },
-{
-                    "type": "Eng",
-                "livelink":"https://wswanata.azureedge.net/live/FS1/chunks.m3u8"
-                },
-{
-                    "type": "Eng FHD",
-                "livelink":"http://chuk.azureedge.net/scripts/NjUxNg==/1080p.m3u8"
-                }
-                
-            ]
-         },
-{
-           "league": "🏆 Qatar World Cup",
-            "date": "Nov 28",
-            "time": "7:30 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6714_small.png",
             "teams" : "South Korea Vs Ghana",
@@ -54,27 +12,31 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1669660909-0-0-9a230e9065ffad2115cb4da9af5b067e"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669660909-0-0-6c35608fcb691f9df604f86ef2bad8be"
                 },
               {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1669660522-0-0-c975333a8b738edaea33d82599c97fb4"
                 },
                 {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669660522-0-0-a1d6e501f920f70b604879fc9bd59db5"
                 },
                {
                     "type": "Vietnam Special",
-                "livelink":""
+                "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
                 },
                 {
-                    "type": "Full HD",
-                "livelink":"0"
+                    "type": "Eng HD",
+                "livelink":"https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8"
+                },
+                {
+                    "type": "Eng FHD",
+                "livelink":"http://seikf.azureedge.net/scripts/NjUxNw==/1080p.m3u8"
                 }
             ]
          },
