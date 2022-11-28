@@ -613,6 +613,191 @@
                 "livelink":"0"
                 }
             ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 2",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
+            "teams" : "South Korea Vs Portugal",
+            "hteam" : "South Korea",
+            "ateam" : "Portugal",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 2",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6714_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",
+            "teams" : "Ghana Vs Uruguay",
+            "hteam" : "Ghana",
+            "ateam" : "Uruguay",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 3",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6629_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
+            "teams" : "Cameroon Vs Brazil",
+            "hteam" : "Cameroon",
+            "ateam" : "Brazil",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 3",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",
+            "teams" : "Serbia Vs Switzerland",
+            "hteam" : "Serbia",
+            "ateam" : "Switzerland",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "",
+            "date": "Nov ",
+            "time": "",
+            "himg": "",
+            "aimg": "",
+            "teams" : " Vs ",
+            "hteam" : "",
+            "ateam" : "",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
          }
 ]
 
