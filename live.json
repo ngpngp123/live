@@ -169,6 +169,376 @@
                 }
                 
             ]
-        }
+        },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Nov 29",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
+            "teams" : "Ecuador Vs Senegal",
+            "hteam" : "Ecuador",
+            "ateam" : "Senegal",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Nov 29",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5902_small.png",
+            "teams" : "Netherlands Vs Qatar",
+            "hteam" : "Netherlands",
+            "ateam" : "Qatar",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Nov 30",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
+            "teams" : "Wales Vs England",
+            "hteam" : "Wales",
+            "ateam" : "England",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Nov 30",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",
+            "teams" : "Iran Vs USA",
+            "hteam" : "Iran",
+            "ateam" : "USA",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Nov 30",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
+            "teams" : "Australia Vs Denmark",
+            "hteam" : "Australia",
+            "ateam" : "Denmark",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Nov 30",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6719_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
+            "teams" : "Tunisia Vs France",
+            "hteam" : "Tunisia",
+            "ateam" : "France",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 1",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
+            "teams" : "Poland Vs Argentina",
+            "hteam" : "Poland",
+            "ateam" : "Argentina",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 1",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7795_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6710_small.png",
+            "teams" : "Saudi Arabia Vs Mexico",
+            "hteam" : "Saudi Arabia",
+            "ateam" : "Mexico",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 1",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
+            "teams" : "Croatia Vs Belgium",
+            "hteam" : "Croatia",
+            "ateam" : "Belgium",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 1",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5810_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6262_small.png",
+            "teams" : "Canada Vs Morocco",
+            "hteam" : "Canada",
+            "ateam" : "Morocco",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         }
 ]
 
