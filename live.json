@@ -30,6 +30,18 @@
                {
                     "type": "Vietnam Special",
                 "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
+                },
+{
+                    "type": "English FHD1",
+                "livelink":"http://klopov.azureedge.net/scripts/NjUxOQ==/1080p.m3u8"
+                },
+                {
+                    "type": "English HD",
+                "livelink":"https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8"
+                },
+              {
+                    "type": "Eng SD",
+                "livelink":"https://murthyneeraj231.s3.amazonaws.com/worldcup_240.m3u8"
                 }
                 
             ]
