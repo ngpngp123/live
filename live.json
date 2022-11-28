@@ -37,11 +37,15 @@
                 },
                 {
                     "type": "English HD",
-                "livelink":"https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8"
+                "livelink":"http://146.59.19.1/5002/mpegts"
                 },
               {
                     "type": "Eng SD",
-                "livelink":"https://murthyneeraj231.s3.amazonaws.com/worldcup_240.m3u8"
+                "livelink":"http://146.59.19.1/5002/mpegts"
+                },
+{
+                    "type": "HD",
+                "livelink":"https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8"
                 }
                 
             ]
