@@ -1,55 +1,39 @@
 [
-
 {
-           "league": "🏆 Qatar World Cup",
-            "date": "Nov 29",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",
-            "teams" : "Portugal Vs Uruguay",
-            "hteam" : "Portugal",
-            "ateam" : "Uruguay",
-         "hotmat":"yes",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1669681189-0-0-807e3323ddbbcc53c61e1903fc553f04"
+                
+{
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
                 },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669681189-0-0-6eae41ddcbfe1fb6a9a3f10347443136"
-                },
-              {
-                    "type": "other HD",
-                "livelink":"https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1669681342-0-0-9f6a6c13eb631deef6d619ae21c8f3a5"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
+                
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
                 },
 {
-                    "type": "English FHD1",
-                "livelink":"http://klopov.azureedge.net/scripts/NjUxOQ==/1080p.m3u8"
-                },
-                {
-                    "type": "English HD",
-                "livelink":"http://146.59.19.1/5002/mpegts"
-                },
-              {
-                    "type": "Eng SD",
-                "livelink":"http://146.59.19.1/5002/mpegts"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
                 },
 {
-                    "type": "HD",
-                "livelink":"https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8"
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
                 
             ]
-        },
+},
 {
            "league": "🏆 Qatar World Cup",
             "date": "Nov 29",
