@@ -34,7 +34,7 @@
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://wswanata.azureedge.net/live/FS1/chunks.m3u8"
                 }
             ]
          },
@@ -71,7 +71,7 @@
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8"
                 }
             ]
          },
