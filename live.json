@@ -1,44 +1,10 @@
 [
-{
-           "league": "MAN U",
-            "date": "TV Channel",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "teams" : "Man United TV",
-            "hteam" : "MAN U",
-            "ateam" : "TV",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "MUTV 360 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "MUTV 240 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MUTV 540 HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MAN U TV 1080HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                }
-                
-            ]
-},
+
 
 {
            "league": "🏆 Qatar World Cup",
             "date": "Nov 30",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
             "teams" : "Wales Vs England",
@@ -56,11 +22,11 @@
                 },
               {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-558696_ld.m3u8?auth_key=1669767202-0-0-188502080062d279f60194621295f985"
                 },
                 {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669767202-0-0-aaaba4edc8a3117ed9848580fc7bebe2"
                 },
                {
                     "type": "Vietnam Special",
@@ -75,7 +41,7 @@
 {
            "league": "🏆 Qatar World Cup",
             "date": "Nov 30",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",
             "teams" : "Iran Vs USA",
@@ -93,11 +59,11 @@
                 },
               {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-78951464.m3u8?auth_key=1669767142-0-0-fc6e2f76e4b732d2fa8b2044f3bc3a5d"
                 },
                 {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-78951464_ld.m3u8?auth_key=1669767142-0-0-a6eecfb20cf7caf6d1b450249e69e4e2"
                 },
                {
                     "type": "Vietnam Special",
