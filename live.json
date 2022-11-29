@@ -33,7 +33,7 @@
 
                {
                     "type": "Eng HD",
-                "livelink":"https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8"
+                "livelink":"https://murthyneeraj231.s3.amazonaws.com/worldcup2_720.m3u8"
                 }
             ]
          },
@@ -70,7 +70,7 @@
                 },
                 {
                     "type": "Eng HD",
-                "livelink":"https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8"
+                "livelink":"https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8"
                 }
             ]
          },
