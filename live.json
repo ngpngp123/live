@@ -2,7 +2,7 @@
 {
            "league": "🏆 Qatar World Cup",
             "date": "Nov 29",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
             "teams" : "Ecuador Vs Senegal",
@@ -12,11 +12,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-190631_ld.m3u8?auth_key=1669754674-0-0-ad03f3af03df302da2353b22cef5b8cd"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-190631.m3u8?auth_key=1669754674-0-0-8492d2f77a9454d6fbe44b818ac5e554"
                 },
               {
                     "type": "China SD",
@@ -29,17 +29,14 @@
                {
                     "type": "Vietnam Special",
                 "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
                 }
+                
             ]
          },
 {
            "league": "🏆 Qatar World Cup",
             "date": "Nov 29",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5902_small.png",
             "teams" : "Netherlands Vs Qatar",
@@ -49,11 +46,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1669754794-0-0-3ed2ce2421a1f678d3f999dac363ebf9"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669754794-0-0-64ced606a8fe33eb3c40ad0a55e56085"
                 },
               {
                     "type": "China SD",
@@ -66,11 +63,8 @@
                {
                     "type": "Vietnam Special",
                 "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
                 }
+                
             ]
          },
 {
