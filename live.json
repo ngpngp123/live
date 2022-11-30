@@ -29,8 +29,11 @@
                {
                     "type": "Vietnam Special",
                 "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
-                }
-                
+                },
+               {
+                    "type": "Eng HD",
+                "livelink":"https://wswanata.azureedge.net/live/FOX/chunks.m3u8"
+                } 
             ]
          },
 {
@@ -63,8 +66,11 @@
                {
                     "type": "Vietnam Special",
                 "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
-                }
-                
+                },
+             {
+                    "type": "Eng HD",
+                "livelink":"https://wswanata.azureedge.net/live/FS1/chunks.m3u8"
+                }   
             ]
          },
 {
