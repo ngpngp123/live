@@ -2,80 +2,6 @@
 {
            "league": "🏆 Qatar World Cup",
             "date": "Dec 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
-            "teams" : "Japan Vs Spain",
-            "hteam" : "Japan",
-            "ateam" : "Spain",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1669939654-0-0-446ecc1daeda62027f7637b68f5e54b0"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669939654-0-0-a36677c3d138a37c2eaf247be3e84364"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-558696_ld.m3u8?auth_key=1669940063-0-0-a281113323c7d31585d1b454196d18f0"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669940063-0-0-4d531e9ec79e7d8b4f20757e76f6b448"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8?fbclid=PAAaagylDoTQ3WF9b_-7_pOIaQY7Zyj2d7k0JdoNIdI"
-                }
-            ]
-         },
-{
-           "league": "🏆 Qatar World Cup",
-            "date": "Dec 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6705_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
-            "teams" : "Costa Rica Vs Germany",
-            "hteam" : "Costa Rica",
-            "ateam" : "Germany",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1669939594-0-0-876eaae08d6238606a16a6ec368aee6b"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1669939594-0-0-876eaae08d6238606a16a6ec368aee6b"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-486118_ld.m3u8?auth_key=1669940183-0-0-a6e68678daf8d484b31df8d1362b1ff9"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1669940183-0-0-a549328baea8417e289a4fe81e446d94"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"http://185.89.156.111:8000/play/a022?"
-                }
-            ]
-         },
-{
-           "league": "🏆 Qatar World Cup",
-            "date": "Dec 2",
             "time": "9:30 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
@@ -220,7 +146,8 @@
                 "livelink":"0"
                 }
             ]
-         }
+         },
+
 ]
 
 
