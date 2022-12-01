@@ -20,11 +20,11 @@
                 },
               {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-558696_ld.m3u8?auth_key=1669940063-0-0-a281113323c7d31585d1b454196d18f0"
                 },
                 {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1669940063-0-0-4d531e9ec79e7d8b4f20757e76f6b448"
                 },
                {
                     "type": "Vietnam Special",
@@ -57,11 +57,11 @@
                 },
               {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-486118_ld.m3u8?auth_key=1669940183-0-0-a6e68678daf8d484b31df8d1362b1ff9"
                 },
                 {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1669940183-0-0-a549328baea8417e289a4fe81e446d94"
                 },
                {
                     "type": "Vietnam Special",
