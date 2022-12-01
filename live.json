@@ -2,7 +2,7 @@
 {
            "league": "🏆 Qatar World Cup",
             "date": "Dec 2",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
             "teams" : "Japan Vs Spain",
@@ -12,11 +12,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1669939654-0-0-446ecc1daeda62027f7637b68f5e54b0"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669939654-0-0-a36677c3d138a37c2eaf247be3e84364"
                 },
               {
                     "type": "China SD",
@@ -39,7 +39,7 @@
 {
            "league": "🏆 Qatar World Cup",
             "date": "Dec 2",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6705_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
             "teams" : "Costa Rica Vs Germany",
@@ -49,11 +49,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1669939594-0-0-876eaae08d6238606a16a6ec368aee6b"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1669939594-0-0-876eaae08d6238606a16a6ec368aee6b"
                 },
               {
                     "type": "China SD",
