@@ -2,7 +2,7 @@
 {
            "league": "🏆 Qatar World Cup",
             "date": "Dec 2",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
             "teams" : "South Korea Vs Portugal",
@@ -12,19 +12,19 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1670013155-0-0-921697ba83ee429c984d431958e3eb35"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1670013155-0-0-ac510448ff2a9ef7babd2324da4aefe6"
                 },
               {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1670013443-0-0-9ff2d07c4577251320d07905cc0d5c40"
                 },
                 {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1670013443-0-0-2ab0a29a983447d710e72afda95ed4d0"
                 },
                {
                     "type": "Vietnam Special",
@@ -32,14 +32,15 @@
                 },
                 {
                     "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8?fbclid=PAAaagylDoTQ3WF9b_-7_pOIaQY7Zyj2d7k0JdoNIdIlAo0-KqhikaWEFKfD4
+"
                 }
             ]
          },
 {
            "league": "🏆 Qatar World Cup",
             "date": "Dec 2",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6714_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",
             "teams" : "Ghana Vs Uruguay",
@@ -49,19 +50,19 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-123226_ld.m3u8?auth_key=1670013275-0-0-e7e7ed48c34c406cf8772378abe73e72"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1670013275-0-0-017e946a297031498caca265cc016b0f"
                 },
               {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-552369_ld.m3u8?auth_key=1670013503-0-0-48cdf6a1b8016cf3ef4be30476c83122"
                 },
                 {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1670013503-0-0-5910c26c820de727c0b022d1948592a7"
                 },
                {
                     "type": "Vietnam Special",
