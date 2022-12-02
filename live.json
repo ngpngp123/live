@@ -10,22 +10,7 @@
             "ateam" : "Brazil",
          "hotmat":"yes",
             "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1670026234-0-0-1105e03b16cf890b652604ee3e6a2d52"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1670026234-0-0-c1a80890ab3ad763a1f10551258009b5"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1670025983-0-0-85af8ff794b6ba57fa19a59fbfbbd5f1"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1670025983-0-0-63671f5a11699959717497b8f4ce7a75"
-                },
+                
                {
                     "type": "Vietnam Special",
                 "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
@@ -47,22 +32,8 @@
             "ateam" : "Switzerland",
          "hotmat":"yes",
             "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-114959_ld.m3u8?auth_key=1670027495-0-0-99f9c181f331a9ce247312391e9fcd23"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1670027495-0-0-ed9b842573f61419d4425cb778505302"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-552369_ld.m3u8?auth_key=1670026103-0-0-1af9c3f27ab7c6ed5c4895ce7d48b53b"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1670026103-0-0-ab562d715a80489b3daab6661cccdeb8"
-                },
+                
+                
                {
                     "type": "Vietnam Special",
                 "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
