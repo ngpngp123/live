@@ -37,8 +37,8 @@
                 "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
                 },
                 {
-                    "type": "Bein HD",
-                "livelink":"https://playing.tunnelcdnsw.net/live/beinsportsmax1ar_720p/index.m3u8"
+                    "type": "FS1",
+                "livelink":"https://playing.smoothlikebutterstream.com/live/fs1us_720p/index.m3u8"
                 },
 {
                     "type": "China CCTV HD",
