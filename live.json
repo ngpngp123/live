@@ -20,6 +20,10 @@
                     "type": "Soco HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1670110175-0-0-5bf9295f29c2b874263e4dfb82faa555"
                 },
+{
+                    "type": "Arab Bein HD",
+                "livelink":"https://playing.tunnelcdnsw.net/live/beinsportsmax1ar_720p/index.m3u8"
+                },
               {
                     "type": "English HD",
                 "livelink":"https://playing.goforfreedomwme.net/live/matchtvru/index.m3u8"
