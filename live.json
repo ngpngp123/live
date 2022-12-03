@@ -1,5 +1,23 @@
 [
 {
+           "league": "ONE CHAMPIONSHIP",
+            "date": "Dec 3",
+            "time": "live",
+            "himg": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png",
+            "aimg": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png",
+            "teams" : "One Vs Championship",
+            "hteam" : "One",
+            "ateam" : "Championship",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "HD",
+                "livelink":"http://xtv.ooo:8080/Ijaaz123/aijaz321/167579"
+                }
+                
+            ]
+         },
+{
            "league": "Bulgaria Cup",
             "date": "Dec 3",
             "time": "live",
