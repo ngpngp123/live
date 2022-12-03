@@ -1,46 +1,6 @@
 [
-{
-           "league": "🏆 Qatar World Cup",
-            "date": "Dec 3",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",
-            "teams" : "Netherlands Vs USA",
-            "hteam" : "Netherlands",
-            "ateam" : "USA",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1670101475-0-0-b9467668cb9d9a85daafe79ff8dcaacc"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1670101475-0-0-efb0a4ef7d0a7b453cf0612311d39a99"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1670099183-0-0-ebc6c89c8a43a7e6a8ec1a7ef8fab03d"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1670099183-0-0-bfadaa861b994fd5652df98833a99b12"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8"
-                },
-{
-                    "type": "Bein HD",
-                "livelink":"https://playing.tunnelcdnsw.net/live/beinsportsmax1ar_720p/index.m3u8"
-                }
 
-            ]
-         },
+     
 {
            "league": "🏆 Qatar World Cup",
             "date": "Dec 4",
@@ -78,6 +38,41 @@
                 }
             ]
          },
+{
+           "league": "MAN U",
+            "date": "TV Channel",
+            "time": "live",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
+                },
+                
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+                }
+                
+            ]
+},
 {
            "league": "🏆 Qatar World Cup",
             "date": "Dec 4",
