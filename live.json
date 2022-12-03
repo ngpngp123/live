@@ -51,8 +51,8 @@
                 "livelink":"https://playing.smoothlikebutterstream.com/live/fs1us_720p/index.m3u8"
                 },
 {
-                    "type": "China CCTV HD",
-                "livelink":"https://playing.tunnelcdnsw.net/live/cctv5cn/index.m3u8"
+                    "type": "4k",
+                "livelink":"http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=JO7OE4V7ZX"
                 
                 }
             ]
