@@ -21,9 +21,22 @@
                 "livelink":"https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1670110175-0-0-5bf9295f29c2b874263e4dfb82faa555"
                 },
 {
+                    "type": "Vietnam Special",
+                "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
+                },
+{
                     "type": "Arab Bein HD",
                 "livelink":"https://playing.tunnelcdnsw.net/live/beinsportsmax1ar_720p/index.m3u8"
                 },
+{
+                    "type": "Argentina HD",
+                "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8"
+                },
+{
+                    "type": "True",
+                "livelink":"http://w.nasvpn.xyz:8080/live/saya/saya/13322.ts"
+                },
+
               {
                     "type": "Russia HD",
                 "livelink":"https://playing.goforfreedomwme.net/live/matchtvru/index.m3u8"
@@ -32,10 +45,7 @@
                     "type": "English HD",
                 "livelink":"https://playing.whydontyoustreamwme.com/live/bbconeuk/index.m3u8"
                 },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
-                },
+               
                 {
                     "type": "FS1",
                 "livelink":"https://playing.smoothlikebutterstream.com/live/fs1us_720p/index.m3u8"
