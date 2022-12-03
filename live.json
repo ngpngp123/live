@@ -60,7 +60,7 @@
 {
            "league": "Club Friendly",
             "date": "Dec 3",
-            "time": "7:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8517_small.png",
             "teams" : "Crystal Palace Vs Botafogo",
@@ -82,7 +82,7 @@
 {
            "league": "Club Friendly",
             "date": "Dec 3",
-            "time": "7:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10170_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10163_small.png",
             "teams" : "Derby Vs Sheffield",
@@ -92,11 +92,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://live.rtdsg.com/lives/115493-transmux.m3u8"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://live.rtdsg.com/lives/115493-manifest.m3u8"
                 }
               
             ]
