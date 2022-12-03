@@ -1,23 +1,5 @@
 [
 {
-           "league": "ONE CHAMPIONSHIP",
-            "date": "Dec 3",
-            "time": "live",
-            "himg": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png",
-            "aimg": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png",
-            "teams" : "One Vs Championship",
-            "hteam" : "One",
-            "ateam" : "Championship",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "HD",
-                "livelink":"http://xtv.ooo:8080/Ijaaz123/aijaz321/167579"
-                }
-                
-            ]
-         },
-{
            "league": "Bulgaria Cup",
             "date": "Dec 3",
             "time": "live",
@@ -40,9 +22,9 @@
             ]
          },
 {
-           "league": "",
+           "league": "Championship",
             "date": "Dec 3",
-            "time": "7:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8472_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10004_small.png",
             "teams" : "Sunderland Vs Millwall",
@@ -52,11 +34,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-116784_ld.m3u8?auth_key=1670091275-0-0-014f13d1af3832fbf29b7e0fd8093753"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-116784.m3u8?auth_key=1670091275-0-0-548c382f26d5ad46820769e649f250b0"
                 }
               
             ]
@@ -74,11 +56,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://live.rtdsg.com/lives/118582-manifest.m3u8"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://live.rtdsg.com/lives/118582-transmux.m3u8"
                 }
               
             ]
