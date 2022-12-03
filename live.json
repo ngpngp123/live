@@ -52,6 +52,10 @@
                 {
                     "type": "Full HD",
                 "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8"
+                },
+{
+                    "type": "Bein",
+                "livelink":"http://mo3ad.xyz:25461/mo3ad91nm/mo3ad91nm/3"
                 }
             ]
          },
