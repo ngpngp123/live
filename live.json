@@ -1,24 +1,5 @@
 [
 {
-           "league": "Club Friendly",
-            "date": "Dec 3",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8637_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-            "teams" : "Galatasaray Vs Rayo Vallecano",
-            "hteam" : "Galatasaray",
-            "ateam" : "Rayo Vallecano",
-         "hotmat":"yes",
-            "link":[
-                
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=86b76118ef04545e10ecfbcd0c452470&txTime=638b9c97"
-                }
-              
-            ]
-         },
-{
            "league": "🏆 Qatar World Cup",
             "date": "Dec 3",
             "time": "live",
@@ -52,11 +33,8 @@
                 {
                     "type": "Full HD",
                 "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8"
-                },
-{
-                    "type": "Bein",
-                "livelink":"http://mo3ad.xyz:25461/mo3ad91nm/mo3ad91nm/3"
                 }
+
             ]
          },
 {
