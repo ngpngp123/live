@@ -33,6 +33,10 @@
                 {
                     "type": "Full HD",
                 "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8"
+                },
+{
+                    "type": "Eng HD",
+                "livelink":"http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/715"
                 }
 
             ]
