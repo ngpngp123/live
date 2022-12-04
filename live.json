@@ -19,14 +19,18 @@
                     "type": "Soco HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1670200655-0-0-8295015a3482a0d94a513686174dd19a"
                 },
+{
+                    "type": "Wevo HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
+                },
                 
                {
                     "type": "Vietnam Special",
                 "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
                 },
                {
-                    "type": "Argentina HD",
-                "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8"
+                    "type": "true sport HD",
+                "livelink":"http://w.nasvpn.xyz:8080/live/saya/saya/13322.ts"
                 } ,
 {
                     "type": "FS1",
