@@ -57,6 +57,10 @@
 {
                     "type": "FS1",
                 "livelink":"https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8"
+                },
+{
+                    "type": "Poland",
+                "livelink":"https://turnthe.gameon.tel/live/telemundo/index.m3u8"
                 }
             ]
          },
