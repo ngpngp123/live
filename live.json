@@ -36,53 +36,8 @@
 },
 {
            "league": "🏆 Qatar World Cup",
-            "date": "Dec 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
-            "teams" : "France Vs Poland",
-            "hteam" : "France",
-            "ateam" : "Poland",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1670186675-0-0-91ae9098ad8aeb0a468c8f7f282a7e6d"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1670186675-0-0-77153e346e594398782b9751e255aeed"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1670185283-0-0-b1b819fd5943df45176b3ea6c6b46805"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1670185283-0-0-f693f57ab227bf57625f45c07ea0ca9c"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
-                },
-                {
-                    "type": "Argentina HD",
-                "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8"
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8"
-                },
-{
-                    "type": "Bein FHD",
-                "livelink":"https://playing.tunnelcdnsw.net/live/beinsportsmax1ar_720p/index.m3u8"
-                }
-            ]
-         },
-{
-           "league": "🏆 Qatar World Cup",
             "date": "Dec 5",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
             "teams" : "England Vs Senegal",
@@ -90,30 +45,12 @@
             "ateam" : "Senegal",
          "hotmat":"yes",
             "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"0"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"0"
-                },
+                
                {
                     "type": "Vietnam Special",
                 "livelink":""
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
                 }
+                
             ]
          },
 {
