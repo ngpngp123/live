@@ -31,6 +31,10 @@
 {
                     "type": "Bein Sports",
                 "livelink":"https://playing.goforfreedomwme.net/live/beinsportsmax2ar/index.m3u8"
+                },
+{
+                    "type": "China CCTV",
+                "livelink":"https://pull-l3-cny.douyincdn.com/live/3c0f750ff1475efec18899d155d4e804.m3u8"
                 }
             ]
          },
