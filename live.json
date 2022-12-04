@@ -35,6 +35,10 @@
                 "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8"
                 },
 {
+                    "type": "FHD",
+                "livelink":"lhttps://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8"
+                },
+{
                     "type": "Bein FHD",
                 "livelink":"https://playing.tunnelcdnsw.net/live/beinsportsmax1ar_720p/index.m3u8"
                 }
