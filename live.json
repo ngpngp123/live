@@ -49,8 +49,11 @@
                {
                     "type": "Vietnam Special",
                 "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
-                }
-                
+                },
+               {
+                    "type": "Argentina HD",
+                "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8"
+                } 
             ]
          },
 {
