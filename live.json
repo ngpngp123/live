@@ -10,7 +10,14 @@
             "ateam" : "South Korea",
          "hotmat":"yes",
             "link":[
-                
+                {
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1670284883-0-0-e78274ac409d4af4c9e2e558747fe457"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1670284883-0-0-67bd4278e91717aafc98f6dac859ec60"
+                },
                {
                     "type": "Vietnam Special",
                 "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
