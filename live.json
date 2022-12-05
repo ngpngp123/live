@@ -33,6 +33,10 @@
                 {
                     "type": "Argentina HD",
                 "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8?fbclid=PAAaagylDoTQ3WF9b_-7_pOIaQY7Zyj2d7k0JdoNIdIlAo0-KqhikaWEFKfD4"
+                },
+{
+                    "type": "Bein FHD",
+                "livelink":"https://playing.whydontyoustreamwme.com/live/beinsportsmax1ar/index.m3u8"
                 }
             ]
          },
