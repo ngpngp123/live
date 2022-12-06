@@ -32,6 +32,10 @@
                 "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
                 },
 {
+                    "type": "ITV HD",
+                "livelink":"https://playing.tunnelcdnsw.net/live/itvuk/index.m3u8"
+                },
+{
                     "type": "Russia FHD",
                 "livelink":"https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8"
                 },
