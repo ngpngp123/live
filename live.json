@@ -26,17 +26,14 @@
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1670358203-0-0-a0feaa75bc77276ce2defd1b75bfeef9"
                 },
-                {
-                    "type": "Eng FHD",
-                "livelink":"http://deeetb.azureedge.net/scripts/NjcxMA==/1080p.m3u8"
-                },
+                
                {
                     "type": "Vietnam Special",
                 "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
                 },
                 
 {
-                    "type": "FHD",
+                    "type": "Eng FHD",
                 "livelink":"https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8"
                 },
 {
