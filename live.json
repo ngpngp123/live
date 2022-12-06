@@ -1,55 +1,8 @@
 [
 {
            "league": "🏆 Qatar World Cup",
-            "date": "Dec 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6262_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
-            "teams" : "Morocco Vs Spain",
-            "hteam" : "Morocco",
-            "ateam" : "Spain",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=6d212ae4cad723d9b4fc2bd6e412a6dd&txTime=638fb6d3"
-                },
-{
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-115493.m3u8?txSecret=3ccde8ec5eb99cb5f30d6b6c93674a54&txTime=638fb61f"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1670358203-0-0-a0feaa75bc77276ce2defd1b75bfeef9"
-                },
-                
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
-                },
-                
-{
-                    "type": "Eng FHD",
-                "livelink":"https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8"
-                },
-{
-                    "type": "Bein FHD",
-                "livelink":"https://turnthe.gameon.tel/live/beinsport1fr/index.m3u8"
-                },
-{
-                    "type": "Test",
-                "livelink":"https://vsd134.mycdn.me/hls/3288522295977.m3u8/sig/-Mf8uMNcE6U/expires/1670423987514/srcIp/45.41.104.124/urls/185.226.52.53/clientType/0/srcAg/CHROME_ANDROID/mid/4311873625769/video.m3u8?p"
-                }
-            ]
-         },
-{
-           "league": "🏆 Qatar World Cup",
             "date": "Dec 7",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",
             "teams" : "Portugal Vs Switzerland",
@@ -59,27 +12,32 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1670372435-0-0-3f59853755bf1414497bd91cb8bb73ef"
                 },
                 {
+                    "type": "HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
+                },
+
+                {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1670372435-0-0-36099a0d15a39cb4dc8afffa31fd2cc3"
                 },
               {
                     "type": "China SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1670372303-0-0-3d5890f7eafe3dd3b628862ad6af3e01"
                 },
                {
                     "type": "Vietnam Special",
                 "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
                 },
+{
+                    "type": "Bein FHD",
+                "livelink":"https://turnthe.gameon.tel/live/beinsport1fr/index.m3u8"
+                },
                 {
-                    "type": "Full HD",
-                "livelink":"0"
+                    "type": "English FHD",
+                "livelink":"https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8"
                 }
             ]
          },
