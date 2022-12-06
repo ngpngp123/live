@@ -38,6 +38,10 @@
 {
                     "type": "Bein FHD",
                 "livelink":"https://turnthe.gameon.tel/live/beinsport1fr/index.m3u8"
+                },
+{
+                    "type": "Test",
+                "livelink":"https://vsd134.mycdn.me/hls/3288522295977.m3u8/sig/-Mf8uMNcE6U/expires/1670423987514/srcIp/45.41.104.124/urls/185.226.52.53/clientType/0/srcAg/CHROME_ANDROID/mid/4311873625769/video.m3u8?p"
                 }
             ]
          },
