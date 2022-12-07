@@ -60,7 +60,7 @@
 {
            "league": "🏆 Club Friendly",
             "date": "Dec 7",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
             "teams" : "Inter Vs Salzburg",
@@ -70,11 +70,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-112310_ld.m3u8?auth_key=1670453015-0-0-3f29455601f0e65943feecf95752dd2f"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-112310.m3u8?auth_key=1670453015-0-0-1a842f1dc159beeb37bb1eafc0c97e3c"
                 }
               
             ]
