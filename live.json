@@ -37,7 +37,7 @@
 {
            "league": "🏆 Club Friendly",
             "date": "Dec 7",
-            "time": "5:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6601_small.png",
             "teams" : "Ajax Vs FC Volendam",
@@ -47,11 +47,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-118582_ld.m3u8?auth_key=1670430995-0-0-8b58f830b2fe67051622d1a632e41df9"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-118582.m3u8?auth_key=1670430995-0-0-4e1647a5a89af9ed93f41dbe499f6303"
                 }
               
             ]
