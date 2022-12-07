@@ -38,7 +38,7 @@
 {
            "league": "🏆 Club Friendly",
             "date": "Dec 7",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9752_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
             "teams" : "Trabzonspor Vs Crystal Palace",
@@ -48,11 +48,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=d18c93d162c1b3df76d68785d0fbcd2f&txTime=6391050b"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-181398.m3u8?txSecret=b4ae0aceb3c3b751d303797d01e3b794&txTime=63910589"
                 }
               
             ]
