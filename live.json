@@ -82,7 +82,7 @@
 {
            "league": "🏆 Club Friendly",
             "date": "Dec 8",
-            "time": "00:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/1931_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
             "teams" : "Antalyaspor Vs Napoli",
@@ -92,11 +92,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-112565.m3u8?txSecret=6e88666c36302e1efe6342e198feba36&txTime=63912383"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-113906.m3u8?txSecret=98263acb5558e70020458e7139560d66&txTime=63912383"
                 }
               
             ]
