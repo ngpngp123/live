@@ -35,6 +35,28 @@
             ]
 },
 {
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 7",
+            "time": "5:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6601_small.png",
+            "teams" : "Ajax Vs FC Volendam",
+            "hteam" : "Ajax",
+            "ateam" : "FC Volendam",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                }
+              
+            ]
+         },
+{
            "league": "🏆 World Cup Quarter Final",
             "date": "Dec 9",
             "time": "9:30 PM",
