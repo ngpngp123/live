@@ -1,54 +1,39 @@
 [
 {
-           "league": "🏆 Qatar World Cup",
-            "date": "Dec 7",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",
-            "teams" : "Portugal Vs Switzerland",
-            "hteam" : "Portugal",
-            "ateam" : "Switzerland",
-         "hotmat":"yes",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1670372435-0-0-3f59853755bf1414497bd91cb8bb73ef"
+                
+{
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
                 },
-                {
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1670372435-0-0-36099a0d15a39cb4dc8afffa31fd2cc3"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1670372303-0-0-3d5890f7eafe3dd3b628862ad6af3e01"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
+                
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
                 },
 {
-                    "type": "ITV HD",
-                "livelink":"https://playing.tunnelcdnsw.net/live/itvuk/index.m3u8"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
                 },
 {
-                    "type": "Russia FHD",
-                "livelink":"https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8"
-                },
-{
-                    "type": "Bein FHD",
-                "livelink":"https://playing.tunnelcdnsw.net/live/beinsportsmax2ar/index.m3u8"
-                },
-                {
-                    "type": "English FHD",
-                "livelink":"https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8"
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
+                
             ]
-         },
+},
 {
            "league": "🏆 World Cup Quarter Final",
             "date": "Dec 9",
