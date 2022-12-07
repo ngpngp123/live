@@ -57,6 +57,131 @@
             ]
          },
 {
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 7",
+            "time": "6:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9776_small.png",
+            "teams" : "Hertha BSC Vs Eintracht",
+            "hteam" : "Hertha BSC",
+            "ateam" : "Eintracht",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                }
+         
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 7",
+            "time": "10:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9752_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+            "teams" : "Trabzonspor Vs Crystal Palace",
+            "hteam" : "Trabzonspor",
+            "ateam" : "Crystal Palace",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 7",
+            "time": "11:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
+            "teams" : "Inter Vs Salzburg",
+            "hteam" : "Inter",
+            "ateam" : "Salzburg",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 8",
+            "time": "00:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/1931_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+            "teams" : "Antalyaspor Vs Napoli",
+            "hteam" : "Antalyaspor",
+            "ateam" : "Napoli",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 8",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "teams" : "Cadiz Vs Manchester United",
+            "hteam" : "Cadiz",
+            "ateam" : "Manchester United",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
            "league": "🏆 World Cup Quarter Final",
             "date": "Dec 9",
             "time": "9:30 PM",
