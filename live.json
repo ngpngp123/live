@@ -1,61 +1,16 @@
 [
-
 {
-           "league": "🏆 Club Friendly",
-            "date": "Dec 7",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
-            "teams" : "Inter Vs Salzburg",
-            "hteam" : "Inter",
-            "ateam" : "Salzburg",
-         "hotmat":"yes",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-112310_ld.m3u8?auth_key=1670453015-0-0-3f29455601f0e65943feecf95752dd2f"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-112310.m3u8?auth_key=1670453015-0-0-1a842f1dc159beeb37bb1eafc0c97e3c"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 Club Friendly",
-            "date": "Dec 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/1931_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "teams" : "Antalyaspor Vs Napoli",
-            "hteam" : "Antalyaspor",
-            "ateam" : "Napoli",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-112565.m3u8?txSecret=6e88666c36302e1efe6342e198feba36&txTime=63912383"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-113906.m3u8?txSecret=98263acb5558e70020458e7139560d66&txTime=63912383"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 Club Friendly",
-            "date": "Dec 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "teams" : "Cadiz Vs Manchester United",
-            "hteam" : "Cadiz",
-            "ateam" : "Manchester United",
-         "hotmat":"yes",
-            "link":[
-                                
+                
 {
                     "type": "MUTV 360 SD",
                 "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
@@ -78,7 +33,7 @@
                 }
                 
             ]
-         },
+},
 {
            "league": "🏆 World Cup Quarter Final",
             "date": "Dec 9",
