@@ -3,7 +3,7 @@
 {
            "league": "🏆 Club Friendly",
             "date": "Dec 8",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://cdn.livesoccertv.com/images/teams/england/logos/aston-villa.png",
             "aimg": "https://cdn.livesoccertv.com/images/teams/england/logos/brighton-hove-albion.png",
             "teams" : "Aston Villa Vs Brighton",
@@ -13,28 +13,13 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-115429.m3u8?txSecret=feaf1af45d3c5c1799ae9c32cfc76f85&txTime=639230cf"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
-                },
-              {
-                    "type": "China SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"0"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":""
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-115493.m3u8?txSecret=642c50b4c446ab6c1a8faac1fa5f0f5c&txTime=63923093"
                 }
+              
             ]
          },
 {
