@@ -35,6 +35,80 @@
             ]
 },
 {
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 8",
+            "time": "7:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+            "teams" : "Aston Villa Vs Brighton",
+            "hteam" : "Aston Villa",
+            "ateam" : "Brighton",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 8",
+            "time": "10:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+            "teams" : "Arsenal Vs Lyon",
+            "hteam" : "Arsenal",
+            "ateam" : "Lyon",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
            "league": "🏆 World Cup Quarter Final",
             "date": "Dec 9",
             "time": "9:30 PM",
