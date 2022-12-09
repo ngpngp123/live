@@ -40,11 +40,11 @@
                 },
 {
                     "type": "TRT 4K",
-                "livelink":"http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/379.ts"
+                "livelink":"http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/2219.ts"
                 },
                 {
                     "type": "4K FHD",
-                "livelink":"http://yhdo.azureedge.net/scripts/NjczNw==/1080p.m3u8"
+                "livelink":"https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/vtv6@high.m3u8"
                 }
             ]
          }, 
