@@ -18,10 +18,7 @@
                     "type": "Soco HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=5a2abc0b1819752f9c906c96b15ffc47&txTime=6393a5b3"
                 },
-              {
-                    "type": "Bein SD",
-                "livelink":"https://vkvsd61.mycdn.me/hls/3202419853956.m3u8/sig/GjXWXQ7IoUE/srcIp/45.41.104.20/urls/45.136.20.44/expires/1671059666133/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/4380370217860/id/3202419853956/video.m3u8?p"
-                },
+              
                 {
                     "type": "China HD",
                 "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=e99b0dfdfd5c1877ea832a429b09c1c2&txTime=63949688"
