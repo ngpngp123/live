@@ -13,7 +13,7 @@
             "link":[
                 {
                     "type": "Vevo HD",
-                "livelink":""
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 },
                 {
                     "type": "Bein SD",
@@ -27,10 +27,6 @@
                {
                     "type": "Vietnam Special",
                 "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
-                },
-                {
-                    "type": "Argentina HD",
-                "livelink":"https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8?fbclid=PAAaagylDoTQ3WF9b_-7_pOIaQY7Zyj2d7k0JdoNIdIlAo0-KqhikaWEFKfD4"
                 }
             ]
          },
