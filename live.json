@@ -16,10 +16,6 @@
                     "type": "Soco SD",
                 "livelink":"https://sports01.livnvess.com/live/stream-115493.m3u8?txSecret=df022ce8c2380e1251715762b61cd487&txTime=6394f373"
                 },
-{
-                    "type": "Eng HD",
-                "livelink":"https://playing.goforfreedomwme.net/live/rai1it/index.m3u8"
-                },
                 {
                     "type": "Soco HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=57e167efe3daac724321e6b68635873e&txTime=6394eb03"
@@ -27,6 +23,10 @@
 {
                     "type": "Vietnam HD",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
+                },
+{
+                    "type": "China SD",
+                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=f340e6b4d6322f930d4391c8960615ae&txTime=6395fd21"
                 },
               {
                     "type": "China HD",
@@ -41,8 +41,16 @@
                 "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
                 },
                 {
+                    "type": "Eng HD",
+                "livelink":"http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/146469.ts"
+                },
+{
                     "type": "Eng FHD",
                 "livelink":"http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/146469.ts"
+                },
+{
+                    "type": "English FHD",
+                "livelink":"https://turnthe.gameon.tel/live/fs1us_720p/index.m3u8"
                 }
             ]
          },
