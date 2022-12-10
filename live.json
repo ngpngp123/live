@@ -20,8 +20,8 @@
                 "livelink":"https://sports01.livnvess.com/live/stream-115493.m3u8?txSecret=09213181ad51fbd0283a6a19defbea47&txTime=6394ebf3"
                 },
               {
-                    "type": "China SD",
-                "livelink":"0"
+                    "type": "China HD",
+                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=de015587a1a2a2e321fa684ea0a0e3dd&txTime=6395ea25"
                 },
                 {
                     "type": "HD",
