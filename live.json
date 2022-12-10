@@ -1,43 +1,39 @@
 [
-
 {
-           "league": "🏆 World Cup Quarter Final",
-            "date": "Dec 10",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
-            "teams" : "Netherlands Vs Argentina",
-            "hteam" : "Netherlands",
-            "ateam" : "Argentina",
-         "hotmat":"yes",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
+                
 {
-                    "type": "Soco SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=30ebcd98eb6228f180c04b23ba209b70&txTime=6393d9bb"
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=ebf64432cb5306a1cc2b6958076d8390&txTime=6394d7b0"
-                },
-                {
-                    "type": "Vevo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-                {
-                    "type": "Bein SD",
-                "livelink":"http://lb.yacinetvkora.com:80/live/tw.m3u8?s=aHR0cHM6Ly9wcm9kLWZhc3RseS11cy13ZXN0LTIudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvdHBRVFpZQjBaakdicG56SHJrLVRGSmowYWkySXhpUnZtSi1pZTR4c1pHZTRWeDBrQ3RaR0wtSUZJaExKU0lqbnU5Mk5WLS1UdFlQdVh5eTdGUDZrMVEvdHJhbnNjb2RlL3VzLXdlc3QtMi9wZXJpc2NvcGUtcmVwbGF5LWRpcmVjdC1wcm9kLXVzLXdlc3QtMi1wcml2YXRlL2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNJc0luWmxjbk5wYjI0aU9pSXlJbjAuZXlKRmJtTnZaR1Z5VTJWMGRHbHVaeUk2SW1WdVkyOWtaWEpmYzJWMGRHbHVaMTgwT0RCd016QmZNVEFpTENKSVpXbG5hSFFpT2pRNE1Dd2lTMkp3Y3lJNk1USXdNQ3dpVjJsa2RHZ2lPamcwT0gwLjBMSmkxdXNXYmlQcXAwUUljcHE3TWQ1ZzFXeHZKY1BxVldOcXNLdzVuaEEvc3RfZHluYW1pY19oaWdobGF0ZW5jeS5tM3U4P3R5cGU9bGl2ZQ%3D%3D"
-                },
-              {
-                    "type": "Bein HD",
-                "livelink":"http://lb.yacinetvkora.com:80/live/tw.m3u8?s=aHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LTMudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvazhMUjVGSFN6clFtRGYxNXUzY3liQ2lVMGRHRlJvdDlhd2RQQkxBX1B0Y3hkMm4wS2NBTmJQeWYwWloyLVVyUDFOUFFXc0RkdWNkU3YxZlpaWFBpaGcvdHJhbnNjb2RlL2V1LXdlc3QtMy9wZXJpc2NvcGUtcmVwbGF5LWRpcmVjdC1wcm9kLWV1LXdlc3QtMy1wcml2YXRlL2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNJc0luWmxjbk5wYjI0aU9pSXlJbjAuZXlKRmJtTnZaR1Z5VTJWMGRHbHVaeUk2SW1WdVkyOWtaWEpmYzJWMGRHbHVaMTgzTWpCd016QmZNVEFpTENKSVpXbG5hSFFpT2pjeU1Dd2lTMkp3Y3lJNk1qYzFNQ3dpVjJsa2RHZ2lPakV5T0RCOS5sZGt0TTRmQ0ZSZmtQNFpFQmZaUEt0bEFVTkFjVFBrb3o5OTRZSkF6V3BFL3N0X2R5bmFtaWNfaGlnaGxhdGVuY3kubTN1OD90eXBlPWxpdmU%3D"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
                 },
                 
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
+                
             ]
-         },
+},
 {
            "league": "🏆 World Cup Quarter Final",
             "date": "Dec 10",
