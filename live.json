@@ -1,59 +1,6 @@
 [
 
-{
-           "league": "🏆 World Cup Quarter Final",
-            "date": "Dec 10",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6262_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
-            "teams" : "Morocco Vs Portugal",
-            "hteam" : "Morocco",
-            "ateam" : "Portugal",
-         "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "Soco SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-115493.m3u8?txSecret=df022ce8c2380e1251715762b61cd487&txTime=6394f373"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=57e167efe3daac724321e6b68635873e&txTime=6394eb03"
-                },
-{
-                    "type": "Vietnam HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-{
-                    "type": "China SD",
-                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=f340e6b4d6322f930d4391c8960615ae&txTime=6395fd21"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=de015587a1a2a2e321fa684ea0a0e3dd&txTime=6395ea25"
-                },
-                {
-                    "type": "HD",
-                "livelink":"http://lb.yacinetvkora.com/live/tw.m3u8?s=aHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LTMudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvazhMUjVGSFN6clFtRGYxNXUzY3liQ2lVMGRHRlJvdDlhd2RQQkxBX1B0Y3hkMm4wS2NBTmJQeWYwWloyLVVyUDFOUFFXc0RkdWNkU3YxZlpaWFBpaGcvdHJhbnNjb2RlL2V1LXdlc3QtMy9wZXJpc2NvcGUtcmVwbGF5LWRpcmVjdC1wcm9kLWV1LXdlc3QtMy1wcml2YXRlL2V5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNJc0luWmxjbk5wYjI0aU9pSXlJbjAuZXlKRmJtTnZaR1Z5VTJWMGRHbHVaeUk2SW1WdVkyOWtaWEpmYzJWMGRHbHVaMTgzTWpCd016QmZNVEFpTENKSVpXbG5hSFFpT2pjeU1Dd2lTMkp3Y3lJNk1qYzFNQ3dpVjJsa2RHZ2lPakV5T0RCOS5sZGt0TTRmQ0ZSZmtQNFpFQmZaUEt0bEFVTkFjVFBrb3o5OTRZSkF6V3BFL3N0X2R5bmFtaWNfaGlnaGxhdGVuY3kubTN1OD90eXBlPWxpdmU%3D"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
-                },
-                {
-                    "type": "Eng HD",
-                "livelink":"http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/48986.ts"
-                },
-{
-                    "type": "Eng FHD",
-                "livelink":"http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/146469.ts"
-                },
-{
-                    "type": "English FHD",
-                "livelink":"https://turnthe.gameon.tel/live/fs1us_720p/index.m3u8"
-                }
-            ]
-         },
+
 
 {
            "league": "Club Friendly",
