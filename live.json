@@ -2,78 +2,41 @@
 
      
 {
-           "league": "🏆 Club Friendly",
-            "date": "Dec 11",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-            "teams" : "Liverpool Vs Lyon",
-            "hteam" : "Liverpool",
-            "ateam" : "Lyon",
-         "hotmat":"yes",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
-                {
-                    "type": "Soco SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-170430.m3u8?txSecret=6c78f41cf0acf2e67b8dd24379aa05f0&txTime=639632ac"
-                },
-   {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-170430.m3u8?txSecret=4647c268b640f11fec14045d41166422&txTime=63963180"
-                }
-              
-            ]
-         },
+                
 {
-           "league": "🏆 Club Friendly",
-            "date": "Dec 11",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-            "teams" : "Chelsea Vs Aston Villa",
-            "hteam" : "Chelsea",
-            "ateam" : "Aston Villa",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-112565.m3u8?txSecret=842b7a6354217b7b695dc335828b6907&txTime=63963798"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
                 },
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-141691_ld.m3u8?auth_key=1670789136-0-0-27708b7bd8d58d0e420a2b79569b530b"
-                },
-              {
-                    "type": "FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                }
-            ]
-         },
+                
 {
-           "league": "🏆 Club Friendly",
-            "date": "Dec 11",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "teams" : "Crystal Palace Vs Napoli",
-            "hteam" : "Crystal Palace",
-            "ateam" : "Napoli",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
                 },
-                {
-                    "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1670791056-0-0-e79fad51de37085d378c0186e2297b6a"
+{
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
-              
+                
             ]
-         },
+},
+
 {
            "league": "🏆 Club Friendly",
             "date": "Dec 13",
