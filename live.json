@@ -61,6 +61,10 @@
                     "type": "Soco SD",
                 "livelink":"https://sports01.livnvess.com/live/stream-170430.m3u8?txSecret=6c78f41cf0acf2e67b8dd24379aa05f0&txTime=639632ac"
                 },
+   {
+                    "type": "Vebo HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+                },
                 {
                     "type": "Soco HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-115447.m3u8?txSecret=7ea2b0046f0807ac2140a0bd82fa383f&txTime=63963270"
