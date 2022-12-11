@@ -74,8 +74,11 @@
                 {
                     "type": "Soco HD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-121272.m3u8?auth_key=1670785836-0-0-b817eb6c5944cf16d70563882ea6403b"
-                }
-              
+                },
+             {
+                    "type": "HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=7a97d41dddcbf6e18e32b7756c789101&txTime=63962d48"
+                } 
             ]
          },
 {
