@@ -49,7 +49,7 @@
 {
            "league": "🏆 Club Friendly",
             "date": "Dec 11",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
             "teams" : "Liverpool Vs Lyon",
@@ -59,11 +59,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-170430.m3u8?txSecret=6c78f41cf0acf2e67b8dd24379aa05f0&txTime=639632ac"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-115447.m3u8?txSecret=7ea2b0046f0807ac2140a0bd82fa383f&txTime=63963270"
                 }
               
             ]
