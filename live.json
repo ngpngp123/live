@@ -86,8 +86,11 @@
                 {
                     "type": "Soco HD",
                 "livelink":"0"
+                },
+              {
+                    "type": "FHD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 }
-              
             ]
          },
 {
