@@ -84,12 +84,12 @@
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "Soco SD",
+                    "type": "Soco HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-112565.m3u8?txSecret=842b7a6354217b7b695dc335828b6907&txTime=63963798"
                 },
                 {
-                    "type": "Soco HD",
-                "livelink":"0"
+                    "type": "Soco SD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-141691_ld.m3u8?auth_key=1670789136-0-0-27708b7bd8d58d0e420a2b79569b530b"
                 },
               {
                     "type": "FHD",
