@@ -50,11 +50,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=384e8090608d707b5dfbcd2314fa7164&txTime=6398d1b0"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=384e8090608d707b5dfbcd2314fa7164&txTime=6398d1b0"
                 },
               {
                     "type": "China SD",
@@ -63,15 +63,8 @@
                 {
                     "type": "China HD",
                 "livelink":"0"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":""
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
                 }
+               
             ]
          },
 {
