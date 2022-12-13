@@ -1,47 +1,12 @@
 [
 
      
-{
-           "league": "MAN U",
-            "date": "TV Channel",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "teams" : "Man United TV",
-            "hteam" : "MAN U",
-            "ateam" : "TV",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "MUTV 360 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "MUTV 240 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MUTV 540 HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MAN U TV 1080HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                }
-                
-            ]
-},
 
 
 {
            "league": "🏆 World Cup - Semi-final",
             "date": "Dec 14",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",
             "teams" : "Argentina Vs Croatia",
@@ -57,10 +22,7 @@
                     "type": "Soco HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=5a5933ec493c91e363fa5d51ffb1edb6&txTime=6399165c"
                 },
-              {
-                    "type": "China SD",
-                "livelink":"0"
-                },
+              
                 {
                     "type": "China HD",
                 "livelink":"https://yytcpull.gdsth.com/live/stream-535588.m3u8?txSecret=8e0bf95efd2ca54b3309c6e7fdaac242&txTime=639a1272"
@@ -70,8 +32,8 @@
                 "livelink":""
                 },
                 {
-                    "type": "Full HD",
-                "livelink":"0"
+                    "type": "English FHD",
+                "livelink":"https://jisu.azureedge.net/scripts/Njc3NQ==/1080p.m3u8"
                 }
             ]
          },
