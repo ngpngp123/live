@@ -58,11 +58,11 @@
                 },
               {
                     "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-478496_ld.m3u8?auth_key=1670960050-0-0-65239dbe27059a0f765427844f4a3c4c"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-308116.m3u8?txSecret=e6ca9ae3c8a60b72f8bb6e39f3132ef5&txTime=6399d2ee"
                 },
                 {
                     "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-478496.m3u8?auth_key=1670960050-0-0-61d5e68a8e174092679893f4618239f0"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=70941504be2ab4757750815b1a85835a&txTime=6399d2b2"
                 },
              {
                     "type": "FHD",
