@@ -22,7 +22,10 @@
                     "type": "Soco HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=5a5933ec493c91e363fa5d51ffb1edb6&txTime=6399165c"
                 },
-              
+              {
+                    "type": "China SD",
+                "livelink":"https://standard-pull.qcllh.com/sm/10021_862974_lhd.flv?auth_key=1671042457-0-0-0cadba77cf5d1700ffcb92d1d7a10550"
+                },
                 {
                     "type": "China HD",
                 "livelink":"https://yytcpull.gdsth.com/live/stream-535588.m3u8?txSecret=8e0bf95efd2ca54b3309c6e7fdaac242&txTime=639a1272"
