@@ -37,6 +37,10 @@
                 {
                     "type": "korea FHD",
                 "livelink":"https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8"
+                },
+{
+                    "type": "Eng FHD",
+                "livelink":"http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/146469.ts"
                 }
             ]
          },
