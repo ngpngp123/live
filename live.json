@@ -37,7 +37,7 @@
 {
            "league": "🏆 World Cup - Semi-final",
             "date": "Dec 15",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6262_small.png",
             "teams" : "France Vs Morocco",
@@ -58,8 +58,8 @@
                 "livelink":"0"
                 },
                 {
-                    "type": "China HD",
-                "livelink":"0"
+                    "type": "Vebo HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 },
                {
                     "type": "Vietnam Special",
