@@ -10,6 +10,14 @@
             "ateam" : "Morocco",
          "hotmat":"yes",
             "link":[
+{
+                    "type": "Bein  SD",
+                "livelink":"http://lb.buy-global.store:80/live/lb555/bm1-360.m3u8"
+                },
+{
+                    "type": "Bein HD",
+                "livelink":"http://lb.buy-global.store:80/live/lb555/bm2-720.m3u8"
+                },
                 {
                     "type": "Soco SD",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1670978316-0-0-f91a24f239d8cfbcf01b6e5372d726e3"
