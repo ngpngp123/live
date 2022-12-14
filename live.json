@@ -12,11 +12,11 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1670978316-0-0-81fefe47cb0bd3405597f6e22d802740"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1670978316-0-0-f91a24f239d8cfbcf01b6e5372d726e3"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=f4e492cd2cf6d776143c68efb389d939&txTime=639a6854"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1670978316-0-0-81fefe47cb0bd3405597f6e22d802740"
                 },
 {
                     "type": "China SD",
