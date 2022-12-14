@@ -70,6 +70,117 @@
                 "livelink":"0"
                 }
             ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 16",
+            "time": "10:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+            "teams" : "Liverpool Vs Milan",
+            "hteam" : "Liverpool",
+            "ateam" : "Milan",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 17",
+            "time": "7:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+            "teams" : "Manchester City Vs Girona",
+            "hteam" : "Manchester City",
+            "ateam" : "Girona",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "🏆 Qatar World Cup",
+            "date": "Dec 18",
+            "time": "00:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "teams" : "Arsenal Vs Juventus",
+            "hteam" : "Arsenal",
+            "ateam" : "Juventus",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Soco SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Vietnam Special",
+                "livelink":""
+                },
+                {
+                    "type": "Full HD",
+                "livelink":"0"
+                }
+            ]
          }
 ]
 
