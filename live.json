@@ -60,12 +60,9 @@
                 {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-552917_ld.m3u8?auth_key=1671224650-0-0-80edbaa5c54d3557ff00bdf4744001e7"
-                },
-               
-                {
-                    "type": " WaitFull HD",
-                "livelink":"0"
                 }
+               
+                
             ]
          },
 {
