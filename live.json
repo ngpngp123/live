@@ -45,6 +45,10 @@
             "ateam" : "Girona",
          "hotmat":"yes",
             "link":[
+{
+                    "type": "Vietnam HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
+                },
                 {
                     "type": "Soco HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=6e8b4504c48ed361bacbb2492fc0d90d&txTime=639e0e8d"
