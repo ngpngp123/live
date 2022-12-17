@@ -12,6 +12,10 @@
             "ateam" : "Juventus",
          "hotmat":"yes",
             "link":[
+                       {
+                    "type": "SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-2961234_ld.m3u8?auth_key=1671322331-0-0-aa4395ff524811f7d9307a6fd4b74bde"
+                },
              
                 {
                     "type": "Soco HD",
@@ -21,6 +25,11 @@
                 {
                     "type": "China HD",
                 "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=48c4d039208adb7c96a36559dc31f566&txTime=639f1c37"
+                },
+             
+                {
+                    "type": "HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
                 }
             ]
          },
