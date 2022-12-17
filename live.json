@@ -37,7 +37,7 @@
 {
            "league": "🏆 Club Friendly",
             "date": "Dec 17",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
             "teams" : "Manchester City Vs Girona",
@@ -47,28 +47,17 @@
             "link":[
                 {
                     "type": "Soco SD",
-                "livelink":"0"
+                "livelink":"http://lb.yacinetvkora.com:80/live/lb555/bm1-144.m3u8"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"http://lb.yacinetvkora.com:80/live/lb555/bm1-360.m3u8"
                 },
               {
                     "type": "China SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"0"
-                },
-               {
-                    "type": "Vietnam Special",
-                "livelink":""
-                },
-                {
-                    "type": "Full HD",
-                "livelink":"0"
+                "livelink":"http://lb.yacinetvkora.com:80/live/lb555/bm1-720.m3u8"
                 }
+              
             ]
          },
 {
