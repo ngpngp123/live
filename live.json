@@ -50,12 +50,12 @@
                 "livelink":"https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=6e8b4504c48ed361bacbb2492fc0d90d&txTime=639e0e8d"
                 },
                 {
-                    "type": "Soco HD",
-                "livelink":"http://lb.yacinetvkora.com:80/live/lb555/bm1-360.m3u8"
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-265460.m3u8?auth_key=1671303071-0-0-369dfc9b631275513dc1cb6ba40f26db"
                 },
               {
                     "type": "China SD",
-                "livelink":"http://lb.yacinetvkora.com:80/live/lb555/bm1-720.m3u8"
+                "livelink":"https://yypull.gdsth.com/live/stream-265460_ld.m3u8?auth_key=1671303071-0-0-14220afd03f749666a8833309b578c22"
                 }
               
             ]
