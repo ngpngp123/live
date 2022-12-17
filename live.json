@@ -69,6 +69,10 @@
 {
                     "type": "Soco HD",
                 "livelink":"http://lb.yacinetvkora.com:80/live/lb555/bm1-720.m3u8"
+                },
+{
+                    "type": "Vietnam FHD",
+                "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
                 }
 
             ]
