@@ -58,8 +58,16 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-265460.m3u8?auth_key=1671303071-0-0-369dfc9b631275513dc1cb6ba40f26db"
                 },
               {
-                    "type": "China SD",
+                    "type": "Bein HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-265460_ld.m3u8?auth_key=1671303071-0-0-14220afd03f749666a8833309b578c22"
+                },
+{
+                    "type": "trukey SD",
+                "livelink":"https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/c70a6d4b-6850-4417-8120-b0dcc145fcc5/2.m3u8"
+                },
+                {
+                    "type": "TRT1 FHD",
+                "livelink":"https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/c70a6d4b-6850-4417-8120-b0dcc145fcc5/0.m3u8"
                 }
               
             ]
