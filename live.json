@@ -67,12 +67,20 @@
                 "livelink":"http://lb.yacinetvkora.com:80/live/lb555/bm1-360.m3u8"
                 },
 {
-                    "type": "Soco HD",
+                    "type": "Bein HD",
                 "livelink":"http://lb.yacinetvkora.com:80/live/lb555/bm1-720.m3u8"
                 },
 {
                     "type": "Vietnam FHD",
                 "livelink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
+                },
+{
+                    "type": "trukey SD",
+                "livelink":"https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/c70a6d4b-6850-4417-8120-b0dcc145fcc5/2.m3u8"
+                },
+                {
+                    "type": "TRT1 FHD",
+                "livelink":"https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/c70a6d4b-6850-4417-8120-b0dcc145fcc5/0.m3u8"
                 }
 
             ]
