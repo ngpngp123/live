@@ -62,11 +62,7 @@
                 {
                     "type": "SD",
                 "livelink":"https://saoke2.cdn.khmer-hd.com/sk1/chunks.m3u8"
-                },
-{
-                    "type": "Bein",
-                "livelink":"http://ip.xtremetv.eu:8000/BSHARAISMYBROANDIGIVEHIMBEIN/tb2nywtxAV/70864"
-                },
+},
               {
                     "type": "720 HD",
                 "livelink":"https://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
