@@ -69,12 +69,10 @@
                 },
 {
                     "type": "Soco SD",
-                "livelink":"https://d2raawk12dey4k.cloudfront.net/out/v1/6f664c561dec4159ad7f50818a1e2475/index_3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMiAzOjU3OjM3IFBNJmhhc2hfdmFsdWU9NmsycnU2TVpJR1ZpOFZIczVCc0VGQT09JnZhbGlkbWludXRlcz03MjAmaWQ9NDUuNDEuMTA0LjUwJnN0cm1fbGVuPTU="
-                },
+                "livelink":"https://dge9pzmpcn3zt.cloudfront.net/out/v1/04370279631d409aaf9c4efdb697c3f9/index_2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMiA0OjMyOjExIFBNJmhhc2hfdmFsdWU9ZTNHcmhsUjJrUGJDdmRJb0h6MWpGdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTc4LjEyOC4xMTUuMjkmc3RybV9sZW49NQ=="    },
                 {
                     "type": "Soco HD",
-                "livelink":"https://d2raawk12dey4k.cloudfront.net/out/v1/6f664c561dec4159ad7f50818a1e2475/index_4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMiAzOjU3OjM3IFBNJmhhc2hfdmFsdWU9NmsycnU2TVpJR1ZpOFZIczVCc0VGQT09JnZhbGlkbWludXRlcz03MjAmaWQ9NDUuNDEuMTA0LjUwJnN0cm1fbGVuPTU="
-                }
+                "livelink":"https://dge9pzmpcn3zt.cloudfront.net/out/v1/04370279631d409aaf9c4efdb697c3f9/index_4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMiA0OjMyOjEwIFBNJmhhc2hfdmFsdWU9cndpNUNNNVhFMTNqczVVcmdFZkprUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTgwLjI0NC4xNTcuMjM5JnN0cm1fbGVuPTU="   }
                 
             ]
          },
