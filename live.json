@@ -50,8 +50,12 @@
                 {
                     "type": "Soco SD",
                 "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=93d6a74c126ce584546eec2da5567678&txTime=63a1d8a1"
+                },
+              {
+                    "type": "HD",
+                "livelink":"https://saoke2.cdn.khmer-hd.com/x3y1/chunks.m3u8"
                 }
-                
+                  
             ]
          },
 {
