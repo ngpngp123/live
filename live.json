@@ -47,6 +47,14 @@
          "hotmat":"yes",
             "link":[
 
+{
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-389767_ld.m3u8?auth_key=1671552664-0-0-b3abc00f110a2eea25bf0567e59e8417"
+                },
+{
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-389767.m3u8?auth_key=1671552664-0-0-0eb74a56698ee3da6ca9d393db7bb108"
+                },
                 {
                     "type": "Soco SD",
                 "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=93d6a74c126ce584546eec2da5567678&txTime=63a1d8a1"
