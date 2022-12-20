@@ -56,13 +56,10 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-389767.m3u8?auth_key=1671552664-0-0-0eb74a56698ee3da6ca9d393db7bb108"
                 },
                 {
-                    "type": "Soco SD",
+                    "type": "Soco HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=93d6a74c126ce584546eec2da5567678&txTime=63a1d8a1"
                 },
-              {
-                    "type": "HD",
-                "livelink":"https://saoke2.cdn.khmer-hd.com/x3y1/chunks.m3u8"
-                },
+              
                {
                     "type": "FHD",
                 "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
