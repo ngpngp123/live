@@ -95,6 +95,66 @@
                 }
                
             ]
+         },
+{
+           "league": "🏆 AFF Mitsubishi Electric Cup",
+            "date": "Dec 21",
+            "time": "4:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823_small.png",
+            "teams" : "Myanmar Vs Malaysia",
+            "hteam" : "Myanmar",
+            "ateam" : "Malaysia",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "FHD",
+                "livelink":"0"
+                }
+               
+            ]
+         },
+{
+           "league": "🏆 AFF Mitsubishi Electric Cup",
+            "date": "Dec 21",
+            "time": "7:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5891_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
+            "teams" : "Laos Vs Vietnam",
+            "hteam" : "Laos",
+            "ateam" : "Vietnam",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "FHD",
+                "livelink":"0"
+                }
+               
+            ]
          }
 ]
 
