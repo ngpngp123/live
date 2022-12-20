@@ -155,6 +155,66 @@
                 }
                
             ]
+         },
+{
+           "league": "🏆 AFF Mitsubishi Electric Cup",
+            "date": "Dec 23",
+            "time": "4:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6324_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6332_small.png",
+            "teams" : "Indonesia Vs Cambodia",
+            "hteam" : "Indonesia",
+            "ateam" : "Cambodia",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "FHD",
+                "livelink":"0"
+                }
+               
+            ]
+         },
+{
+           "league": "🏆 AFF Mitsubishi Electric Cup",
+            "date": "Dec 23",
+            "time": "7:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178671_small.png",
+            "teams" : "Philippines Vs Brunei",
+            "hteam" : "Philippines",
+            "ateam" : "Brunei",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "FHD",
+                "livelink":"0"
+                }
+               
+            ]
          }
 ]
 
