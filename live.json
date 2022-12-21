@@ -45,6 +45,10 @@
             "ateam" : "Malaysia",
          "hotmat":"yes",
             "link":[
+                        {
+                    "type": "HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
+                },
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-389767_ld.m3u8?auth_key=1671638165-0-0-afa4e022bb749156ac58d4839155ad1a"
