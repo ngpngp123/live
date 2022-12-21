@@ -35,40 +35,7 @@
             ]
 },    
      
-{
-           "league": "🏆 AFF Mitsubishi Electric Cup",
-            "date": "Dec 21",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5891_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
-            "teams" : "Laos Vs Vietnam",
-            "hteam" : "Laos",
-            "ateam" : "Vietnam",
-         "hotmat":"yes",
-            "link":[
-{
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-                },
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-112366_ld.m3u8?auth_key=1671646085-0-0-5af3454062b89f2269840cf9be6baa29"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1671646085-0-0-38ef936836c5e42c1a66d3c5d0225f12"
-                },
-              {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=b6c7b42cac59e081c43451c70cb36494&txTime=63a34d85"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8"
-                }
-               
-            ]
-         },
+
 {
            "league": "🏆 Carabao Cup",
             "date": "Dec 22",
