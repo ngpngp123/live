@@ -37,7 +37,7 @@
 {
            "league": "🏆 AFF Mitsubishi Electric Cup",
             "date": "Dec 21",
-            "time": "4:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823_small.png",
             "teams" : "Myanmar Vs Malaysia",
@@ -47,11 +47,11 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-389767_ld.m3u8?auth_key=1671638165-0-0-afa4e022bb749156ac58d4839155ad1a"
                 },
                 {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-389767.m3u8?auth_key=1671638165-0-0-0ba66b0c058c4593df653a551af168d0"
                 },
               {
                     "type": "Soco HD",
