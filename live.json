@@ -63,6 +63,10 @@
 {
                     "type": "Bein English HD",
                 "livelink":"http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:61:5B:10&stream=49226&extension=ts&play_token=UKjhT3VGow"
+                },
+{
+                    "type": "English HD",
+                "livelink":"https://pull-l3-cny.douyincdn.com/live/2bd001c5691ca5bc06a51a1ac3c6375a.m3u8"
                 }
                
             ]
