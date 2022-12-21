@@ -38,8 +38,8 @@
 
 {
            "league": "🏆 Carabao Cup",
-            "date": "Dec 22",
-            "time": "2:30 AM",
+            "date": "test 1ခွဲsocoထည့်မယ်",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
             "teams" : "Manchester United Vs Burnley",
@@ -47,21 +47,18 @@
             "ateam" : "Burnley",
          "hotmat":"yes",
             "link":[
+                
                 {
-                    "type": "Soco HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "China SD",
-                "livelink":"0"
+                    "type": "Bein SD",
+                "livelink":"http://45.63.79.56:80/bein_sports_premium_1_sd/video.m3u8?token=gY8eHYWGN1Bkp3"
                 },
               {
-                    "type": "China HD",
-                "livelink":"0"
+                    "type": "Bein HD",
+                "livelink":"http://45.63.79.56:80/bein_sports_premium_1_hd/video.m3u8?token=gY8eHYWGN1Bkp3"
                 },
                 {
-                    "type": "FHD",
-                "livelink":"0"
+                    "type": "Bein FHD",
+                "livelink":"http://45.63.79.56:80/bein_sports_premium_1_fhd/video.m3u8?token=gY8eHYWGN1Bkp3"
                 }
                
             ]
