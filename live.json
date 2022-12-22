@@ -45,6 +45,14 @@
             "ateam" : "Liverpool",
          "hotmat":"yes",
             "link":[
+{
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-435925_ld.m3u8?auth_key=1671753726-0-0-5942a5e2c0e77e61ff8293eb454edf5a"
+                },
+                {
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1671753726-0-0-695fe63bc427144d5eb5013043d4a787"
+                },
                 
               {
                     "type": "Bein English FHD",
