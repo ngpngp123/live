@@ -61,6 +61,10 @@
                     "type": "Soco",
                 "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=4c07d7bf0548f88641866eaeec311285&txTime=63a4e285"
                 
+                },
+{
+                    "type": "Test",
+                "livelink":"https://livetv.mylifeisgood.ml/channels/setantahd"
                 }
             ]
          },    
