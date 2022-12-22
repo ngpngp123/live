@@ -45,14 +45,7 @@
             "ateam" : "Liverpool",
          "hotmat":"yes",
             "link":[
-                {
-                    "type": "Low SD",
-                "livelink":"http://45.63.79.56:80/bein_sports_premium_1_144p/tracks-v1a1/mono.m3u8?token=gY8eHYWGN1Bkp3"
-                },
-                {
-                    "type": "Bein SD",
-                "livelink":"http://45.63.79.56:80/bein_sports_premium_1_sd/tracks-v1a1/mono.m3u8?token=gY8eHYWGN1Bkp3"
-                },
+                
               {
                     "type": "Bein English FHD",
                 "livelink":"http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:61:5B:10&stream=49226&extension=ts&play_token=UKjhT3VGow"
