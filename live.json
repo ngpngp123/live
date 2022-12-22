@@ -58,8 +58,8 @@
                 "livelink":"http://45.63.79.56:80/bein_sports_premium_1_hd/tracks-v1a1/mono.m3u8?token=gY8eHYWGN1Bkp3"
                 },
                 {
-                    "type": "Bein FHD",
-                "livelink":"http://45.63.79.56/bein_sports_premium_1_fhd/tracks-v1a1/mono.m3u8?token=gY8eHYWGN1Bkp3"
+                    "type": "Bein English HD",
+                "livelink":"https://pull-l3-cny.douyincdn.com/live/2bd001c5691ca5bc06a51a1ac3c6375a.m3u8"
                 
                 }
             ]
