@@ -91,7 +91,7 @@
                 "livelink":"0"
                 },
               {
-                    "type": "China HD",
+                    "type": "Soco HD",
                 "livelink":"0"
                 },
                 {
@@ -121,7 +121,7 @@
                 "livelink":"0"
                 },
               {
-                    "type": "China HD",
+                    "type": "Soco HD",
                 "livelink":"0"
                 },
                 {
@@ -129,6 +129,58 @@
                 "livelink":"0"
                 }
                
+            ]
+         },
+{
+           "league": "🏆AFF Mitsubishi Electric Cup",
+            "date": "Dec 24",
+            "time": "4:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
+            "teams" : "Singapore Vs Myanmar",
+            "hteam" : "Singapore",
+            "ateam" : "Myanmar",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "FHD",
+                "livelink":"0"
+                }
+                
+            ]
+         },
+{
+           "league": "🏆 AFF Mitsubishi Electric Cup",
+            "date": "Dec 24",
+            "time": "7:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5891_small.png",
+            "teams" : "Malaysia Vs Laos",
+            "hteam" : "Malaysia",
+            "ateam" : "Laos",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "FHD",
+                "livelink":"0"
+                }
+                
             ]
          }
 ]
