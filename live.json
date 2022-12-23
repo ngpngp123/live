@@ -54,14 +54,8 @@
                     "type": "Soco HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=7cfde750b9a3f0326528e7ccc034d321&txTime=63a5c4b1"
                 },
-              {
-                    "type": "SD",
-                "livelink":"https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8"
-                },
+              
+                
 {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1671808326-0-0-a159bda8d429ae4938803b74d0274809"
