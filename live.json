@@ -59,6 +59,14 @@
 {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1671808326-0-0-a159bda8d429ae4938803b74d0274809"
+                },
+{
+                    "type": "FHD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
+                },
+{
+                    "type": "FHD",
+                "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
                 }
                
             ]
