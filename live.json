@@ -84,11 +84,11 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-552917_ld.m3u8?auth_key=1671809766-0-0-86bfde607fcbcededca715679b09d7c0"
                 },
                 {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1671809766-0-0-339ff9ee123b53160952fe8e0a02d378"
                 },
               {
                     "type": "Soco HD",
