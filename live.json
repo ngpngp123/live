@@ -49,16 +49,16 @@
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "SD",
+                    "type": "SD1",
                 "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=f2e9694c9856b3d68aeef3037c917812&txTime=63a742f5"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1671906187-0-0-8865114fe8f6e51e1f628a6bb2bfd066"
                 },
               {
-                    "type": "FHD",
-                "livelink":"0"
+                    "type": "SD2",
+                "livelink":"https://yypull.gdsth.com/live/stream-418311_ld.m3u8?auth_key=1671906187-0-0-3d02c2d3e77c24cf1008b9e1735f3720"
                 }
                 
             ]
