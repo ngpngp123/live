@@ -59,6 +59,10 @@
               {
                     "type": "SD2",
                 "livelink":"https://yypull.gdsth.com/live/stream-418311_ld.m3u8?auth_key=1671906187-0-0-3d02c2d3e77c24cf1008b9e1735f3720"
+                },
+{
+                    "type": "Vietnam HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 }
                 
             ]
