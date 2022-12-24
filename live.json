@@ -52,11 +52,11 @@
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "FHD1",
+                "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
                 },
               {
-                    "type": "FHD",
+                    "type": "FHD2",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 }
                 
