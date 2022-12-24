@@ -58,6 +58,14 @@
               {
                     "type": "FHD2",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
+                },
+{
+                    "type": "SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551876_ld.m3u8?auth_key=1671896587-0-0-5ef11d9d753094781c3d969e0fc7ab0c"
+                },
+                {
+                    "type": "HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1671896587-0-0-703a44885897a411daf8deb71d63f8ed"
                 }
                 
             ]
