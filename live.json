@@ -30,7 +30,10 @@
                     "type": "Bein",
                 "livelink":"https://srvccc.rise2549blood.xyz/kaynakstreamradarco/26/naxi/caxi.m3u8"
                 },
-
+ {
+                    "type": "Eng SD",
+                "livelink":"https://d2drhy9snjqwvj.cloudfront.net/out/v1/43de2784238443e0ba5a1b69077d1d4d/index_3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMiA1OjU4OjMxIFBNJmhhc2hfdmFsdWU9alR3QzFILzlRSWNra1VDUzRESzVOZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAwMToxNmEyOmMxNDk6MmExNDpiYzdjOmE3OTY6Y2NlMjpmMjM1JnN0cm1fbGVuPTU="
+                },
 
                {
                     "type": "FHD",
