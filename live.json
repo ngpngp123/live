@@ -2,7 +2,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Dec 26",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "teams" : "Crystal Palace Vs Fulham",
@@ -16,7 +16,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=c00511113ee00e365f0f603001a0ec75&txTime=63aa064e"
                 },
               {
                     "type": "China HD",
@@ -36,7 +36,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Dec 26",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
             "teams" : "Everton Vs Wolves",
@@ -46,15 +46,15 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-482183_ld.m3u8?auth_key=1672086968-0-0-9acb63ae74dccb8a770a0ba2ddce6769"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-137359.m3u8?txSecret=17ea26533ce973950438f931fb6a0977&txTime=63aa0432"
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1672086968-0-0-51c3355374541862fc60b0ee162eff84"
                 },
                 {
                     "type": "HD",
@@ -104,7 +104,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Dec 26",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "teams" : "Southampton Vs Brighton",
@@ -114,7 +114,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1672087028-0-0-b3dae0ad218c2259d38436b55bedb54e"
                 },
                 {
                     "type": "Soco HD",
@@ -122,7 +122,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-553612.m3u8?txSecret=9dd45c0754ce5e79634feda40d48ecaa&txTime=63ab02d8"
                 },
                 {
                     "type": "HD",
