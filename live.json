@@ -55,10 +55,13 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-265460.m3u8?auth_key=1672078209-0-0-9f2b1e157b83f9c8f5153cfee9995331"
                 },
                 {
-                    "type": "FHD",
+                    "type": "Vebo HD",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-                }
-               
+                },
+             {
+                    "type": "FHD",
+                "livelink":"http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8"
+                }  
               
             ]
          },
