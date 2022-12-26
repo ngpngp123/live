@@ -57,7 +57,10 @@
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-265460_ld.m3u8?auth_key=1672078209-0-0-ef05bd7846a76c3d4837286108b739ff"
                 },
-                
+                {
+                    "type": "Soco HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=8becc56d5126a8dd4fb9b0e72a766720&txTime=63a9ea6a"
+                },
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-265460.m3u8?auth_key=1672078209-0-0-9f2b1e157b83f9c8f5153cfee9995331"
