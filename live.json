@@ -1,51 +1,9 @@
 [
+
 {
            "league": "🏆 Premier League",
             "date": "Dec 27",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "teams" : "Aston Villa Vs Liverpool",
-            "hteam" : "Aston Villa",
-            "ateam" : "Liverpool",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435066_ld.m3u8?auth_key=1672096208-0-0-e21bc7c0ba0ae7cabd91d182d2b11535"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-161243.m3u8?txSecret=66b55d6b2f56c8bf6d0ee44964db19d4&txTime=63aa2a66"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435066.m3u8?auth_key=1672096208-0-0-515e70ca66a7b7441e48c6fd244c4c0c"
-                },
-                {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-{
-                    "type": "Bein",
-                "livelink":"https://srvccc.rise2549blood.xyz/kaynakstreamradarco/26/naxi/caxi.m3u8"
-                },
- {
-                    "type": "Eng SD",
-                "livelink":"https://d2drhy9snjqwvj.cloudfront.net/out/v1/43de2784238443e0ba5a1b69077d1d4d/index_3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMiA1OjU4OjMxIFBNJmhhc2hfdmFsdWU9alR3QzFILzlRSWNra1VDUzRESzVOZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAwMToxNmEyOmMxNDk6MmExNDpiYzdjOmE3OTY6Y2NlMjpmMjM1JnN0cm1fbGVuPTU="
-                },
-
-               {
-                    "type": "FHD",
-                "livelink":"https://drrer.azureedge.net/scripts/Njg1OQ==/1080p.m3u8"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 Premier League",
-            "date": "Dec 27",
-            "time": "2:30 AM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "teams" : "Arsenal Vs West Ham",
@@ -55,7 +13,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1672104548-0-0-35d07993ac59536b80f0e05fb52ef75a"
                 },
                 {
                     "type": "Soco HD",
@@ -63,7 +21,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1672104548-0-0-6078caed9660d33112552eccb7d3ee98"
                 },
                 {
                     "type": "HD",
