@@ -193,6 +193,142 @@
                 }
               
             ]
+         },
+{
+           "league": "🏆 AFF Mitsubishi Electric Cup",
+            "date": "Dec 27",
+            "time": "4:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5891_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
+            "teams" : "Laos Vs Singapore",
+            "hteam" : "Laos",
+            "ateam" : "Singapore",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":""
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 AFF Mitsubishi Electric Cup",
+            "date": "Dec 27",
+            "time": "7:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823_small.png",
+            "teams" : "Vietnam Vs Malaysia",
+            "hteam" : "Vietnam",
+            "ateam" : "Malaysia",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":""
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Premier League",
+            "date": "Dec 28",
+            "time": "00:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+            "teams" : "Chelsea Vs Bournemouth",
+            "hteam" : "Chelsea",
+            "ateam" : "Bournemouth",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":""
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Premier League",
+            "date": "Dec 28",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+            "teams" : "Man United Vs Nottingham",
+            "hteam" : "Man United",
+            "ateam" : "Nottingham",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":""
+                }
+              
+            ]
          }
 ]
 
