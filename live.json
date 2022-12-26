@@ -24,12 +24,12 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1672104548-0-0-6078caed9660d33112552eccb7d3ee98"
                 },
                 {
-                    "type": "HD",
+                    "type": "wait HD",
                 "livelink":"0"
                 },
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://wwaspue2.azureedge.net/live/s1/chunks.m3u8"
                 }
               
             ]
