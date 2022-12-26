@@ -12,7 +12,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-435066_ld.m3u8?auth_key=1672096208-0-0-e21bc7c0ba0ae7cabd91d182d2b11535"
                 },
                 {
                     "type": "Soco HD",
@@ -20,7 +20,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-435066.m3u8?auth_key=1672096208-0-0-515e70ca66a7b7441e48c6fd244c4c0c"
                 },
                 {
                     "type": "Vebo HD",
