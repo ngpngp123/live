@@ -37,7 +37,7 @@
 {
            "league": "🏆 AFF Mitsubishi Electric Cup",
             "date": "Dec 27",
-            "time": "4:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5891_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
             "teams" : "Laos Vs Singapore",
@@ -51,7 +51,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=fefab20d665e1e09b8013d969fc50f97&txTime=63ab1232"
                 },
               {
                     "type": "China HD",
