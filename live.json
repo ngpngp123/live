@@ -48,15 +48,19 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1672182368-0-0-aef1b120392875dd7b3f13132f29bf51"
                 },
                 {
                     "type": "Soco HD",
                 "livelink":"0"
                 },
+{
+                    "type": "Eng HD",
+                "livelink":"https://hdstreamss.club:30443/live/abr_ch11/live/ch11_480p/chunks.m3u8?nimblesessionid=681791&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAyMiA1OjA3OjE4IFBNJmhhc2hfdmFsdWU9cWpzSEZqc1hNSVZKYlVqMHpsZWpPQT09JnZhbGlkbWludXRlcz03MjAmaWQ9NDUuNDEuMTA0LjQ0JnN0cm1fbGVuPTU="
+                },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=1a8a78eb2387ab7db3b54d78275f45be&txTime=63ac7744"
                 },
                 {
                     "type": "Vebo HD",
@@ -64,7 +68,7 @@
                 },
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://hdstreamss.club:30443/live/ch11/playlist.m3u8"
                 }
               
             ]
