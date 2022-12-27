@@ -56,8 +56,8 @@
                 },
 
               {
-                    "type": "China HD",
-                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=1a8a78eb2387ab7db3b54d78275f45be&txTime=63ac7744"
+                    "type": "HD",
+                "livelink":"https://api.footballroma.com/playlist/ch2/index.m3u8"
                 },
                 {
                     "type": "Vebo HD",
