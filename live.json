@@ -1,53 +1,39 @@
 [
-
-     
-
 {
-           "league": "🏆 Premier League",
-            "date": "Dec 28",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-            "teams" : "Man United Vs Nottingham",
-            "hteam" : "Man United",
-            "ateam" : "Nottingham",
-         "hotmat":"yes",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1672192148-0-0-d1567cfdb72861ebbe330427c98a574f"
+                
+{
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
                 },
-                {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1672192148-0-0-e5918a25fc9849c1456052ecb799c8af"
-                },
-                {
-                    "type": " Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=54886d43a31c63eec4913b4a3a844afb&txTime=63ab9cb6"
-                },
-               {
-                    "type": "Bein SD",
-                "livelink":"http://207.148.9.211/bein_sport/tracks-3,1/index.m3u8"
+                
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
                 },
 {
-                    "type": "English FHD",
-                "livelink":"https://sallypimraznl.s3.us-west-2.amazonaws.com/game_1280x720_3300k.m3u8"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
                 },
-                {
-                    "type": "Bein HD",
-                "livelink":"http://207.148.9.211:80/bein_sport/tracks-2,1/index.m3u8"
-                },
-              {
-                    "type": "FHD",
-                "livelink":"https://live-ak.vimeocdn.com/exp=1672174343~acl=%2F7f8471bd-df26-4c1a-abac-d4fa652c6ada%2F%2A~hmac=b9d75f9c90b92463b74f72343606572e3c6ac2595792411cab1180093fb5d6d2/7f8471bd-df26-4c1a-abac-d4fa652c6ada/chunklist_b3256000.m3u8?max_segments=10&min_seconds=30"
-  }
-              
+{
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+                }
+                
             ]
-         },
+},
 {
            "league": "🏆 Ligue 1",
             "date": "Dec 28",
