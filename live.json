@@ -45,10 +45,7 @@
             "ateam" : "Malaysia",
          "hotmat":"no",
             "link":[
-                {
-                    "type": "Vebo SD",
-                "livelink":"https://179314182.global.cdnfastest.com/live/live/chunklist.m3u8"
-                },
+                
                 {
                     "type": "Soco HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-137359.m3u8?txSecret=3a1236ce84f7628e434997c93ea361af&txTime=63ab355a"
