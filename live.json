@@ -39,12 +39,12 @@
                 },
                 {
                     "type": "SD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CooFtKeN-zmkeg6YWlKx-V9x4yweIGGYAs9x8TGely_ttnEMZaQdJSLQjBuA-ZdDSNK8vudgklBqC5KIZAX8XFuMLrLWqyTjCVHYIz33prot8uSwUUd3niZhAQ8_xgPc4jSShZqo0EqLjGPA-RAWLHnk9pvRbphn0PeLiwZgIV3k4LAahnL-zYSC5xQn-yUxX5evZ8VjsPp-Vf5RHGXy3oO7jo6wl-r07hkyX6S9_Vbr4ckfmXKrMZNy40G8b_KiJpZQe5-sQS7bLw6DIto_lehGmPvYl-8md9whMQKkeUDU10sPm6SZ5rHxgI3KVMSj0pfrWCDXuTfGCgc8RNLTD2_gNQzdNwRZHiz7F3Dv8mxgpuol-6iMToiZTFMKU17WrXVq_9hkgnPmlCH8Nw8QkSmMKv7x_FRR2m9qd5TjM2q0hDpyR_VaSq6vEWoLymxrlWiT_n3X20HxKvzqi4AsraWaO49Y221dBG7J1fDZm0TGoWFcyyc0jUZMmeCZJlt2heRtNMEQzyMrHeoQPcvDGVOev94p55Cc28zAggmK16hSXChrXvr5a3lQvOG1aPd2VZDCVGWj65ddwL8YXMw-kRXp1PQNlT8IbJnwd1rem5HKh1IiaaPgBUjD_eRP8FWpGrcYTAKbL5z6LvfuqhBNVYOrOPul3Xm9z3y8eqXpNK6jo_w8J2coBYn_Di0PnK9KTcktvTUqPsTyoHPYRtEtnPFmmn7CGnw8bqwpAXo3ZcN2y2mj1l1j7LObegLCt39mnU92sOjGQzrK8l175LZ7kX5xRdymxg-gonGtYcpesgoYGQP-ktPrNq5YocBPGoIHqOhlENi5xIy6iQlv43Mp9udOX9ErTv9c6-IQodYaDBG-qZy7lW0MBd4HYyABKglldS13ZXN0LTIwvgU.m3u8"
+                "livelink":"https://live.vimeocdn.com/1672174354-0x67630f764fedcd8ebface8c6941a1c1893c9204b/7f8471bd-df26-4c1a-abac-d4fa652c6ada/chunklist_b728000.m3u8"
                 },
               {
                     "type": "FHD",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CowF4076i_ZHcRAto5qKyMqZs_DUD4-tMBvum7HhoWE5MOiHWWtpEBpCqAVfFM0VWXmBhehYzoj27MlhtJGYiwGSnActE6GBYGBlGGtQR0u0wevSaT3rmAAWU32y9m4osWRtIAq5xs9fhVolEtnEOS1TE_CVPqp0eRgVbiv8YWaMptSui3BHBHOTzRp02A4nV2f5tGyFri-Rufuxha2_-ZsFPpM2q-yEA6bx_sK-8Boxa8gjqBkAHS-BFIUAmPBH4UpStwUaXLr4W2Lgq2o-H2K61xZjOhELUVzbFbegtjBlOVUPz3wDvGaUTJBnJxKj2N9xoa4hFdLTdZrXghEoVRwqgOIAylEaIdItcOvAis3a6SB7JNOQeYcudnymcbG0lKU5ajyAQZ8k6T7R4NlOzR2B7WGKjVKA4NrShIHbALXQAZ0SFTLFLwnYQfkSFyey1nnWRp09Fuz_FHoOfnWM841sZPDdOrrPXXfu0u9qtLPuFDzb4HLdn5qpnSa6dB1G8288_uN4smELZdYbcWssVKMh83CHoRao43Q4UPNkZxjm3ib3QgIZircuy5YmVndPng3xPWWWMU7tsEQKLtVggS8LqLSf9y0d37k2jWu8CIV3nRlTCw3AydUvZEexopl1VgOtWXCUfd9oBHcbEJD0M7NyL6z-mYYp502ojZWUpM9goVhUVawplfVPXr3McKP08eXRuVzlcRUQUzZEF4siPcGpAUBrfY2y86tp_zWOeywji9pcqxuXrovdKVHyHo0OELkp-9POOoakN6bS_NX90OJUrkLOkygcIF5vBWushSDKw_KssSSqPRW5coOSgJy6p8s0amX_ET8OqD7iiDpj3CTDG0G0ObxFMnL8MzBITBoM3TamGKJJtNQc749oIAEqCWV1LXdlc3QtMjC-BQ.m3u8"
-                }
+                "livelink":"https://live-ak.vimeocdn.com/exp=1672174343~acl=%2F7f8471bd-df26-4c1a-abac-d4fa652c6ada%2F%2A~hmac=b9d75f9c90b92463b74f72343606572e3c6ac2595792411cab1180093fb5d6d2/7f8471bd-df26-4c1a-abac-d4fa652c6ada/chunklist_b3256000.m3u8?max_segments=10&min_seconds=30"
+  }
               
             ]
          },
