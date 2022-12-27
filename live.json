@@ -37,40 +37,6 @@
 {
            "league": "🏆 AFF Mitsubishi Electric Cup",
             "date": "Dec 27",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5891_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
-            "teams" : "Laos Vs Singapore",
-            "hteam" : "Laos",
-            "ateam" : "Singapore",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-8456863_ld.m3u8?auth_key=1672156868-0-0-e32f1516a183da15ae4342b3e780310f"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=fefab20d665e1e09b8013d969fc50f97&txTime=63ab1232"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-8456863.m3u8?auth_key=1672156868-0-0-2f4c1433c7ed3727aca50e7a4ab66287"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 AFF Mitsubishi Electric Cup",
-            "date": "Dec 27",
             "time": "7:00 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823_small.png",
@@ -93,11 +59,11 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
                 },
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8"
                 }
               
             ]
