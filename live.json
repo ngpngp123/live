@@ -38,8 +38,8 @@
                 "livelink":"https://wwpps22wwa.azureedge.net/live/usa/chunks.m3u8"
                 },
                 {
-                    "type": "SD",
-                "livelink":"https://live.vimeocdn.com/1672174354-0x67630f764fedcd8ebface8c6941a1c1893c9204b/7f8471bd-df26-4c1a-abac-d4fa652c6ada/chunklist_b728000.m3u8"
+                    "type": "Bein HD",
+                "livelink":"http://207.148.9.211:80/bein_sport/tracks-2,1/index.m3u8"
                 },
               {
                     "type": "FHD",
