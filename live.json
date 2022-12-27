@@ -34,37 +34,7 @@
                 
             ]
 },
-{
-           "league": "🏆 AFF Mitsubishi Electric Cup",
-            "date": "Dec 27",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823_small.png",
-            "teams" : "Vietnam Vs Malaysia",
-            "hteam" : "Vietnam",
-            "ateam" : "Malaysia",
-         "hotmat":"no",
-            "link":[
-                
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-137359.m3u8?txSecret=3a1236ce84f7628e434997c93ea361af&txTime=63ab355a"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1672164488-0-0-1245e40c4895faa65b7a744105826c17"
-                },
-                {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8"
-                }
-              
-            ]
-         },
+
 {
            "league": "🏆 Premier League",
             "date": "Dec 28",
