@@ -90,7 +90,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Dec 28",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
             "teams" : "Auxerre Vs Monaco",
@@ -104,7 +104,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-137359.m3u8?txSecret=3219a020b32397b9f8dd74b752b0b132&txTime=63acb75e"
                 },
               {
                     "type": "China HD",
