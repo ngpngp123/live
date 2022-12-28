@@ -62,11 +62,8 @@
                 {
                     "type": "Vebo HD",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"https://wpwyatsa.azureedge.net/live/usa/chunks.m3u8"
                 }
+               
               
             ]
          },
@@ -96,12 +93,8 @@
                 {
                     "type": "Vebo HD",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"https://pwpsjjs2.azureedge.net/live/bein/chunks.m3u8"
                 }
-              
+               
             ]
          },
 {
@@ -126,12 +119,8 @@
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1672277709-0-0-2ae27a47b4d513fd5621f19ddac87242"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"0"
                 }
-               
+                
               
             ]
          }
