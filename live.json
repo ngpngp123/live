@@ -70,7 +70,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Dec 29",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "teams" : "Leeds Vs Man City",
@@ -84,15 +84,15 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=a352bcd7c20644c588b378cb429bcb4a&txTime=63acefda"
                 },
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1672277829-0-0-c1e4e8acbc4fea1b8faf125d5779571b"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "Vebo HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
                 },
                {
                     "type": "FHD",
@@ -104,7 +104,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Dec 29",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
             "teams" : "PSG Vs Strasbourg",
@@ -118,7 +118,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=1cec3dd237edf2a4b666771ff03db9f0&txTime=63acf016"
                 },
               {
                     "type": "China HD",
@@ -138,7 +138,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Dec 29",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
             "teams" : "Brest Vs Lyon",
@@ -152,20 +152,17 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=cd300d832f88356dd1d4b0b05dfda7e5&txTime=63acf052"
                 },
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1672277709-0-0-2ae27a47b4d513fd5621f19ddac87242"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
-                },
-               {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"0"
                 }
+               
               
             ]
          }
