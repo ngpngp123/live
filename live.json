@@ -56,14 +56,6 @@
               {
                     "type": "China HD",
                 "livelink":"https://yytcpull.gdsth.com/live/stream-552565.m3u8?txSecret=bf9485c4c61d3323b382a8d0f2f791e4&txTime=63ad9c01"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
                 }
               
             ]
@@ -90,15 +82,8 @@
               {
                     "type": "China HD",
                 "livelink":"https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret=96d62cd8a69e4b5534dbfbbea3d82c7a&txTime=63ad9c3d"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
                 }
+               
               
             ]
          },
