@@ -80,7 +80,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1672277829-0-0-ab6e3cfa50c783a5783deed1e53f7bc9"
                 },
                 {
                     "type": "Soco HD",
@@ -88,7 +88,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1672277829-0-0-c1e4e8acbc4fea1b8faf125d5779571b"
                 },
                 {
                     "type": "HD",
@@ -96,7 +96,7 @@
                 },
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://wpwyatsa.azureedge.net/live/usa/chunks.m3u8"
                 }
               
             ]
@@ -114,7 +114,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-3045619_ld.m3u8?auth_key=1672277589-0-0-f129b95588cec5dcfe15e2c930cdabdb"
                 },
                 {
                     "type": "Soco HD",
@@ -122,7 +122,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1672277589-0-0-08dddc01670fe34ee8cd6c36f0efb7a2"
                 },
                 {
                     "type": "Vebo HD",
@@ -130,7 +130,7 @@
                 },
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://pwpsjjs2.azureedge.net/live/bein/chunks.m3u8"
                 }
               
             ]
@@ -148,7 +148,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-435925_ld.m3u8?auth_key=1672277709-0-0-2106eaeb2cd88b8c49dc6c0116844d6d"
                 },
                 {
                     "type": "Soco HD",
@@ -156,7 +156,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1672277709-0-0-2ae27a47b4d513fd5621f19ddac87242"
                 },
                 {
                     "type": "HD",
