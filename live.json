@@ -33,97 +33,10 @@
                 }
                 
             ]
-},
+}
 
      
-{
-           "league": "🏆 Premier League",
-            "date": "Dec 29",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-            "teams" : "Leeds Vs Man City",
-            "hteam" : "Leeds",
-            "ateam" : "Man City",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435066_ld.m3u8?auth_key=1672278849-0-0-da8ff588c5e3e2ea4eae6b3adab8cea8"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=a352bcd7c20644c588b378cb429bcb4a&txTime=63acefda"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435066.m3u8?auth_key=1672278849-0-0-cb0c59134381388d793db7bd09e9711f"
-                },
-                {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-                }
-               
-              
-            ]
-         },
-{
-           "league": "🏆 Ligue 1",
-            "date": "Dec 29",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
-            "teams" : "PSG Vs Strasbourg",
-            "hteam" : "PSG",
-            "ateam" : "Strasbourg",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1672278969-0-0-13a23920c7698f80c49fae67f1da5584"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=1cec3dd237edf2a4b666771ff03db9f0&txTime=63acf016"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1672278969-0-0-c1d83a02631ac5760fd20d03844218ce"
-                },
-                {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                }
-               
-            ]
-         },
-{
-           "league": "🏆 Ligue 1",
-            "date": "Dec 29",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-            "teams" : "Brest Vs Lyon",
-            "hteam" : "Brest",
-            "ateam" : "Lyon",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435925_ld.m3u8?auth_key=1672279029-0-0-8d3d0aa352b23424e46ccad7a440eb2e"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=cd300d832f88356dd1d4b0b05dfda7e5&txTime=63acf052"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1672279029-0-0-508d53badba5a541f7906dff9bc801b8"
-                }
-                
-              
-            ]
-         }
+
 ]
 
 
