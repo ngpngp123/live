@@ -94,7 +94,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Dec 3",
-            "time": "12:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
             "teams" : "Reims Vs Rennes",
@@ -104,15 +104,12 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-2961234_ld.m3u8?auth_key=1672356489-0-0-e6b49fe1a42b6f7ccaa1115940d4cf1e"
                 },
-                {
-                    "type": "Soco HD",
-                "livelink":"0"
-                },
+                
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret=ce4d83dd8f2e646568028fbc5065f606&txTime=63af1f6d"
                 },
                 {
                     "type": "HD",
@@ -120,7 +117,7 @@
                 },
                {
                     "type": "FHD",
-                "livelink":"http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/1.ts"
+                "livelink":"http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/2.ts"
                 }
               
             ]
@@ -128,7 +125,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Dec 30",
-            "time": "12:45 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
             "teams" : "Real Betis Vs Athletic Club",
@@ -138,23 +135,23 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-3045619_ld.m3u8?auth_key=1672356369-0-0-5526990a15424ec44c2827d52484bd79"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-141691.m3u8?txSecret=214037bf36cdd57b4481abab0fd99215&txTime=63ae213e"
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-411882.m3u8?txSecret=74b99b02661c2b0ff14f452bb5478998&txTime=63af1ef5"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=54a4fee4249b2e274f47b6e461f553f4&txTime=63ae21b6"
                 },
                {
                     "type": "FHD",
-                "livelink":"http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/2.ts"
+                "livelink":"http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/1.ts"
                 }
               
             ]
