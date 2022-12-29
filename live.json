@@ -60,11 +60,8 @@
                 {
                     "type": "Vebo HD",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8"
                 }
+               
               
             ]
          },
