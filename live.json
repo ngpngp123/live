@@ -34,71 +34,7 @@
                 
             ]
 },
-{
-           "league": "🏆 AFF Mitsubishi Electric Cup",
-            "date": "Dec 29",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6324_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",
-            "teams" : "Indonesia Vs Thailand",
-            "hteam" : "Indonesia",
-            "ateam" : "Thailand",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-8456863_ld.m3u8?auth_key=1672326009-0-0-50bc8ed6c6686742e586da46add1cdb0"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=00d1e3091e707763de982a45ab57e098&txTime=63adabd2"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-8456863.m3u8?auth_key=1672326009-0-0-915cdc125f1a856eb2b3003b2e06e9fa"
-                },
-                {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                }
-               
-              
-            ]
-         },
-  {
-           "league": "🏆 AFF Mitsubishi Electric Cup",
-            "date": "Dec 29",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6332_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178671_small.png",
-            "teams" : "Cambodia Vs Brunei",
-            "hteam" : "Cambodia",
-            "ateam" : "Brunei",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2412304_ld.m3u8?auth_key=1672328889-0-0-5515941c5267cd8bdfd24bdfe302b97e"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=86b9499892b0e6b7f99314596fb2f103&txTime=63adb622"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1672328889-0-0-8dade5e203e4c669794d30df686e8d39"
-                },
-                {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
-                }
-              
-            ]
-         },   
+
 {
            "league": "🏆 Laliga",
             "date": "Dec 29",
