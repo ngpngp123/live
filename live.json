@@ -83,13 +83,10 @@
                     "type": "China HD",
                 "livelink":"https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret=baeb1b06cfc392e7415bac23f31df206&txTime=63af070d"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/2.ts"
                 }
               
             ]
