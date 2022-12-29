@@ -38,7 +38,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Dec 29",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
             "teams" : "Girona Vs Rayo Vallecano",
@@ -48,15 +48,12 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1672350129-0-0-38a75562d3ec1999528b72e4e9337834"
                 },
-                {
-                    "type": "Soco HD",
-                "livelink":"0"
-                },
+                
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-286721.m3u8?txSecret=77ace43e37fd7f4ba3e13e7537eb24b1&txTime=63af06d1"
                 },
                 {
                     "type": "HD",
@@ -72,7 +69,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Dec 29",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
             "teams" : "Lorient Vs Montpellier",
@@ -82,15 +79,12 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-435925_ld.m3u8?auth_key=1672350249-0-0-8c48b4e8871c06eb238e669066efa77e"
                 },
-                {
-                    "type": "Soco HD",
-                "livelink":"0"
-                },
+                
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret=baeb1b06cfc392e7415bac23f31df206&txTime=63af070d"
                 },
                 {
                     "type": "HD",
