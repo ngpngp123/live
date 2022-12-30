@@ -96,7 +96,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Dec 31",
-            "time": "2:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
             "teams" : "West Ham Vs Brentford",
@@ -106,7 +106,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1672449609-0-0-7924192fcafbd1b63312107d994c1329"
                 },
                 {
                     "type": "Soco HD",
@@ -114,7 +114,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1672449609-0-0-7a0d90c017ca4a572120ab34c05ff5ef"
                 },
                 {
                     "type": "HD",
@@ -130,7 +130,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Dec 31",
-            "time": "3:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "teams" : "Real Valladolid Vs Real Madrid",
@@ -140,7 +140,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1672449609-0-0-b0bbd9c911bb7c55be24cad604817804"
                 },
                 {
                     "type": "Soco HD",
@@ -148,11 +148,11 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1672449609-0-0-be52c96019daf28daf21903893ed0c8e"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
                 },
                {
                     "type": "FHD",
