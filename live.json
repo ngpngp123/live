@@ -37,7 +37,7 @@
 {
            "league": "🏆 AFF Mitsubishi Electric Cup",
             "date": "Dec 30",
-            "time": "4:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5891_small.png",
             "teams" : "Myanmar Vs Laos",
@@ -45,26 +45,12 @@
             "ateam" : "Laos",
          "hotmat":"yes",
             "link":[
-                {
-                    "type": "China SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"0"
-                },
+                
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-441616.m3u8?auth_key=1672414509-0-0-94df8b649f161d516d8ed5fd35311a87"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
                 }
+                
               
             ]
          },
