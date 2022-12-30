@@ -12,10 +12,17 @@
             "ateam" : "Leicester",
          "hotmat":"yes",
             "link":[
-                
+                {
+                    "type": "China SD",
+                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=902ae31a8468dfeb47424b60754762bb&txTime=63b08ab5"
+                },
                 {
                     "type": "China HD",
                 "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=902ae31a8468dfeb47424b60754762bb&txTime=63b08ab5"
+                },
+{
+                    "type": "Soco HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=b2c6af2297032f70f775e016ff99659e&txTime=63af93db"
                 },
               {
                     "type": "Bein",
