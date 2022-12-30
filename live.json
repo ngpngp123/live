@@ -35,14 +35,7 @@
                {
                     "type": "FHD",
                 "livelink":"https://wasksyapp.azureedge.net/live/sspl/chunks.m3u8"
-                },
-{
-                    "type": "SD",
-                "livelink":"http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/71847.ts" },
-{
-                    "type": "HD",
-                "livelink":"http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/7184.ts"
- }
+}
               
             ]
          },
@@ -107,11 +100,8 @@
                {
                     "type": "FHD",
                 "livelink":"http://37.49.224.40:8000/play/NovaSports1/index.m3u8"
-                },
-{
-                    "type": "Auto",
-                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CooF8iZTbCaaCLyE9UZxUWBPtZhsTGoJd76mMJOXzl-h97UGVePxejIhViog39JI8Sd65uekxFD2NtV0ko2NBDUg6D8_058IUVM25VXdKEfkOhVEtVBmofpkYtO5yrnFtdAKNFo3cH5szXprAiMpw8XMIwHvz78sEU8_rg9FrdYNicob04lzhNz92pVz-BgS9v72SGiSTW6z5I0BZTXm6A_A9v5anq5Xls81bv1kXdye-EBL__St8gewjZAcCdL_bax91KO5TjQwJm3Qc2CYyIsvg9sH-su1gt8cv-hvHZL7PQE6lvaLzK8ZDHJnV2gZ0e636vEZoEGy03zgg6SwbRvl_zpGgxB2QvbOchd5LOyUbJMad7t0KcXhAGzarSGrZPPDaF80iUIaS1JnXx-WMNOtXPxVoenChxHOv3xETu5T8iydEnKmXP2gdvny6IR_ZEiiUulVvN5meCoejRTrjJhUWa6JG2hnW_Eoye_JyRwgOq4yVJvhWKfnYvOrM-jDAKOGCHpj_4A4FUmh8m4698VuS8RGn3ZnjN3rC9TBgnqAKxtmPJZPt1SjPrj8f8fkZNLBY_0mNh1aWyl-6OujhJ7q5LGIyUlYGnLH6e3XPj3rymq6T5diLKUentxKfXB5RoYNURSmeMd_zqNW9wCUmtmPpotYIUqaitUIec45_OHP2EdYiyJxjc3m5Gp5FFqBMQOih0yQyy5blP1ypGimVY24-Kv91JWXenXalAawdZ4LGGH5MrF9iymjhohr6g7MtdD-3kac2KmU9QD1LecFG4Ujtz1S_ET4uk0YijYA0z4uQNXgtiEDZ-6GeO2un5W9qvr4stl9sQ6PmRKdszGvp1k4ZwDSuq5-qDQV_bQaDLDOqymtATmhycjnVCABKglldS13ZXN0LTIwwQU.m3u8"
                 }
+
               
             ]
          }
