@@ -49,8 +49,11 @@
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-441616.m3u8?auth_key=1672414509-0-0-94df8b649f161d516d8ed5fd35311a87"
-                }
-                
+                },
+               {
+                    "type": "Vebo HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
+                } 
               
             ]
          },
