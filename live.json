@@ -47,23 +47,23 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-2376781_ld.m3u8?auth_key=1672436529-0-0-b8f91f4fe5529d49002da7377f056d96"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":""
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1672436529-0-0-9b1f89afe315f89c8bff059adb2244e9"
                 },
                 {
                     "type": "HD",
                 "livelink":"0"
                 },
                {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "Bein",
+                "livelink":"http://tv.carmeliptv.com:80/EXCHANGEottking/wTzm5Tp5rwB8/1.ts"
                 }
               
             ]
