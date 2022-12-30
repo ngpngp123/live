@@ -50,15 +50,15 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-2376781_ld.m3u8?auth_key=1672436529-0-0-b8f91f4fe5529d49002da7377f056d96"
                 },
                 {
-                    "type": "Soco HD",
-                "livelink":""
+                    "type": "HD",
+                "livelink":"http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/5004.ts"
                 },
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1672436529-0-0-9b1f89afe315f89c8bff059adb2244e9"
                 },
                 {
-                    "type": "HD",
+                    "type": " Vebo HD",
                 "livelink":"0"
                 },
                {
