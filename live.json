@@ -35,40 +35,6 @@
             ]
 },
 {
-           "league": "🏆 AFF Mitsubishi Electric Cup",
-            "date": "Dec 30",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
-            "teams" : "Singapore Vs Vietnam",
-            "hteam" : "Singapore",
-            "ateam" : "Vietnam",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2412304_ld.m3u8?auth_key=1672424349-0-0-38a4a3fc8dbf0a7fcf348b61fe8a5665"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=9b46e25bae3534e3b1855b19fd44b592&txTime=63af2daa"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yytcpull.gdsth.com/live/stream-308116.m3u8?txSecret=2c68abdba273b6125b2d208d8ce8653c&txTime=63b02881"
-                },
-                {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8"
-                }
-              
-            ]
-         },
-{
            "league": "🏆 Laliga",
             "date": "Dec 30",
             "time": "10:30 PM",
