@@ -108,17 +108,14 @@
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1672449609-0-0-7924192fcafbd1b63312107d994c1329"
                 },
-                {
-                    "type": "Soco HD",
-                "livelink":"0"
-                },
+                
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1672449609-0-0-7a0d90c017ca4a572120ab34c05ff5ef"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "Bein",
+                "livelink":"http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347"
                 },
                {
                     "type": "FHD",
