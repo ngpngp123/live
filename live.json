@@ -38,36 +38,6 @@
            "league": "🏆 AFF Mitsubishi Electric Cup",
             "date": "Dec 30",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5891_small.png",
-            "teams" : "Myanmar Vs Laos",
-            "hteam" : "Myanmar",
-            "ateam" : "Laos",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=21a6aa79e45fe4bd768f6e8e504c740d&txTime=63af0bae"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-441616.m3u8?auth_key=1672414509-0-0-94df8b649f161d516d8ed5fd35311a87"
-                },
-               {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-                },
-{
-                    "type": "FHD",
-                "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
-                } 
-              
-            ]
-         },
-{
-           "league": "🏆 AFF Mitsubishi Electric Cup",
-            "date": "Dec 30",
-            "time": "7:00 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
             "teams" : "Singapore Vs Vietnam",
@@ -77,7 +47,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-2412304_ld.m3u8?auth_key=1672424349-0-0-38a4a3fc8dbf0a7fcf348b61fe8a5665"
                 },
                 {
                     "type": "Soco HD",
@@ -85,11 +55,11 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-308116.m3u8?txSecret=2c68abdba273b6125b2d208d8ce8653c&txTime=63b02881"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "Vebo HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 },
                {
                     "type": "FHD",
