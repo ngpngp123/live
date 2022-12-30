@@ -89,6 +89,14 @@
                {
                     "type": "FHD",
                 "livelink":"https://wasksyapp.azureedge.net/live/sspl/chunks.m3u8"
+                },
+{
+                    "type": "Auto",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpwFWyc169vIRE6GsFkTCuCdiYPVkwdfeZDDJzI8Sdg2HDleBfGXQrUU629rXg3F3EpwpDAYIjqmf92oQExIve9TmvA1j-3-gwVk3GcponBOpz6JlOrv8noxjrqRJ8oKqbL802qtOcXzCNqZZloEASTUp4RBRQD3VfaAwNUIzggKm-JXJBXZV23xn7D9Ka9Ho1sqwS9YD-Ymt8l9lbM4boWBwSsKxvogva_ma0CW0HxdvWgkDoDoyedMNbdszg5ZEmJ-XJHdgUo-p5bZTbEokMdYUf1CIAq67JRydY78KjL5zZW6-QCDRJCRnJz8FXMNY-j0KXmgxMupYvaFZV10W7In8JjPuVmZGrhF94C1Or3KJM55a6KNbyHzbD3s8BF4Sk_tDIwBJpjt-7EzDFjPuExMaq1Wsrs0WtC_qgeGPV0sED0k4TqfZ9eA_HSFyfdyuk4xR0teIzmbWIOdslb6M24O4zyxNJu9QjGUjufJtf5uMO-3J3sPgC8rfd9DcsokG-rE4xdNFzFJdc4cXWQxziARJ3auw-eJfEIQo7MoThKbQreJw-0ApOAl1bVGLGTRiDasgp5R67qeaSHcbV5oJk7YfLvIdnSIgaloeWIBb44gMo41GyE4YfzA7UNmocIcHyNMnUtUmqQchlNoZRfZHV2rnmSABZph9LkyYtATwiKeFiRxpx5k1UeLAOxP8RkVo6MRTWzpI_kMfc50Ilw4J9nYD4xcahPHNskx5o7niumzZlMTUFnt1GhaJzTRkS3DSlCTv_FJ-mvVJBe1gMDJ6BxMcd4I7s41eEOGHEnHqkubzb8f0IuVcDwpdwx4L6DcXLwQ3QeK98cT7PhzwTH9hwQhaV6uWVJnxjx8DyqIjG6cZNrfFpSoSOa4q4sB2fQaDMJ6ozYql1YBapIjyiABKglldS13ZXN0LTIwwQU.m3u8"
+                },
+{
+                    "type": "FHD",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CooF8iZTbCaaCLyE9UZxUWBPtZhsTGoJd76mMJOXzl-h97UGVePxejIhViog39JI8Sd65uekxFD2NtV0ko2NBDUg6D8_058IUVM25VXdKEfkOhVEtVBmofpkYtO5yrnFtdAKNFo3cH5szXprAiMpw8XMIwHvz78sEU8_rg9FrdYNicob04lzhNz92pVz-BgS9v72SGiSTW6z5I0BZTXm6A_A9v5anq5Xls81bv1kXdye-EBL__St8gewjZAcCdL_bax91KO5TjQwJm3Qc2CYyIsvg9sH-su1gt8cv-hvHZL7PQE6lvaLzK8ZDHJnV2gZ0e636vEZoEGy03zgg6SwbRvl_zpGgxB2QvbOchd5LOyUbJMad7t0KcXhAGzarSGrZPPDaF80iUIaS1JnXx-WMNOtXPxVoenChxHOv3xETu5T8iydEnKmXP2gdvny6IR_ZEiiUulVvN5meCoejRTrjJhUWa6JG2hnW_Eoye_JyRwgOq4yVJvhWKfnYvOrM-jDAKOGCHpj_4A4FUmh8m4698VuS8RGn3ZnjN3rC9TBgnqAKxtmPJZPt1SjPrj8f8fkZNLBY_0mNh1aWyl-6OujhJ7q5LGIyUlYGnLH6e3XPj3rymq6T5diLKUentxKfXB5RoYNURSmeMd_zqNW9wCUmtmPpotYIUqaitUIec45_OHP2EdYiyJxjc3m5Gp5FFqBMQOih0yQyy5blP1ypGimVY24-Kv91JWXenXalAawdZ4LGGH5MrF9iymjhohr6g7MtdD-3kac2KmU9QD1LecFG4Ujtz1S_ET4uk0YijYA0z4uQNXgtiEDZ-6GeO2un5W9qvr4stl9sQ6PmRKdszGvp1k4ZwDSuq5-qDQV_bQaDLDOqymtATmhycjnVCABKglldS13ZXN0LTIwwQU.m3u8"
                 }
               
             ]
