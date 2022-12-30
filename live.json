@@ -66,6 +66,14 @@
                {
                     "type": "FHD",
                 "livelink":"http://37.49.224.40:8000/play/NovaSports2/index.m3u8"
+                },
+{
+                    "type": "FHD2",
+                "livelink":"https://live.moretv.live:443/play/id211f535b/63af4841e12cc575af240504.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.2tpp4yKcv5yLdAyZRk8rDXx3d4RPDpSu0BePrhBXiilV5h5R9xH1xSiMd7lAT2ja7lAQ_OYvr_hI-p0dNxtqow"
+                },
+               {
+                    "type": "FHD3",
+                "livelink":"https://live.moretv.live:443/play/id211f535b/63af47f6e12cc575af2404c6.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.2tpp4yKcv5yLdAyZRk8rDXx3d4RPDpSu0BePrhBXiilV5h5R9xH1xSiMd7lAT2ja7lAQ_OYvr_hI-p0dNxtqow"
                 }
               
             ]
