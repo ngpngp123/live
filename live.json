@@ -1,39 +1,5 @@
 [
-{
-           "league": "MAN U",
-            "date": "TV Channel",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "teams" : "Man United TV",
-            "hteam" : "MAN U",
-            "ateam" : "TV",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "MUTV 360 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "MUTV 240 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MUTV 540 HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MAN U TV 1080HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                }
-                
-            ]
-},
+
 {
            "league": "🏆 Laliga",
             "date": "Dec 31",
@@ -104,7 +70,7 @@
          },
 {
            "league": "🏆 Premier League",
-            "date": "Dec 31",
+            "date": "live",
             "time": "9:30 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
@@ -207,7 +173,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Dec 31",
-            "time": "9:45 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
             "teams" : "Villarreal Vs Valencia",
@@ -217,7 +183,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-435925_ld.m3u8?auth_key=1672518910-0-0-98903fd4ef209c2046e4b37a014b3d8d"
                 },
                 {
                     "type": "Soco HD",
@@ -225,7 +191,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1672518910-0-0-2a84e5da8d778144af939db1d22df8ba"
                 },
                 {
                     "type": "HD",
