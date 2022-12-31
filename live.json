@@ -35,44 +35,6 @@
             ]
 },
 {
-           "league": "🏆 Premier League",
-            "date": "Dec 31",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "teams" : "Wolves Vs Man United",
-            "hteam" : "Wolves",
-            "ateam" : "Man United",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-823405_ld.m3u8?auth_key=1672509970-0-0-2054f4c69ea6a93e992a8085a3b10375"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=d132a401ece1b70949a20e76b67b13e3&txTime=63b07ab7"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=b36c2a073754a09228b15b953149d9ae&txTime=63b176ba"
-                },
-                {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"https://waksaakks.azureedge.net/live/usa/chunks.m3u8"
-                },
-{
-                    "type": "Bein",
-                "livelink":"http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/25848.ts"
-                }
-              
-            ]
-         },
-{
            "league": "🏆 Laliga",
             "date": "Dec 31",
             "time": "live",
@@ -123,7 +85,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=3fac7c45858b217b43761ce8fab8b621&txTime=63b09a1f"
                 },
               {
                     "type": "China HD",
@@ -131,7 +93,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 },
                {
                     "type": "FHD",
@@ -157,7 +119,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=9d01497b24c2cb2f49bd43be7d3e6bad&txTime=63b09a5b"
                 },
               {
                     "type": "China HD",
@@ -225,7 +187,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-105131.m3u8?txSecret=9072d6a8783ce88f53643ae14a6fe082&txTime=63b099e3"
                 },
               {
                     "type": "China HD",
