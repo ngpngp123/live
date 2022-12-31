@@ -1,40 +1,5 @@
 [
 
-{
-           "league": "🏆 Laliga",
-            "date": "Dec 31",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-            "teams" : "Barcelona Vs Espanyol",
-            "hteam" : "Barcelona",
-            "ateam" : "Espanyol",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1672511830-0-0-147c5a1c0a24e337f325f082c0a39704"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-105131.m3u8?txSecret=29b1b6167a97aeb0a7c0494fd74fb8b2&txTime=63b08363"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1672511830-0-0-73ae0924e6dcec236c1f1d00aad1e96a"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"https://wppkska2s.azureedge.net/live/lltv/chunks.m3u8"
-                }
-              
-            ]
-         },
-{
 
 {
            "league": "🏆 Premier League",
