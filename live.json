@@ -114,18 +114,12 @@
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-279932_ld.m3u8?auth_key=1672518850-0-0-38b80453595d343ae30e07af7d9195ec"
                 },
-                {
-                    "type": "Soco HD",
-                "livelink":"0"
-                },
+                
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-279932.m3u8?auth_key=1672518850-0-0-deaec362d632d0cfdd4eb0fcccd76c9d"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
                     "type": "FHD",
                 "livelink":"https://wpttwas2s.azureedge.net/live/s2/chunks.m3u8"
