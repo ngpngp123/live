@@ -57,10 +57,7 @@
                     "type": "China HD",
                 "livelink":"https://yytcpull.gdsth.com/live/stream-482682.m3u8?txSecret=4625c039805672141b19d873af2f1bdb&txTime=63b1992e"
                 },
-                {
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
+                
                {
                     "type": "FHD",
                 "livelink":"https://wpttwas2s.azureedge.net/live/sppl/chunks.m3u8"
@@ -93,7 +90,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 },
                {
                     "type": "FHD",
