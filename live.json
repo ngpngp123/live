@@ -63,7 +63,7 @@
                 },
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://wpttwas2s.azureedge.net/live/sppl/chunks.m3u8"
                 }
               
             ]
@@ -97,7 +97,7 @@
                 },
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://wpttwas2s.azureedge.net/live/usa/chunks.m3u8"
                 }
               
             ]
@@ -131,7 +131,7 @@
                 },
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://wpttwas2s.azureedge.net/live/s2/chunks.m3u8"
                 }
               
             ]
@@ -165,7 +165,7 @@
                 },
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://wp1pskaj.azureedge.net/live/s1/chunks.m3u8"
                 }
               
             ]
