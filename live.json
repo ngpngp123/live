@@ -1,118 +1,39 @@
 [
-
-
 {
-           "league": "🏆 Premier League",
-            "date": "Dec 31",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-            "teams" : "Liverpool Vs Leicester",
-            "hteam" : "Liverpool",
-            "ateam" : "Leicester",
-         "hotmat":"yes",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=902ae31a8468dfeb47424b60754762bb&txTime=63b08ab5"
-                },
-                {
-                    "type": "China HD",
-                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=902ae31a8468dfeb47424b60754762bb&txTime=63b08ab5"
-                },
+                
 {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=b2c6af2297032f70f775e016ff99659e&txTime=63af93db"
-                },
-              {
-                    "type": "Bein",
-                "livelink":"http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"https://wasksyapp.azureedge.net/live/sspl/chunks.m3u8"
-}
-              
-            ]
-         },
-{
-           "league": "🏆 Premier League",
-            "date": "Dec 31",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-            "teams" : "West Ham Vs Brentford",
-            "hteam" : "West Ham",
-            "ateam" : "Brentford",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1672449609-0-0-7924192fcafbd1b63312107d994c1329"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
                 },
                 
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1672449609-0-0-7a0d90c017ca4a572120ab34c05ff5ef"
-                },
-                {
-                    "type": "Bein",
-                "livelink":"http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"http://37.49.224.40:8000/play/NovaSports2/index.m3u8"
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
                 },
 {
-                    "type": "FHD2",
-                "livelink":"https://live.moretv.live:443/play/id211f535b/63af4841e12cc575af240504.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.2tpp4yKcv5yLdAyZRk8rDXx3d4RPDpSu0BePrhBXiilV5h5R9xH1xSiMd7lAT2ja7lAQ_OYvr_hI-p0dNxtqow"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
                 },
-               {
-                    "type": "FHD3",
-                "livelink":"https://live.moretv.live:443/play/id211f535b/63af47f6e12cc575af2404c6.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.2tpp4yKcv5yLdAyZRk8rDXx3d4RPDpSu0BePrhBXiilV5h5R9xH1xSiMd7lAT2ja7lAQ_OYvr_hI-p0dNxtqow"
-                }
-              
-            ]
-         },
 {
-           "league": "🏆 Laliga",
-            "date": "Dec 31",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "teams" : "Real Valladolid Vs Real Madrid",
-            "hteam" : "Real Valladolid",
-            "ateam" : "Real Madrid",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1672449609-0-0-b0bbd9c911bb7c55be24cad604817804"
-                },
-                {
-                    "type": "Bein HD",
-                "livelink":"http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/322"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1672449609-0-0-be52c96019daf28daf21903893ed0c8e"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"http://37.49.224.40:8000/play/NovaSports1/index.m3u8"
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
-
-              
+                
             ]
-         }
+}
 ]
 
 
