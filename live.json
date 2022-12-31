@@ -58,8 +58,8 @@
                 "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=b36c2a073754a09228b15b953149d9ae&txTime=63b176ba"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "Vebo HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 },
                {
                     "type": "FHD",
