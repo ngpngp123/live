@@ -173,7 +173,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Dec 31",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
             "teams" : "Fulham Vs Southampton",
@@ -183,7 +183,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-349393_ld.m3u8?auth_key=1672518790-0-0-6de90595e79f6d2cb860ed06b649c6a5"
                 },
                 {
                     "type": "Soco HD",
@@ -191,7 +191,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-553612.m3u8?txSecret=1fbcfceb6ed5445e262cc27944caa786&txTime=63b199a6"
                 },
                 {
                     "type": "HD",
