@@ -64,6 +64,10 @@
                {
                     "type": "FHD",
                 "livelink":"https://waksaakks.azureedge.net/live/usa/playlist.m3u8"
+                },
+{
+                    "type": "Bein",
+                "livelink":"http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/322"
                 }
               
             ]
