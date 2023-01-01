@@ -51,11 +51,8 @@
                 {
                     "type": "HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1672601830-0-0-86a2c5681c1dceb5e3e7896cfed1fad1"
-                },
-              {
-                    "type": "FHD",
-                "livelink":"0"
                 }
+              
                 
               
             ]
@@ -131,11 +128,8 @@
                 {
                     "type": "HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1672602010-0-0-5d55da2845833d2db445c177531c2ae9"
-                },
-              {
-                    "type": "FHD",
-                "livelink":"0"
                 }
+              
                 
             ]
          },
