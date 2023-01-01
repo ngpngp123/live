@@ -24,10 +24,7 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1672610350-0-0-049a581a3034aed54c5f325c6c610a95"
                 },
-                {
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
+                
                {
                     "type": "FHD",
                 "livelink":""
@@ -60,7 +57,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 },
                {
                     "type": "FHD",
