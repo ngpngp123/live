@@ -1,30 +1,66 @@
 [
-
-
 {
-           "league": "🏆 Ligue 1",
-            "date": "Jan 1",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
-            "teams" : "Lyon Vs Clermont Foot",
-            "hteam" : "Lyon",
-            "ateam" : "Clermont Foot",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
+                },
+                
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+                }
+                
+            ]
+},
+{
+           "league": "🏆 AFF Mitsubishi Electric Cup",
+            "date": "Jan 2",
+            "time": "7:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6324_small.png",
+            "teams" : "Philippines Vs Indonesia",
+            "hteam" : "Philippines",
+            "ateam" : "Indonesia",
          "hotmat":"yes",
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1672610350-0-0-eb90c3b95b7c0f2350e93f03161275a3"
+                "livelink":"0"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-137359.m3u8?txSecret=6cc157bd91ff18ee80f75c152bd6e3c6&txTime=63b2034b"
+                "livelink":"0"
                 },
               {
                     "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1672610350-0-0-049a581a3034aed54c5f325c6c610a95"
+                "livelink":"0"
                 },
-                
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
                {
                     "type": "FHD",
                 "livelink":""
@@ -33,77 +69,37 @@
             ]
          },
 {
-           "league": "🏆 Premier League",
-            "date": "Jan 1",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "teams" : "Nottingham Vs Chelsea",
-            "hteam" : "Nottingham",
-            "ateam" : "Chelsea",
+           "league": "🏆 AFF Mitsubishi Electric Cup",
+            "date": "Jan 2",
+            "time": "7:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6332_small.png",
+            "teams" : "Thailand Vs Cambodia",
+            "hteam" : "Thailand",
+            "ateam" : "Cambodia",
          "hotmat":"yes",
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1672610890-0-0-4d418323987e27d37b1d1c0933e41d9b"
+                "livelink":"0"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=7624e06dcfd038cdb35ddd18156788c8&txTime=63b20387"
+                "livelink":"0"
                 },
               {
                     "type": "China HD",
-                "livelink":"https://yytcpull.gdsth.com/live/stream-535588.m3u8?txSecret=ccefc1ce1246a1b572bfc64045669110&txTime=63b3016a"
+                "livelink":"0"
                 },
                 {
                     "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-{
-                    "type": "Bein FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
+                "livelink":"0"
                 },
                {
                     "type": "FHD",
-                "livelink":"https://vcawscasjs2.azureedge.net/live/sspl/chunks.m3u8"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 Ligue 1",
-            "date": "Dec 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-            "teams" : "Lens Vs PSG",
-            "hteam" : "Lens",
-            "ateam" : "PSG",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1672610950-0-0-ca4db94c9ac063fe2d3f78183b2bf2bb"
-                },
-                {
-                    "type": "bein HD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bs2-720.m3u8"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1672610950-0-0-7ec5ba84f44eb022195d57d52c2c71da"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
+                "livelink":""
                 }
               
             ]
          }
 ]
-
-
