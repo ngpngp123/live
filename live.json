@@ -114,7 +114,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Jan 3",
-            "time": "12:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
             "teams" : "Montpellier Vs Marseille",
@@ -128,15 +128,15 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-118206_lhd.m3u8?user_session_id=8597ca9baf34d00fa68c472a7f467470&auth_key=1672702855-0-0-9ad113dd02f089c1b85aa376a22c9eb5&sub_m3u8=true&edge_slice=true"
                 },
               {
                     "type": "China HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-118206_lsd.m3u8?auth_key=1672702855-0-0-5ffcd5b69c1c2d75b49e134b27ecddeb&user_session_id=6793a3049f8e31b31f2d463c0b5c6c86&sub_m3u8=true&edge_slice=true"
                 },
                {
                     "type": "FHD",
