@@ -69,7 +69,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Jan 3",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
             "teams" : "Brentford Vs Liverpool",
@@ -77,20 +77,17 @@
             "ateam" : "Liverpool",
          "hotmat":"yes",
             "link":[
-                {
-                    "type": "China SD",
-                "livelink":"0"
-                },
+                
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=fc102982640ae444441a642ca5c9ebf8&txTime=63b36173"
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=23fbaec6e840b7daab189687afb339b0&txTime=63b45e2a"
                 },
                 {
-                    "type": "HD",
+                    "type": "Vebo HD",
                 "livelink":"0"
                 },
                {
