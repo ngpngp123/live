@@ -94,10 +94,17 @@
                 "livelink":"0"
                 },
                {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "Bein FHD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
+                },
+              {
+                    "type": "Sky Sport FHD1",
+                "livelink":"http://62.182.83.91:80/sammie6804/0M9hZZ7ibimrOZFP/13899"
+                },
+{
+                    "type": "Sky Sport FHD2",
+                "livelink":"http://62.182.83.91:80/sammie6804/0M9hZZ7ibimrOZFP/13900"
                 }
-              
             ]
          },
 {
