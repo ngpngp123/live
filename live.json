@@ -68,7 +68,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Jan 2",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
             "teams" : "Lille Vs Reims",
@@ -78,20 +78,17 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-486118_ld.m3u8?auth_key=1672695490-0-0-ba891c5a4534d32e57afc378715734ff"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-157365.m3u8?txSecret=9d480c415aacc284bbc9e7542f4b1972&txTime=63b34fdf"
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1672695490-0-0-f265436dfaffc64eedc3125b252da340"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
                     "type": "Bein FHD",
                 "livelink":"https://lb.buy-global.store/live/lb555/bs2-720.m3u8"
