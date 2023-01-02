@@ -43,7 +43,7 @@
             "teams" : "Philippines Vs Indonesia",
             "hteam" : "Philippines",
             "ateam" : "Indonesia",
-         "hotmat":"yes",
+         "hotmat":"no",
             "link":[
                 {
                     "type": "China SD",
@@ -77,6 +77,142 @@
             "teams" : "Thailand Vs Cambodia",
             "hteam" : "Thailand",
             "ateam" : "Cambodia",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":""
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Ligue 1",
+            "date": "Jan 2",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
+            "teams" : "Strasbourg Vs Troyes",
+            "hteam" : "Strasbourg",
+            "ateam" : "Troyes",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":""
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Ligue 1",
+            "date": "Jan 2",
+            "time": "10:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
+            "teams" : "Lille Vs Reims",
+            "hteam" : "Lille",
+            "ateam" : "Reims",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":""
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Premier League",
+            "date": "Jan 3",
+            "time": "12:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "teams" : "Brentford Vs Liverpool",
+            "hteam" : "Brentford",
+            "ateam" : "Liverpool",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":""
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Ligue 1",
+            "date": "Jan 3",
+            "time": "12:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
+            "teams" : "Montpellier Vs Marseille",
+            "hteam" : "Montpellier",
+            "ateam" : "Marseille",
          "hotmat":"yes",
             "link":[
                 {
