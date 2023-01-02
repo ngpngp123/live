@@ -77,7 +77,10 @@
             "ateam" : "Liverpool",
          "hotmat":"yes",
             "link":[
-                
+                {
+                    "type": "Soco SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1672700770-0-0-537eb29ed55148906a17f58cb96484af"
+                },
                 {
                     "type": "Soco HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=fc102982640ae444441a642ca5c9ebf8&txTime=63b36173"
@@ -88,7 +91,7 @@
                 },
                 {
                     "type": "Vebo HD",
-                "livelink":"0"
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 },
                {
                     "type": "Bein FHD",
