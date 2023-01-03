@@ -36,40 +36,6 @@
 },    
 
 {
-           "league": "🏆 AFF Mitsubishi Electric Cup",
-            "date": "Jan 3",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
-            "teams" : "Malaysia Vs Singapore",
-            "hteam" : "Malaysia",
-            "ateam" : "Singapore",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1672769110-0-0-13b1c2635fe9bd205d59a8f949e5c935"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=8f471fcf75d90df5259c4523f4b02e9a&txTime=63b46efb"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1672769110-0-0-abbebb6b75bbabcb278a49e8f70f69df"
-                },
-                {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8"
-                }
-              
-            ]
-         },
-{
            "league": "🏆 Premier League",
             "date": "Jan 4",
             "time": "2:15 AM",
@@ -86,7 +52,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=cb6eb10a3575956856762aff8f919fb4&txTime=63b4c577"
                 },
               {
                     "type": "China HD",
