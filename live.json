@@ -1,160 +1,37 @@
 [
-
-     
-
 {
-           "league": "🏆 Premier League",
-            "date": "Jan 4",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-            "teams" : "Arsenal Vs Newcastle",
-            "hteam" : "Arsenal",
-            "ateam" : "Newcastle",
-         "hotmat":"yes",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2376781_ld.m3u8?auth_key=1672795510-0-0-27159070ff635addf60297795b90706f"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=cb6eb10a3575956856762aff8f919fb4&txTime=63b4c577"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=b3aaf1fcc7a651764867b1889787b1c0&txTime=63b5d25a"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
-                },
-               {
-                    "type": "Bein FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
-                }
-              
-            ]
-         },
+                
 {
-           "league": "🏆 Premier League",
-            "date": "Jan 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-            "teams" : "Man United Vs Bournemouth",
-            "hteam" : "Man United",
-            "ateam" : "Bournemouth",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435066_ld.m3u8?auth_key=1672797430-0-0-cdf8548f9eaffa9d653867256e400379"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=55f63287c62a78e4418a4128c2e402d2&txTime=63b4d927"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yytcpull.gdsth.com/live/stream-105676.m3u8?txSecret=758e9ce374bc2cbe105d1023012223a7&txTime=63b5d9da"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-               {
-                    "type": "Bein FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bp2-720.m3u8"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 Premier League",
-            "date": "Jan 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-            "teams" : "Leicester Vs Fulham",
-            "hteam" : "Leicester",
-            "ateam" : "Fulham",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-284564_ld.m3u8?auth_key=1672795570-0-0-a49f82e55971013aa671bb238595dc30"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-118206.m3u8?txSecret=05bd5de2674bd4e51c043e207efab46f&txTime=63b4d4ef"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-284564.m3u8?auth_key=1672795570-0-0-38ed6b787b0981aed17f5975dc9d38c2"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
                 },
                 
-               {
-                    "type": "Bein FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bp3-720.m3u8"
-                }
-              
-            ]
-         },
 {
-           "league": "🏆 Premier League",
-            "date": "Jan 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-            "teams" : "Everton Vs Brighton",
-            "hteam" : "Everton",
-            "ateam" : "Brighton",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-494765_ld.m3u8?auth_key=1672795630-0-0-be4230d89f5e2bb7b93ef5c3ff26cb0e"
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
                 },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=4c48d603df2a7c264d1b66069f8b530d&txTime=63b4d8af"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1672795630-0-0-564a3f19b98f84a9657c9e11360d5e8a"
-                
-                }
-              
-            ]
-         },
 {
-           "league": "🏆 Copa del Rey",
-            "date": "Jan 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7809_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "teams" : "Cacereno Vs Real Madrid",
-            "hteam" : "Cacereno",
-            "ateam" : "Real Madrid",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-469322_ld.m3u8?auth_key=1672791970-0-0-e277b486316c2ea04fb61e85065c5477"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
                 },
-                
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-469322.m3u8?auth_key=1672791970-0-0-1c49b941124d2ff31cac466481649e28"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
+{
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
-               
-              
+                
             ]
-         }
-
+}
 ]
