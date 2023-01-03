@@ -93,10 +93,7 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-284564.m3u8?auth_key=1672795570-0-0-38ed6b787b0981aed17f5975dc9d38c2"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
                     "type": "Bein FHD",
                 "livelink":"https://lb.buy-global.store/live/lb555/bp3-720.m3u8"
@@ -126,14 +123,7 @@
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1672795630-0-0-564a3f19b98f84a9657c9e11360d5e8a"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
+                
                 }
               
             ]
@@ -153,10 +143,7 @@
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-469322_ld.m3u8?auth_key=1672791970-0-0-e277b486316c2ea04fb61e85065c5477"
                 },
-                {
-                    "type": "Soco HD",
-                "livelink":"0"
-                },
+                
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-469322.m3u8?auth_key=1672791970-0-0-1c49b941124d2ff31cac466481649e28"
@@ -164,11 +151,8 @@
                 {
                     "type": "HD",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
                 }
+               
               
             ]
          }
