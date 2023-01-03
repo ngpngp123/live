@@ -38,7 +38,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Jan 4",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "teams" : "Arsenal Vs Newcastle",
@@ -48,7 +48,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-2376781_ld.m3u8?auth_key=1672795510-0-0-27159070ff635addf60297795b90706f"
                 },
                 {
                     "type": "Soco HD",
@@ -56,7 +56,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=b3aaf1fcc7a651764867b1889787b1c0&txTime=63b5d25a"
                 },
                 {
                     "type": "HD",
@@ -72,7 +72,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Jan 4",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
             "teams" : "Man United Vs Bournemouth",
@@ -106,7 +106,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Jan 4",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "teams" : "Leicester Vs Fulham",
@@ -116,15 +116,15 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-284564_ld.m3u8?auth_key=1672795570-0-0-a49f82e55971013aa671bb238595dc30"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-118206.m3u8?txSecret=05bd5de2674bd4e51c043e207efab46f&txTime=63b4d4ef"
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-284564.m3u8?auth_key=1672795570-0-0-38ed6b787b0981aed17f5975dc9d38c2"
                 },
                 {
                     "type": "HD",
@@ -140,7 +140,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Jan 4",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "teams" : "Everton Vs Brighton",
@@ -150,7 +150,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-494765_ld.m3u8?auth_key=1672795630-0-0-be4230d89f5e2bb7b93ef5c3ff26cb0e"
                 },
                 {
                     "type": "Soco HD",
@@ -158,7 +158,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1672795630-0-0-564a3f19b98f84a9657c9e11360d5e8a"
                 },
                 {
                     "type": "HD",
@@ -174,7 +174,7 @@
 {
            "league": "🏆 Copa del Rey",
             "date": "Jan 4",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7809_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "teams" : "Cacereno Vs Real Madrid",
