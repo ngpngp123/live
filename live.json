@@ -49,7 +49,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1672791910-0-0-34f6450e82f3978063fd68298d5b4a88"
+                "livelink":"https://yypull.gdsth.com/live/stream-435066_ld.m3u8?auth_key=1672797430-0-0-cdf8548f9eaffa9d653867256e400379"
                 },
                 {
                     "type": "Soco HD",
@@ -57,7 +57,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1672791910-0-0-874a03422478b508ea91643693826f6e"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-105676.m3u8?txSecret=758e9ce374bc2cbe105d1023012223a7&txTime=63b5d9da"
                 },
                 {
                     "type": "HD",
