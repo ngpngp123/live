@@ -10,6 +10,10 @@
             "ateam" : "Atalanta",
          "hotmat":"no",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://live.yorafootball.com/web1/tracks-v1a1/mono.m3u8?token=7ca8486899f595590aa6658c91766c986a242b52-5946fedc62fb0244f11b86bbff636b97-1672850000-1672839200"
+                },
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1672858811-0-0-1911cc30e39a2edf5bddbe6a39c932ea"
