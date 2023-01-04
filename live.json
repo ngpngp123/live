@@ -14,7 +14,10 @@
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-2961234_ld.m3u8?auth_key=1672879330-0-0-1fa360a4de4746e9f04496aec26539f5"
                 },
-                
+                {
+                    "type": "Eng SD",
+                "livelink":"https://live.yorafootball.com/web4/tracks-v1a1/mono.m3u8?token=6c5fead3909ee7ac3efa7c09530fdbb9b1a69cb6-7be2738755baecaa76bb757597f8902b-1672872677-1672861877"
+                },
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1672879330-0-0-7cbd6b5219917962c63e5fa29c47dfaa"
@@ -41,6 +44,10 @@
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-469322_ld.m3u8?auth_key=1672879391-0-0-f446df1fc8c59830d46ffd51e89608da"
+                },
+{
+                    "type": "Eng SD",
+                "livelink":"https://live.yorafootball.com/web5/tracks-v1a1/mono.m3u8?token=0855ee2606de62c7e7593d786a9c55b41c7a89d3-380d3b8654e40f51b4b313417a322dfa-1672872610-1672861810"
                 },
                 {
                     "type": "Soco HD",
