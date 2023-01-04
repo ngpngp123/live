@@ -44,6 +44,10 @@
             "ateam" : "Hellas Verona",
          "hotmat":"no",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://live.yorafootball.com/web2/tracks-v1a1/mono.m3u8?token=d8096095b348b97625212584935ccccb3ffebd2b-846bde98bcd0375f81589cc6d4af1210-1672850702-1672839902"
+                },
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-362789_ld.m3u8?auth_key=1672858931-0-0-ce915d1c4b071351bc91204c34c8ff4b"
