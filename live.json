@@ -205,6 +205,10 @@
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-482183_ld.m3u8?auth_key=1672879871-0-0-d9815db958977d8ece601270f1f59bf1"
                 },
+{
+                    "type": "Eng SD",
+                "livelink":"https://live.yorafootball.com/web7/tracks-v1a1/mono.m3u8?token=ab3869e1fed51cd105087b245fe29e492d90a450-720fd62ff500b620ed3446bd00fdc790-1672872814-1672862014"
+                },
                 {
                     "type": "Soco HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=9a70aaa04321c48a74753ec6eb550b64&txTime=63b622b0"
