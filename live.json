@@ -23,13 +23,10 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1672852331-0-0-12824e33aa49656288b6e2fbc43363b7"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "Vebo FHD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
                 }
+               
               
             ]
          },
@@ -55,15 +52,8 @@
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-306929.m3u8?auth_key=1672852390-0-0-b8b997838669113d0c2fb866d1df4593"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
                 }
+                
               
             ]
          },
