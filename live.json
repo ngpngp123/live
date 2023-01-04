@@ -125,8 +125,8 @@
          },
 {
            "league": "🏆 Serie A",
-            "date": "Jan 5",
-            "time": "2:15 AM",
+            "date": "Jan 5(2:15 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
             "teams" : "Inter Vs Napoli",
@@ -146,12 +146,9 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-697579.m3u8?auth_key=1672879451-0-0-62f4c7e0ae6bbc69a5b894d67196081e"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
-                    "type": "FHD",
+                    "type": "Wait FHD",
                 "livelink":""
                 }
               
@@ -159,8 +156,8 @@
          },
 {
            "league": "🏆 Serie A",
-            "date": "Jan 5",
-            "time": "2:15 AM",
+            "date": "Jan 5(2:15 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
             "teams" : "Udinese Vs Empoli",
@@ -180,12 +177,9 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1672879631-0-0-6c7f5226c59c4eca87387f81f0d89d23"
                 },
-                {
-                    "type": "HD",
-                "livelink":""
-                },
+                
                {
-                    "type": "FHD",
+                    "type": "Wait FHD",
                 "livelink":""
                 }
               
@@ -193,8 +187,8 @@
          },
 {
            "league": "🏆 Premier League",
-            "date": "Jan 5",
-            "time": "2:30 AM",
+            "date": "Jan 5(2:30 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "teams" : "Crystal Palace Vs Tottenham",
@@ -214,12 +208,9 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1672879571-0-0-2c1282cdf3bb80f6c5235174f1fae257"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
-                    "type": "FHD",
+                    "type": "Wait FHD",
                 "livelink":""
                 }
               
@@ -254,15 +245,15 @@
                 },
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://lb.buy-global.store/live/lb555/bp2-720.m3u8"
                 }
               
             ]
          },
 {
            "league": "🏆 Laliga",
-            "date": "Jan 5",
-            "time": "2:30 PM",
+            "date": "Jan 5(2:30 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/1112101_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "teams" : "CF Intercity Vs Barcelona",
@@ -283,7 +274,7 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1672879871-0-0-dced87f334f8f3802459448da089c6c1"
                 },
                 {
-                    "type": "HD",
+                    "type": "FHD",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
                 }
                
