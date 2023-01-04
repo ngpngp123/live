@@ -3,72 +3,6 @@
            "league": "🏆 Serie A",
             "date": "Jan 4",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-            "teams" : "Salernitana Vs Milan",
-            "hteam" : "Salernitana",
-            "ateam" : "Milan",
-         "hotmat":"yes",
-            "link":[
-{
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web1/tracks-v1a1/mono.m3u8?token=fb9cc5be46736258a1cb59fb0b4f0b7a397f6575-4bdfd0020515c8afe6e4061a6ec3ea07-1672842704-1672831904"
-                },
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-558696_ld.m3u8?auth_key=1672852331-0-0-dda32e6dd4a421846a279874edff37c7"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=6dc3095ad3e96a69a30d87539b23c4e2&txTime=63b5b3d3"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-558696.m3u8?auth_key=1672852331-0-0-12824e33aa49656288b6e2fbc43363b7"
-                },
-                {
-                    "type": "Vebo FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-                }
-               
-              
-            ]
-         },
-{
-           "league": "🏆 Serie A",
-            "date": "Jan 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
-            "teams" : "Sassuolo Vs Sampdoria",
-            "hteam" : "Sassuolo",
-            "ateam" : "Sampdoria",
-         "hotmat":"no",
-            "link":[
-{
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web3/tracks-v1a1/mono.m3u8?token=b28cf912bbd96f7945bc8fb476503f49fcaaee02-80ad529ee1a177ae7c7b044cfcd14f63-1672843847-1672833047"
-                },
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-306929_ld.m3u8?auth_key=1672852390-0-0-844f62d14296a250c0b7fce20dc6d5fd"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?edge_slice=true&user_session_id=c900f27975f0c29292c88b581d8a8a74&auth_key=1672852555-0-0-213ae602c817cced510e4c15c6be86dc&sub_m3u8=true"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-306929.m3u8?auth_key=1672852390-0-0-b8b997838669113d0c2fb866d1df4593"
-                }
-                
-              
-            ]
-         },
-{
-           "league": "🏆 Serie A",
-            "date": "Jan 4",
-            "time": "8:00 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
             "teams" : "Spezia Vs Atalanta",
@@ -98,7 +32,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Jan 4",
-            "time": "8:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
             "teams" : "Torino Vs Hellas Verona",
