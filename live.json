@@ -118,13 +118,10 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-469322.m3u8?auth_key=1672879391-0-0-d4534948443d859411f176f8d5f24ecf"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "Bein FHD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bp3-720.m3u8"
                 }
               
             ]
