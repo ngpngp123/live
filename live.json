@@ -1,68 +1,6 @@
 [
 {
            "league": "🏆 Serie A",
-            "date": "Jan 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
-            "teams" : "Lecce Vs Lazio",
-            "hteam" : "Lecce",
-            "ateam" : "Lazio",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1672866071-0-0-54430f1d658bda3a0d69f7c25b719d02"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-105723.m3u8?txSecret=c7171949875f06806aad8341b58cfcab&txTime=63b5ea33"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1672866071-0-0-800a168c75c00f8f1e2e17eaf2a1484a"
-                },
-                {
-                    "type": "Vebo FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                }
-               
-              
-            ]
-         },
-{
-           "league": "🏆 Serie A",
-            "date": "Jan 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-            "teams" : "Roma Vs Bologna",
-            "hteam" : "Roma",
-            "ateam" : "Bologna",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-3378908_ld.m3u8?auth_key=1672866191-0-0-9438b54cd5d19daadfe60cab06b64a65"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=8ea61400c9b7be7dde89bebda1926ca9&txTime=63b5e9f7"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=81efe27988a1f5d8e09d49391c8a0f95&txTime=63b6e673"
-                },
-                {
-                    "type": "Vebo FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8"
-                }
-               
-              
-            ]
-         },
-{
-           "league": "🏆 Serie A",
             "date": "Jan 5",
             "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
@@ -84,13 +22,10 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1672875971-0-0-0a08fff69e5fc71953ce1b4ac495109b"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8"
                 }
               
             ]
