@@ -76,7 +76,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1672866071-0-0-54430f1d658bda3a0d69f7c25b719d02"
                 },
                 {
                     "type": "Soco HD",
@@ -84,7 +84,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1672866071-0-0-800a168c75c00f8f1e2e17eaf2a1484a"
                 },
                 {
                     "type": "HD",
@@ -110,7 +110,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-3378908_ld.m3u8?auth_key=1672866191-0-0-9438b54cd5d19daadfe60cab06b64a65"
                 },
                 {
                     "type": "Soco HD",
@@ -118,7 +118,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=81efe27988a1f5d8e09d49391c8a0f95&txTime=63b6e673"
                 },
                 {
                     "type": "HD",
