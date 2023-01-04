@@ -55,19 +55,16 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
                 }
+               
               
             ]
          },
 {
            "league": "🏆 Premier League",
-            "date": "Jan 5",
-            "time": "2:00 AM",
+            "date": "Jan 5(2:00 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
             "teams" : "Southampton Vs Nottingham",
@@ -100,8 +97,8 @@
          },
 {
            "league": "🏆 Premier League",
-            "date": "Jan 5",
-            "time": "2:15 AM",
+            "date": "Jan 5(2:15 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "teams" : "Leeds Vs West Ham",
@@ -115,7 +112,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-118206.m3u8?txSecret=4ed9f69eaf8348d92fe18ffefa26fee9&txTime=63b6210b"
                 },
               {
                     "type": "China HD",
@@ -149,7 +146,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=33b12733477680ca684262e8ed66b3b9&txTime=63b62147"
                 },
               {
                     "type": "China HD",
@@ -183,7 +180,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=0bea5a002cffb550d8e2a6d15f706695&txTime=63b62183"
                 },
               {
                     "type": "China HD",
@@ -217,7 +214,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=b3e37f2caa53c1899b137413424245d9&txTime=63b621bf"
                 },
               {
                     "type": "China HD",
@@ -251,7 +248,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=6886968db9329fa969653f66a5201bda&txTime=63b621fb"
                 },
               {
                     "type": "China HD",
@@ -285,7 +282,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=9a70aaa04321c48a74753ec6eb550b64&txTime=63b622b0"
                 },
               {
                     "type": "China HD",
@@ -293,12 +290,9 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
                 }
+               
               
             ]
          }
