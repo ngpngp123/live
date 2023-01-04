@@ -10,6 +10,10 @@
             "ateam" : "Milan",
          "hotmat":"yes",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://live.yorafootball.com/web1/tracks-v1a1/mono.m3u8?token=fb9cc5be46736258a1cb59fb0b4f0b7a397f6575-4bdfd0020515c8afe6e4061a6ec3ea07-1672842704-1672831904"
+                },
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-558696_ld.m3u8?auth_key=1672852331-0-0-dda32e6dd4a421846a279874edff37c7"
@@ -41,6 +45,10 @@
             "ateam" : "Sampdoria",
          "hotmat":"no",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://live.yorafootball.com/web2/tracks-v1a1/mono.m3u8?token=82d260860927257482ec5d63ae05e138d7abafb1-ed736c384bed4783aeb9006f74abb3ee-1672842804-1672832004"
+                },
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-306929_ld.m3u8?auth_key=1672852390-0-0-844f62d14296a250c0b7fce20dc6d5fd"
