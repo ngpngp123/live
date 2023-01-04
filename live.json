@@ -14,18 +14,15 @@
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-2961234_ld.m3u8?auth_key=1672879330-0-0-1fa360a4de4746e9f04496aec26539f5"
                 },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=d2f805d0bfe1bf23cbc970f1e6e363ee&txTime=63b60f3b"
-                },
+                
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1672879330-0-0-7cbd6b5219917962c63e5fa29c47dfaa"
                 },
                 
                {
-                    "type": " Wait FHD",
-                "livelink":""
+                    "type": "FHD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may9/chunks.m3u8"
                 }
               
             ]
@@ -55,8 +52,8 @@
                 },
                 
                {
-                    "type": "Bein FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bp3-720.m3u8"
+                    "type": "Vebo FHD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may11/chunks.m3u8"
                 }
               
             ]
