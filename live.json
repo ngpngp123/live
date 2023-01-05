@@ -71,7 +71,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Dec 6",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "teams" : "Chelsea Vs Manchester City",
@@ -97,7 +97,7 @@
                 },
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
                 }
               
             ]
