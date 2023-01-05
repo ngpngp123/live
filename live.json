@@ -1,228 +1,37 @@
 [
 {
-           "league": "🏆 Premier League",
-            "date": "Jan 5(2:00 AM)",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-            "teams" : "Southampton Vs Nottingham",
-            "hteam" : "Southampton",
-            "ateam" : "Nottingham",
-         "hotmat":"no",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2961234_ld.m3u8?auth_key=1672879330-0-0-1fa360a4de4746e9f04496aec26539f5"
-                },
-                {
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web4/tracks-v1a1/mono.m3u8?token=6c5fead3909ee7ac3efa7c09530fdbb9b1a69cb6-7be2738755baecaa76bb757597f8902b-1672872677-1672861877"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1672879330-0-0-7cbd6b5219917962c63e5fa29c47dfaa"
+                
+{
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
                 },
                 
-               {
-                    "type": "FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may9/chunks.m3u8"
-                }
-              
-            ]
-         },
 {
-           "league": "🏆 Premier League",
-            "date": "Jan 5(2:15 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-            "teams" : "Leeds Vs West Ham",
-            "hteam" : "Leeds",
-            "ateam" : "West Ham",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-469322_ld.m3u8?auth_key=1672879391-0-0-f446df1fc8c59830d46ffd51e89608da"
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
                 },
 {
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web5/tracks-v1a1/mono.m3u8?token=0855ee2606de62c7e7593d786a9c55b41c7a89d3-380d3b8654e40f51b4b313417a322dfa-1672872610-1672861810"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-118206.m3u8?txSecret=4ed9f69eaf8348d92fe18ffefa26fee9&txTime=63b6210b"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-469322.m3u8?auth_key=1672879391-0-0-d4534948443d859411f176f8d5f24ecf"
-                },
-                
-               {
-                    "type": "Vebo FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may11/chunks.m3u8"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 Serie A",
-            "date": "Jan 5(2:15 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "teams" : "Inter Vs Napoli",
-            "hteam" : "Inter",
-            "ateam" : "Napoli",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-697579_ld.m3u8?auth_key=1672879451-0-0-407c1c4df3e24614a8ce54fa75030155"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
                 },
 {
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web1/tracks-v1a1/mono.m3u8?token=8154f2314ece1b6bf285840c51350b33ecadf6a4-941adaa7b62d3d56db1727b1e6895b86-1672872744-1672861944"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=33b12733477680ca684262e8ed66b3b9&txTime=63b62147"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-697579.m3u8?auth_key=1672879451-0-0-62f4c7e0ae6bbc69a5b894d67196081e"
-                },
-                
-               {
-                    "type": "FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 Serie A",
-            "date": "Jan 5(2:15 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
-            "teams" : "Udinese Vs Empoli",
-            "hteam" : "Udinese",
-            "ateam" : "Empoli",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-494765_ld.m3u8?auth_key=1672879631-0-0-d7ef74dc4cd8d75715fe405c60e86665"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=0bea5a002cffb550d8e2a6d15f706695&txTime=63b62183"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1672879631-0-0-6c7f5226c59c4eca87387f81f0d89d23"
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
                 
-               
-              
             ]
-         },
-{
-           "league": "🏆 Premier League",
-            "date": "Jan 5(2:30 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-            "teams" : "Crystal Palace Vs Tottenham",
-            "hteam" : "Crystal Palace",
-            "ateam" : "Tottenham",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1672879571-0-0-f598d6e0f1e4de83d010fba0b32f4b75"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=63a2eb51a3f1fc63c5bd296806ab119f&txTime=63b62cc3"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1672879571-0-0-2c1282cdf3bb80f6c5235174f1fae257"
-                },
-                
-               {
-                    "type": "FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 Premier League",
-            "date": "Jan 5(2:30 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-            "teams" : "Aston Villa Vs Wolves",
-            "hteam" : "Aston Villa",
-            "ateam" : "Wolves",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-5645612_ld.m3u8?auth_key=1672883171-0-0-339d8f9b298961db64d7868d5c32f3e1"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=6886968db9329fa969653f66a5201bda&txTime=63b621fb"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-5645612.m3u8?auth_key=1672883171-0-0-ebc9168084983224050ec0c1fa31c7cd"
-                },
-                
-               {
-                    "type": "FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 Laliga",
-            "date": "Jan 5(2:30 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/1112101_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-            "teams" : "CF Intercity Vs Barcelona",
-            "hteam" : "CF Intercity",
-            "ateam" : "Barcelona",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-482183_ld.m3u8?auth_key=1672879871-0-0-d9815db958977d8ece601270f1f59bf1"
-                },
-{
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web7/tracks-v1a1/mono.m3u8?token=ab3869e1fed51cd105087b245fe29e492d90a450-720fd62ff500b620ed3446bd00fdc790-1672872814-1672862014"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=9a70aaa04321c48a74753ec6eb550b64&txTime=63b622b0"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1672879871-0-0-dced87f334f8f3802459448da089c6c1"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-                }
-               
-              
-            ]
-         }
+}
 ]
