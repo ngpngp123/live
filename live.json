@@ -38,7 +38,7 @@
            {
            "league": "🏆 Saudi Premier League",
             "date": "Today",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101917_small.png",
             "teams" : "Al Nassr FC Vs Al Taee",
@@ -46,10 +46,7 @@
             "ateam" : "Al Taee",
          "hotmat":"yes",
             "link":[
-                {
-                    "type": "China SD",
-                "livelink":"0"
-                },
+                
                 {
                     "type": "Soco HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-115447.m3u8?txSecret=1c0d9b6c0c63df0e47e5a65b7135fff3&txTime=63b8853d"
@@ -57,15 +54,8 @@
               {
                     "type": "China HD",
                 "livelink":"https://yytcpull.gdsth.com/live/stream-308116.m3u8?txSecret=e14fdded6a637ca9af35aadb3d33d46c&txTime=63b98397"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
                 }
+                
               
             ]
          },
