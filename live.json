@@ -54,8 +54,11 @@
               {
                     "type": "China HD",
                 "livelink":"https://yytcpull.gdsth.com/live/stream-308116.m3u8?txSecret=e14fdded6a637ca9af35aadb3d33d46c&txTime=63b98397"
-                }
-                
+                },
+               {
+                    "type": "FHD",
+                "livelink":"https://webdi.openhd.lol/cdn/Rwd7CvKnrg/tracks-v1a1/mono.m3u8"
+                } 
               
             ]
          },
