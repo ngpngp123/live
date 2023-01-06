@@ -47,23 +47,54 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-435925_ld.m3u8?auth_key=1673055611-0-0-6ded66726ac7d5a71ad4dab6dd9f6840"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"ge_slice=true&user_session_id=816d0fc8e525bf461e96da6c1a37f8fc&auth_key=1673056017-0-0-e1be87551541e8ecf74226b6940478e5&sub_m3u8=true"
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1673055611-0-0-f50e9bf19f694f2ce90c85e05b8e1ca5"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
                     "type": "Bein",
                 "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Coupe de France",
+            "date": "Jan 7",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9854_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+            "teams" : "Chateauroux Vs PSG",
+            "hteam" : "Chateauroux",
+            "ateam" : "PSG",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-439458_ld.m3u8?auth_key=1673056091-0-0-cebd24a9a5780adfbf31e27c6a332e6e"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-100684.m3u8?txSecret=e1492ea7c09becc2dab4fe48454f5cd4&txTime=63b8ced5"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-439458.m3u8?auth_key=1673056091-0-0-d8112446853758ea04cf623e81e30d3d"
+                },
+                {
+                    "type": "HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
+                },
+               {
+                    "type": "wait FHD",
+                "livelink":""
                 }
               
             ]
