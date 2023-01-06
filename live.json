@@ -11,6 +11,10 @@
             "ateam" : "Everton",
          "hotmat":"yes",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://live.yorafootball.com/web1/tracks-v1a1/mono.m3u8?token=e57b1eeba887b5ec3ce466227c81a1f5d7b1489b-e4228e8f4f9fde4111456dc63b309556-1673045701-1673034901"
+                },
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-551876_ld.m3u8?auth_key=1673055131-0-0-db0b2b25dcb2bad9aa732ae990d01950"
