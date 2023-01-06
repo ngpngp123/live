@@ -75,15 +75,15 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1673045951-0-0-389294ac44571ad6a781aa81505f134b"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=9616169c0e5535013fdf6c04008472f7&txTime=63b8a8a1"
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1673045951-0-0-8370ceb2e11ceaacb3ebb4bc941c0172"
                 },
                 {
                     "type": "HD",
