@@ -181,6 +181,40 @@
             ]
          },
 {
+           "league": "🏆 Serie A",
+            "date": "Jan 7",
+            "time": "11:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+            "teams" : "Juventus Vs Udinese",
+            "hteam" : "Juventus",
+            "ateam" : "Udinese",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":""
+                }
+              
+            ]
+         },
+{
            "league": "🏆 FA Cup",
             "date": "Jan 8",
             "time": "12:00 AM",
