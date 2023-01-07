@@ -131,6 +131,26 @@
             ]
          },
 {
+           "league": "🏆 FA Cup",
+            "date": "Jan 8",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10163_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "teams" : "Sheffield Vs Newcastle",
+            "hteam" : "Sheffield",
+            "ateam" : "Newcastle",
+         "hotmat":"yes",
+            "link":[
+                
+                {
+                    "type": "Soco HD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-214855_lhd.m3u8?auth_key=1673133598-0-0-a4334b0500fc02a625dea83ab947f7ee&user_session_id=4be8f66b260c3ae167efae29b1c2ed0f&edge_slice=true&sub_m3u8=true"
+                }
+              
+              
+            ]
+         },
+{
            "league": "🏆 Serie A",
             "date": "Jan 8",
             "time": "2:15 AM",
