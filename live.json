@@ -1,94 +1,5 @@
 [     
 {
-           "league": "🏆 FA Cup",
-            "date": "Jan 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-            "teams" : "Brentford Vs West Ham",
-            "hteam" : "Brentford",
-            "ateam" : "West Ham",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1673132591-0-0-bd81bd496cd907c3fb19bb5d8bf10c84"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=f077969b785bd961f98e40d4157350f9&txTime=63b9fa99"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=7d1bb6a16a4567ae12d6b5b0519e1b8a&txTime=63baf74f"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                }
-               
-              
-            ]
-         },
-{
-           "league": "🏆 Laliga",
-            "date": "Jan 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-            "teams" : "Mallorca Vs Real Valladolid",
-            "hteam" : "Mallorca",
-            "ateam" : "Real Valladolid",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-317957_ld.m3u8?auth_key=1673133012-0-0-268da4d77adfd182e1159f39ba2b2f4f"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-137359.m3u8?txSecret=643ab899d5e867ad6c0483f2227dc365&txTime=63b9fb4d"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1673133012-0-0-82cf8431d41382baa7f1eb15f185f7f7"
-                },
-                
-               {
-                    "type": "FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 FA Cup",
-            "date": "Jan 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10163_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-            "teams" : "Sheffield Vs Newcastle",
-            "hteam" : "Sheffield",
-            "ateam" : "Newcastle",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-697579_ld.m3u8?auth_key=1673136131-0-0-fe52523755e4ed11d5bbc3a2b3da875e"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-214855_lhd.m3u8?auth_key=1673133598-0-0-a4334b0500fc02a625dea83ab947f7ee&user_session_id=4be8f66b260c3ae167efae29b1c2ed0f&edge_slice=true&sub_m3u8=true"
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-697579.m3u8?auth_key=1673136131-0-0-d7f4af52d338b36500d086323c09e78c"
-                }
-              
-              
-            ]
-         },
-{
            "league": "🏆 Serie A",
             "date": "Jan 8",
             "time": "live",
@@ -111,7 +22,10 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1673133971-0-0-28fa5fe5f42cd34a909450fdb052e45a"
                 },
-                
+                {
+                    "type": "Vebo HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+                },
                {
                     "type": "Bein FHD",
                 "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
