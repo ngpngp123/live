@@ -44,6 +44,10 @@
             "ateam" : "Portsmouth",
          "hotmat":"yes",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://live.yorafootball.com/web1/tracks-v1a1/mono.m3u8?token=b36e74b0d5c6d88d140be8f3bd21b9f6d35d3b2d-a5a364a0beae16aff1934fd0819e4488-1673105158-1673094358"
+                },
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-279932_ld.m3u8?auth_key=1673114591-0-0-dbd378d1e0d0b487ce96f9046dbe613b"
