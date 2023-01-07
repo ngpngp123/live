@@ -1,111 +1,37 @@
 [
-           
-{
-           "league": "🏆 FA Cup",
-            "date": "Jan 7",
+ {
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-            "teams" : "Man United Vs Everton",
-            "hteam" : "Man United",
-            "ateam" : "Everton",
-         "hotmat":"yes",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
+                
 {
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web1/tracks-v1a1/mono.m3u8?token=e57b1eeba887b5ec3ce466227c81a1f5d7b1489b-e4228e8f4f9fde4111456dc63b309556-1673045701-1673034901"
-                },
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551876_ld.m3u8?auth_key=1673055131-0-0-db0b2b25dcb2bad9aa732ae990d01950"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=31beb6b66d52311a84ea728882294b35&txTime=63b8ccb9"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1673055131-0-0-61182873b1269add9ee85fa1fed70ed7"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-               {
-                    "type": "Bein",
-                "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 Laliga",
-            "date": "Jan 7",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-            "teams" : "Valencia Vs Cadiz",
-            "hteam" : "Valencia",
-            "ateam" : "Cadiz",
-         "hotmat":"yes",
-            "link":[
-{
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web3/tracks-v1a1/mono.m3u8?token=2827419be5926c4fbc177ad8404667a04a349d98-7da956b735441f1a7be07ee6efdb1a2c-1673045780-1673034980"
-                },
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435925_ld.m3u8?auth_key=1673055611-0-0-6ded66726ac7d5a71ad4dab6dd9f6840"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"ge_slice=true&user_session_id=816d0fc8e525bf461e96da6c1a37f8fc&auth_key=1673056017-0-0-e1be87551541e8ecf74226b6940478e5&sub_m3u8=true"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1673055611-0-0-f50e9bf19f694f2ce90c85e05b8e1ca5"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
                 },
                 
-               {
-                    "type": "Bein",
-                "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
-                }
-              
-            ]
-         },
 {
-           "league": "🏆 Coupe de France",
-            "date": "Jan 7",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9854_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-            "teams" : "Chateauroux Vs PSG",
-            "hteam" : "Chateauroux",
-            "ateam" : "PSG",
-         "hotmat":"yes",
-            "link":[
-
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-439458_ld.m3u8?auth_key=1673056091-0-0-cebd24a9a5780adfbf31e27c6a332e6e"
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
                 },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-100684.m3u8?txSecret=e1492ea7c09becc2dab4fe48454f5cd4&txTime=63b8ced5"
+{
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
                 },
-              {
-                    "type": "China HD",
-                "livelink":"https://yytcpull.gdsth.com/live/stream-411882.m3u8?txSecret=2cd2ee4b877926de6fc029d6dec17409&txTime=63b9ced3"
-                },
-                {
-                    "type": "Vebo FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
-                },
-               {
-                    "type": "Bein",
-                "livelink":"https://lb.buy-global.store/live/lb555/bs2-720.m3u8"
+{
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
-              
+                
             ]
-         }
+}          
 ]
