@@ -91,7 +91,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Jan 8",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
             "teams" : "Monza Vs Inter",
@@ -111,10 +111,7 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1673133971-0-0-28fa5fe5f42cd34a909450fdb052e45a"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
                     "type": "Bein FHD",
                 "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
