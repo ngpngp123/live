@@ -1,120 +1,4 @@
 [     
-
-{
-           "league": "🏆 FA Cup",
-            "date": "Jan 7",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
-            "teams" : "Bournemouth Vs Burnley",
-            "hteam" : "Bournemouth",
-            "ateam" : "Burnley",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-351237_ld.m3u8?auth_key=1673123651-0-0-ecc8c0a029bbf1fbf46145fe789cf718"
-                },
-                
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-351237.m3u8?auth_key=1673123651-0-0-b9eeae26cbbb7fe8ede7f4b70ad15bde"
-                }
-                
-               
-              
-            ]
-         },
-{
-           "league": "🏆 FA Cup",
-            "date": "Jan 7",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8667_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-            "teams" : "Hull City Vs Fulham",
-            "hteam" : "Hull City",
-            "ateam" : "Fulham",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-375981_ld.m3u8?auth_key=1673123651-0-0-89e79f73f0ac89f4ca6091618bd0892b"
-                },
-                
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-375981.m3u8?auth_key=1673123651-0-0-707f2e7940e1ca614222e84bc96f3d42"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-{
-                    "type": "Soco",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-112310_lhd.m3u8?auth_key=1673124777-0-0-51cee999ebb1d767d8553327f742522d&user_session_id=a9699940a5125cc77b38733cf58b6d82&edge_slice=true&sub_m3u8=true"
-                }
-               
-            ]
-         },
-{
-           "league": "🏆 FA Cup",
-            "date": "Jan 7",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8483_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-            "teams" : "Blackpool Vs Nottingham",
-            "hteam" : "Blackpool",
-            "ateam" : "Nottingham",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-559725_ld.m3u8?auth_key=1673123711-0-0-2b90b9ee724338663249881b2a6a757f"
-                },
-                
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-559725.m3u8?auth_key=1673123711-0-0-aeb119ace3208677477c6667400ddd49"
-                },
-                
-               {
-                    "type": "Bein FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bp2-720.m3u8"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 FA Cup",
-            "date": "Jan 7",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8549_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-            "teams" : "Middlesbrough Vs ",
-            "hteam" : "Middlesbrough",
-            "ateam" : "Brighton",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-823405_ld.m3u8?auth_key=1673124251-0-0-d6765ff7ee14b5cc87c25a3fe1bf9e4e"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-170430.m3u8?txSecret=437120a9177182330716f5de52bf6739&txTime=63b9d861"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-823405.m3u8?auth_key=1673124251-0-0-d01e53286b45f2e0a54e26f84fe4b696"
-                },
-                
-               {
-                    "type": "FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bp3-720.m3u8"
-                }
-              
-            ]
-         },
 {
            "league": "🏆 Laliga",
             "date": "Jan 7",
@@ -186,8 +70,8 @@
          },
 {
            "league": "🏆 FA Cup",
-            "date": "Jan 8",
-            "time": "12:00 AM",
+            "date": "Jan 8(12:00 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "teams" : "Brentford Vs West Ham",
@@ -197,19 +81,19 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1673132591-0-0-bd81bd496cd907c3fb19bb5d8bf10c84"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=f077969b785bd961f98e40d4157350f9&txTime=63b9fa99"
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=7d1bb6a16a4567ae12d6b5b0519e1b8a&txTime=63baf74f"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "FHD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 }
                
               
