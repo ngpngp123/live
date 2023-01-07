@@ -46,11 +46,8 @@
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-351237.m3u8?auth_key=1673123651-0-0-b9eeae26cbbb7fe8ede7f4b70ad15bde"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
                 }
+                
                
               
             ]
@@ -76,8 +73,8 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-375981.m3u8?auth_key=1673123651-0-0-707f2e7940e1ca614222e84bc96f3d42"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "FHD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 }
                
             ]
@@ -102,10 +99,7 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-559725.m3u8?auth_key=1673123711-0-0-aeb119ace3208677477c6667400ddd49"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
                     "type": "Bein FHD",
                 "livelink":"https://lb.buy-global.store/live/lb555/bp2-720.m3u8"
@@ -136,13 +130,10 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-823405.m3u8?auth_key=1673124251-0-0-d01e53286b45f2e0a54e26f84fe4b696"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://lb.buy-global.store/live/lb555/bp3-720.m3u8"
                 }
               
             ]
@@ -150,7 +141,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Jan 7",
-            "time": "9:45 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "teams" : "Villarreal Vs Real Madrid",
@@ -172,7 +163,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
                 },
                {
                     "type": "Bein FHD",
