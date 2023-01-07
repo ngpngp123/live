@@ -1,43 +1,8 @@
 [
- {
-           "league": "MAN U",
-            "date": "TV Channel",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "teams" : "Man United TV",
-            "hteam" : "MAN U",
-            "ateam" : "TV",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "MUTV 360 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "MUTV 240 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MUTV 540 HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MAN U TV 1080HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                }
-                
-            ]
-},
 {
            "league": "🏆 AFF Mitsubishi Electric Cup Semi Final",
             "date": "Jan 7",
-            "time": "7:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",
             "teams" : "Malaysia Vs Thailand",
@@ -47,19 +12,19 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1673114651-0-0-4d03d5cbd0a44080025188078062a1c4"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=6aa624a28a2a41aa6072c473269c5ab6&txTime=63b9b575"
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1673114651-0-0-d3af43ed2ee09750d4ccc9f449247982"
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 },
                {
                     "type": "FHD",
@@ -71,7 +36,7 @@
 {
            "league": "🏆 FA Cup",
             "date": "Jan 7",
-            "time": "7:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8462_small.png",
             "teams" : "Tottenham Hotspur Vs Portsmouth",
@@ -81,19 +46,19 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-279932_ld.m3u8?auth_key=1673114591-0-0-dbd378d1e0d0b487ce96f9046dbe613b"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=be48ad48b8ed814dae0fab0c40f3f7dd&txTime=63b9b4fd"
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-279932.m3u8?auth_key=1673114591-0-0-42e661e132eb9d21209edf50565e92ef"
                 },
                 {
                     "type": "Vebo FHD",
-                "livelink":"0"
+                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
                 },
                {
                     "type": "Bein FHD",
@@ -105,7 +70,7 @@
 {
            "league": "🏆 FA Cup",
             "date": "Jan 7",
-            "time": "7:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10173_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
             "teams" : "Gillingham Vs Leicester City",
@@ -115,20 +80,17 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-559725_ld.m3u8?auth_key=1673114651-0-0-6da0f53c3140c805935b83f337adc9e7"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-112310.m3u8?txSecret=a9d2d7a041e2ff410e8d6c557b0ac5be&txTime=63b9b4fd"
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-559725.m3u8?auth_key=1673114651-0-0-8ee3af5640b3e7fb8ff1285c3b2a3a86"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
                     "type": "Bein FHD",
                 "livelink":"https://lb.buy-global.store/live/lb555/bp2-720.m3u8"
@@ -139,7 +101,7 @@
 {
            "league": "🏆 FA Cup",
             "date": "Jan 7",
-            "time": "7:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
             "teams" : "Crystal Palace Vs Southampton",
@@ -149,20 +111,17 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-469322_ld.m3u8?auth_key=1673114711-0-0-b72641ad839b325b5685740bebdc70b5"
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=5c06ffdd39111860ea85874c3467a0de&auth_key=1673114938-0-0-98615f406fef042fb01576b0af51fa30"
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=4dd897cfe23000fe3f7f08901b232f64&txTime=63bab177"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
                     "type": "FHD",
                 "livelink":"https://lb.buy-global.store/live/lb555/bs3-720.m3u8"
