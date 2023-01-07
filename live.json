@@ -153,6 +153,10 @@
             "ateam" : "Real Madrid",
          "hotmat":"yes",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://live.yorafootball.com/web1/tracks-v1a1/mono.m3u8?token=b4ebf32c1eadbfd007e57aab54e7b621a477b0b1-b3762771f584257ec3b4f0f47e9a1876-1673114306-1673103506"
+                },
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-2412304_ld.m3u8?auth_key=1673123771-0-0-96f2192ec52511b95fe755dc76c52078"
