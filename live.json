@@ -100,6 +100,37 @@
             ]
          },
 {
+           "league": "🏆 Laliga",
+            "date": "Jan 8",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
+            "teams" : "Mallorca Vs Real Valladolid",
+            "hteam" : "Mallorca",
+            "ateam" : "Real Valladolid",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-317957_ld.m3u8?auth_key=1673133012-0-0-268da4d77adfd182e1159f39ba2b2f4f"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-137359.m3u8?txSecret=643ab899d5e867ad6c0483f2227dc365&txTime=63b9fb4d"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1673133012-0-0-82cf8431d41382baa7f1eb15f185f7f7"
+                },
+                
+               {
+                    "type": "FHD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
+                }
+              
+            ]
+         },
+{
            "league": "🏆 Serie A",
             "date": "Jan 8",
             "time": "2:15 AM",
