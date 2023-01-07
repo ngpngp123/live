@@ -145,10 +145,17 @@
             "ateam" : "Newcastle",
          "hotmat":"yes",
             "link":[
-                
+                {
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-697579_ld.m3u8?auth_key=1673136131-0-0-fe52523755e4ed11d5bbc3a2b3da875e"
+                },
                 {
                     "type": "Soco HD",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-214855_lhd.m3u8?auth_key=1673133598-0-0-a4334b0500fc02a625dea83ab947f7ee&user_session_id=4be8f66b260c3ae167efae29b1c2ed0f&edge_slice=true&sub_m3u8=true"
+                },
+{
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-697579.m3u8?auth_key=1673136131-0-0-d7f4af52d338b36500d086323c09e78c"
                 }
               
               
