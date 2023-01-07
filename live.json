@@ -44,6 +44,10 @@
             "ateam" : "Wolves",
          "hotmat":"yes",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://live.yorafootball.com/web1/tracks-v1a1/mono.m3u8?token=83507ede214e35b46bf9570aaf2748c25d998e4f-6c039f343d63599f969b0edee3bfd6fc-1673133789-1673122989"
+                },
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1673134031-0-0-6030aef2942e0f881b3409fe59b83315"
