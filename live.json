@@ -156,7 +156,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Jan 7",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
             "teams" : "Juventus Vs Udinese",
@@ -170,15 +170,15 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?user_session_id=ab06d45ff08974cf7b581b24baebe2e4&auth_key=1673130597-0-0-e33f173c9ab782ccb7ce358d1465ca97&edge_slice=true&sub_m3u8=true"
                 },
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1673130311-0-0-d19bf71c1fa0d3b825f7804dd3544516"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "FHD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
                 }
                
               
