@@ -257,6 +257,40 @@
             ]
          },
 {
+           "league": "🏆 ",
+            "date": "Jan 7",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8549_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+            "teams" : "Middlesbrough Vs ",
+            "hteam" : "Middlesbrough",
+            "ateam" : "Brighton",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":""
+                }
+              
+            ]
+         },
+{
            "league": "🏆 Laliga",
             "date": "Jan 7",
             "time": "9:45 PM",
