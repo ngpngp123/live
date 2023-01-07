@@ -92,12 +92,12 @@
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "Vebo FHD",
                 "livelink":"0"
                 },
                {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "Bein FHD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
                 }
               
             ]
@@ -130,8 +130,8 @@
                 "livelink":"0"
                 },
                {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "Bein FHD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bp2-720.m3u8"
                 }
               
             ]
@@ -165,7 +165,7 @@
                 },
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://lb.buy-global.store/live/lb555/bs3-720.m3u8"
                 }
               
             ]
@@ -196,11 +196,8 @@
                 {
                     "type": "HD",
                 "livelink":"0"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
                 }
+               
               
             ]
          }, 
@@ -230,11 +227,8 @@
                 {
                     "type": "HD",
                 "livelink":"0"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
                 }
+               
               
             ]
          },
@@ -264,12 +258,8 @@
                 {
                     "type": "HD",
                 "livelink":"0"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
                 }
-              
+               
             ]
          },
 {
@@ -300,8 +290,8 @@
                 "livelink":"0"
                 },
                {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "Bein FHD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bp2-720.m3u8"
                 }
               
             ]
@@ -334,8 +324,8 @@
                 "livelink":"0"
                 },
                {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "Bein FHD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
                 }
               
             ]
@@ -366,11 +356,8 @@
                 {
                     "type": "HD",
                 "livelink":"0"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
                 }
+               
               
             ]
          },
@@ -402,8 +389,8 @@
                 "livelink":"0"
                 },
                {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "Bein FHD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
                 }
               
             ]
@@ -436,8 +423,8 @@
                 "livelink":"0"
                 },
                {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "Bein FHD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
                 }
               
             ]
