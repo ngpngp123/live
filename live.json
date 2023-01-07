@@ -48,6 +48,10 @@
             "ateam" : "Udinese",
          "hotmat":"yes",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://live.yorafootball.com/web2/tracks-v1a1/mono.m3u8?token=c6eec9b1ff2f72dc7858a7241433c3c51ce2a43f-1f8866f08000dc8bf2dbff1984cee681-1673123048-1673112248"
+                },
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-486118_ld.m3u8?auth_key=1673130311-0-0-c221f2381a7d40144eb29df115896317"
