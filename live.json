@@ -120,12 +120,9 @@
               {
                     "type": "China HD",
                 "livelink":"https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=4dd897cfe23000fe3f7f08901b232f64&txTime=63bab177"
-                },
-                
-               {
-                    "type": "FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bs3-720.m3u8"
                 }
+                
+               
               
             ]
          },     
