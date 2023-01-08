@@ -43,6 +43,10 @@
             "ateam" : "Real Sociedad",
          "hotmat":"no",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://live.yorafootball.com/web1/tracks-v1a1/mono.m3u8?token=e64dcef2dbef2f71c66952614c61d1f986cd03c9-31b748b050d4b3d886ae23a7f3675111-1673192936-1673182136"
+                },
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-288414_ld.m3u8?auth_key=1673198112-0-0-fa2567a4f030e25cadf80fb5893b2867"
