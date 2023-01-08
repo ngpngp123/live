@@ -1,105 +1,37 @@
 [     
 {
-           "league": "🏆 Serie A",
-            "date": "Jan 8",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-            "teams" : "Monza Vs Inter",
-            "hteam" : "Monza",
-            "ateam" : "Inter",
-         "hotmat":"yes",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435925_ld.m3u8?auth_key=1673133971-0-0-754487e6db6da130ccd1b7ebd80ba454"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=1701d95293e951e2b25c33d78a17c2d1&txTime=63b9fde1"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1673133971-0-0-28fa5fe5f42cd34a909450fdb052e45a"
-                },
-                {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-                },
-               {
-                    "type": "Bein FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
-                }
-              
-            ]
-         },
+                
 {
-           "league": "🏆 FA Cup",
-            "date": "Jan 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-            "teams" : "Liverpool Vs Wolves",
-            "hteam" : "Liverpool",
-            "ateam" : "Wolves",
-         "hotmat":"yes",
-            "link":[
-{
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web1/tracks-v1a1/mono.m3u8?token=83507ede214e35b46bf9570aaf2748c25d998e4f-6c039f343d63599f969b0edee3bfd6fc-1673133789-1673122989"
-                },
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1673134031-0-0-6030aef2942e0f881b3409fe59b83315"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-171964.m3u8?txSecret=79c40764de6b1c7ae15fc49e141bc06c&txTime=63ba2181"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1673134031-0-0-004ba4d52e2cdcba984b219b29401081"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-                },
-               {
-                    "type": "Bein FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 Laliga",
-            "date": "Jan 8(2:30 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
-            "teams" : "Espanyol Vs Girona",
-            "hteam" : "Espanyol",
-            "ateam" : "Girona",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-482183_ld.m3u8?auth_key=1673133311-0-0-be89f9b69d0f20a932867e428fafff0c"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1673136417-0-0-57ef6859ec6a7afd9f9dcf10cb913501&user_session_id=6790a88a0073896afb99df59528c0176"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1673133311-0-0-e525f035e3518053c9dfe197c19e0a3b"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
                 },
                 
-               {
-                    "type": "Bein FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
-              
+                
             ]
-         }
+}
 ]
