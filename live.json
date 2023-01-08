@@ -1,103 +1,5 @@
 [     
 {
-           "league": "🏆 Serie A",
-            "date": "Jan 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
-            "teams" : "Lazio Vs Empoli",
-            "hteam" : "Lazio",
-            "ateam" : "Empoli",
-         "hotmat":"no",
-            "link":[
-{
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web3/tracks-v1a1/mono.m3u8?token=d4fd068dd8fe0287b40a2662a7c3b69e52daf553-bbe95ac25e0d07b5d1e6a00f228a6068-1673196947-1673186147"
-                },
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2376781_ld.m3u8?auth_key=1673198232-0-0-60d53234f515acb92058d08ee1c0fb4b"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=487c6c9b76a669c2ce9f682e13b7f5d5&txTime=63bb0dfe"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1673198232-0-0-a8ceb463ef1838d90a5948ff908e5bd4"
-                },
-                {
-                    "type": "Vebo FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                }
-               
-              
-            ]
-         },
-{
-           "league": "🏆 Serie A",
-            "date": "Jan 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
-            "teams" : "Spezia Vs Lecce",
-            "hteam" : "Spezia",
-            "ateam" : "Lecce",
-         "hotmat":"no",
-            "link":[
-{
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web2/tracks-v1a1/mono.m3u8?token=a427c448969bdeac6d7b559c64229c3878bdd87b-4904d96057423f8b011ac70584830f41-1673197010-1673186210"
-                },
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2412304_ld.m3u8?auth_key=1673198292-0-0-6d26f9ec9771f31bca08acaa3c376dfb"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-181398.m3u8?txSecret=e5a19d85ad628c1c3b1286fd43043bea&txTime=63bb0e3a"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1673198292-0-0-7be5e39819399521c71ba27e4168db2d"
-                }
-                
-               
-              
-            ]
-         },
-{
-           "league": "🏆 FA Cup",
-            "date": "Jan 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8344_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-            "teams" : "Cardiff City Vs Leeds United",
-            "hteam" : "Cardiff City",
-            "ateam" : "Leeds United",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-349393_ld.m3u8?auth_key=1673202912-0-0-7e6b86ae456c2ba1aa434933c80437d1"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=6c8047092be48590a23ddac5719d5e81&txTime=63bb1ae2"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-349393.m3u8?auth_key=1673202912-0-0-dd9ada723092d84d2d2122e7ec9b929c"
-                },
-                
-               {
-                    "type": "Bein FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
-                }
-              
-            ]
-         },
-{
            "league": "🏆 Laliga",
             "date": "Jan 8(9:45 PM)",
             "time": "live",
@@ -155,7 +57,10 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-288414.m3u8?auth_key=1673198412-0-0-35cfae3e2a252ab1f260de0201d4313d"
                 },
-                
+                {
+                    "type": "Vebo HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
+                },
                {
                     "type": "Bein FHD",
                 "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
