@@ -108,6 +108,10 @@
             "ateam" : "Real Betis",
          "hotmat":"no",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://live.yorafootball.com/web4/tracks-v1a1/mono.m3u8?token=990ef16139b8e1b013761ac080180336d3be216a-38f56b9732be7cb2e63a6b4726b51ca8-1673201411-1673190611"
+                },
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-112366_ld.m3u8?auth_key=1673198292-0-0-fdc23e8a7bbfb3e6b5e495bcb74024f1"
