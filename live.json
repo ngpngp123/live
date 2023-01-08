@@ -301,7 +301,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-486118_ld.m3u8?auth_key=1673203632-0-0-c19f0f7f4d7de30e71f9f7ef482778f8"
                 },
                 {
                     "type": "Soco HD",
@@ -309,7 +309,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1673203632-0-0-b66a88ce9be8bccd33eba301b26da2d6"
                 },
                 {
                     "type": "HD",
