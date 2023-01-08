@@ -129,8 +129,11 @@
                {
                     "type": "FHD",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+                },
+              {
+                    "type": "FHD 2",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may101/chunks.m3u8"
                 }
-              
             ]
          },
 {
