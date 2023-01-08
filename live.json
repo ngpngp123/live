@@ -135,7 +135,7 @@
 {
            "league": "🏆 FA Cup",
             "date": "Jan 8",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "teams" : "Man City Vs Chelsea",
@@ -155,10 +155,7 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-288414.m3u8?auth_key=1673198412-0-0-35cfae3e2a252ab1f260de0201d4313d"
                 },
-                {
-                    "type": "Vebo HD",
-                "livelink":"0"
-                },
+                
                {
                     "type": "Bein FHD",
                 "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
@@ -169,7 +166,7 @@
 {
            "league": "🏆 FA Cup",
             "date": "Jan 8",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10253_small.png",
             "teams" : "Aston Villa Vs Stevenage",
@@ -181,18 +178,12 @@
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-559725_ld.m3u8?auth_key=1673198532-0-0-24fa7a254561b9548662418868d66351"
                 },
-                {
-                    "type": "Soco HD",
-                "livelink":"0"
-                },
+                
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-559725.m3u8?auth_key=1673198532-0-0-ecded553e534e46d1369216d23ba7441"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
                 }
+                
                
             ]
          },
