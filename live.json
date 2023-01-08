@@ -1,38 +1,5 @@
 [     
 {
-           "league": "🏆 Serie A",
-            "date": "Jan 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
-            "teams" : "Salernitana Vs Torino",
-            "hteam" : "Salernitana",
-            "ateam" : "Torino",
-         "hotmat":"no",
-            "link":[
-{
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web2/tracks-v1a1/mono.m3u8?token=15cb68a659b7e24f0062e841109208d4f299a622-2341b0759948f3b97c7b3ddf5f80f392-1673187724-1673176924"
-                },
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1673197392-0-0-d4d3f404e2980b5f200a5f3b8dc67fa4"
-                },
-                
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1673197392-0-0-5f819f4318c4d63f5df8bc249617d2e3"
-                },
-{
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=f21c6cd989420c4b2016e23750a475f9&txTime=63baf95e"
-                }
-                
-               
-              
-            ]
-         },
-{
            "league": "🏆 Laliga",
             "date": "Jan 8(7:30 PM)",
             "time": "live",
@@ -73,7 +40,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Jan 8",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
             "teams" : "Lazio Vs Empoli",
@@ -95,7 +62,7 @@
                 },
                 {
                     "type": "Vebo FHD",
-                "livelink":"0"
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 }
                
               
@@ -104,7 +71,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Jan 8",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
             "teams" : "Spezia Vs Lecce",
@@ -132,7 +99,7 @@
 {
            "league": "🏆 FA Cup",
             "date": "Jan 8",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8344_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "teams" : "Cardiff City Vs Leeds United",
@@ -146,16 +113,13 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=6c8047092be48590a23ddac5719d5e81&txTime=63bb1ae2"
                 },
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-349393.m3u8?auth_key=1673202912-0-0-dd9ada723092d84d2d2122e7ec9b929c"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
                     "type": "Bein FHD",
                 "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
