@@ -91,8 +91,11 @@
               {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-559725.m3u8?auth_key=1673198532-0-0-ecded553e534e46d1369216d23ba7441"
-                }
-                
+                },
+               {
+                    "type": "FHD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may10/chunks.m3u8"
+                } 
                
             ]
          },
