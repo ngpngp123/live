@@ -1,179 +1,8 @@
 [     
 {
-           "league": "🏆 Laliga",
-            "date": "Jan 8(9:45 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-            "teams" : "Rayo Vallecano Vs Real Betis",
-            "hteam" : "Rayo Vallecano",
-            "ateam" : "Real Betis",
-         "hotmat":"no",
-            "link":[
-{
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web4/tracks-v1a1/mono.m3u8?token=990ef16139b8e1b013761ac080180336d3be216a-38f56b9732be7cb2e63a6b4726b51ca8-1673201411-1673190611"
-                },
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-112366_ld.m3u8?auth_key=1673198292-0-0-fdc23e8a7bbfb3e6b5e495bcb74024f1"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=3217094fd2e1a4c019effd1c4816aefd&txTime=63bb319e"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1673198292-0-0-574625465149dac733b5e74ef302c56a"
-                },
-                
-               {
-                    "type": "Bein FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 FA Cup",
-            "date": "Jan 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "teams" : "Man City Vs Chelsea",
-            "hteam" : "Man City",
-            "ateam" : "Chelsea",
-         "hotmat":"yes",
-            "link":[
-{
-                    "type": "English SD",
-                "livelink":"https://live.yorafootball.com/web1/tracks-v1a1/mono.m3u8?token=a55e317fc211e065210f599d25552c956c590633-8dc8ec8250fa004702c1ca55d791bec8-1673205353-1673194553"
-                },
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1673217312-0-0-84895e361e0c96ab11bf40c87789ff9e"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=146bee20d05178e4e8c8c3fd5e2ccfdb&txTime=63bb0eb2"
-                },
-              {
-                    "type": "ESPN",
-                "livelink":"https://stream.dlivecdn.com/dlive/transcode-75-231/icku/1673185687/src/live.m3u8"
-                },
-                {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-                },
-               {
-                    "type": "Bein FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 FA Cup",
-            "date": "Jan 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10253_small.png",
-            "teams" : "Aston Villa Vs Stevenage",
-            "hteam" : "Aston Villa",
-            "ateam" : "Stevenage",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-559725_ld.m3u8?auth_key=1673198532-0-0-24fa7a254561b9548662418868d66351"
-                },
-                
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-559725.m3u8?auth_key=1673198532-0-0-ecded553e534e46d1369216d23ba7441"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may10/chunks.m3u8"
-                } 
-               
-            ]
-         },
-{
-           "league": "🏆 Serie A",
-            "date": "Jan 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "teams" : "Sampdoria Vs Napoli",
-            "hteam" : "Sampdoria",
-            "ateam" : "Napoli",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web2/tracks-v1a1/mono.m3u8?token=96003df165931719996ffed20de373c5ef85b183-70c555ec02c67bfa0ebe6be1a79da79e-1673207654-1673196854"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-100684.m3u8?txSecret=04b2f5d8da4ec4928b79072083720632&txTime=63bb0eee"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1673198532-0-0-3d863e6f7f92c0a3fb36d0c55f8bd2ac"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://yeszet1x1cdn22.streamingrdp.com/livead1p/ad1p/playlist.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-                },
-              {
-                    "type": "FHD 2",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may101/chunks.m3u8"
-                }
-            ]
-         },
-{
-           "league": "🏆 Laliga",
-            "date": "Jan 9(12:00 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
-            "teams" : "Sevilla Vs Getafe",
-            "hteam" : "Sevilla",
-            "ateam" : "Getafe",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web4/tracks-v1a1/mono.m3u8?token=3bfb8f3382b498ced2933e5a832c2f39c50bdc19-6c8b9c7d48aaea12427f5aab234a44b3-1673209596-1673198796"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=801f5018d0cc2209921b2092fcde984c&txTime=63bb0eee"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1673203632-0-0-b66a88ce9be8bccd33eba301b26da2d6"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
-                },
-               {
-                    "type": "Bein FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
-                }
-              
-            ]
-         },
-{
            "league": "🏆 Serie A",
             "date": "Jan 9",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "teams" : "Milan Vs Roma",
@@ -195,11 +24,11 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
                 },
                {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
                 }
               
             ]
@@ -207,7 +36,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Jan 9",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "teams" : "Atletico Vs Barcelona",
