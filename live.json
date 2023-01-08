@@ -58,8 +58,8 @@
                 "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=146bee20d05178e4e8c8c3fd5e2ccfdb&txTime=63bb0eb2"
                 },
               {
-                    "type": "Eng HD",
-                "livelink":"https://wwwsscs.azureedge.net/live/sppl/playlist.m3u8"
+                    "type": "ESPN",
+                "livelink":"https://stream.dlivecdn.com/dlive/transcode-75-231/icku/1673185687/src/live.m3u8"
                 },
                 {
                     "type": "Vebo HD",
