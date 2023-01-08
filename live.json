@@ -89,7 +89,7 @@
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "Vebo HD",
                 "livelink":"0"
                 },
                {
@@ -123,7 +123,7 @@
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "Vebo FHD",
                 "livelink":"0"
                 }
                
@@ -152,11 +152,8 @@
               {
                     "type": "China HD",
                 "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
                 }
+                
                
               
             ]
@@ -184,10 +181,7 @@
                     "type": "China HD",
                 "livelink":"0"
                 },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
+                
                {
                     "type": "Bein FHD",
                 "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
@@ -219,7 +213,7 @@
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "Vebo HD",
                 "livelink":"0"
                 },
                {
@@ -283,7 +277,7 @@
                 "livelink":"0"
                 },
                 {
-                    "type": "HD",
+                    "type": "Vebo HD",
                 "livelink":"0"
                 },
                {
