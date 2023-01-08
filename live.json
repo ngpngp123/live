@@ -10,6 +10,10 @@
             "ateam" : "Torino",
          "hotmat":"no",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://live.yorafootball.com/web2/tracks-v1a1/mono.m3u8?token=15cb68a659b7e24f0062e841109208d4f299a622-2341b0759948f3b97c7b3ddf5f80f392-1673187724-1673176924"
+                },
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1673197392-0-0-d4d3f404e2980b5f200a5f3b8dc67fa4"
