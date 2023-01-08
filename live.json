@@ -45,6 +45,10 @@
             "ateam" : "Chelsea",
          "hotmat":"yes",
             "link":[
+{
+                    "type": "English SD",
+                "livelink":"https://live.yorafootball.com/web1/tracks-v1a1/mono.m3u8?token=a55e317fc211e065210f599d25552c956c590633-8dc8ec8250fa004702c1ca55d791bec8-1673205353-1673194553"
+                },
                 {
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-288414_ld.m3u8?auth_key=1673198412-0-0-89b882bd3a4272f2e28eaa97b1e12977"
