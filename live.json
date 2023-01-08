@@ -128,15 +128,15 @@
                 },
                {
                     "type": "FHD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
                 }
               
             ]
          },
 {
            "league": "🏆 Laliga",
-            "date": "Jan 9",
-            "time": "12:00 AM",
+            "date": "Jan 9(12:00 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
             "teams" : "Sevilla Vs Getafe",
@@ -158,7 +158,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
                 },
                {
                     "type": "Bein FHD",
