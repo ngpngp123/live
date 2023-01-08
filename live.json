@@ -1,43 +1,5 @@
 [     
 {
-           "league": "🏆 Laliga",
-            "date": "Jan 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-            "teams" : "Almeria Vs Real Sociedad",
-            "hteam" : "Almeria",
-            "ateam" : "Real Sociedad",
-         "hotmat":"no",
-            "link":[
-{
-                    "type": "Eng SD",
-                "livelink":"https://live.yorafootball.com/web1/tracks-v1a1/mono.m3u8?token=e64dcef2dbef2f71c66952614c61d1f986cd03c9-31b748b050d4b3d886ae23a7f3675111-1673192936-1673182136"
-                },
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-288414_ld.m3u8?auth_key=1673198112-0-0-fa2567a4f030e25cadf80fb5893b2867"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-115429.m3u8?txSecret=aa2d540e5c6c23c0fc42d4160e9211ea&txTime=63bb0b2e"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-288414.m3u8?auth_key=1673198112-0-0-3bfb9f71c9a96108b6d7650a2c47a2a9"
-                },
-                {
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
-                }
-              
-            ]
-         },
-{
            "league": "🏆 Serie A",
             "date": "Jan 8",
             "time": "live",
