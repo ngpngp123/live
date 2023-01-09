@@ -101,7 +101,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Jan 10",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
             "teams" : "Athletic Club Vs Osasuna",
@@ -123,11 +123,11 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
                 },
                {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "SD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bs1-360.m3u8"
                 }
               
             ]
