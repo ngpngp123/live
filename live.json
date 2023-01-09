@@ -1,40 +1,5 @@
 [     
 {
-           "league": "🏆 AFF Mitsubishi Electric Cup",
-            "date": "Jan 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6324_small.png",
-            "teams" : "Vietnam Vs Indonesia",
-            "hteam" : "Vietnam",
-            "ateam" : "Indonesia",
-         "hotmat":"yes",
-            "link":[
-                
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=401652f1656ebdac56665304966e0d50&txTime=63bc59a3"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yytcpull.gdsth.com/live/stream-308116.m3u8?txSecret=7fa8340f81aa7b04b9fe0a5d0875fbf3&txTime=63bd570c"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-                },
-{
-                    "type": "china sd",
-                "livelink":"https://yypull.gdsth.com/live/stream-781852_ld.m3u8?auth_key=1673290092-0-0-df6d933718649b3f9f89198d304f1c6f"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
-                }
-              
-            ]
-         },
-{
            "league": "🏆 Serie A",
             "date": "Jan 10",
             "time": "12:00 AM",
