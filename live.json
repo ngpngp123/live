@@ -67,7 +67,7 @@
 {
            "league": "🏆 FA Cup",
             "date": "Jan 10",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8653_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "teams" : "Oxford United Vs Arsenal",
@@ -88,12 +88,12 @@
                 "livelink":"https://yypull.gdsth.com/live/stream-435066.m3u8?auth_key=1673305512-0-0-d46b3a79cfbe135cc0142666447c3815"
                 },
                 {
-                    "type": "HD",
-                "livelink":"0"
+                    "type": "SD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bp1-360.m3u8"
                 },
                {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "HD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
                 }
               
             ]
