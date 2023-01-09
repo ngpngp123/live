@@ -33,7 +33,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Jan 10",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
             "teams" : "Bologna Vs Atalanta",
@@ -47,7 +47,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=10aaeb0eb768ecf98beb22ca32acc1bd&txTime=63bcad13"
                 },
               {
                     "type": "China HD",
@@ -81,7 +81,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=f10a6d2f5af3a56e251390a64a5cd14d&txTime=63bcac9b"
                 },
               {
                     "type": "China HD",
@@ -115,7 +115,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-112310_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1673309579-0-0-d95efd3b090d9fdfa1de1d59147cd50c&user_session_id=10ee3b3658309e010d3151bcf55d1855"
                 },
               {
                     "type": "China HD",
