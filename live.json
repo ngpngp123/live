@@ -48,7 +48,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-697579_ld.m3u8?auth_key=1673388672-0-0-4006efe7475ec7aa7d4700cf49db05ee"
                 },
                 {
                     "type": "Soco HD",
@@ -56,7 +56,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-697579.m3u8?auth_key=1673388672-0-0-1b389663dfe387c40b9164058a5c5e9a"
                 },
                 {
                     "type": "HD",
@@ -82,7 +82,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1673388732-0-0-ee139f7d9c5b04df20d7ce19513e2616"
                 },
                 {
                     "type": "Soco HD",
@@ -90,7 +90,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1673388732-0-0-68f95e98f0290dad79257484143e7f52"
                 },
                 {
                     "type": "HD",
@@ -116,7 +116,7 @@
             "link":[
                 {
                     "type": "China SD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-112366_ld.m3u8?auth_key=1673388792-0-0-5d9fc80a6e3c386d66a0a3068463726f"
                 },
                 {
                     "type": "Soco HD",
@@ -124,7 +124,7 @@
                 },
               {
                     "type": "China HD",
-                "livelink":"0"
+                "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1673388792-0-0-c82bac1f8ef3bf4eca11762ae520ee47"
                 },
                 {
                     "type": "HD",
