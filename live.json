@@ -63,41 +63,7 @@
                 },
                {
                     "type": "FHD",
-                "livelink":""
-                }
-              
-            ]
-         },
-{
-           "league": "🏆 ",
-            "date": "Dec ",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"0"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
+                "livelink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
                 }
               
             ]
@@ -130,8 +96,8 @@
                 "livelink":"0"
                 },
                {
-                    "type": "Bein FHD",
-                "livelink":""
+                    "type": "Bein",
+                "livelink":"https://lb.buy-global.store/live/lb555/bp2-720.m3u8"
                 }
               
             ]
@@ -164,8 +130,8 @@
                 "livelink":"0"
                 },
                {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "Bein",
+                "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
                 }
               
             ]
