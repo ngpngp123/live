@@ -1,135 +1,37 @@
 [     
 {
-           "league": "🏆 Serie A",
-            "date": "Jan 10",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
-            "teams" : "Hellas Verona Vs Cremonese",
-            "hteam" : "Hellas Verona",
-            "ateam" : "Cremonese",
-         "hotmat":"no",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
             "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1673305332-0-0-27ab52470a2dd102c080def958515586"
-                },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-112310_lhd.m3u8?user_session_id=d9ed757e19db3ede5666d272b82ae998&edge_slice=true&auth_key=1673306039-0-0-345a25dafffacd1d85dfe0cbc40264e7&sub_m3u8=true"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1673305332-0-0-eccdaf2a9796ae7028be959d64565ef2"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://live.yorafootball.com/web1/tracks-v1a1/mono.m3u8?token=ac261c5c540a8f0ee6f4544fac312e68031ab995-561b40eb81dd7db79518a41ffbe026ff-1673296586-1673285786"
-                }
-               
-              
-            ]
-         },
+                
 {
-           "league": "🏆 Serie A",
-            "date": "Jan 10",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-            "teams" : "Bologna Vs Atalanta",
-            "hteam" : "Bologna",
-            "ateam" : "Atalanta",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-494765_ld.m3u8?auth_key=1673305392-0-0-bd06c96e9d7644ca84572e2d1d5992a5"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
                 },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=10aaeb0eb768ecf98beb22ca32acc1bd&txTime=63bcad13"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1673305392-0-0-86c3601e0b8c4e79e7df9b32e29526b4"
-                },
-                {
-                    "type": "HD",
-                "livelink":"0"
-                },
-               {
-                    "type": "FHD",
-                "livelink":""
-                }
-              
-            ]
-         },
+                
 {
-           "league": "🏆 FA Cup",
-            "date": "Jan 10",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8653_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "teams" : "Oxford United Vs Arsenal",
-            "hteam" : "Oxford United",
-            "ateam" : "Arsenal",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435066_ld.m3u8?auth_key=1673305512-0-0-d148a54adfe6800e7593919adc5818e7"
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
                 },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=f10a6d2f5af3a56e251390a64a5cd14d&txTime=63bcac9b"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435066.m3u8?auth_key=1673305512-0-0-d46b3a79cfbe135cc0142666447c3815"
-                },
-                {
-                    "type": "SD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bp1-360.m3u8"
-                },
-               {
-                    "type": "HD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bp1-720.m3u8"
-                }
-              
-            ]
-         },
 {
-           "league": "🏆 Laliga",
-            "date": "Jan 10",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
-            "teams" : "Athletic Club Vs Osasuna",
-            "hteam" : "Athletic Club",
-            "ateam" : "Osasuna",
-         "hotmat":"no",
-            "link":[
-                {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435925_ld.m3u8?auth_key=1673305452-0-0-0e5b43052af8384fb27a88be65440c2c"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
                 },
-                {
-                    "type": "Soco HD",
-                "livelink":"https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-112310_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1673309579-0-0-d95efd3b090d9fdfa1de1d59147cd50c&user_session_id=10ee3b3658309e010d3151bcf55d1855"
-                },
-              {
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435925.m3u8?auth_key=1673305452-0-0-93a764d075128f57db484331e5303077"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bs1-720.m3u8"
-                },
-               {
-                    "type": "SD",
-                "livelink":"https://lb.buy-global.store/live/lb555/bs1-360.m3u8"
+{
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
-              
+                
             ]
-         }
+}
 ]
