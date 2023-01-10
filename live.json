@@ -38,7 +38,7 @@
 {
            "league": "🏆 Carabao Cup Quarter Final",
             "date": "Jan 11",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8451_small.png",
             "teams" : "Man United Vs Charlton",
@@ -60,7 +60,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://lb.buy-global.store/live/lb555/bp2-360.m3u8"
                 },
                {
                     "type": "Bein",
@@ -72,7 +72,7 @@
 {
            "league": "🏆 Carabao Cup Quarter Final",
             "date": "Jan 11",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
             "teams" : "Newcastle Vs Leicester",
@@ -86,7 +86,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=b82c5beb09ecabc6d993ba7040401e6d&auth_key=1673389019-0-0-f01334f22994826393de5e8fe3272117&edge_slice=true&sub_m3u8=true"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-102933.m3u8?auth_key=1673398679-0-0-22122cea86ac1dd00666381ea60c78c4"
                 },
               {
                     "type": "China HD",
@@ -94,7 +94,7 @@
                 },
                 {
                     "type": "HD",
-                "livelink":"0"
+                "livelink":"https://lb.buy-global.store/live/lb555/bp1-360.m3u8"
                 },
                {
                     "type": "Bein",
@@ -106,7 +106,7 @@
 {
            "league": "🏆 Coppa Italia",
             "date": "Jan 11",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10167_small.png",
             "teams" : "Inter Vs Parma",
@@ -120,7 +120,7 @@
                 },
                 {
                     "type": "Soco HD",
-                "livelink":"0"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-190631.m3u8?auth_key=1673398619-0-0-365f72c98bfc49c7a6e87eda7f8c31ed"
                 },
               {
                     "type": "China HD",
