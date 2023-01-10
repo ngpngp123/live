@@ -33,5 +33,311 @@
                 }
                 
             ]
-}
+},
+{
+           "league": "🏆 Ligue 1",
+            "date": "Jan 12",
+            "time": "12:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+            "teams" : "Nantes Vs ",
+            "hteam" : "Nantes",
+            "ateam" : "Lyon",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "Bein SD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bs2-360.m3u8"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Bein FHD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bs2-720.m3u8"
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Ligue 1",
+            "date": "Jan 12",
+            "time": "12:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
+            "teams" : "Brest Vs Lille",
+            "hteam" : "Brest",
+            "ateam" : "Lille",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "Bein SD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bs3-360.m3u8"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "Bein FHD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bs3-720.m3u8"
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Ligue 1",
+            "date": "Jan 12",
+            "time": "12:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8576_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
+            "teams" : "AC Ajaccio Vs Reims",
+            "hteam" : "AC Ajaccio",
+            "ateam" : "Reims",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":""
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Ligue 1",
+            "date": "Jan 12",
+            "time": "12:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
+            "teams" : "Auxerre Vs Toulouse",
+            "hteam" : "Auxerre",
+            "ateam" : "Toulouse",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":""
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Ligue 1",
+            "date": "Jan 12",
+            "time": "12:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
+            "teams" : "Clermont Foot Vs Rennes",
+            "hteam" : "Clermont Foot",
+            "ateam" : "Rennes",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":""
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Super Cup Semi Final",
+            "date": "Jan 12",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+            "teams" : "Real Madrid Vs Valencia",
+            "hteam" : "Real Madrid",
+            "ateam" : "Valencia",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":""
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Carabao Cup Quarter Final",
+            "date": "Jan 12",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "teams" : "Southampton Vs Man City",
+            "hteam" : "Southampton",
+            "ateam" : "Man City",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Bein SD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bp2-360.m3u8"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bp2-720.m3u8"
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Carabao Cup Quarter Final",
+            "date": "Jan 12",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+            "teams" : "Nottingham Vs Wolves",
+            "hteam" : "Nottingham",
+            "ateam" : "Wolves",
+         "hotmat":"no",
+            "link":[
+                {
+                    "type": "China SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":""
+                }
+              
+            ]
+         },
+{
+           "league": "🏆 Ligue 1",
+            "date": "Jan 12",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
+            "teams" : "PSG Vs Angers",
+            "hteam" : "PSG",
+            "ateam" : "Angers",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Bein SD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bs2-360.m3u8"
+                },
+                {
+                    "type": "Soco HD",
+                "livelink":"0"
+                },
+              {
+                    "type": "China HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "HD",
+                "livelink":"0"
+                },
+               {
+                    "type": "FHD",
+                "livelink":"https://lb.buy-global.store/live/lb555/bs2-720.m3u8"
+                }
+              
+            ]
+         }
 ]
