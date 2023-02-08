@@ -1,7 +1,7 @@
 [
 {
-           "league": "MAN U..",
-            "date": "TV Channellll",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
             "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
             "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
@@ -35,172 +35,36 @@
             ]
 },
 {
-           "league": "🏆 FIFA CLUB WORLD CUP",
-            "date": "Feb 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101745_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "teams" : "Al Ahly SC Vs Real Madrid",
-            "hteam" : "Al Ahly SC",
-            "ateam" : "Real Madrid",
+           "league": "🇸🇦 Saudi Premier League",
+            "date": "Feb 10",
+            "time": "12:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6354_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+            "teams" : "Al-Wehda Vs Al Nassr FC",
+            "hteam" : "Al-Wehda",
+            "ateam" : "Al Nassr FC",
             "hotmat":"yes",
             "link":[
                 
 {
                     "type": "SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=eb902ff13d52708ccd3118b15345e8fb&txTime=63e446c9"
+                "livelink":""
          
                 },
                 
 {
                     "type": "China SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-900001_lsd.m3u8?sub_m3u8=true&auth_key=1675904797-0-0-515fe22313e9641d77ebc5f89d1a5055&user_session_id=c60c343d745ae93743f0bd3d2971dc8c&edge_slice=true"
+                "livelink":""
          
                 },
 {
                     "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-900001_lhd.m3u8?sub_m3u8=true&auth_key=1675904797-0-0-d572c2fd93538999669d19bf5487feca&user_session_id=fe106447c4bf42b35e0bee5a2fffdbc8&edge_slice=true"
+                "livelink":""
          
                 },
 {
                     "type": "Soco FHD",
                 "livelink":""
-                }
-                
-            ]
-},
-{
-           "league": "🏆 DFB Pokal",
-            "date": "Feb 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-            "teams" : "VfL Bochum Vs Borussia Dortmund",
-            "hteam" : "VfL Bochum",
-            "ateam" : "Borussia Dortmund",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=52b0d05f72a25179fa4b6e92eea7aea5&txTime=63e435e9"
-         
-                },
-                
-{
-                    "type": "China SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?user_session_id=b2c37bccb9709d033b6190866e512443&edge_slice=true&auth_key=1675900237-0-0-3e8c20b01da6c1df12c9cd79f4e2e5e2&sub_m3u8=true"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1675900237-0-0-7b505abaa598aa5781e2f7db0a8d2311&edge_slice=true&user_session_id=2e81d8831e86a6b249806e9a3c85bbf6&sub_m3u8=true"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":""
-                }
-                
-            ]
-},
-{
-           "league": "🏆 FA CUP",
-            "date": "Feb 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8472_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-            "teams" : "Sunderland Vs Fulham",
-            "hteam" : "Sunderland",
-            "ateam" : "Fulham",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=842765e8a3ed26decff7af67650e4b19&txTime=63e435ad"
-         
-                },
-                
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435929_ld.m3u8?auth_key=1675900177-0-0-61fdd99aca90468175a863fcb45ca17a"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1675900177-0-0-ee905af6264b3b53667730d1d38a85e3"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":""
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "Feb 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-            "teams" : "Man United Vs Leeds",
-            "hteam" : "Man United",
-            "ateam" : "Leeds",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?edge_slice=true&user_session_id=01f60c8e7272a1a78fb28ec9a156feeb&sub_m3u8=true&auth_key=1675900333-0-0-b0d8d2e1c78a619c452476e7ac03dc86"
-         
-                },
-                
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2961234_ld.m3u8?auth_key=1675900117-0-0-a0a75cff5185b20b66b92541f301549a"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1675900117-0-0-b02e3969a4a622687ac9c901a7fe7aec"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?user_session_id=f729f84502cd3a84b0cf368d4cedbc88&auth_key=1675900333-0-0-ddf54cc24caf443c0b3a84237fc69c9d&edge_slice=true&sub_m3u8=true"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Coupe de France",
-            "date": "Feb 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-            "teams" : "Marseille Vs PSG",
-            "hteam" : "Marseille",
-            "ateam" : "PSG",
-            "hotmat":"yes",
-            "link":[
-                
-
-                
-{
-                    "type": "China SD",
-                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?auth_key=1675899997-0-0-bc33325013b8a42b89eec76e7489afe8&user_session_id=d72cfce96abf306b74158279dbc4fedf&sub_m3u8=true&edge_slice=true"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=cd885b0d6a78e80d8319591f68b531ae&auth_key=1675899997-0-0-bc33325013b8a42b89eec76e7489afe8"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-201313.m3u8?txSecret=13a976cd7eb6ea85e5b6d6d9712abab3&txTime=63e43571"
                 }
                 
             ]
