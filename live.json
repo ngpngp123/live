@@ -54,12 +54,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-900001_lsd.m3u8?sub_m3u8=true&auth_key=1675904797-0-0-515fe22313e9641d77ebc5f89d1a5055&user_session_id=c60c343d745ae93743f0bd3d2971dc8c&edge_slice=true"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-900001_lhd.m3u8?sub_m3u8=true&auth_key=1675904797-0-0-d572c2fd93538999669d19bf5487feca&user_session_id=fe106447c4bf42b35e0bee5a2fffdbc8&edge_slice=true"
          
                 },
 {
