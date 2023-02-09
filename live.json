@@ -37,7 +37,7 @@
 {
            "league": "🇸🇦 Saudi Premier League",
             "date": "Feb 10",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6354_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
             "teams" : "Al-Wehda Vs Al Nassr FC",
@@ -48,13 +48,13 @@
                 
 {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1675985557-0-0-be54b9d416f81c19001b403a1fdfae3f"
          
                 },
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1675985557-0-0-683c4073416a3fcdc0627d141846c1a2"
          
                 },
 {
