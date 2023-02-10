@@ -37,7 +37,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "Feb 11",
-            "time": "2:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
             "teams" : "Schalke 04 Vs Wolfsburg",
@@ -48,20 +48,16 @@
                 
 {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-1345860.m3u8?auth_key=1676077177-0-0-c114f374b668c946e8a40e59207d5244"
          
                 },
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-1345860.m3u8?auth_key=1676077177-0-0-c114f374b668c946e8a40e59207d5244"
          
                 },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
+
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=4c49978ba1b3a15dc6be114148892d87&txTime=63e6c396"
@@ -72,7 +68,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Feb 11",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
             "teams" : "AC Milan Vs Torino",
@@ -89,12 +85,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1676077177-0-0-9e797a6aa669ea25f28637ecf80644ef"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1676077177-0-0-ddcde806a81a3058759709d2e81753ba"
          
                 },
 {
@@ -107,7 +103,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 11",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
             "teams" : "Cadiz Vs Girona",
@@ -115,21 +111,16 @@
             "ateam" : "Girona",
             "hotmat":"yes",
             "link":[
-                
-{
-                    "type": "SD",
-                "livelink":""
-         
-                },
+
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-557735_ld.m3u8?auth_key=1676077237-0-0-1e68814d32aa74d1c951cfc99c38ef4f"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-557735.m3u8?auth_key=1676077237-0-0-9d7c60f07260e7332ac1fc1e1cf1b400"
          
                 },
 {
@@ -142,7 +133,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Feb 11",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8576_small.png",
             "teams" : "Nice Vs AC Ajaccio",
@@ -153,23 +144,15 @@
                 
 {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-317957_ld.m3u8?auth_key=1676077297-0-0-3868f7ca3a41b1711070ae2886324516"
          
                 },
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1676077297-0-0-3e7ecab413d7fc2bdfac7bef8d792e94"
          
-                },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":""
+                
                 }
                 
             ]
