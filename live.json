@@ -64,7 +64,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=4c49978ba1b3a15dc6be114148892d87&txTime=63e6c396"
                 }
                 
             ]
@@ -83,7 +83,7 @@
                 
 {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1676067794-0-0-4709ce348dcc2b60635b302c603af607&user_session_id=c60b5ab804e8c31f9a0468d4e8462715&edge_slice=true&sub_m3u8=true"
          
                 },
                 
@@ -99,7 +99,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?sub_m3u8=true&user_session_id=5264f7e6fd07fed7c195acde3d9cf803&edge_slice=true&auth_key=1676067794-0-0-3e70d923dc2f600ceae614d26fe40202"
                 }
                 
             ]
@@ -134,13 +134,13 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=92b9ab67a65be8ab593998242d9cc675&txTime=63e6c40e"
                 }
                 
             ]
 },
 {
-           "league": "🏆 Ligue 1 yellow",
+           "league": "🏆 Ligue 1",
             "date": "Feb 11",
             "time": "2:30 AM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
