@@ -35,36 +35,141 @@
             ]
 },
 {
-           "league": "🇸🇦 Saudi Premier League",
-            "date": "Feb 10",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6354_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-            "teams" : "Al-Wehda Vs Al Nassr FC",
-            "hteam" : "Al-Wehda",
-            "ateam" : "Al Nassr FC",
-            "hotmat":"yes",
+           "league": "🏆 Bundesliga",
+            "date": "Feb 11",
+            "time": "2:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
+            "teams" : "Schalke 04 Vs Wolfsburg",
+            "hteam" : "Schalke 04",
+            "ateam" : "Wolfsburg",
+            "hotmat":"no",
             "link":[
                 
 {
                     "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1675985557-0-0-be54b9d416f81c19001b403a1fdfae3f"
+                "livelink":""
          
                 },
                 
 {
                     "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1675985557-0-0-683c4073416a3fcdc0627d141846c1a2"
+                "livelink":""
          
                 },
 {
                     "type": "China HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?auth_key=1675985594-0-0-f5fa5f9cb49cb9709c33ab84c6ef39e5&edge_slice=true&user_session_id=bccad75d611bcbaa9ee427be5842490d&sub_m3u8=true"
+                "livelink":""
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?auth_key=1675985594-0-0-faabc47f8f2a4a9ee531b1015bd8c7df&user_session_id=3e7f9570c4d74f053627ee124e95bc61&edge_slice=true&sub_m3u8=true"
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Serie A",
+            "date": "Feb 11",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
+            "teams" : "AC Milan Vs Torino",
+            "hteam" : "AC Milan",
+            "ateam" : "Torino",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":""
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Laliga",
+            "date": "Feb 11",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+            "teams" : "Cadiz Vs Girona",
+            "hteam" : "",
+            "ateam" : "",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":""
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Ligue 1",
+            "date": "Feb 11",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8576_small.png",
+            "teams" : "Nice Vs AC Ajaccio",
+            "hteam" : "Nice",
+            "ateam" : "AC Ajaccio",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":""
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
                 }
                 
             ]
