@@ -143,8 +143,11 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=6cebcb8b82492b051184df2e44242992&txTime=63e7fbc7"
-                }
-                
+                },
+              {
+                    "type": "Eng FHD",
+                "livelink":"https://wanaty111gtgttg.azureedge.net/live/sppl/chunks.m3u8"
+                }  
             ]
 },
 {
@@ -178,8 +181,11 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?sub_m3u8=true&user_session_id=17e2aca3b302421815fb585613b7dda1&edge_slice=true&auth_key=1676147835-0-0-d3160f4b98fe1552c63cdcbd0cde73d4"
-                }
-                
+                },
+             {
+                    "type": "Eng FHD",
+                "livelink":"https://brtrrrggr.azureedge.net/live/s4/chunks.m3u8"
+                }   
             ]
 },
 {
