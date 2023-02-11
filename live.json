@@ -296,7 +296,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 11",
-            "time": "9:45 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
             "teams" : "Almeria Vs Real Betis",
@@ -313,17 +313,17 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-9457891_ld.m3u8?auth_key=1676149898-0-0-63547370dd3cd7180f3d773b4346e9b5"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-9457891.m3u8?auth_key=1676149898-0-0-a18a5242a2ca7ba9850241a5d1da397d"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-171964.m3u8?txSecret=636f43438541c506a52fb3170fa9ef83&txTime=63e80473"
                 }
                 
             ]
