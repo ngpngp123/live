@@ -254,7 +254,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Feb 11",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "teams" : "Lecce Vs Roma",
@@ -265,23 +265,23 @@
                 
 {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-214855_lsd.m3u8?user_session_id=3b1a2e313b715bf1bd186fb016312e2e&auth_key=1676155695-0-0-67906506a8bce32afb9900db8ebc1534&sub_m3u8=true&edge_slice=true"
          
                 },
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1676155778-0-0-730ee64c6d3f604363673b66d1e2a1c2"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1676155778-0-0-aa8aed887b1eb413d61c13685d66bc02"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-214855_lsd.m3u8?user_session_id=3b1a2e313b715bf1bd186fb016312e2e&auth_key=1676155695-0-0-67906506a8bce32afb9900db8ebc1534&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
