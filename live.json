@@ -112,7 +112,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 11",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
             "teams" : "Arsenal Vs Brentford",
@@ -129,12 +129,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1676148038-0-0-bf55ad5cc8cb00294f2c2b6ed1ed5c0e"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1676148038-0-0-6cffef15b814833716e72a852f0492a8"
          
                 },
 {
@@ -147,7 +147,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 11",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "teams" : "Leicester Vs Tottenham",
@@ -164,12 +164,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1676148158-0-0-c967f57fe7cd2263dcba633db4259dff"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1676148158-0-0-694e46276da65cb45034b798419f41ad"
          
                 },
 {
@@ -182,7 +182,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 11",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "teams" : "Crystal Palace Vs Brighton",
@@ -204,7 +204,7 @@
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1676148218-0-0-f1b65c93e515307bdfc4cb2a951ae727"
          
                 },
 {
@@ -217,7 +217,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 11",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
             "teams" : "Fulham Vs Nottingham",
@@ -239,7 +239,7 @@
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-375981.m3u8?auth_key=1676148278-0-0-09ba6e14e5fbf2a701888ee9f8e275c4"
          
                 },
 {
@@ -252,7 +252,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 11",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
             "teams" : "Southampton Vs Wolves",
@@ -269,17 +269,17 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-37723410_ld.m3u8?auth_key=1676148278-0-0-a52086e3d00e1aa14b8511aa9d0c000d"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1676148278-0-0-c24162b43a8b19725de175d46d8d549c"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?auth_key=1676148375-0-0-cacb0876e3150bb81301d66c2d92d2f7&user_session_id=c489d511b14263651c37a7ac886890fb&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
