@@ -335,7 +335,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Feb 11",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
             "teams" : "Monaco Vs PSG",
@@ -343,26 +343,23 @@
             "ateam" : "PSG",
             "hotmat":"yes",
             "link":[
-                
-{
-                    "type": "SD",
-                "livelink":""
-         
-                },
+               
+
+                   
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-3045619_ld.m3u8?auth_key=1676150558-0-0-3028359a260bbef0d74e348e5de70159"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1676150558-0-0-0f93f75eb6b195632df286d1d120ec43"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=8aa7202a920550148b24d88fd7dce778&txTime=63e806cb"
                 }
                 
             ]
