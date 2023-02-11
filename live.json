@@ -70,8 +70,11 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=b2571741b546118d3dd2b1b6d339804e&txTime=63e7eea7"
+                },
+                {
+                    "type": "Eng FHD",
+                "livelink":"https://wanaty111gtgttg.azureedge.net/live/s1/chunks.m3u8"
                 }
-                
             ]
 },
 {
@@ -105,8 +108,11 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=2cb150f0e9aaf7b88103936a5736c762&txTime=63e7db33"
-                }
-                
+                },
+              {
+                    "type": "Eng FHD",
+                "livelink":"https://brtrrrggr.azureedge.net/live/s2/chunks.m3u8"
+                }  
             ]
 },
 {
@@ -137,12 +143,6 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=6cebcb8b82492b051184df2e44242992&txTime=63e7fbc7"
-                },
-
-{
-                    "type": "English HD",
-                "livelink":"https://wanaty111gtgttg.azureedge.net/live/sppl/chunks.m3u8"
-         
                 }
                 
             ]
