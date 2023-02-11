@@ -325,8 +325,11 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=8aa7202a920550148b24d88fd7dce778&txTime=63e806cb"
-                }
-                
+                },
+            {
+                    "type": "Bein FHD",
+                "livelink":"https://weaksfhjhg.azureedge.net/live/bein/chunks.m3u8"
+                }    
             ]
 },
 {
