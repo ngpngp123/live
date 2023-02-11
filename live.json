@@ -38,6 +38,11 @@
                 },
 
 {
+                    "type": "SD",
+                "livelink":"https://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/uOkecY2WfcYD7PFGjpcNfLwBbDmEjA8KJ_wWqaZhFQmRsNTypmRZs3jCiPgBszIACwUqkCRdUobByjI61wSjTA/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/tw_dynamic_highlatency.m3u8?type=live"
+         
+                },
+{
                     "type": "English FHD",
                 "livelink":"https://biisjishabc.azureedge.net/live/usa/chunks.m3u8"
          
