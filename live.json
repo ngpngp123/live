@@ -2,14 +2,14 @@
 
 
 {
-           "league": "🏆 Laliga",
-            "date": "Feb 11",
+           "league": "🏆 Club Wold Cup",
+            "date": "Feb 12",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-            "teams" : "Almeria Vs Real Betis",
-            "hteam" : "Almeria",
-            "ateam" : "Real Betis",
+            "himg": "https://sta.cranemarsh.com/file/imgs/team/football/164871252161.png",
+            "aimg": "https://sta.cranemarsh.com/file/imgs/team/football/20130912172807.png",
+            "teams" : "Real Madrid Vs Ai Hilan",
+            "hteam" : "Real Madrid",
+            "ateam" : "Ai Hilan",
             "hotmat":"yes",
             "link":[
                 
@@ -21,12 +21,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-9457891_ld.m3u8?auth_key=1676149898-0-0-63547370dd3cd7180f3d773b4346e9b5"
+                "livelink":"https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1676157098-0-0-f1a99a93748b4cea99c5345015dbf244"
          
                 },
 {
                     "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-9457891.m3u8?auth_key=1676149898-0-0-a18a5242a2ca7ba9850241a5d1da397d"
+                "livelink":"https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1676157098-0-0-76d326e7ade676fff7a1afcea1812d5b"
          
                 },
 {
@@ -144,7 +144,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 12",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
             "teams" : "Sevilla Vs Mallorca",
@@ -161,12 +161,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-317957_ld.m3u8?auth_key=1676156918-0-0-cfc89674c5d851fe235321aeeabe5f02"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1676156918-0-0-1c4b87794214533d72a80557ff6e8aa6"
          
                 },
 {
@@ -179,7 +179,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "Feb 12",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
             "teams" : "RB Leipzig Vs Union Berlin",
@@ -196,12 +196,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-1345860_ld.m3u8?auth_key=1676156858-0-0-347e1c2f34c5ecc5cac1dbd9f645c1eb"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-1345860.m3u8?auth_key=1676156858-0-0-aa3577d7792e12b8191d3c656ddfb634"
          
                 },
 {
@@ -214,7 +214,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Feb 12",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
             "teams" : "Lazio Vs Atalanta",
@@ -231,12 +231,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-2376781_ld.m3u8?auth_key=1676156978-0-0-27f5f29df5ef4759463f2fb865c1466b"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1676156978-0-0-aa8501b4f0a7e8eaf602ae130d42541e"
          
                 },
 {
@@ -249,7 +249,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 12",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
             "teams" : "Valencia Vs Athletic Club",
@@ -266,12 +266,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1676157038-0-0-d76f47c7b2a92c437dc96f6a741decfa"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1676157038-0-0-e68b10857427635d41f80ec61a3af0b3"
          
                 },
 {
