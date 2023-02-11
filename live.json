@@ -97,7 +97,11 @@
             "hotmat":"yes",
             "link":[
                 
-
+{
+                    "type": "SD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/live/chunks.m3u8"
+         
+                },
                 
 {
                     "type": "China SD",
@@ -107,6 +111,11 @@
 {
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-693587.m3u8?auth_key=1676146358-0-0-30bf3065351a3b7ae47fd716c0050690"
+         
+                },
+{
+                    "type": "HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
          
                 },
 {
