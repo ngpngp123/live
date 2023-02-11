@@ -1,40 +1,5 @@
 [
 {
-           "league": "🏆 Serie A",
-            "date": "Feb 11",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
-            "teams" : "Empoli Vs Spezia",
-            "hteam" : "Empoli",
-            "ateam" : "Spezia",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may7/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-418311_ld.m3u8?auth_key=1676143898-0-0-6b3bfb49113c0103f2c9dbfc4aa38658"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1676143898-0-0-1d4c57072d7996f8b3d83a4460428f73"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=4d1006beef8970ecf6277d5ae1f62e5c&txTime=63e7eee3"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Bundesliga",
             "date": "Feb 11",
             "time": "live",
@@ -150,7 +115,7 @@
                 },
               {
                     "type": "Eng FHD",
-                "livelink":"https://wanaty111gtgttg.azureedge.net/live/sppl/chunks.m3u8"
+                "livelink":"https://weakfhsgfg.azureedge.net/live/sppl/chunks.m3u8"
                 }  
             ]
 },
@@ -188,7 +153,7 @@
                 },
              {
                     "type": "Eng FHD",
-                "livelink":"https://brtrrrggr.azureedge.net/live/s4/chunks.m3u8"
+                "livelink":"https://weakasfbhy.azureedge.net/live/s4/chunks.m3u8"
                 }   
             ]
 },
