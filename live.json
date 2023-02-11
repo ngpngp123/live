@@ -137,6 +137,12 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=6cebcb8b82492b051184df2e44242992&txTime=63e7fbc7"
+                },
+
+{
+                    "type": "English HD",
+                "livelink":"https://wanaty111gtgttg.azureedge.net/live/sppl/chunks.m3u8"
+         
                 }
                 
             ]
