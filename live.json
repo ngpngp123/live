@@ -19,12 +19,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1676138798-0-0-81a4fbf4a91eeca24e34b67764e9350e"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1676138798-0-0-6d0fb6489dfc111bd6909f4b75fc4442"
          
                 },
 {
