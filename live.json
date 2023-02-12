@@ -139,7 +139,13 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=e8d32647f2c7911778c3c1cf2b259e38&txTime=63e91cff"
+                },
+{
+                    "type": "Soco HD",
+                "livelink":"http://167.172.17.19/BeinPremuim1HD/tracks-v1a1/mono.m3u8"
+         
                 }
+{
                 
             ]
 },
