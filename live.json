@@ -187,7 +187,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Feb 12",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
             "teams" : "Juventus Vs Fiorentina",
@@ -222,7 +222,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 13",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
             "teams" : "Real Valladolid Vs Osasuna",
