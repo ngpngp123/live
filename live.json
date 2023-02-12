@@ -1,40 +1,5 @@
 [
 {
-           "league": "🏆 Serie A",
-            "date": "Feb 12",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
-            "teams" : "Udinese Vs ",
-            "hteam" : "Udinese",
-            "ateam" : "Sassuolo",
-            "hotmat":"no",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may8/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1676221298-0-0-593c5358bafc9f31bd6757e161a991ed"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1676221298-0-0-fa896be9aa90dcaa3ac0f3524913a0e9"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=280d4c91df8c196b7a8bb62816086ebb&txTime=63e91b1f"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Ligue 1",
             "date": "Feb 12",
             "time": "live",
@@ -107,7 +72,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 12",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "teams" : "Leeds Vs Man United",
@@ -118,7 +83,7 @@
                 
 {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
          
                 },
                 
@@ -133,6 +98,11 @@
          
                 },
 {
+                    "type": "HD 2",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         
+                },
+{
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=280d4c91df8c196b7a8bb62816086ebb&txTime=63e91b1f"
                 }
@@ -142,7 +112,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Feb 12",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
             "teams" : "Bologna Vs Monza",
@@ -153,7 +123,7 @@
                 
 {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may8/chunklist.m3u8"
          
                 },
                 
@@ -177,7 +147,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Feb 12",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
             "teams" : "Lille Vs Strasbourg",
@@ -188,7 +158,7 @@
                 
 {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may71/chunks.m3u8"
          
                 },
                 
