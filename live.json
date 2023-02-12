@@ -2,37 +2,6 @@
 
 
 {
-           "league": "🏆 Bundesliga",
-            "date": "Feb 12",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
-            "teams" : "Hertha BSC Vs Borussia",
-            "hteam" : "Hertha BSC",
-            "ateam" : "Borussia",
-            "hotmat":"no",
-            "link":[
-                
-
-                
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2445688_ld.m3u8?auth_key=1676233058-0-0-e662bf12a9eea0eb417ed6db774be94d"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2445688.m3u8?auth_key=1676233058-0-0-732e66eb5a230f7f7033c95245d49427"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=5c41ba1aa42e0097b98cefc43f305088&txTime=63e94a77"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Laliga",
             "date": "Feb 12",
             "time": "live",
@@ -257,7 +226,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Feb 13",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
             "teams" : "Napoli Vs Cremonese",
@@ -292,7 +261,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Feb 12",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
             "teams" : "Lyon Vs Lens",
@@ -322,7 +291,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 12",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "teams" : "Villarreal Vs Barcelona",
