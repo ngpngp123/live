@@ -221,7 +221,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 12",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
             "teams" : "Man City Vs Aston Villa",
@@ -237,10 +237,16 @@
                 },
                 
 {
-                    "type": "China SD",
-                "livelink":""
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1676237318-0-0-c88ce663ad2992d26080a2c90bdd6399"
          
-                },
+               },
+
+{
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1676237318-0-0-001ce423fdd0a00a7b32d4dc6137c68f"
+         
+               },
 {
                     "type": "Soco HD",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?user_session_id=bf61d55aa8cc476b08cbb8839df6b8ed&auth_key=1676236935-0-0-5f04eb12539a117a4514f5ea4b87725e&edge_slice=true&sub_m3u8=true"
@@ -256,7 +262,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "Feb 12",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
             "teams" : "1. FC Köln Vs Frankfurt",
@@ -273,12 +279,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1676237438-0-0-a1a1dabcbd68f7d1bf0c0e7974fdf51a"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1676237438-0-0-23fbb964313cc952fc75407a511c1763"
          
                 },
 {
@@ -308,12 +314,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1676237498-0-0-6b2e1a0356df27be8f799665e3fad281"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1676237498-0-0-05eb24e8d37513a608d1c99165bf602b"
          
                 },
 {
@@ -343,12 +349,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-288414_ld.m3u8?auth_key=1676237498-0-0-bc75adf12cedfc69e64b8a23036a332b"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-288414.m3u8?auth_key=1676237498-0-0-46ddf780cf7cd5b1997e2352755ee131"
          
                 },
 {
@@ -378,12 +384,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1676237558-0-0-449de37b99c74951e428ff7804d024f1"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1676237558-0-0-247aaf140429a8aee80b98ccff375b75"
          
                 },
 {
@@ -407,18 +413,13 @@
                 
 {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-288414_ld.m3u8?auth_key=1676237618-0-0-bea49d545ba49d4999eaef39b8e971b4"
          
                 },
                 
 {
-                    "type": "China SD",
-                "livelink":""
-         
-                },
-{
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-288414.m3u8?auth_key=1676237618-0-0-b70627e7a9aee90ab456936d7a435aa8"
          
                 },
 {
@@ -442,13 +443,13 @@
                 
 {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1676237678-0-0-789e99754f0aac58cf78aa58d65cb499"
          
                 },
                 
 {
-                    "type": "China SD",
-                "livelink":""
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1676237678-0-0-786879f7028dde35b7a35e24f615fb13"
          
                 },
 {
