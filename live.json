@@ -1,40 +1,5 @@
 [
 {
-           "league": "🏆 Laliga",
-            "date": "Feb 12",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-            "teams" : "Getafe Vs Rayo Vallecano",
-            "hteam" : "Getafe",
-            "ateam" : "Rayo Vallecano",
-            "hotmat":"no",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-486118_ld.m3u8?auth_key=1676226758-0-0-e98c517eb69c1cf0452f6c5e668eb179"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1676226758-0-0-f920b1e0bee96292e21342adeba915a2"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=6b715b949ad05f9f22c6d2efb8a21ed8&txTime=63e91c87"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Premier League",
             "date": "Feb 12",
             "time": "live",
@@ -202,17 +167,17 @@
                 },
                 
 {
-                    "type": "China SD",
-                "livelink":""
+                    "type": "SD 2",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?user_session_id=cb537bd3c13a41477df0c1090c2de10a&sub_m3u8=true&edge_slice=true&auth_key=1676234955-0-0-9d73d71aee49020976c0e8ecec00e4fa"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?user_session_id=dec0bfd44813fb034f72066f6a2c9c95&auth_key=1676234955-0-0-38bb5a2cb67d59e706d618127a8e464d&edge_slice=true&sub_m3u8=true"
          
                 },
 {
-                    "type": "Soco FHD",
+                    "type": "HD 2",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?sub_m3u8=true&auth_key=1676221635-0-0-5348f92b1b7f2dc3675c0622f49e3375&user_session_id=3e6be369b3d9ea12d08a552c73c0ca55&edge_slice=true"
                 }
                 
