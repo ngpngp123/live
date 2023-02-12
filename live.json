@@ -37,7 +37,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Feb 12",
-            "time": "6:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
             "teams" : "Toulouse Vs Rennes",
@@ -54,17 +54,17 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-693587_ld.m3u8?auth_key=1676224178-0-0-d0ed3a97f99d94b034414d2ba3f2209e"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-693587.m3u8?auth_key=1676224178-0-0-0f16b50df5574d30360bb6ea74379f34"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-137359.m3u8?txSecret=484a666ab8ced5e958383c901de84fb6&txTime=63e9269b"
                 }
                 
             ]
