@@ -186,7 +186,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Feb 12",
-            "time": "10:35 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
             "teams" : "Nantes Vs Lorient",
@@ -197,18 +197,18 @@
                 
 {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?sub_m3u8=true&user_session_id=b514545187ae680bb20a6162ccd6136d&auth_key=1676236875-0-0-8787cb1dabefeab2512c5ee5bdbeccd2&edge_slice=true"
          
                 },
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?sub_m3u8=true&user_session_id=b514545187ae680bb20a6162ccd6136d&auth_key=1676236875-0-0-8787cb1dabefeab2512c5ee5bdbeccd2&edge_slice=true"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?user_session_id=84a4b52fddd3cc9d57beedce97c46b02&edge_slice=true&sub_m3u8=true&auth_key=1676236875-0-0-7faf80f1a8c621a9ca6e4bd42a494f77"
          
                 },
 {
@@ -232,7 +232,7 @@
                 
 {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?user_session_id=bdd51da59bfb657f1bcdfe383c9acdf9&auth_key=1676236935-0-0-b0ad81d568a7ebab9a5dea55be63cab4&edge_slice=true&sub_m3u8=true"
          
                 },
                 
@@ -242,8 +242,8 @@
          
                 },
 {
-                    "type": "Eng HD",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?user_session_id=bf61d55aa8cc476b08cbb8839df6b8ed&auth_key=1676236935-0-0-5f04eb12539a117a4514f5ea4b87725e&edge_slice=true&sub_m3u8=true"
          
                 },
 {
@@ -267,7 +267,7 @@
                 
 {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112565_lsd.m3u8?user_session_id=38579d93b430a042eded7685f351bdb7&auth_key=1676237055-0-0-24ea9ffa4bc3d55c5787115fe20b2c6b&sub_m3u8=true&edge_slice=true"
          
                 },
                 
@@ -372,7 +372,7 @@
                 
 {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?user_session_id=8c4af0c6c68b29e91608fe02637b52d1&sub_m3u8=true&auth_key=1676237115-0-0-aea58676e1d7deb1c94080d9d501430b&edge_slice=true"
          
                 },
                 
@@ -388,7 +388,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=2c47c380226dcd04aaf801080aae7a93&txTime=63e9593b"
                 }
                 
             ]
@@ -452,13 +452,13 @@
          
                 },
 {
-                    "type": "China HD",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=2bf3725ba72596e0d424de302daab23d&txTime=63e959b3"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=07e684a18400a73f2d32ac221cf5983e&txTime=63e95977"
                 }
                 
             ]
