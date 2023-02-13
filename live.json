@@ -37,7 +37,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Feb 14",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
             "teams" : "Hellas Verona Vs Salernitana",
@@ -46,25 +46,20 @@
             "hotmat":"no",
             "link":[
                 
-{
-                    "type": "SD",
-                "livelink":""
-         
-                },
-                
+
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1676329718-0-0-c4e336dd7a971b155ba668032e9e4a3b"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1676329718-0-0-3179d8f12cc3288644fd68f2540b57f1"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=33829a007186a9807b44fa8443e859eb&txTime=63eac22c"
                 }
                 
             ]
