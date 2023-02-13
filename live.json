@@ -125,7 +125,15 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=05192e9b97ec53afed99ab455206f9fd&txTime=63eac574"
-                }
+                },
+{
+"type": "English HD",
+"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
+},
+{
+"type": "English SD",
+"livelink": "https://main.yorafootball.com/c3hd/tracks-v1a1/mono.m3u8"
+}
                 
             ]
 },
