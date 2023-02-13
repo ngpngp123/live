@@ -33,5 +33,146 @@
                 }
                 
             ]
+},
+{
+           "league": "🏆 Serie A",
+            "date": "Feb 14",
+            "time": "12:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
+            "teams" : "Hellas Verona Vs Salernitana",
+            "hteam" : "Hellas Verona",
+            "ateam" : "Salernitana",
+            "hotmat":"no",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":""
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Serie A",
+            "date": "Feb 14",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "teams" : "Sampdoria Vs Inter",
+            "hteam" : "Sampdoria",
+            "ateam" : "Inter",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":""
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Premier League",
+            "date": "Feb 14",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+            "teams" : "Liverpool Vs Everton",
+            "hteam" : "Liverpool",
+            "ateam" : "Everton",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":""
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Laliga",
+            "date": "Feb 14",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+            "teams" : "Espanyol Vs Real Sociedad",
+            "hteam" : "Espanyol",
+            "ateam" : "Real Sociedad",
+            "hotmat":"no",
+            "link":[
+                
+{
+                    "type": "SD",
+                "livelink":""
+         
+                },
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
 }
+
 ]
