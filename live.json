@@ -132,7 +132,7 @@
 },
 {
 "type": "English SD",
-"livelink": "https://main.yorafootball.com/c3hd/tracks-v1a1/mono.m3u8"
+"livelink": "https://wanaty111gffd.azureedge.net/live/usa/chunks.m3u8"
 }
                 
             ]
@@ -140,7 +140,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 14",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
             "teams" : "Espanyol Vs Real Sociedad",
