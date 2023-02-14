@@ -104,6 +104,12 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=56d0f0063e864a7b30cfc2c647590ed3&txTime=63ec0e84"
+                },
+
+{
+                    "type": "test bein",
+                "livelink":"http://88.99.216.157:5080/WebRTCApp/streams/Bein2_Premuim.m3u8"
+         
                 }
                 
             ]
