@@ -37,7 +37,7 @@
 {
            "league": "🏆 Champions League",
             "date": "Feb 15",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
             "teams" : "PSG Vs Bayern München",
@@ -49,18 +49,24 @@
 
                 
 {
+                    "type": "Soco SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e720540ce8bfd1ce587d170acabd7b42&auth_key=1676419696-0-0-e9bd44b3b4b2603a1cc1f03dc41d9d60"
+         
+                },
+{
+                    "type": "Soco HD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676419696-0-0-634175bbf5238b2743b97e38150efb29&user_session_id=5546ba19cc8e743c3f03fa601c5a61f5"
+         
+                },
+{
+                    "type": "China FHD",
+                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1676419778-0-0-4dfe72ce6054d36706ced651311e3ca8"
+                },
+                
+{
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1676419778-0-0-dfd53baab13f181372cc98012954611f"
          
-                },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":""
                 }
                 
             ]
