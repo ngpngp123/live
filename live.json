@@ -74,7 +74,7 @@
 {
            "league": "🏆 Champions League",
             "date": "Feb 15",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "teams" : "AC Milan Vs Tottenham",
@@ -87,17 +87,17 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-435929_ld.m3u8?auth_key=1676416298-0-0-fd8c67f5ec53b2f1cea02f0f7f2ddd66"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1676416298-0-0-0b6eaf7200385befcbc0d13520c6632f"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=56d0f0063e864a7b30cfc2c647590ed3&txTime=63ec0e84"
                 }
                 
             ]
