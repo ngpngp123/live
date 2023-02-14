@@ -67,6 +67,12 @@
                     "type": "China SD",
                 "livelink":"https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1676419778-0-0-dfd53baab13f181372cc98012954611f"
          
+                },
+
+{
+                    "type": "Test",
+                "livelink":"http://smartes-plus.com:1996/45164733095066/45164733095066/108615"
+         
                 }
                 
             ]
