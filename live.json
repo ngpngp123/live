@@ -73,7 +73,15 @@
                     "type": "Test",
                 "livelink":"http://88.99.216.157:5080/WebRTCApp/streams/Bein1_Premuim.m3u8"
          
-                }
+                },
+{
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may081FHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+}
                 
             ]
 },
@@ -100,11 +108,19 @@
                     "type": "China HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1676416298-0-0-0b6eaf7200385befcbc0d13520c6632f"
          
-                },
+                },{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
+},
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=56d0f0063e864a7b30cfc2c647590ed3&txTime=63ec0e84"
                 },
+
 
 {
                     "type": "test bein",
