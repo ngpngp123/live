@@ -35,61 +35,27 @@
             ]
 },
 {
-           "league": "🏆 Serie A",
-            "date": "Feb 14",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-            "teams" : "Hellas Verona Vs Salernitana",
-            "hteam" : "Hellas Verona",
-            "ateam" : "Salernitana",
-            "hotmat":"no",
-            "link":[
-                
-
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1676329718-0-0-c4e336dd7a971b155ba668032e9e4a3b"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1676329718-0-0-3179d8f12cc3288644fd68f2540b57f1"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=33829a007186a9807b44fa8443e859eb&txTime=63eac22c"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Serie A",
-            "date": "Feb 14",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-            "teams" : "Sampdoria Vs Inter",
-            "hteam" : "Sampdoria",
-            "ateam" : "Inter",
+           "league": "🏆 Champions League",
+            "date": "Feb 15",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+            "teams" : "PSG Vs Bayern München",
+            "hteam" : "PSG",
+            "ateam" : "Bayern München",
             "hotmat":"yes",
             "link":[
                 
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=f562b8518f3aca64d1771948ff904982&txTime=63eac538"
-         
-                },
+
                 
 {
                     "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1676330438-0-0-6b18160c692cf623dbcba3899cd91266"
+                "livelink":""
          
                 },
 {
                     "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1676330438-0-0-ab0342841954c7345561be8d1cd12307"
+                "livelink":""
          
                 },
 {
@@ -100,74 +66,32 @@
             ]
 },
 {
-           "league": "🏆 Premier League",
-            "date": "Feb 14",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-            "teams" : "Liverpool Vs Everton",
-            "hteam" : "Liverpool",
-            "ateam" : "Everton",
+           "league": "🏆 Champions League",
+            "date": "Feb 15",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+            "teams" : "AC Milan Vs Tottenham",
+            "hteam" : "AC Milan",
+            "ateam" : "Tottenham",
             "hotmat":"yes",
             "link":[
                 
+
                 
 {
                     "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1676330438-0-0-49f4d562f6ed4b3449c11130aadfe038"
+                "livelink":""
          
                 },
 {
                     "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1676330438-0-0-737e30f963ab2ef56a86ba0bcd9582a0"
+                "livelink":""
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=05192e9b97ec53afed99ab455206f9fd&txTime=63eac574"
-                },
-{
-"type": "English HD",
-"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
-},
-{
-"type": "English SD",
-"livelink": "https://wanaty111gffd.azureedge.net/live/usa/chunks.m3u8"
-}
-                
-            ]
-},
-{
-           "league": "🏆 Laliga",
-            "date": "Feb 14",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-            "teams" : "Espanyol Vs Real Sociedad",
-            "hteam" : "Espanyol",
-            "ateam" : "Real Sociedad",
-            "hotmat":"no",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-144861_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7622db7edb7f9233e517c07a80fc64d9&auth_key=1676330296-0-0-27b367f6f01c7b556918989241c7aed5"
-         
-                },
-                
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-317957_ld.m3u8?auth_key=1676330498-0-0-6d04b2325e7c0c3aa46597899697a198"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1676330498-0-0-a8b2f84c0cb946400aac96132accd716"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-144861_lhd.m3u8?user_session_id=6d6500756167ca5a7d7163dc6d7ee91e&edge_slice=true&sub_m3u8=true&auth_key=1676330296-0-0-ce466a19650b68b45347e43760dca972"
+                "livelink":""
                 }
                 
             ]
