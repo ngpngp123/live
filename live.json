@@ -132,7 +132,12 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676512097-0-0-845c25fa5169a43479ddcbd9877ab357&user_session_id=40d455a6b8a436422530655bad4f5055"
+                },
+
+{
+                    "type": "Soco SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?user_session_id=2726764bd8259098deb0d8c1a6709e32&auth_key=1676512097-0-0-3c7e6f4433b38085f2ab69ffbac16ab3&edge_slice=true&sub_m3u8=true"
                 }
                 
             ]
