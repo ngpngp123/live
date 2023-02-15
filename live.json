@@ -73,7 +73,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 16",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
             "teams" : "Real Madrid Vs Elche",
@@ -96,7 +96,12 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-160430_lhd.m3u8?auth_key=1676511557-0-0-9e1c09cd58bf763db6f80989c8850aef&edge_slice=true&user_session_id=5df21821c09c69855f1851388da1af95&sub_m3u8=true"
+                },
+
+{
+                    "type": "Soco SD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-160430_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676511557-0-0-ed4e690fa0aecb69dbee317738f3b116&user_session_id=24d571a5d0569012f44c226b7e60db9f"
                 }
                 
             ]
@@ -104,7 +109,7 @@
 {
            "league": "🏆 Champions League",
             "date": "Feb 16",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "teams" : "Dortmund Vs Chelsea",
