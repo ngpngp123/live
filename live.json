@@ -37,7 +37,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 16",
-            "time": "2:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "teams" : "Arsenal Vs Man City",
@@ -60,7 +60,12 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?user_session_id=a7152f204de1a6c7846ea168370c53f7&edge_slice=true&auth_key=1676509217-0-0-0695b1260eaea895b74c05fd1d705a27&sub_m3u8=true"
+                },
+                
+{
+                    "type": "Soco SD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?sub_m3u8=true&auth_key=1676509217-0-0-b82021a6bc60f16ae513b6c19f3666b1&user_session_id=5ad30dbbcb129fd7e8c19fc8c42370a8&edge_slice=true"
                 }
                 
             ]
