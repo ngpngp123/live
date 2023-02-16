@@ -142,7 +142,7 @@
 {
            "league": "🏆 UEFA Europa League",
             "date": "Feb 17",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
             "teams" : "Leverkusen Vs Monaco",
@@ -157,12 +157,7 @@
                     "type": "Soco SD",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-214855_lsd.m3u8?user_session_id=e8aa6c661a917832b4f0422776a88b0c&auth_key=1676587725-0-0-87057946b85ebcdbb75b3309392cd53d&edge_slice=true&sub_m3u8=true"
          
-                },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
+                
 {
                     "type": "Soco FHD",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-214855_lhd.m3u8?user_session_id=4526dc07b517f6f23988b7bc2b9c8062&auth_key=1676587725-0-0-a3be87ec4da639d213ae6e8ee6dad290&edge_slice=true&sub_m3u8=true"
@@ -173,7 +168,7 @@
 {
            "league": "🏆 UEFA Europa League",
             "date": "Feb 17",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
             "teams" : "Juventus Vs Nantes",
@@ -186,17 +181,17 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676596785-0-0-291031d345be11c53ae50454797e1593&user_session_id=acf5e440e120ff6941ec4ee26203cefe"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lsd.m3u8?auth_key=1676596785-0-0-291031d345be11c53ae50454797e1593&user_session_id=7f50cd8b25abd6a317fe530d5d69cd52&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lhd.m3u8?auth_key=1676596785-0-0-6175b3fac3a90277d979d583812b5856&user_session_id=c179fda19c3989648dd0a3fa3fce68a5&edge_slice=true&sub_m3u8=true"
                 }
                 
             ]
@@ -204,7 +199,7 @@
 {
            "league": "🏆 UEFA Europa League",
             "date": "Feb 17",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8640_small.png",
             "teams" : "Sevilla Vs PSV",
