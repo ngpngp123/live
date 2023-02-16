@@ -37,7 +37,7 @@
 {
            "league": "🏆 UEFA Europa League",
             "date": "Feb 17",
-            "time": "12:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "teams" : "Barcelona Vs Man United",
@@ -50,12 +50,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?edge_slice=true&auth_key=1676587958-0-0-9ae3712583e904a8ad58e3a5088a89dd&user_session_id=5cb42565ce4ed9e9c22453cb6fff1f67&sub_m3u8=true"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?sub_m3u8=true&user_session_id=5ed852f59c87fe015f306abb7773d80a&edge_slice=true&auth_key=1676587958-0-0-97ef5f5b1790d41057939f3497f5e33d"
          
                 },
 {
@@ -68,7 +68,7 @@
 {
            "league": "🏆 UEFA Europa League",
             "date": "Feb 17",
-            "time": "12:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
             "teams" : "Ajax Vs Union Berlin",
@@ -81,12 +81,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lsd.m3u8?edge_slice=true&user_session_id=0db10c24ddd1f7442b4e5c1064290d4a&sub_m3u8=true&auth_key=1676588018-0-0-f44b4e51e671c0ee0a12d18653c0cb38"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?edge_slice=true&user_session_id=b330e2b604c3906d01eab9c19adddf5b&sub_m3u8=true&auth_key=1676588018-0-0-8797501bf4612b2d4cee86831952d119"
          
                 },
 {
@@ -99,7 +99,7 @@
 {
            "league": "🏆 UEFA Europa League",
             "date": "Feb 17",
-            "time": "12:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "teams" : "Salzburg Vs Roma",
@@ -117,7 +117,7 @@
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=90fee3618f1c8f26fbf755a29c056ef8&auth_key=1676588018-0-0-a9e570959cdd285a177a170509d9d864"
          
                 },
 {
@@ -210,7 +210,7 @@
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1676588078-0-0-a07b60698e45a032b700c2f2e935aad5"
          
                 },
 {
