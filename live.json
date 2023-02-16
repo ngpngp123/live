@@ -33,6 +33,192 @@
                 }
                 
             ]
+},
+{
+           "league": "🏆 UEFA Europa League",
+            "date": "Feb 17",
+            "time": "12:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "teams" : "Barcelona Vs Man United",
+            "hteam" : "Barcelona",
+            "ateam" : "Man United",
+            "hotmat":"yes",
+            "link":[
+                
+
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 UEFA Europa League",
+            "date": "Feb 17",
+            "time": "12:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
+            "teams" : "Ajax Vs Union Berlin",
+            "hteam" : "Ajax",
+            "ateam" : "Union Berlin",
+            "hotmat":"yes",
+            "link":[
+                
+
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 UEFA Europa League",
+            "date": "Feb 17",
+            "time": "12:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+            "teams" : "Salzburg Vs Roma",
+            "hteam" : "Salzburg",
+            "ateam" : "Roma",
+            "hotmat":"yes",
+            "link":[
+                
+
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 UEFA Europa League",
+            "date": "Feb 17",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
+            "teams" : "Leverkusen Vs Monaco",
+            "hteam" : "Leverkusen",
+            "ateam" : "Monaco",
+            "hotmat":"yes",
+            "link":[
+                
+
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 UEFA Europa League",
+            "date": "Feb 17",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
+            "teams" : "Juventus Vs Nantes",
+            "hteam" : "Juventus",
+            "ateam" : "Nantes",
+            "hotmat":"yes",
+            "link":[
+                
+
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 UEFA Europa League",
+            "date": "Feb 17",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8640_small.png",
+            "teams" : "Sevilla Vs PSV",
+            "hteam" : "Sevilla",
+            "ateam" : "PSV",
+            "hotmat":"yes",
+            "link":[
+                
+
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
 }
 
 ]
