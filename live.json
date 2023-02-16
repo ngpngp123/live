@@ -61,7 +61,19 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=6ac1f067bb8c6b20f5eba6afd4cb81dc&txTime=63eeb255"
-                }
+                },
+{
+"type": "English SD",
+"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+}
                 
             ]
 },
