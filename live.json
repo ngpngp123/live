@@ -37,7 +37,7 @@
 {
            "league": "🏆 🇸🇦 Saudi Premier League",
             "date": "Feb 17",
-            "time": "live",
+            "time": "end",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/205686_small.png",
             "teams" : "Al Nassr FC Vs Al-Taawoun",
@@ -80,7 +80,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Feb 18",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
             "teams" : "Sassuolo Vs Napoli",
@@ -93,17 +93,17 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?edge_slice=true&user_session_id=e8dfda502e66cb9173bb4b93a3472866&sub_m3u8=true&auth_key=1676678654-0-0-cf6921840bfadde8580b6fec26434e22"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9b5bc763a5434f1fe2e60ee28b314864&auth_key=1676678858-0-0-bc7ad06bc5e72a0f0b1268122a8ad9b7"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?user_session_id=78e90fda6d193f041f0da395d6de7b0c&sub_m3u8=true&auth_key=1676678654-0-0-2e2ae9429f3369f7884042eb5993efcd&edge_slice=true"
                 }
                 
             ]
@@ -111,7 +111,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 18",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
             "teams" : "Girona Vs Almeria",
@@ -124,17 +124,17 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-144861_lsd.m3u8?sub_m3u8=true&auth_key=1676678834-0-0-84ef0f22c66f14104ab45d61650492a7&user_session_id=4bd73fc1e7829ac781eb39be8373cbca&edge_slice=true"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?auth_key=1676678918-0-0-748c850c256d339e1a9d059f981a9e6e&edge_slice=true&user_session_id=a22600c9be1234948928e6c855763d8e&sub_m3u8=true"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-144861_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1676678834-0-0-40ec42d12bc6c68e09fe17079b78db21&user_session_id=4f80a601d74e7f8627417f2db3fcce6f"
                 }
                 
             ]
@@ -142,7 +142,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Feb 17",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
             "teams" : "Auxerre Vs Lyon",
@@ -155,17 +155,17 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1676678714-0-0-6d914c1898b1252c0ef2d6abeee718e3&user_session_id=ceae6607a3f69557745107931469877b"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?user_session_id=4ecd71ab664c9b37fc5720979af2ae47&auth_key=1676678918-0-0-510824439834c07697d1ace23f6ac82c&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1676678714-0-0-bb0269f21fb08f26af3ed8dbfcbaa8a1&sub_m3u8=true&user_session_id=2342dae4bcbd06b5cd90309d87016866&edge_slice=true"
                 }
                 
             ]
