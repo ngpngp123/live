@@ -163,8 +163,11 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=fb994ebfc0419cf1b40de6a56541e0bf&txTime=63f1333a"
-                }
-                
+                },
+              {
+                    "type": "Eng FHD",
+                "livelink":"https://biisjish4567.azureedge.net/live/s2/chunks.m3u8"
+                }  
             ]
 },
 {
