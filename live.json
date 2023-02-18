@@ -131,7 +131,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 18",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "teams" : "Nottingham Vs Man City",
@@ -167,7 +167,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 18",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
             "teams" : "Chelsea Vs Southampton",
@@ -198,7 +198,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 18",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
             "teams" : "Brentford Vs Crystal Palace",
@@ -207,7 +207,11 @@
             "hotmat":"no",
             "link":[
                 
-
+{
+                    "type": "SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-214855_lsd.m3u8?sub_m3u8=true&user_session_id=c3433129ce2eb04d4027150391f2cda1&edge_slice=true&auth_key=1676752634-0-0-223dd48a3cabb8a52d858eb0e04c871e"
+         
+                },
                 
 {
                     "type": "China SD",
@@ -221,7 +225,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-214855_lhd.m3u8?edge_slice=true&auth_key=1676752634-0-0-bbef54250faa86ce32c16a6e4991f2f6&user_session_id=8b112e594e2f4be8207e1dd2622dae13&sub_m3u8=true"
                 }
                 
             ]
@@ -229,7 +233,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 18",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "teams" : "Brighton Vs Fulham",
@@ -239,7 +243,11 @@
             "link":[
                 
 
-                
+ {
+                    "type": "SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676752754-0-0-15b0219ae38b71e6e13a10ce92015b04&user_session_id=5e73db10ca6e51cbe43304b8271d6ab9"
+         
+                },               
 {
                     "type": "China SD",
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1676752119-0-0-b84d73322e8bda2b41a3a1a7935c07d9&user_session_id=510eb47fff755a96dc0137b2fa0845a6&edge_slice=true&sub_m3u8=true"
@@ -252,7 +260,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676752754-0-0-04482949cde3a63c91409a51a3f5422e&user_session_id=eca6657c81e831a4d48bc1cca53cac43"
                 }
                 
             ]
@@ -260,7 +268,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 18",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "teams" : "Everton Vs Leeds United",
@@ -278,12 +286,12 @@
                 },
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lsd.m3u8?auth_key=1676752779-0-0-700dfb8f243138fa9f87ce3842656681&edge_slice=true&sub_m3u8=true&user_session_id=7616253bf7da209fdb9ece36d7ca2b93"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lhd.m3u8?edge_slice=true&user_session_id=5a0806fa954c0f99ae63a99187581ad9&auth_key=1676752779-0-0-b38e9d1399ff22c3743889d3c3b76d20&sub_m3u8=true"
          
                 },
 {
