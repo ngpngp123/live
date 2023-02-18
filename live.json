@@ -71,7 +71,12 @@
 {
                     "type": "FHD",
                 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may086FHD/chunklist.m3u8"
+                },
+{
+                    "type": "Bein",
+                "livelink":"http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768"
                 }
+                
                 
             ]
 },
