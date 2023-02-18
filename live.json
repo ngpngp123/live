@@ -37,7 +37,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 18",
-            "time": "7:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "teams" : "Aston Villa Vs Arsenal",
@@ -50,7 +50,7 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=99d38b31375f37163f5055df0fd84e3c&auth_key=1676743539-0-0-ab2edd7df14b84a828c81e1cbb06c1c9"
          
                 },
 {
@@ -59,8 +59,8 @@
          
                 },
 {
-                    "type": "Soco",
-                "livelink":""
+                    "type": "China HD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1676743539-0-0-070b08b19cc55804548f32f4e156d1ab&user_session_id=0289c52148c5a257c89035acd683c3bc"
          
                 },
 {
