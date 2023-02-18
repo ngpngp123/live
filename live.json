@@ -1,54 +1,5 @@
 [
 {
-           "league": "🏆 Premier League",
-            "date": "Feb 18",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "teams" : "Aston Villa Vs Arsenal",
-            "hteam" : "Aston Villa",
-            "ateam" : "Arsenal",
-            "hotmat":"yes",
-            "link":[
-                
-
-                
-{
-                    "type": "China SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=99d38b31375f37163f5055df0fd84e3c&auth_key=1676743539-0-0-ab2edd7df14b84a828c81e1cbb06c1c9"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-         
-                },
-{
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=d027734e328145b4737a54c632ab222e&txTime=63f12002"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1676743539-0-0-070b08b19cc55804548f32f4e156d1ab&user_session_id=0289c52148c5a257c89035acd683c3bc"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may086FHD/chunklist.m3u8"
-                },
-{
-                    "type": "Bein",
-                "livelink":"http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768"
-                },
-                
-              {
-                    "type": "Eng",
-                "livelink":"https://biisjishjuujuyj.azureedge.net/live/usa/chunks.m3u8"
-                }  
-            ]
-},
-{
            "league": "🏆 Laliga",
             "date": "Feb 18",
             "time": "live",
@@ -198,12 +149,12 @@
                 },
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1676751939-0-0-a0b6f41c710c4bbbd9e61ea2ddefe165&edge_slice=true&sub_m3u8=true&user_session_id=d40e37430097d2ebb5e6d329b0fdf354"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1676751939-0-0-ad147f19d9f1aa894c4f6a4e926a2bf4&user_session_id=40cf4affb93cbee1a699c77444aba5eb"
          
                 },
 {
@@ -229,12 +180,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1676752059-0-0-5205dfdef8241aba586460abf69048b5&user_session_id=4c06ac64b3ab9bb734749139fe181d7a"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1676752059-0-0-97e9a287c4a7cca2966830810248aafd&user_session_id=66b4f3e3702446a55f1c353665b171c7"
          
                 },
 {
@@ -260,12 +211,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-693587_ld.m3u8?auth_key=1676752059-0-0-cf9e9be4e2aff593786460358a6d7ab3"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-693587.m3u8?auth_key=1676752059-0-0-8b8292a7d22b8992b7c33d7df0596aee"
          
                 },
 {
@@ -291,12 +242,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1676752119-0-0-b84d73322e8bda2b41a3a1a7935c07d9&user_session_id=510eb47fff755a96dc0137b2fa0845a6&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?edge_slice=true&auth_key=1676752119-0-0-9688871209a08e2dc485cf633ed6eef8&sub_m3u8=true&user_session_id=77864ae78789fab07a144f1538395758"
          
                 },
 {
