@@ -81,8 +81,8 @@
 },
 {
            "league": "🏆 Serie A",
-            "date": "Feb 18",
-            "time": "8:30 PM",
+            "date": "Feb 18(8:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
             "teams" : "Sampdoria Vs Bologna",
@@ -94,18 +94,13 @@
 
                 
 {
-                    "type": "China SD",
-                "livelink":""
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":""
+                    "type": "SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?user_session_id=8e06952056efe9e0f6b6d9c8e306c79f&edge_slice=true&auth_key=1676748674-0-0-4c6c0ad36e94a9f2e46f54ddbacd94ce&sub_m3u8=true"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?user_session_id=3e4e8b9d623145e5a374f235e2ae323c&edge_slice=true&auth_key=1676748674-0-0-526e4be322a6789bf4aaf17fea61b732&sub_m3u8=true"
                 }
                 
             ]
