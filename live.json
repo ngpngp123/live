@@ -332,7 +332,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Feb 18",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
             "teams" : "Nice Vs Reims",
@@ -345,17 +345,9 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?sub_m3u8=true&user_session_id=49b3eb3b7a3d48a5b724b0ebb1c2e9ff&auth_key=1676757074-0-0-07603ddcadd8954b5ef6aa6b3f8919a7&edge_slice=true"
          
-                },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":""
+                
                 }
                 
             ]
