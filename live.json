@@ -75,9 +75,12 @@
 {
                     "type": "Bein",
                 "livelink":"http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768"
-                }
+                },
                 
-                
+              {
+                    "type": "Eng",
+                "livelink":"https://biisjishjuujuyj.azureedge.net/live/usa/chunks.m3u8"
+                }  
             ]
 },
 {
