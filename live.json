@@ -90,7 +90,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 19",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
             "teams" : "Man United Vs Leicester",
@@ -108,7 +108,7 @@
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?user_session_id=0b2b3c7a04f6640145f196b91f4056cf&edge_slice=true&sub_m3u8=true&auth_key=1676834199-0-0-a85cfc9ace8f60e131a817901708d354"
          
                 },
 {
@@ -126,7 +126,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Feb 19",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
             "teams" : "Salernitana Vs Lazio",
@@ -153,7 +153,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Feb 19",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
             "teams" : "Brest Vs Monaco",
