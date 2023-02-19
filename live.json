@@ -136,7 +136,11 @@
             "link":[
                 
 
-                
+{
+                    "type": "Soco FHD",
+                "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=fff1488d07441d10087b9ced1ae26c5f&txTime=63f26282"
+                },
+
 {
                     "type": "China SD",
                 "livelink":""
@@ -146,10 +150,6 @@
                     "type": "China HD",
                 "livelink":""
          
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=fff1488d07441d10087b9ced1ae26c5f&txTime=63f26282"
                 }
                 
             ]
