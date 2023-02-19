@@ -307,6 +307,37 @@
             ]
 },
 {
+           "league": "🏆 Bundesliga",
+            "date": "Feb 20",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
+            "teams" : "Borussia Dortmund Vs Hertha BSC",
+            "hteam" : "Borussia Dortmund",
+            "ateam" : "Hertha BSC",
+            "hotmat":"yes",
+            "link":[
+                
+
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
            "league": "🏆 Serie A",
             "date": "Feb 19",
             "time": "11:30 PM",
