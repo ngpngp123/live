@@ -96,12 +96,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1676845059-0-0-b108f63713b959231564e204bea35d6c"
+                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?edge_slice=true&auth_key=1676858679-0-0-b0e80de47a703fc8390605fe7e355905&user_session_id=c2d48bc32516a8aaf5a2266cb959e91b&sub_m3u8=true"
          
                 },
 {
                     "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1676845059-0-0-c84c218cd401f667f844c1d5d54ed6d7"
+                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676858679-0-0-3a0093b1b0b78592a2f7edc7459d8c6c&user_session_id=71f2ceb9fe28105288f383244bc78404"
          
                 },
 {
