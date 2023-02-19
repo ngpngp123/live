@@ -53,9 +53,12 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-100684_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676828774-0-0-90224794c771b5a9ac637386235512c5&user_session_id=23e75daca8d5417565ec2b3d072801fc"
-                }
-                
-            ]
+                },
+              {
+                    "type": "ENG FHD",
+                "livelink":"https://fgsfdhdfh.azureedge.net/live/bein/chunks.m3u8"
+     }      
+ ]
 },
 {
            "league": "🏆 Laliga",
