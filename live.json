@@ -175,7 +175,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 20",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
             "teams" : "Atletico Madrid Vs Athletic Club",
@@ -206,7 +206,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "Feb 20",
-            "time": "1:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
             "teams" : "Leverkusen Vs Mainz 05",
@@ -237,7 +237,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Feb 20",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
             "teams" : "Roma Vs Hellas Verona",
@@ -268,7 +268,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Feb 20",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
             "teams" : "Toulouse Vs Marseille",
@@ -291,7 +291,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 20",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
             "teams" : "Barcelona Vs Cadiz",
