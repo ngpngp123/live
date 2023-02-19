@@ -108,7 +108,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=5da2122ffc4fed63f86504b300f05bb7&txTime=63f29ebe"
                 }
                 
             ]
@@ -116,7 +116,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "Feb 20",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
             "teams" : "Borussia Dortmund Vs Hertha BSC",
@@ -129,7 +129,7 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676844794-0-0-e52fe94ca149aeb6505fefd9d23ef9b1&user_session_id=41bd0d107280c23eddf66c970c66f37d"
          
                 },
 {
@@ -139,7 +139,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676844794-0-0-f4249ba51aed7f9dfc89510deb42424b&user_session_id=6140133c9fe1aa9c0fff7d5367ce0e0a"
                 }
                 
             ]
@@ -147,7 +147,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Feb 19",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "teams" : "Spezia Vs Juventus",
@@ -222,7 +222,7 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105225_lsd.m3u8?auth_key=1676844854-0-0-11dd001fab4cec6a73742ae30c8ab98e&user_session_id=6ab4adbf0a231ac28ec652d7e47d6899&edge_slice=true&sub_m3u8=true"
          
                 },
 {
@@ -232,7 +232,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105225_lhd.m3u8?edge_slice=true&auth_key=1676844854-0-0-d224cd21a905eafd0a9e8cca55169ff1&user_session_id=13ceda355c9e4472c3c58489c1602b24&sub_m3u8=true"
                 }
                 
             ]
@@ -253,7 +253,7 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676844914-0-0-07b51c924eae4238e5d67a0c8bfd3d31&user_session_id=54690275b6ff2466d5159120515b0693"
          
                 },
 {
@@ -263,7 +263,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?sub_m3u8=true&auth_key=1676844914-0-0-8d68f7f0afea819889e584cd93ac77a4&edge_slice=true&user_session_id=74cbc0ace8a4f4d8ef5a915b1ee04bd6"
                 }
                 
             ]
@@ -294,7 +294,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=426256bb5b4ef2adcf362cdccc2c71ff&txTime=63f29fae"
                 }
                 
             ]
@@ -315,17 +315,17 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1676845059-0-0-b108f63713b959231564e204bea35d6c"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1676845059-0-0-c84c218cd401f667f844c1d5d54ed6d7"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=feab30860fe114b5e39f6586d19fb02a&txTime=63f29f49"
                 }
                 
             ]
