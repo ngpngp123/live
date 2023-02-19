@@ -98,12 +98,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=9f989880bc720f1cd2e4bd8c7db122ca&edge_slice=true&sub_m3u8=true&auth_key=1676844939-0-0-88e4ad6e5d41fa3c5ce7e4a666399e22"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=9f989880bc720f1cd2e4bd8c7db122ca&edge_slice=true&sub_m3u8=true&auth_key=1676844939-0-0-88e4ad6e5d41fa3c5ce7e4a666399e22"
          
                 },
 {
@@ -163,11 +163,8 @@
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676831834-0-0-dce645fa05150ab4c0f137604700c2cb&user_session_id=817df2783a8a10ae419df1cb20b6944c"
          
                 },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
+
+                   
 {
                     "type": "Soco FHD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?sub_m3u8=true&user_session_id=84e43d0dcb18ce3ee0f1a2f878b01622&auth_key=1676831834-0-0-930fbe7651851aedd80497d8dde8387f&edge_slice=true"
@@ -196,7 +193,7 @@
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1676845120-0-0-b35a97715d929f246d154e075e6b733e"
          
                 },
 {
@@ -258,7 +255,7 @@
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1676845179-0-0-b5c41c5eca1e7026beab051c2f76fbd4&edge_slice=true&user_session_id=ab1d262cebc89af6a6948b2a4cbe5288&sub_m3u8=true"
          
                 },
 {
@@ -282,16 +279,8 @@
                 
 
                 
-{
-                    "type": "China SD",
-                "livelink":""
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
+
+                    
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=426256bb5b4ef2adcf362cdccc2c71ff&txTime=63f29fae"
