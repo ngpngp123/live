@@ -37,7 +37,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Feb 21",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
             "teams" : "Torino Vs Cremonese",
@@ -50,17 +50,14 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112565_lsd.m3u8?sub_m3u8=true&user_session_id=4895427eaa6f75bf21d9f032b31f1b2c&auth_key=1676937134-0-0-5a966a219d07e6d9f0d54726e0989c10&edge_slice=true"
          
                 },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
+
+                    
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112565_lhd.m3u8?sub_m3u8=true&user_session_id=aa7569feb6d806ea6f75af2c3bbdf32e&auth_key=1676937134-0-0-6b3f2bb9eb430cac0445e7662547103f&edge_slice=true"
                 }
                 
             ]
@@ -68,7 +65,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 21",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
             "teams" : "Getafe Vs Valencia",
@@ -81,17 +78,14 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-144861_lsd.m3u8?sub_m3u8=true&auth_key=1676937014-0-0-854e7a98a6bee397e1b56aba77e25dc1&edge_slice=true&user_session_id=4e57f6d4ddb2fbfbc229c234fae38fb1"
          
                 },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
+
+                    
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-144861_lhd.m3u8?user_session_id=b69fdbe295e672f3b0974bd82efbc34e&edge_slice=true&auth_key=1676937014-0-0-03b994d45846a17df70d97c506b723c5&sub_m3u8=true"
                 }
                 
             ]
