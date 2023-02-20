@@ -1,40 +1,48 @@
 [
 {
-           "league": "🏆 Bundesliga",
-            "date": "Feb 20",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
-            "teams" : "Leverkusen Vs Mainz 05",
-            "hteam" : "Leverkusen",
-            "ateam" : "Mainz 05",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
             "hotmat":"yes",
             "link":[
                 
-
-                
 {
-                    "type": "China SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105225_lsd.m3u8?auth_key=1676844854-0-0-11dd001fab4cec6a73742ae30c8ab98e&user_session_id=6ab4adbf0a231ac28ec652d7e47d6899&edge_slice=true&sub_m3u8=true"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
          
                 },
-
+                
 {
-                    "type": "Soco FHD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105225_lhd.m3u8?edge_slice=true&auth_key=1676844854-0-0-d224cd21a905eafd0a9e8cca55169ff1&user_session_id=13ceda355c9e4472c3c58489c1602b24&sub_m3u8=true"
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
                 
             ]
 },
 {
            "league": "🏆 Serie A",
-            "date": "Feb 20",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
-            "teams" : "Roma Vs Hellas Verona",
-            "hteam" : "Roma",
-            "ateam" : "Hellas Verona",
+            "date": "Feb 21",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
+            "teams" : "Torino Vs Cremonese",
+            "hteam" : "Torino",
+            "ateam" : "Cremonese",
             "hotmat":"yes",
             "link":[
                 
@@ -42,53 +50,30 @@
                 
 {
                     "type": "China SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676844914-0-0-07b51c924eae4238e5d67a0c8bfd3d31&user_session_id=54690275b6ff2466d5159120515b0693"
+                "livelink":""
          
                 },
 {
                     "type": "China HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1676845179-0-0-b5c41c5eca1e7026beab051c2f76fbd4&edge_slice=true&user_session_id=ab1d262cebc89af6a6948b2a4cbe5288&sub_m3u8=true"
+                "livelink":""
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?sub_m3u8=true&auth_key=1676844914-0-0-8d68f7f0afea819889e584cd93ac77a4&edge_slice=true&user_session_id=74cbc0ace8a4f4d8ef5a915b1ee04bd6"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Ligue 1",
-            "date": "Feb 20",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
-            "teams" : "Toulouse Vs Marseille",
-            "hteam" : "Toulouse",
-            "ateam" : "Marseille",
-            "hotmat":"yes",
-            "link":[
-                
-
-                
-
-                    
-{
-                    "type": "Soco FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=426256bb5b4ef2adcf362cdccc2c71ff&txTime=63f29fae"
+                "livelink":""
                 }
                 
             ]
 },
 {
            "league": "🏆 Laliga",
-            "date": "Feb 20",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-            "teams" : "Barcelona Vs Cadiz",
-            "hteam" : "Barcelona",
-            "ateam" : "Cadiz",
+            "date": "Feb 21",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+            "teams" : "Getafe Vs Valencia",
+            "hteam" : "Getafe",
+            "ateam" : "Valencia",
             "hotmat":"yes",
             "link":[
                 
@@ -96,21 +81,17 @@
                 
 {
                     "type": "China SD",
-                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?edge_slice=true&auth_key=1676858679-0-0-b0e80de47a703fc8390605fe7e355905&user_session_id=c2d48bc32516a8aaf5a2266cb959e91b&sub_m3u8=true"
+                "livelink":""
          
                 },
 {
                     "type": "China HD",
-                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676858679-0-0-3a0093b1b0b78592a2f7edc7459d8c6c&user_session_id=71f2ceb9fe28105288f383244bc78404"
+                "livelink":""
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=feab30860fe114b5e39f6586d19fb02a&txTime=63f29f49"
-                },
-{
-                    "type": "Eng FHD",
-                "livelink":"https://trsawwoosp.azureedge.net/live/lltv/chunks.m3u8"
+                "livelink":""
                 }
                 
             ]
