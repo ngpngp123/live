@@ -37,7 +37,7 @@
 {
            "league": "🏆 Champions League",
             "date": "Feb 22",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "teams" : "Liverpool Vs Real Madrid",
@@ -49,7 +49,12 @@
 
                 
 {
-                    "type": "China SD",
+                    "type": "Soco SD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-201986_lsd.m3u8?sub_m3u8=true&auth_key=1677029834-0-0-668b9a5c695b768740a952041d0b8796&edge_slice=true&user_session_id=3dcef1f15696bf314ea630df756a0a07"
+         
+                },
+{
+                    "type": "China HD",
                 "livelink":""
          
                 },
@@ -60,7 +65,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-201986_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=c1fe8759712d1d7bd4ab29e87d2a368d&auth_key=1677029834-0-0-b6a3f832e41ffd070ac2fb861d38fcb2"
                 }
                 
             ]
@@ -68,7 +73,7 @@
 {
            "league": "🏆 Champions League",
             "date": "Feb 22",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
             "teams" : "Frankfurt Vs Napoli",
@@ -80,18 +85,23 @@
 
                 
 {
-                    "type": "China SD",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-100684_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=e7f8a633e07488deb817107444f2948a&auth_key=1677029894-0-0-6e02dd1b839652a4db261e1c47303089"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1677029979-0-0-7999b8b1c6953c5616ffb3fa9f6c2fe5&user_session_id=98cc0f85ac7fefe2ee105f89e23e8bae&sub_m3u8=true&edge_slice=true"
+         
+                },
+{
+                    "type": "China SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1677029979-0-0-31810184248f0136d9864dffed49edd6&user_session_id=665c52a567fed2aba858ed506ece7cdb&sub_m3u8=true&edge_slice=true"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-100684_lhd.m3u8?sub_m3u8=true&user_session_id=4e77bbc53c9316a7b510993ed140623b&auth_key=1677029894-0-0-43ae5734edfa996ac62e829637a12e1a&edge_slice=true"
                 }
                 
             ]
