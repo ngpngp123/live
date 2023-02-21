@@ -66,6 +66,10 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-201986_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=c1fe8759712d1d7bd4ab29e87d2a368d&auth_key=1677029834-0-0-b6a3f832e41ffd070ac2fb861d38fcb2"
+                },
+{
+                    "type": "Eng FHD",
+                "livelink":"https://weakzvh77.azureedge.net/live/s1/chunks.m3u8"
                 }
                 
             ]
@@ -102,6 +106,10 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-100684_lhd.m3u8?sub_m3u8=true&user_session_id=4e77bbc53c9316a7b510993ed140623b&auth_key=1677029894-0-0-43ae5734edfa996ac62e829637a12e1a&edge_slice=true"
+                },
+{
+                    "type": "Eng FHD",
+                "livelink":"https://weakzvh77.azureedge.net/live/s2/chunks.m3u8"
                 }
                 
             ]
