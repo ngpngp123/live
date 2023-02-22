@@ -37,7 +37,7 @@
 {
            "league": "🏆 Champions League",
             "date": "Feb 23",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "teams" : "RB Leipzig Vs Manchester City",
@@ -50,17 +50,17 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?user_session_id=488a313bfbe4047e56df18e0c365b4e2&sub_m3u8=true&auth_key=1677113096-0-0-8804159981ce6174bf8fb1e22cba2f09&edge_slice=true"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1677113096-0-0-df638d45733790512d3427845f345c39&sub_m3u8=true&user_session_id=602fa7381d675707b83cc4ec8effa5b6&edge_slice=true"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=c25aa741c79f869e06d00af52d37cbd6&txTime=63f6b6a2"
                 }
                 
             ]
