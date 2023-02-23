@@ -1,47 +1,48 @@
 [
 {
-           "league": "🏆 Champions League",
-            "date": "Feb 23",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-            "teams" : "RB Leipzig Vs Manchester City",
-            "hteam" : "RB Leipzig",
-            "ateam" : "Manchester City",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
             "hotmat":"yes",
             "link":[
                 
-
+{
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
+                },
                 
 {
-                    "type": "China SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?user_session_id=488a313bfbe4047e56df18e0c365b4e2&sub_m3u8=true&auth_key=1677113096-0-0-8804159981ce6174bf8fb1e22cba2f09&edge_slice=true"
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
          
                 },
 {
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1677113096-0-0-df638d45733790512d3427845f345c39&sub_m3u8=true&user_session_id=602fa7381d675707b83cc4ec8effa5b6&edge_slice=true"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
          
                 },
 {
-                    "type": "Soco FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=c25aa741c79f869e06d00af52d37cbd6&txTime=63f6b6a2"
-                },
-              {
-                    "type": "Eng FHD",
-                "livelink":"https://sdgdfhds.azureedge.net/live/s1/chunks.m3u8"
-                }  
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+                }
+                
             ]
 },
 {
-           "league": "🏆 Champions League",
-            "date": "Feb 23",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",
-            "teams" : "Inter Vs FC Porto",
-            "hteam" : "Inter",
-            "ateam" : "FC Porto",
+           "league": "🏆 Europa League",
+            "date": "Feb 24",
+            "time": "12:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "teams" : "Nantes Vs Juventus",
+            "hteam" : "Nantes",
+            "ateam" : "Juventus",
             "hotmat":"yes",
             "link":[
                 
@@ -49,23 +50,239 @@
                 
 {
                     "type": "China SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-788561_lhd.m3u8?auth_key=1677107456-0-0-244139109d7fc07c32c80ff1f6afe3e7&edge_slice=true&sub_m3u8=true&user_session_id=03563bd53827bb5cc6b2ac83a5c2106f"
+                "livelink":""
          
                 },
 {
                     "type": "China HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-788561_lsd.m3u8?user_session_id=5b6591d940b53e9f1f8975efab07924d&sub_m3u8=true&auth_key=1677107456-0-0-a33be70e03d8a1cd20b265fedadf218f&edge_slice=true"
+                "livelink":""
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":"https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-160430_lsd.m3u8?auth_key=1677106694-0-0-ed01a7e5aed078207b38fb673c439c74&su"
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Europa League",
+            "date": "Feb 24",
+            "time": "12:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+            "teams" : "Monaco Vs Bayer Leverkusen",
+            "hteam" : "Monaco",
+            "ateam" : "Bayer Leverkusen",
+            "hotmat":"yes",
+            "link":[
+                
+
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
                 },
-               {
-                    "type": "Eng FHD",
-                "livelink":"https://sdgdfhds.azureedge.net/live/s2/chunks.m3u8"
-                } 
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Europa League",
+            "date": "Feb 24",
+            "time": "12:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8113_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
+            "teams" : "Midtjylland Vs Sporting CP",
+            "hteam" : "Midtjylland",
+            "ateam" : "Sporting CP",
+            "hotmat":"yes",
+            "link":[
+                
+
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Europa League",
+            "date": "Feb 24",
+            "time": "12:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8640_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+            "teams" : "PSV Eindhoven Vs Sevilla",
+            "hteam" : "PSV Eindhoven",
+            "ateam" : "Sevilla",
+            "hotmat":"yes",
+            "link":[
+                
+
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Europa League",
+            "date": "Feb 24",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "teams" : "Manchester United Vs Barcelona",
+            "hteam" : "Manchester United",
+            "ateam" : "Barcelona",
+            "hotmat":"yes",
+            "link":[
+                
+
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Europa League",
+            "date": "Feb 24",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
+            "teams" : "Roma Vs Salzburg",
+            "hteam" : "Roma",
+            "ateam" : "Salzburg",
+            "hotmat":"yes",
+            "link":[
+                
+
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Europa League",
+            "date": "Feb 24",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
+            "teams" : "Union Berlin Vs Ajax",
+            "hteam" : "Union Berlin",
+            "ateam" : "Ajax",
+            "hotmat":"yes",
+            "link":[
+                
+
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Europa League",
+            "date": "Feb 24",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",
+            "teams" : "Rennes Vs Shakhtar Donetsk",
+            "hteam" : "Rennes",
+            "ateam" : "Shakhtar Donetsk",
+            "hotmat":"yes",
+            "link":[
+                
+
+                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
             ]
 }
+
+
 
 ]
