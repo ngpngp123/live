@@ -49,13 +49,9 @@
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?user_session_id=41f7cb5eb3a8e4c154aa187719cddfa8&edge_slice=true&sub_m3u8=true&auth_key=1677194774-0-0-3d46ea7afbd80379dea826ee7a5608d2"
          
                 },
+
 {
-                    "type": "HD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-         
-                },
-{
-                    "type": "Soco FHD",
+                    "type": "Soco HD",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?edge_slice=true&user_session_id=bd2b66a1c66ad638c62f9e04adacc02e&sub_m3u8=true&auth_key=1677194774-0-0-5c3ca99f4d97f48b7007394320234e33"
                 }
                 
@@ -75,11 +71,7 @@
                 
 
                 
-{
-                    "type": "China SD",
-                "livelink":""
-         
-                },
+
 {
                     "type": "HD",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/may11/chunks.m3u8"
@@ -111,11 +103,7 @@
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-214855_lsd.m3u8?user_session_id=238bdcb4de8a60c524dac29a130a35fd&sub_m3u8=true&auth_key=1677194894-0-0-312c4d24f6218d37647fcb8b9d6e2300&edge_slice=true"
          
                 },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
+
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=4148731a10bd0f1f6970ef3cc245f153&txTime=63f7f68e"
