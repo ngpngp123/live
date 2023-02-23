@@ -49,8 +49,8 @@
 
                 
 {
-                    "type": "China SD",
-                "livelink":""
+                    "type": "SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?edge_slice=true&user_session_id=c7e3e7272e8460f91a4652844c814d32&sub_m3u8=true&auth_key=1677194714-0-0-3d6a7d313e32dedf4eccc526cce812f5"
          
                 },
 {
@@ -60,7 +60,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?edge_slice=true&user_session_id=9755e3cac4f7dd8bd89578056c8bd484&sub_m3u8=true&auth_key=1677194714-0-0-7e7ef6edf54d449e4eff5e0c16028e0e"
                 }
                 
             ]
@@ -80,8 +80,8 @@
 
                 
 {
-                    "type": "China SD",
-                "livelink":""
+                    "type": "SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?user_session_id=41f7cb5eb3a8e4c154aa187719cddfa8&edge_slice=true&sub_m3u8=true&auth_key=1677194774-0-0-3d46ea7afbd80379dea826ee7a5608d2"
          
                 },
 {
@@ -91,7 +91,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?edge_slice=true&user_session_id=bd2b66a1c66ad638c62f9e04adacc02e&sub_m3u8=true&auth_key=1677194774-0-0-5c3ca99f4d97f48b7007394320234e33"
                 }
                 
             ]
@@ -122,7 +122,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=a827b1b3ac1d6097cc278d1e3f86267c&txTime=63f7f652"
                 }
                 
             ]
@@ -153,7 +153,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=4148731a10bd0f1f6970ef3cc245f153&txTime=63f7f68e"
                 }
                 
             ]
