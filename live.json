@@ -117,7 +117,7 @@
 {
            "league": "🏆 Europa League",
             "date": "Feb 24",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "teams" : "Manchester United Vs Barcelona",
@@ -129,18 +129,13 @@
 
                 
 {
-                    "type": "China SD",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-129184_lsd.m3u8?edge_slice=true&user_session_id=75076121d5b96a9a15a1523c4d4011b2&sub_m3u8=true&auth_key=1677198374-0-0-d19169988a79d2fa3a738a7d5d171671"
          
-                },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
+},
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-129184_lhd.m3u8?edge_slice=true&user_session_id=be259da76c58da0fd24057895e583dfe&sub_m3u8=true&auth_key=1677198374-0-0-110899d2c7628d453a2fc85cb9759914"
                 }
                 
             ]
@@ -148,7 +143,7 @@
 {
            "league": "🏆 Europa League",
             "date": "Feb 24",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
             "teams" : "Roma Vs Salzburg",
@@ -160,18 +155,8 @@
 
                 
 {
-                    "type": "China SD",
-                "livelink":""
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
-{
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=f7ed158b7658692df09d858e1e06cc76&txTime=63f80552"
                 }
                 
             ]
@@ -179,7 +164,7 @@
 {
            "league": "🏆 Europa League",
             "date": "Feb 24",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
             "teams" : "Union Berlin Vs Ajax",
@@ -191,18 +176,14 @@
 
                 
 {
-                    "type": "China SD",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?user_session_id=fe78f1476a479c306145dac7e18be81c&edge_slice=true&sub_m3u8=true&auth_key=1677198734-0-0-9900a5e88e361a35f429180a4260d839"
          
                 },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
+
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?user_session_id=e6161e4b6381962e96e1f6233ea675a1&auth_key=1677198734-0-0-a6b6324d2691adca32669da8c0152140&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
@@ -210,7 +191,7 @@
 {
            "league": "🏆 Europa League",
             "date": "Feb 24",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",
             "teams" : "Rennes Vs Shakhtar Donetsk",
@@ -223,17 +204,13 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lsd.m3u8?user_session_id=7016e8ec3227d0af022952612d79a7c9&edge_slice=true&sub_m3u8=true&auth_key=1677198494-0-0-1b1627bd040cfde0b536a9ebdb503414"
          
                 },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
+
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lhd.m3u8?user_session_id=02f8f9c3de19261286773cc36ef99206&edge_slice=true&sub_m3u8=true&auth_key=1677198494-0-0-e5bf976394cbeaff516f462dfa421c2f"
                 }
                 
             ]
