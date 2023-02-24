@@ -33,7 +33,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 25",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
             "teams" : "Fulham Vs Wolves",
@@ -46,17 +46,14 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1677287294-0-0-7db8614d086e57638a2fad97cce77d63&user_session_id=4a19907b0a3dfc4b586bdda3e3997659&sub_m3u8=true&edge_slice=true"
          
                 },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
+
+                    
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=52fb80dc8b3f5b5ab6ba7d69a28d19f9&auth_key=1677287294-0-0-5a7802debbe234f59927f7baa9c8ed8b&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
@@ -64,7 +61,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 25",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
             "teams" : "Elche Vs Real Betis",
@@ -77,17 +74,14 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-112310_lsd.m3u8?auth_key=1677287354-0-0-6099f95ba766abdd85927209fc4c35be&user_session_id=4d9b685c61ac18e25f5239e7f2bac7ef&sub_m3u8=true&edge_slice=true"
          
                 },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
+
+                    
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-112310_lhd.m3u8?user_session_id=ad590e32e200583824c22c99a810c806&auth_key=1677287354-0-0-7cecf6a464f7b7a7e5b49de8d225a02e&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
