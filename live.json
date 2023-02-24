@@ -1,28 +1,5 @@
 [
 {
-           "league": "🏆 Europa League Group Stage Draw",
-            "date": "Feb 24",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/73.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/73.png",
-            "teams" : "Europa League Vs Group Stage",
-            "hteam" : "Europa League Group",
-            "ateam" : "State Draw",
-            "hotmat":"yes",
-            "link":[
-                
-
-                
-{
-                    "type": "Link 1",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
-         
-                }
-
-                
-            ]
-},
-{
            "league": "🏆 Bundesliga",
             "date": "Feb 25",
             "time": "2:30 AM",
