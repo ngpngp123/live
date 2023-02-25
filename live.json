@@ -343,7 +343,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Feb 25",
-            "time": "9:45 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
             "teams" : "Angers Vs Lyon",
@@ -356,12 +356,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lsd.m3u8?user_session_id=948a5473aeb2f6b1a70f0a73b3dd4238&auth_key=1677358977-0-0-a7ff086fefc8082a94f92ab3961b46f0&sub_m3u8=true&edge_slice=true"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lhd.m3u8?auth_key=1677358977-0-0-957af228e3eeb8997209bcf17267f976&edge_slice=true&user_session_id=ed5edd4e5eb727bd5cfb1ea3506a05f1&sub_m3u8=true"
          
                 },
 {
@@ -387,12 +387,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1677359277-0-0-0fab7a36f691c00435c53bb83d49a58d&sub_m3u8=true&edge_slice=true&user_session_id=a908e103e30001733905274f312637ac"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=69df3b84a0d5256189be0b2d55e8c5cb&sub_m3u8=true&edge_slice=true&auth_key=1677359277-0-0-b30f858b4e93b23c72c6d90bd5ae7ebd"
          
                 },
 {
@@ -418,12 +418,12 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?auth_key=1677359277-0-0-a022431cdfe24cf4a5417cdd26e85b2f&edge_slice=true&user_session_id=da83b8be79e4542360f8e656bc4e1ef7&sub_m3u8=true"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?auth_key=1677359277-0-0-0d1e27bdf20c7b8e9c61131da2098877&edge_slice=true&sub_m3u8=true&user_session_id=1b9e7c319838d1279195a122098a0696"
          
                 },
 {
