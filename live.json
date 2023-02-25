@@ -121,7 +121,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 26",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "teams" : "AFC Bournemouth Vs Manchester City",
@@ -143,8 +143,13 @@
          
                 },
 {
+                    "type": "Soco HD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112310_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677366315-0-0-b83b87917ffe63c87f51bedb69d2b275&user_session_id=2c4534d4d8005def9f0dbdc4a77083ff"
+                },
+
+{
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112310_lhd.m3u8?sub_m3u8=true&user_session_id=8c7566af475772cfc60c9f5b9264c430&auth_key=1677366315-0-0-5ee0cbbedebc91ed118026768b9140c4&edge_slice=true"
                 }
                 
             ]
