@@ -1,152 +1,37 @@
 [
-
-    
-
 {
-           "league": "🏆 Laliga",
-            "date": "Feb 26",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-            "teams" : "AFC Bournemouth Vs Manchester City",
-            "hteam" : "Bournemouth",
-            "ateam" : "Manchester City",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
             "hotmat":"yes",
             "link":[
                 
-
+{
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
+                },
                 
 {
-                    "type": "China SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1677359277-0-0-0fab7a36f691c00435c53bb83d49a58d&sub_m3u8=true&edge_slice=true&user_session_id=a908e103e30001733905274f312637ac"
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
          
                 },
 {
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=69df3b84a0d5256189be0b2d55e8c5cb&sub_m3u8=true&edge_slice=true&auth_key=1677359277-0-0-b30f858b4e93b23c72c6d90bd5ae7ebd"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
          
                 },
 {
-                    "type": "Soco HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112310_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677366315-0-0-b83b87917ffe63c87f51bedb69d2b275&user_session_id=2c4534d4d8005def9f0dbdc4a77083ff"
-                },
-
-{
-                    "type": "Soco FHD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112310_lhd.m3u8?sub_m3u8=true&user_session_id=8c7566af475772cfc60c9f5b9264c430&auth_key=1677366315-0-0-5ee0cbbedebc91ed118026768b9140c4&edge_slice=true"
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
                 
             ]
-},
-{
-           "league": "🏆 Laliga",
-            "date": "Feb 26",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-            "teams" : "Real Madrid Vs Atletico Madrid",
-            "hteam" : "Real Madrid",
-            "ateam" : "Atletico Madrid",
-            "hotmat":"yes",
-            "link":[
-                
-
-                
-{
-                    "type": "China SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lsd.m3u8?auth_key=1677366195-0-0-7be011bd9ad1c9e0fd4d9f41dab29415&sub_m3u8=true&edge_slice=true&user_session_id=9cb4dffe7b8e403297d4f4bfc94f61d0"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?auth_key=1677359277-0-0-0d1e27bdf20c7b8e9c61131da2098877&edge_slice=true&sub_m3u8=true&user_session_id=1b9e7c319838d1279195a122098a0696"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lhd.m3u8?auth_key=1677366195-0-0-a4c7d02e4315937e5bfcbead8579bf10&sub_m3u8=true&edge_slice=true&user_session_id=c0128434a76a3fbda1e07cf938319b6b"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "Feb 26",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "teams" : "Crystal Palace Vs Liverpool",
-            "hteam" : "Crystal Palace",
-            "ateam" : "Liverpool",
-            "hotmat":"yes",
-            "link":[
-                
-
-{
-                    "type": "Vietnam SD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-         
-                },
-
-                
-{
-                    "type": "China SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lsd.m3u8?user_session_id=2852c7491fe0555c3af96bc0e96e82c7&sub_m3u8=true&auth_key=1677373136-0-0-93980e3fbf042c7c308b0e064e07a6a1&edge_slice=true"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lhd.m3u8?auth_key=1677373136-0-0-f736b84da129d8b98a36c81681f9bf5d&user_session_id=643ce46252661a2f356a15f0e2a527f8&edge_slice=true&sub_m3u8=true"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=758d25f25f9d1b981acb15ab431cb167&txTime=63faae6b"
-                },
-
-{
-                    "type": "Eng HD",
-                "livelink":"https://weakashfysg.azureedge.net/live/sppl/chunks.m3u8"
-         
-                },
-
-{
-                    "type": "Bein HD",
-                "livelink":"http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768"
-         
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Laliga",
-            "date": "Feb 26",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-            "teams" : "Valencia Vs Real Sociedad",
-            "hteam" : "Valencia",
-            "ateam" : "Real Sociedad",
-            "hotmat":"yes",
-            "link":[
-                
-
-                
-{
-                    "type": "Soco SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-118206_lsd.m3u8?edge_slice=true&user_session_id=6d0cc9043cf150641da0bf34cf4a05de&sub_m3u8=true&auth_key=1677373095-0-0-fa0a60fd72e5ef66c0dd17b20779c5ec"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?edge_slice=true&auth_key=1677373196-0-0-d2d836a22b5003dca28616c5cbd53c41&user_session_id=a7a9570be2dc3114d8e9ab0155e6f85b&sub_m3u8=true"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-118206_lhd.m3u8?user_session_id=a5ccee8e103732b73095ab31ad1e267e&edge_slice=true&sub_m3u8=true&auth_key=1677373095-0-0-a874661984ffb2bdad4b81c8259039ea"
-                }
-                
-            ]
-}
+}    
 ]
