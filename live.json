@@ -1,5 +1,33 @@
 [
 {
+           "league": "🏆 Saudi Premier League",
+            "date": "Feb 25",
+            "time": "live",
+            "himg": "",
+            "aimg": "",
+            "teams" : " Vs ",
+            "hteam" : "",
+            "ateam" : "",
+            "hotmat":"yes",
+            "link":[
+                
+
+                
+{
+                    "type": "China SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1677361755-0-0-8a0820fa521c7a56152a02125cdfcc72&user_session_id=df2accba3210b1678b7bb904d58a7a1d"
+         
+                },
+
+{
+                    "type": "Soco FHD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lhd.m3u8?auth_key=1677361755-0-0-eb3d98ae32b52268c876e5534444c0a8&sub_m3u8=true&user_session_id=cdfcae8e6dc74485cc58cfb16bf19dbc&edge_slice=true"
+                }
+                
+            ]
+},
+
+{
            "league": "🏆 Bundesliga",
             "date": "Feb 25",
             "time": "live",
