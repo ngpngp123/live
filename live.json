@@ -102,7 +102,13 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=758d25f25f9d1b981acb15ab431cb167&txTime=63faae6b"
-                }
+                },
+
+{
+                    "type": "Eng HD",
+                "livelink":"https://weakashfysg.azureedge.net/live/sppl/playlist.m3u8"
+         
+                },
                 
             ]
 },
