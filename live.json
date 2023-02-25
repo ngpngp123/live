@@ -1,123 +1,7 @@
 [
-{
-           "league": "🏆 Saudi Premier League",
-            "date": "Feb 25",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/582823_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-            "teams" : "Damac FC Vs Al Nassr FC",
-            "hteam" : "Damac FC",
-            "ateam" : "Al Nassr FC",
-            "hotmat":"yes",
-            "link":[
-                
 
-                
-{
-                    "type": "China SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1677361755-0-0-8a0820fa521c7a56152a02125cdfcc72&user_session_id=df2accba3210b1678b7bb904d58a7a1d"
-         
-                },
-
-{
-                    "type": "Soco FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lhd.m3u8?auth_key=1677361755-0-0-eb3d98ae32b52268c876e5534444c0a8&sub_m3u8=true&user_session_id=cdfcae8e6dc74485cc58cfb16bf19dbc&edge_slice=true"
-                }
-                
-            ]
-},
     
 
-{
-           "league": "🏆 Serie A",
-            "date": "Feb 25",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "teams" : "Empoli Vs Napoli",
-            "hteam" : "Empoli",
-            "ateam" : "Napoli",
-            "hotmat":"yes",
-            "link":[
-                
-
-                
-{
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1677366135-0-0-163a58f1a524dae952aaaaa6cb47c4ed&edge_slice=true&sub_m3u8=true&user_session_id=4f787dc637ace377000d630c5bd614f1"
-         
-                },
-
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1677366135-0-0-5eaf5bee5091d8b97da515c6e4c50e6b&edge_slice=true&sub_m3u8=true&user_session_id=295198eedd4a8bc1c1ef5cbc68105fac"
-         
-                }
-
-
-                
-            ]
-},
-{
-           "league": "🏆 Laliga",
-            "date": "Feb 25",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-            "teams" : "Cadiz Vs Rayo Vallecano",
-            "hteam" : "Cadiz",
-            "ateam" : "Rayo Vallecano",
-            "hotmat":"yes",
-            "link":[
-                
-
-                
-{
-                    "type": "China SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115447_lhd.m3u8?auth_key=1677358455-0-0-f11eb07400fc625840560e878efd63a9&user_session_id=e88f34bf526b320c42d1cf1e65b18196&sub_m3u8=true&edge_slice=true"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115447_lsd.m3u8?sub_m3u8=true&auth_key=1677358455-0-0-bf69f3f6dc71349b25d3c38ef5c99fab&edge_slice=true&user_session_id=a0444440775586ea0b8f36ba039a2857"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=b7aec36cb1c4be37871f259420446f4a&txTime=63fa5687"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Ligue 1",
-            "date": "Feb 25",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-            "teams" : "Angers Vs Lyon",
-            "hteam" : "Angers",
-            "ateam" : "Lyon",
-            "hotmat":"yes",
-            "link":[
-                
-
-                
-{
-                    "type": "China SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lsd.m3u8?user_session_id=948a5473aeb2f6b1a70f0a73b3dd4238&auth_key=1677358977-0-0-a7ff086fefc8082a94f92ab3961b46f0&sub_m3u8=true&edge_slice=true"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lhd.m3u8?auth_key=1677358977-0-0-957af228e3eeb8997209bcf17267f976&edge_slice=true&user_session_id=ed5edd4e5eb727bd5cfb1ea3506a05f1&sub_m3u8=true"
-         
-                
-
-                }
-                
-            ]
-},
 {
            "league": "🏆 Laliga",
             "date": "Feb 26",
@@ -188,7 +72,7 @@
 {
            "league": "🏆 Premier League",
             "date": "Feb 26",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
             "teams" : "Crystal Palace Vs Liverpool",
@@ -201,17 +85,17 @@
                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lsd.m3u8?user_session_id=2852c7491fe0555c3af96bc0e96e82c7&sub_m3u8=true&auth_key=1677373136-0-0-93980e3fbf042c7c308b0e064e07a6a1&edge_slice=true"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lhd.m3u8?auth_key=1677373136-0-0-f736b84da129d8b98a36c81681f9bf5d&user_session_id=643ce46252661a2f356a15f0e2a527f8&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=758d25f25f9d1b981acb15ab431cb167&txTime=63faae6b"
                 }
                 
             ]
@@ -219,7 +103,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 26",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
             "teams" : "Valencia Vs Real Sociedad",
@@ -231,18 +115,18 @@
 
                 
 {
-                    "type": "China SD",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-118206_lsd.m3u8?edge_slice=true&user_session_id=6d0cc9043cf150641da0bf34cf4a05de&sub_m3u8=true&auth_key=1677373095-0-0-fa0a60fd72e5ef66c0dd17b20779c5ec"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?edge_slice=true&auth_key=1677373196-0-0-d2d836a22b5003dca28616c5cbd53c41&user_session_id=a7a9570be2dc3114d8e9ab0155e6f85b&sub_m3u8=true"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-118206_lhd.m3u8?user_session_id=a5ccee8e103732b73095ab31ad1e267e&edge_slice=true&sub_m3u8=true&auth_key=1677373095-0-0-a874661984ffb2bdad4b81c8259039ea"
                 }
                 
             ]
