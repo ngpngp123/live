@@ -27,158 +27,34 @@
             ]
 },
     
+
 {
-           "league": "🏆 Premier League",
+           "league": "🏆 Serie A",
             "date": "Feb 25",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "teams" : "Leicester City Vs Arsenal",
-            "hteam" : "Leicester City",
-            "ateam" : "Arsenal",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+            "teams" : "Empoli Vs Napoli",
+            "hteam" : "Empoli",
+            "ateam" : "Napoli",
             "hotmat":"yes",
             "link":[
-                {
+                
+
+                
+{
+                    "type": "SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1677366135-0-0-163a58f1a524dae952aaaaa6cb47c4ed&edge_slice=true&sub_m3u8=true&user_session_id=4f787dc637ace377000d630c5bd614f1"
+         
+                },
+
+{
                     "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-         
-                },
-
-                
-{
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?edge_slice=true&auth_key=1677350415-0-0-12843e8a5f19c2de541620c6a5bc6636&sub_m3u8=true&user_session_id=f15eea967d8fea3b2b192172e527d810"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677350997-0-0-2690bd1e1e2e707407e2fdc6b2c22ba5&user_session_id=f807bb849b0729ea88f789cb58ec585e"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?user_session_id=6a4b1737a800193c25513505a43040e1&auth_key=1677350415-0-0-d434c10a83cdd6478cdac8968530dc44&edge_slice=true&sub_m3u8=true"
-                },
-
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1677358497-0-0-c8ccff8bc193dbe3ec7a627ea1a3525e&user_session_id=db1007bd3145262861b700a21038288b&sub_m3u8=true&edge_slice=true"
-         
-                },
-
-{
-                    "type": "China SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1677358497-0-0-c8ccff8bc193dbe3ec7a627ea1a3525e&user_session_id=7b369ff8c1622c0ede122c7d3d10477c&edge_slice=true&sub_m3u8=true"
-         
-                },
-{
-                    "type": "English",
-                "livelink":"https://wwpasksk.azureedge.net/live/sppl/chunks.m3u8"
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1677366135-0-0-5eaf5bee5091d8b97da515c6e4c50e6b&edge_slice=true&sub_m3u8=true&user_session_id=295198eedd4a8bc1c1ef5cbc68105fac"
          
                 }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "Feb 25",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-            "teams" : "Everton Vs Aston Villa",
-            "hteam" : "Everton",
-            "ateam" : "Aston Villa",
-            "hotmat":"yes",
-            "link":[
-                
 
-                
-{
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-118206_lsd.m3u8?user_session_id=c6a7e311888192239427a25dc0f7b5a7&auth_key=1677350415-0-0-3c18fe96ff280aad7e08fe3182aa1e60&edge_slice=true&sub_m3u8=true"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-900001_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677350997-0-0-e8e0d0508820d53b306bab89cc77e034&user_session_id=4460e868c5a49c606828e1200174c43b"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-118206_lhd.m3u8?user_session_id=2e2aac392230f392066c5282e16f8526&auth_key=1677350415-0-0-f6e01b6e950ff33d12a3c3aeda5149a0&sub_m3u8=true&edge_slice=true"
-                },
-{
-                    "type": "Viet",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-         
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "Feb 25",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
-            "teams" : "Leeds United Vs Southampton",
-            "hteam" : "Leeds United",
-            "ateam" : "Southampton",
-            "hotmat":"yes",
-            "link":[
-                
 
-                
-{
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?edge_slice=true&auth_key=1677350475-0-0-c4267dc708f468fb5c11564faaa0cbfa&sub_m3u8=true&user_session_id=67f3640bbdf4d076a071cbfaac82cc87"
-         
-                },
-
-                    
-{
-                    "type": "Soco FHD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?user_session_id=70c017e6a467eeedff2d63f30d230e13&edge_slice=true&sub_m3u8=true&auth_key=1677350475-0-0-581813ffcf217a2acdc75b2c62815478"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "Feb 25",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-            "teams" : "West Ham United Vs Nottingham Forest",
-            "hteam" : "West Ham",
-            "ateam" : "Nottingham",
-            "hotmat":"yes",
-            "link":[
-                
-
-                
-{
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?auth_key=1677350535-0-0-01e112e21a4fd203959ecb4062fec035&edge_slice=true&sub_m3u8=true&user_session_id=56d6c946c4f713cd082e8e09e591868c"
-         
-                },
-
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-259579_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=cef1361de117dcb8e0162557b3a5870f&auth_key=1677358617-0-0-26597fdd3de80e0cdd42af6c36a60636"
-         
-                },
-
-{
-                    "type": "China SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-259579_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677358617-0-0-26597fdd3de80e0cdd42af6c36a60636&user_session_id=1cedb5123084fb657dcb91d4f091f59e"
-         
-                },
-
-{
-                    "type": "Soco FHD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?auth_key=1677350535-0-0-238359915c21ff9fc9e8aad152d3de45&edge_slice=true&sub_m3u8=true&user_session_id=0c4a95a2fbbe9af51d096d4e338d25d6"
-                }
                 
             ]
 },
