@@ -88,8 +88,8 @@
 },
 {
            "league": "🏆 Carabao Cup Final",
-            "date": "Feb 26",
-            "time": "11:00 PM",
+            "date": "Feb 26(11:00 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "teams" : "Man United Vs Newcastle",
@@ -111,8 +111,11 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&user_session_id=f223c3e9b1af11e400d24a51a43ca730&edge_slice=true&auth_key=1677438195-0-0-3dff02b6bf4a71ef649daa3f44262b9d"
-                }
-                
+                },
+              {
+                    "type": "English FHD",
+                "livelink":"https://hgfdasfas.azureedge.net/live/ssme/chunks.m3u8"
+                }  
             ]
 },
 {
