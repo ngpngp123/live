@@ -33,5 +33,499 @@
                 }
                 
             ]
-}    
+},
+{
+           "league": "🏆 Serie A",
+            "date": "Feb 26",
+            "time": "6:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "teams" : "Bologna Vs Inter",
+            "hteam" : "Bologna",
+            "ateam" : "Inter",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Ligue 1",
+            "date": "Feb 26",
+            "time": "6:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
+            "teams" : "Lorient Vs Auxerre",
+            "hteam" : "Lorient",
+            "ateam" : "Auxerre",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Laliga",
+            "date": "Feb 26",
+            "time": "7:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+            "teams" : "Athletic Club Vs Girona",
+            "hteam" : "Athletic Club",
+            "ateam" : "Girona",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Premier League",
+            "date": "Feb 26",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+            "teams" : "Tottenham Vs Chelsea",
+            "hteam" : "Tottenham",
+            "ateam" : "Chelsea",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Ligue 1",
+            "date": "Feb 26",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
+            "teams" : "Nantes Vs Rennes",
+            "hteam" : "Nantes",
+            "ateam" : "Rennes",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Ligue 1",
+            "date": "Feb 26",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
+            "teams" : "Reims Vs Toulouse",
+            "hteam" : "Reims",
+            "ateam" : "Toulouse",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Serie A",
+            "date": "Feb 26",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
+            "teams" : "Salernitana Vs Monza",
+            "hteam" : "Salernitana",
+            "ateam" : "Monza",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Bundesliga",
+            "date": "Feb 26",
+            "time": "9:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+            "teams" : "SC Freiburg Vs Bayer Leverkusen",
+            "hteam" : "SC Freiburg",
+            "ateam" : "Bayer Leverkusen",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Laliga",
+            "date": "Feb 26",
+            "time": "9:45 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
+            "teams" : "Celta Vigo Vs Real Valladolid",
+            "hteam" : "Celta Vigo",
+            "ateam" : "Real Valladolid",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Ligue 1",
+            "date": "Feb 26",
+            "time": "10:35 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
+            "teams" : "Monaco Vs Nice",
+            "hteam" : "Monaco",
+            "ateam" : "Nice",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Carabao Cup Final",
+            "date": "Feb 26",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "teams" : "Man United Vs Newcastle",
+            "hteam" : "Man United",
+            "ateam" : "Newcastle",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Bundesliga",
+            "date": "Feb 26",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
+            "teams" : "Bayern München Vs Union Berlin",
+            "hteam" : "Bayern München",
+            "ateam" : "Union Berlin",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Serie A",
+            "date": "Feb 26",
+            "time": "11:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
+            "teams" : "Udinese Vs Spezia",
+            "hteam" : "Udinese",
+            "ateam" : "Spezia",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Laliga",
+            "date": "Feb 27",
+            "time": "12:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "teams" : "Almeria Vs Barcelona",
+            "hteam" : "Almeria",
+            "ateam" : "Barcelona",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+  {
+           "league": "🏆 Ligue 1",
+            "date": "Feb 27",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+            "teams" : "Marseille Vs PSG",
+            "hteam" : "Marseille",
+            "ateam" : "PSG",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Serie A",
+            "date": "Feb 27",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+            "teams" : "AC Milan Vs Atalanta",
+            "hteam" : "AC Milan",
+            "ateam" : "Atalanta",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Laliga",
+            "date": "Feb 27",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+            "teams" : "Sevilla Vs Osasuna",
+            "hteam" : "Sevilla",
+            "ateam" : "Osasuna",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+}
+
 ]
