@@ -1,140 +1,6 @@
 [
-{
-           "league": "🏆 Laliga",
-            "date": "Feb 26",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-            "teams" : "Celta Vigo Vs Real Valladolid",
-            "hteam" : "Celta Vigo",
-            "ateam" : "Real Valladolid",
-            "hotmat":"yes",
-            "link":[
-                                
-{
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?edge_slice=true&auth_key=1677438135-0-0-a416cf92e06e22f8ba798fae15b2326b&sub_m3u8=true&user_session_id=a7a2fba24e86b33422f0ed8f44891282"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lsd.m3u8?auth_key=1677440037-0-0-2926ca76319353ea612b67a1b6231d36&edge_slice=true&user_session_id=f7c5b17205d440204b26d0a45b2affa3&sub_m3u8=true"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=8da3e12e7046a6d9a8cc495ae3c3989c&txTime=63fbac7b"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Ligue 1",
-            "date": "Feb 26",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
-            "teams" : "Monaco Vs Nice",
-            "hteam" : "Monaco",
-            "ateam" : "Nice",
-            "hotmat":"yes",
-            "link":[
-                                
-{
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-100684_lsd.m3u8?user_session_id=a3c613749c963d9508a3a7c3ae1f610a&sub_m3u8=true&auth_key=1677438135-0-0-61d2f859792cce210a96078433b332aa&edge_slice=true"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2412304_ld.m3u8?auth_key=1677440097-0-0-9da172c4df1cafbc21e04484f7cb2ba5"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-100684_lhd.m3u8?user_session_id=9a928b963d02adbae1b36377bbab0d54&sub_m3u8=true&auth_key=1677438135-0-0-6c5aa985046054e3b8c763e6a0174833&edge_slice=true"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Carabao Cup Final",
-            "date": "Feb 26(11:00 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-            "teams" : "Man United Vs Newcastle",
-            "hteam" : "Man United",
-            "ateam" : "Newcastle",
-            "hotmat":"yes",
-            "link":[
-                                
-{
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lsd.m3u8?auth_key=1677438255-0-0-f90b72665d191d3fc81884d5ea9f0adb&edge_slice=true&sub_m3u8=true&user_session_id=02e1c06585cfbd91dd447ac325fd7a2d"
-         
-                },
-{
-                    "type": "Vebo SD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-         
-                },
-{
-                    "type": "China SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?edge_slice=true&auth_key=1677440157-0-0-afb41cd7b6d50c5b851fb3e27cc27a08&sub_m3u8=true&user_session_id=93b9aa30db3780551ea12211741f69b5"
-         
-                },
-{
-                    "type": "Vebo HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-         
-                },
-{
-                    "type": "Soco HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&user_session_id=f223c3e9b1af11e400d24a51a43ca730&edge_slice=true&auth_key=1677438195-0-0-3dff02b6bf4a71ef649daa3f44262b9d"
-                },
-              {
-                    "type": "English FHD",
-                "livelink":"https://hgfdasfas.azureedge.net/live/ssme/chunks.m3u8"
-                },
-{
-                    "type": "English FHD 2",
-                "livelink":"https://weaksdafhsagf.azureedge.net/live/ssme/chunks.m3u8"
-                }    
-            ]
-},
-{
-           "league": "🏆 Bundesliga",
-            "date": "Feb 26",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
-            "teams" : "Bayern München Vs Union Berlin",
-            "hteam" : "Bayern München",
-            "ateam" : "Union Berlin",
-            "hotmat":"yes",
-            "link":[
-                                
-{
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-160430_lsd.m3u8?edge_slice=true&user_session_id=b567c4f5ae20b6ed804a5e875fbaff92&sub_m3u8=true&auth_key=1677438255-0-0-da52bc9bc765f126c0f00b580ba0752b"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lsd.m3u8?edge_slice=true&auth_key=1677440157-0-0-fbc5ac33546a105a06aeeb4df389ac80&user_session_id=adacabb40cd32c61687a6a2c59c5d1fc&sub_m3u8=true"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-160430_lhd.m3u8?edge_slice=true&user_session_id=cb1696634f6acc781744c9b87ce8b006&sub_m3u8=true&auth_key=1677438255-0-0-c65a74b8bcc6ef3b3f0862cdf5f20f5f"
-                },
-              {
-                    "type": "Vebo FHD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
-                }  
-            ]
-},
+
+
 {
            "league": "🏆 Serie A",
             "date": "Feb 26",
@@ -196,7 +62,7 @@
   {
            "league": "🏆 Ligue 1",
             "date": "Feb 27",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
             "teams" : "Marseille Vs PSG",
@@ -225,7 +91,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Feb 27",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
             "teams" : "AC Milan Vs Atalanta",
@@ -236,12 +102,12 @@
                                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lsd.m3u8?edge_slice=true&user_session_id=3b90f26f9685fc13f75b01a5836f345f&auth_key=1677460256-0-0-411d518f6c5304fa394c16d7d9957889&sub_m3u8=true"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lhd.m3u8?edge_slice=true&user_session_id=cb008b627dc06f6e77ec107ad0f0d749&auth_key=1677460256-0-0-7a676751ed9fcbc74a2af0489c9c23e9&sub_m3u8=true"
          
                 },
 {
@@ -254,7 +120,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 27",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
             "teams" : "Sevilla Vs Osasuna",
@@ -265,7 +131,7 @@
                                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=4af87a0acb5b880a1980d618a45bf7cb&auth_key=1677460155-0-0-0ccfc7dba4a84a3080034d38230b1edc"
          
                 },
 {
@@ -275,7 +141,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f4b9c2fcd7dd1f97adb25ae0f1bde6df&auth_key=1677460155-0-0-ea73c1ab753c54079c1a2a47e71c107c"
                 }
                 
             ]
