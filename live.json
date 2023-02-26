@@ -91,8 +91,8 @@
 },
 {
            "league": "🏆 Ligue 1",
-            "date": "Feb 26",
-            "time": "8:30 PM",
+            "date": "Feb 26(8:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
             "teams" : "Nantes Vs Rennes",
@@ -108,7 +108,7 @@
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lsd.m3u8?edge_slice=true&auth_key=1677440217-0-0-9481d508579f5774c91a3cc59f70e7af&sub_m3u8=true&user_session_id=f4ff40ed7a12e1399d515994c4c9a780"
          
                 },
 {
@@ -120,8 +120,8 @@
 },
 {
            "league": "🏆 Ligue 1",
-            "date": "Feb 26",
-            "time": "8:30 PM",
+            "date": "Feb 26(8:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
             "teams" : "Reims Vs Toulouse",
@@ -149,8 +149,8 @@
 },
 {
            "league": "🏆 Serie A",
-            "date": "Feb 26",
-            "time": "8:30 PM",
+            "date": "Feb 26(8:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
             "teams" : "Salernitana Vs Monza",
