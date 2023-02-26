@@ -88,8 +88,8 @@
 },
 {
            "league": "🏆 Premier League",
-            "date": "Feb 26",
-            "time": "8:00 PM",
+            "date": "Feb 26(8:00 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "teams" : "Tottenham Vs Chelsea",
@@ -105,7 +105,7 @@
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?user_session_id=a319da98ddc2657044632bdd2e43325c&auth_key=1677438357-0-0-7fb65ca51ec115f8c0c091674aa91065&edge_slice=true&sub_m3u8=true"
          
                 },
 {
