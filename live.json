@@ -47,13 +47,13 @@
             "link":[
                                 
 {
-                    "type": "China SD",
+                    "type": "Soco SD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?auth_key=1677432795-0-0-e8c0d3cd5503da29bd7b7f0261b5cb22&sub_m3u8=true&user_session_id=ba3b4ae246c62fb575bf3072b1689ea8&edge_slice=true"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1677432837-0-0-f62558bd7645d8a0d9dcc40d5a5db0e1"
          
                 },
 {
