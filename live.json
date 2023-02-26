@@ -66,7 +66,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Feb 26",
-            "time": "6:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
             "teams" : "Lorient Vs Auxerre",
@@ -77,17 +77,17 @@
                                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lsd.m3u8?edge_slice=true&auth_key=1677432957-0-0-2b6e4bf7d90db82b272557a80d8a410d&sub_m3u8=true&user_session_id=30ec6ebacb62316f7533f88cce317a9b"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-1567980.m3u8?auth_key=1677432957-0-0-f9473b33668f1bc2938f2bc59e8adc21"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1677433275-0-0-ae31e01b87ce1059017fd3e11c2b438d&sub_m3u8=true&user_session_id=1565636c0b9b5f4ae730a64900c8b326&edge_slice=true"
                 }
                 
             ]
@@ -106,12 +106,12 @@
                                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-675173_lsd.m3u8?auth_key=1677433017-0-0-7d840a8ef4f33fbc0b6af8bde30f7eaf&edge_slice=true&sub_m3u8=true&user_session_id=dcb99862c47c904fdf9a3fa802f1caff"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-675173_lhd.m3u8?user_session_id=94290a6ce85a4001eefd678d9fdfa755&sub_m3u8=true&auth_key=1677433017-0-0-7f3d673da77718a34007a506a4731563&edge_slice=true"
          
                 },
 {
@@ -396,12 +396,12 @@
                                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?user_session_id=9748b28e358bbfa5bdfb33d75ee4ff85&edge_slice=true&auth_key=1677433197-0-0-ba33f9067abe9f3ec074b2f71bfe10fd&sub_m3u8=true"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?edge_slice=true&auth_key=1677433197-0-0-bbcccdf634999c9725e0d6f3746aedc2&sub_m3u8=true&user_session_id=f5f121062decd20553533c053e0ffbba"
          
                 },
 {
@@ -425,12 +425,12 @@
                                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lsd.m3u8?auth_key=1677433137-0-0-d8beafcb0b276f7b39e67bdac3a3c71e&edge_slice=true&user_session_id=fec7c1045434f88f7210d8908d9bfd3a&sub_m3u8=true"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=94d82db67a9dd2637f23407e64044a2a&auth_key=1677433137-0-0-064fe4f46cf225dfd925787a7840f398"
          
                 },
 {
@@ -454,12 +454,12 @@
                                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1677433137-0-0-2759e8477bc23cb30176369412e41814&sub_m3u8=true&edge_slice=true&user_session_id=2c0290def397d4e2355d25c16eae3ff8"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1677433077-0-0-21c8f6ae554f279d616d0a4c5fd20d04&edge_slice=true&user_session_id=d270095658975e1200856a576d0e21b3&sub_m3u8=true"
          
                 },
 {
