@@ -37,7 +37,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Feb 26",
-            "time": "6:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
             "teams" : "Bologna Vs Inter",
@@ -48,7 +48,7 @@
                                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?auth_key=1677432795-0-0-e8c0d3cd5503da29bd7b7f0261b5cb22&sub_m3u8=true&user_session_id=ba3b4ae246c62fb575bf3072b1689ea8&edge_slice=true"
          
                 },
 {
@@ -58,7 +58,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677432795-0-0-d53df041e576ed6c98b7c4c62e3c3717&user_session_id=cfc64e8a6db21258ffb1b63211c84913"
                 }
                 
             ]
