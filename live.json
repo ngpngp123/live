@@ -138,7 +138,7 @@
 {
            "league": "🏆 Serie A",
             "date": "Feb 26",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
             "teams" : "Udinese Vs Spezia",
@@ -149,7 +149,7 @@
                                 
 {
                     "type": "China SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?user_session_id=9748b28e358bbfa5bdfb33d75ee4ff85&edge_slice=true&auth_key=1677433197-0-0-ba33f9067abe9f3ec074b2f71bfe10fd&sub_m3u8=true"
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-161243_lsd.m3u8?user_session_id=b15dfa800265e1c17f5380be5894d7ae&edge_slice=true&sub_m3u8=true&auth_key=1677451395-0-0-52dd6c66b41aba117893fe8c6895155b"
          
                 },
 {
@@ -159,7 +159,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-161243_lhd.m3u8?edge_slice=true&user_session_id=95bcc0d994b874d7c1ec53441211355b&sub_m3u8=true&auth_key=1677451395-0-0-844d578624b700d79eaef452ec3935b9"
                 }
                 
             ]
