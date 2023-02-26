@@ -167,7 +167,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 27",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "teams" : "Almeria Vs Barcelona",
@@ -188,7 +188,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=c93d77519ba3ee2712c5b54c3829007a&txTime=63fbea5b"
                 }
                 
             ]
