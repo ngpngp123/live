@@ -1,34 +1,5 @@
 [
 {
-           "league": "🏆 Ligue 1",
-            "date": "Feb 26",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
-            "teams" : "Lorient Vs Auxerre",
-            "hteam" : "Lorient",
-            "ateam" : "Auxerre",
-            "hotmat":"yes",
-            "link":[
-                                
-{
-                    "type": "China SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lsd.m3u8?edge_slice=true&auth_key=1677432957-0-0-2b6e4bf7d90db82b272557a80d8a410d&sub_m3u8=true&user_session_id=30ec6ebacb62316f7533f88cce317a9b"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-1567980.m3u8?auth_key=1677432957-0-0-f9473b33668f1bc2938f2bc59e8adc21"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1677433275-0-0-ae31e01b87ce1059017fd3e11c2b438d&sub_m3u8=true&user_session_id=1565636c0b9b5f4ae730a64900c8b326&edge_slice=true"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Laliga",
             "date": "Feb 26",
             "time": "live",
@@ -85,7 +56,7 @@
                 },
                 {
                     "type": "Eng FHD",
-                "livelink":"https://hgfsdgvags.azureedge.net/live/ssme/chunks.m3u8"
+                "livelink":"https://weakfhahfwjt.azureedge.net/live/ssme/chunks.m3u8"
                 }
             ]
 },
