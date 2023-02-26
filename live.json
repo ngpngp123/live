@@ -1,37 +1,5 @@
 [
 {
-           "league": "🏆 Premier League",
-            "date": "Feb 26(8:00 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "teams" : "Tottenham Vs Chelsea",
-            "hteam" : "Tottenham",
-            "ateam" : "Chelsea",
-            "hotmat":"yes",
-            "link":[
-                                
-{
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1677437895-0-0-ea56591b4986633be5e4a623a1e7464d&user_session_id=3ad9106f78c63953632fe9a94c3ae500&sub_m3u8=true&edge_slice=true"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?user_session_id=a319da98ddc2657044632bdd2e43325c&auth_key=1677438357-0-0-7fb65ca51ec115f8c0c091674aa91065&edge_slice=true&sub_m3u8=true"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1677437895-0-0-4ebcbd28a4ba4e59a30ab5d1e6a6e106&user_session_id=c10f263a55c73e442ca1e147971c966f&sub_m3u8=true&edge_slice=true"
-                },
-                {
-                    "type": "Eng FHD",
-                "livelink":"https://weakfhahfwjt.azureedge.net/live/ssme/chunks.m3u8"
-                }
-            ]
-},
-{
            "league": "🏆 Ligue 1",
             "date": "Feb 26(8:30 PM)",
             "time": "live",
@@ -179,7 +147,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "Feb 26",
-            "time": "10:35 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
             "teams" : "Monaco Vs Nice",
