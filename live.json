@@ -104,18 +104,32 @@
          
                 },
 {
-                    "type": "China HD",
+                    "type": "Vebo SD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+         
+                },
+{
+                    "type": "China SD",
                 "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?edge_slice=true&auth_key=1677440157-0-0-afb41cd7b6d50c5b851fb3e27cc27a08&sub_m3u8=true&user_session_id=93b9aa30db3780551ea12211741f69b5"
          
                 },
 {
-                    "type": "Soco FHD",
+                    "type": "Vebo HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         
+                },
+{
+                    "type": "Soco HD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&user_session_id=f223c3e9b1af11e400d24a51a43ca730&edge_slice=true&auth_key=1677438195-0-0-3dff02b6bf4a71ef649daa3f44262b9d"
                 },
               {
                     "type": "English FHD",
                 "livelink":"https://hgfdasfas.azureedge.net/live/ssme/chunks.m3u8"
-                }  
+                },
+{
+                    "type": "Vebo FHD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may104FHD/chunklist.m3u8"
+                }    
             ]
 },
 {
