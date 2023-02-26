@@ -111,8 +111,11 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1677437895-0-0-4ebcbd28a4ba4e59a30ab5d1e6a6e106&user_session_id=c10f263a55c73e442ca1e147971c966f&sub_m3u8=true&edge_slice=true"
+                },
+                {
+                    "type": "Eng FHD",
+                "livelink":"https://weakfhahfwjt.azureedge.net/live/ssme/chunks.m3u8"
                 }
-                
             ]
 },
 {
