@@ -83,7 +83,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-100684_lhd.m3u8?edge_slice=true&auth_key=1677463575-0-0-72f5da0863bfb8cb9601edd1a0430574&user_session_id=b584090c0d5fc1d32b0939621f6dc9bf&sub_m3u8=true"
                 }
                 
             ]
@@ -112,7 +112,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?user_session_id=d5f51caa487f1fb6658b001605fe44f8&auth_key=1677463575-0-0-bfc5080180136f41cefc03dbd08e35bd&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
@@ -134,11 +134,7 @@
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=4af87a0acb5b880a1980d618a45bf7cb&auth_key=1677460155-0-0-0ccfc7dba4a84a3080034d38230b1edc"
          
                 },
-{
-                    "type": "China HD",
-                "livelink":""
-         
-                },
+
 {
                     "type": "Soco FHD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f4b9c2fcd7dd1f97adb25ae0f1bde6df&auth_key=1677460155-0-0-ea73c1ab753c54079c1a2a47e71c107c"
