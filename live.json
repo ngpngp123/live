@@ -135,7 +135,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "Feb 26",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
             "teams" : "Bayern München Vs Union Berlin",
@@ -157,8 +157,11 @@
 {
                     "type": "Soco FHD",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-160430_lhd.m3u8?edge_slice=true&user_session_id=cb1696634f6acc781744c9b87ce8b006&sub_m3u8=true&auth_key=1677438255-0-0-c65a74b8bcc6ef3b3f0862cdf5f20f5f"
-                }
-                
+                },
+              {
+                    "type": "Vebo FHD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
+                }  
             ]
 },
 {
