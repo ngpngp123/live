@@ -95,7 +95,7 @@
 {
            "league": "🏆 Laliga",
             "date": "Feb 26",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
             "teams" : "Athletic Club Vs Girona",
@@ -116,7 +116,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?user_session_id=28119a760b46a30771d4b24a4f128d07&auth_key=1677436395-0-0-54561fb9585a36f18daecf3755ed9a53&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
