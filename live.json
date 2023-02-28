@@ -37,7 +37,7 @@
 {
            "league": "🏆 Serie A",
             "date": "March 1",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "teams" : "Cremonese Vs Roma",
@@ -47,8 +47,8 @@
             "link":[
                                 
 {
-                    "type": "China SD",
-                "livelink":""
+                    "type": "SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1677626535-0-0-b5c0b8db2b8c144abae951b59a1e3444&edge_slice=true&sub_m3u8=true&user_session_id=2d4e36cf1348aab10ee33085aa978168"
          
                 },
 {
@@ -58,7 +58,7 @@
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1677626535-0-0-03743bc0cca9979b22e362040a446e6e&edge_slice=true&sub_m3u8=true&user_session_id=18ab4465190c7510c9e8b926ff005063"
                 }
                 
             ]
