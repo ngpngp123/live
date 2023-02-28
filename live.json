@@ -36,88 +36,174 @@
 },
 {
            "league": "🏆 Serie A",
-            "date": "Feb 28",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-            "teams" : "Hellas Verona Vs Fiorentina",
-            "hteam" : "Hellas Verona",
-            "ateam" : "Fiorentina",
+            "date": "Feb 29",
+            "time": "12:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+            "teams" : "Cremonese Vs Roma",
+            "hteam" : "Cremonese",
+            "ateam" : "Roma",
             "hotmat":"yes",
             "link":[
                                 
 {
-                    "type": "Soco SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-114959_lsd.m3u8?auth_key=1677540015-0-0-7057f7be1a881cbe4f1796caf5f19f14&edge_slice=true&sub_m3u8=true&user_session_id=9c537ab011f13759ccbe0cc2c33f950d"
+                    "type": "China SD",
+                "livelink":""
          
                 },
 {
                     "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-294127_lhd.m3u8?edge_slice=true&user_session_id=121a5a301c06e3b181c58a4099c6cabf&auth_key=1677540177-0-0-51669969aa77a689fa31f067cdce17e7&sub_m3u8=true"
+                "livelink":""
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-114959_lhd.m3u8?auth_key=1677540015-0-0-2338a87b596188cbac181c7b39b1644f&edge_slice=true&sub_m3u8=true&user_session_id=d4e21e98f1839cec10502577ed78551a"
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 FA CUP",
+            "date": "Feb 29",
+            "time": "2:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8655_small.png",
+            "teams" : "Leicester City Vs Blackburn Rovers",
+            "hteam" : "Leicester City",
+            "ateam" : "Blackburn Rovers",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 FA CUP",
+            "date": "Feb 29",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+            "teams" : "Fulham Vs Leeds United",
+            "hteam" : "Fulham",
+            "ateam" : "Leeds United",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
                 }
                 
             ]
 },
 {
            "league": "🏆 Serie A",
-            "date": "Feb 28",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
-            "teams" : "Lazio Vs Sampdoria",
-            "hteam" : "Lazio",
-            "ateam" : "Sampdoria",
+            "date": "Feb 29",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
+            "teams" : "Juventus Vs Torino",
+            "hteam" : "Juventus",
+            "ateam" : "Torino",
             "hotmat":"yes",
             "link":[
                                 
 {
                     "type": "China SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?user_session_id=efdaa69711f93e186a71afc3dc1b46f1&auth_key=1677540075-0-0-3c6c1df203adabeea169f6c91f55ef06&sub_m3u8=true&edge_slice=true"
+                "livelink":""
          
                 },
 {
                     "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lhd.m3u8?auth_key=1677540177-0-0-c5b41431ef2df6aec2bb40a8ee352723&sub_m3u8=true&edge_slice=true&user_session_id=891aaffd7dfa886acff3ff54e6436206"
+                "livelink":""
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?user_session_id=b4eb1f61d7b3c8ff203430402c55eac4&edge_slice=true&sub_m3u8=true&auth_key=1677540075-0-0-f8f106e65bf1c9b547c4d932b4defd15"
+                "livelink":""
                 }
                 
             ]
 },
-
 {
-           "league": "🏆 Laliga",
-            "date": "Feb 28",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
-            "teams" : "Villarreal Vs Getafe",
-            "hteam" : "Villarreal",
-            "ateam" : "Getafe",
+           "league": "🏆 FA CUP",
+            "date": "Feb 29",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8427_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "teams" : "Bristol City Vs Manchester City",
+            "hteam" : "Bristol City",
+            "ateam" : "Manchester City",
             "hotmat":"yes",
             "link":[
                                 
 {
                     "type": "China SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?user_session_id=83e96b54439254ad8728a53574c4c341&edge_slice=true&sub_m3u8=true&auth_key=1677540075-0-0-051939eda9d6e3d6665f36805c2a996b"
+                "livelink":""
          
                 },
 {
                     "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?sub_m3u8=true&user_session_id=46a1d2d1b3bc4e665d4911763a55b1f4&edge_slice=true&auth_key=1677540237-0-0-a058f0b4faaef0b3ee4dd5b61137712c"
+                "livelink":""
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?user_session_id=7de813cd1eb3b99f0caa9fe759e334ef&auth_key=1677540075-0-0-f19507e2f7fe9a889b40d3aa7ca13fa4&sub_m3u8=true&edge_slice=true"
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Coupe de France",
+            "date": "Feb 29",
+            "time": "2:40 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9855_small.png",
+            "teams" : "Lyon Vs Grenoble",
+            "hteam" : "Lyon",
+            "ateam" : "Grenoble",
+            "hotmat":"yes",
+            "link":[
+                                
+{
+                    "type": "China SD",
+                "livelink":""
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "Soco FHD",
+                "livelink":""
                 }
                 
             ]
