@@ -1,40 +1,5 @@
 [
 {
-           "league": "MAN U",
-            "date": "TV Channel",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "teams" : "Man United TV",
-            "hteam" : "MAN U",
-            "ateam" : "TV",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "MUTV 360 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "MUTV 240 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MUTV 540 HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MAN U TV 1080HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Serie A",
             "date": "March 1",
             "time": "live",
@@ -65,8 +30,8 @@
 },
 {
            "league": "🏆 FA CUP",
-            "date": "March 1",
-            "time": "2:00 AM",
+            "date": "March 1(2:00 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8655_small.png",
             "teams" : "Leicester City Vs Blackburn Rovers",
@@ -76,26 +41,26 @@
             "link":[
                                 
 {
-                    "type": "China SD",
-                "livelink":""
+                    "type": "SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?edge_slice=true&user_session_id=505e6948563e1dd0e7cedfe5f1e557ff&sub_m3u8=true&auth_key=1677629955-0-0-2af67f10fc182b776b41687fc130ecdb"
          
                 },
 {
-                    "type": "China HD",
-                "livelink":""
+                    "type": "SD 2",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?sub_m3u8=true&auth_key=1677630375-0-0-7a204853e7e222849caa9e4a82139d3a&user_session_id=cdf7d8c1d7fa39d66db5c43d2d9438b2&edge_slice=true"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=0472aa590f3db3d400220cf91caf37ae&txTime=63fe9b6b"
                 }
                 
             ]
 },
 {
            "league": "🏆 FA CUP",
-            "date": "March 1",
-            "time": "2:15 AM",
+            "date": "March 1(2:15 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "teams" : "Fulham Vs Leeds United",
@@ -106,25 +71,25 @@
                                 
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lsd.m3u8?auth_key=1677630417-0-0-96750b95345afe98eb2e1dea6f3f49db&edge_slice=true&sub_m3u8=true&user_session_id=42a0d87020e92d626adebea8f427ca20"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lhd.m3u8?edge_slice=true&auth_key=1677630417-0-0-2cfb166f897712b6f69b58c75fcbfab6&sub_m3u8=true&user_session_id=acc834865aee8a04485514f58c29b0c0"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=2e78422e8ed2904769349aeb702ab140&txTime=63fe9a7b"
                 }
                 
             ]
 },
 {
            "league": "🏆 Serie A",
-            "date": "March 1",
-            "time": "2:15 AM",
+            "date": "March 1(2:15 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
             "teams" : "Juventus Vs Torino",
@@ -134,26 +99,26 @@
             "link":[
                                 
 {
-                    "type": "China SD",
-                "livelink":""
+                    "type": "SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?edge_slice=true&user_session_id=f29e08d4266a4ad3cac265c95d75dfd2&sub_m3u8=true&auth_key=1677630015-0-0-e04a888f4d638540b4544f424bd126ff"
          
                 },
 {
-                    "type": "China HD",
-                "livelink":""
+                    "type": "SD 2",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-161243_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=258b1b3455b5aba6a442bffecb558e9b&auth_key=1677630075-0-0-5bef2e465739eebfa52578cefbda8eb0"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?auth_key=1677630015-0-0-78568e1898febdab8b5f2568b8d44f41&user_session_id=f7e0c625cff8be7cd40a3ae28f304e55&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
 },
 {
            "league": "🏆 FA CUP",
-            "date": "March 1",
-            "time": "2:30 AM",
+            "date": "March 1(2:30 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8427_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "teams" : "Bristol City Vs Manchester City",
@@ -163,50 +128,22 @@
             "link":[
                                 
 {
-                    "type": "China SD",
-                "livelink":""
+                    "type": "SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677630195-0-0-42e1dc0ca7203eed2788c1df03f0eb51&user_session_id=34b1687b3495120fb09ee0e3342a370e"
          
                 },
 {
-                    "type": "China HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":""
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Coupe de France",
-            "date": "March 1",
-            "time": "2:40 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9855_small.png",
-            "teams" : "Lyon Vs Grenoble",
-            "hteam" : "Lyon",
-            "ateam" : "Grenoble",
-            "hotmat":"yes",
-            "link":[
-                                
-{
-                    "type": "China SD",
-                "livelink":""
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":""
+                    "type": "SD 2",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?edge_slice=true&auth_key=1677630195-0-0-c0c833637be44fe3c9398456edb45ea5&sub_m3u8=true&user_session_id=9d2c33076ae2a9425d2413da17a1b68f"
          
                 },
 {
                     "type": "Soco FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=23423d10829eb3e6052710f967560fc8&txTime=63fe9ab7"
                 }
                 
             ]
 }
+
 
 ]
