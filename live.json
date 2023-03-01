@@ -93,6 +93,10 @@
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
+"type": "Eng HD",
+"livelink": "https://bvgfcasvas.azureedge.net/live/usa/chunks.m3u8"
+},
+{
                     "type": "Soco FHD",
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?auth_key=1677718635-0-0-4fa7594d9975892dc1c5533d6b5735b9&sub_m3u8=true&user_session_id=f662a9ea71f62e5c8cb70952d9d31c92&edge_slice=true"
                 }
