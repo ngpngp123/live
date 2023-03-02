@@ -37,7 +37,7 @@
 {
            "league": "🏆 Copa del Rey",
             "date": "March 3",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "teams" : "Real Madrid Vs Barcelona",
@@ -47,22 +47,22 @@
             "link":[
 {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1677804597-0-0-c6f307477e1cffeeaed79ff136959f86&user_session_id=aac86cad0fbcbf88d3639388f72d6e7c&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?auth_key=1677804555-0-0-b27a1259e434b3155a0c87f3e382b380&edge_slice=true&sub_m3u8=true&user_session_id=6ef27b15b89e30f79b442f211476bbf5"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?user_session_id=899bfbf2438526a05ef2ac001eed3d97&auth_key=1677804597-0-0-04f06cc039d55818af5299c4ff563c6f&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?sub_m3u8=true&user_session_id=1be5f17ceea695f4160aa5526f064414&auth_key=1677804555-0-0-fc0ae675cbf312dcfe604da851b1b469&edge_slice=true"
                 }
                 
             ]
