@@ -35,182 +35,38 @@
             ]
 },
 {
-           "league": "🏆 FA CUP",
-            "date": "March 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10005_small.png",
-            "teams" : "Southampton Vs Grimsby Town",
-            "hteam" : "Southampton",
-            "ateam" : "Grimsby Town",
-            "hotmat":"no",
-            "link":[
-                                
-{
-                    "type": "China SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-774913_lsd.m3u8?auth_key=1677718857-0-0-ea95dce9d90e73f37e0d46b7df55a8b1&edge_slice=true&user_session_id=7160bfff471352a071c999d75e410dce&sub_m3u8=true"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-774913_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677718857-0-0-92a60580c274cf44d9ab464894755e62&user_session_id=0102255fab80edd9758755489a59b8af"
-         
-                
-                }
-                
-            ]
-},
-{
-           "league": "🏆 FA CUP",
-            "date": "March 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-            "teams" : "Man United Vs West Ham",
-            "hteam" : "Man United",
-            "ateam" : "West Ham",
+           "league": "🏆 Copa del Rey",
+            "date": "March 3",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "teams" : "Real Madrid Vs Barcelona",
+            "hteam" : "Real Madrid",
+            "ateam" : "Barcelona",
             "hotmat":"yes",
-            "link":[
-                                
-{
+            "link":
+  {
                     "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?auth_key=1677718695-0-0-77f9d9f5d0df25ccca07e424934422ae&user_session_id=166871928309febc1393bb46d99a0770&sub_m3u8=true&edge_slice=true"
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
          
                 },
 {
-                    "type": "China SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-698231_lsd.m3u8?auth_key=1677718917-0-0-7fc8d6bc15fe499b3b3a64ae52914601&sub_m3u8=true&user_session_id=19cc2d1f617a98078ef84054a60fb014&edge_slice=true"
-},
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-698231_lhd.m3u8?user_session_id=c350bb5860f7014ffa20524375e768fd&auth_key=1677718917-0-0-8c59fddd256d804475ed05bd2691106f&edge_slice=true&sub_m3u8=true"
-         
-                
+                    "type": "HD",
+                "livelink":""
          
                 },
 {
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Eng HD",
-"livelink": "https://operatot6ss.s3.amazonaws.com/TNT_1080p30.m3u8"
-},
-{
-                    "type": "Soco FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?auth_key=1677718635-0-0-4fa7594d9975892dc1c5533d6b5735b9&sub_m3u8=true&user_session_id=f662a9ea71f62e5c8cb70952d9d31c92&edge_slice=true"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "March 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-            "teams" : "Arsenal Vs Everton",
-            "hteam" : "Arsenal",
-            "ateam" : "Everton",
-            "hotmat":"yes",
-            "link":[
-                                
-{
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677718575-0-0-9dd4cda23c4296f833b9c6a268ac7527&user_session_id=df5e667da9c14699ba85c275cb6d1a53"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9da449f9da25d7064d8e8fddbe89ca18&auth_key=1677718977-0-0-19568a768233f84b9a234525ed10b956"
-         
-                },
-{
-                    "type": "China SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?edge_slice=true&auth_key=1677718977-0-0-e7dd871c54c8fae9af81c799d705f575&user_session_id=a60f0a30dbdbaaf2382d75050488eb18&sub_m3u8=true"
-         
-                },
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-},
-{
-"type": "Eng HD",
-"livelink": "https://bvgfcasvas.azureedge.net/live/s3/chunks.m3u8"
-},
-{
-                    "type": "Soco FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?auth_key=1677718575-0-0-8de2b8484f71f38d08e5592140cab6aa&edge_slice=true&sub_m3u8=true&user_session_id=d075c11276f8f362c2f2746628738d27"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "March 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-            "teams" : "Liverpool Vs Wolves",
-            "hteam" : "Liverpool",
-            "ateam" : "Wolves",
-            "hotmat":"yes",
-            "link":[
-                                
-{
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-161243_lsd.m3u8?auth_key=1677718695-0-0-e486b51eea77feacf7eac2c517f576ba&user_session_id=5c404aba26f95ddd08bbbdc2d72c093c&sub_m3u8=true&edge_slice=true"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?user_session_id=0135b41f9abf17afd777bcfc70f85c36&auth_key=1677719037-0-0-2d1bfd427d9ff02d76255bec2d94c60c&edge_slice=true&sub_m3u8=true"
-         
-                },
-{
-                    "type": "China SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677719037-0-0-bbcee5b283dd8e2bdbf71d2f43c9ed3c&user_session_id=f26a84b37ba649405f14621d019242c7"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-161243_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677718695-0-0-237db395bd3bfb9353c19c394daba119&user_session_id=ada9ef14ec9dfef825303d9e1ddd5b02"
-                },
-{
-                    "type": "Eng FHD",
-                "livelink":"https://operatot6ss.s3.amazonaws.com/mavericks_1080p30.m3u8"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 FA CUP",
-            "date": "March 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-            "teams" : "Sheffield United Vs Tottenham Hotspur",
-            "hteam" : "Sheffield United",
-            "ateam" : "Tottenham Hotspur",
-            "hotmat":"yes",
-            "link":[
-                                
-{
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?user_session_id=d7663bc046f6d8149fd4e73fc5fd97fe&edge_slice=true&sub_m3u8=true&auth_key=1677718755-0-0-aa323ffc8e42332c664112f38993fc71"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-617898_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677719037-0-0-ac3978251bc73ac602d79b4dceecf83a&user_session_id=71fe3169e3dc006c0cad44199eb71b6d"
-         
-                },
-{
-                    "type": "Soco FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?user_session_id=a63d236ef5441ba4492ff8d1f3a687bb&auth_key=1677718755-0-0-98bc1bb87f8343289e4e2d27f04486b3&sub_m3u8=true&edge_slice=true"
+                    "type": "FHD",
+                "livelink":""
                 }
                 
             ]
 }
+
 
 ]
