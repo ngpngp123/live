@@ -52,12 +52,12 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?auth_key=1677884595-0-0-f9904ec47f9ba7b951b1daeca7cf4036&sub_m3u8=true&user_session_id=41303f0000236a0cd5d3b5c9c563a4fb&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?user_session_id=128df6f75acb5672b3b4845fd6846a47&auth_key=1677884715-0-0-69b5e190b77bcea4b564c6c09dd6c11b&sub_m3u8=true&edge_slice=true"
          
                 },
 {
