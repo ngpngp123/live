@@ -38,7 +38,7 @@
 {
            "league": "🏆 Laliga",
             "date": "March 4",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
             "teams" : "Getafe Vs Girona",
@@ -53,17 +53,17 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lsd.m3u8?user_session_id=d61d57207faad6b325122398257e99ed&edge_slice=true&auth_key=1677955678-0-0-cf8da661ec077210a3805de73d2cdea0&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?sub_m3u8=true&user_session_id=b3e251df7c8a15089cf87d8556ab2902&edge_slice=true&auth_key=1677955395-0-0-ae182ec4e79953eeaec2553679934cc3"
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lhd.m3u8?user_session_id=ac564488487c5952bfc270b7d21c19ba&sub_m3u8=true&auth_key=1677955678-0-0-7c2cd76cfb3df4fa917988a3f4752643&edge_slice=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?sub_m3u8=true&user_session_id=b3e251df7c8a15089cf87d8556ab2902&edge_slice=true&auth_key=1677955395-0-0-ae182ec4e79953eeaec2553679934cc3"
                 }
                 
             ]
