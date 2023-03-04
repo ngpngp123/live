@@ -2,7 +2,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 4",
-            "time": "live",
+            "time": "end",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "teams" : "Manchester City Vs Newcastle United",
@@ -167,7 +167,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 4",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
             "teams" : "Arsenal Vs Bournemouth",
@@ -187,12 +187,12 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=d60631e5ba41345fd58e9a4785cea1d3&txTime=6403acaf"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=bd8cf0a8c7db572c158a946534a2d0ba&txTime=6403ac73"
                 }
                 
             ]
@@ -200,7 +200,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 4",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "teams" : "Chelsea Vs Leeds United",
@@ -210,7 +210,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?edge_slice=true&auth_key=1677962595-0-0-70e1b3457afe1207397c825e3d8527df&user_session_id=e614c8a0caf386c12d8716d402e9c3c7&sub_m3u8=true"
          
                 },                     
 {
@@ -225,7 +225,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=7c1739e3239f67e0756b09e411ab8354&txTime=6403ad64"
                 }
                 
             ]
@@ -233,7 +233,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 4",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "teams" : "Wolves Vs Tottenham",
@@ -243,7 +243,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-190631_lsd.m3u8?edge_slice=true&user_session_id=84568b1e302d64593e50ceafe99b0cee&auth_key=1677962656-0-0-85edcd3a0aefeb7ceca7fb658c0cc230&sub_m3u8=true"
          
                 },                     
 {
@@ -258,7 +258,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-190631_lhd.m3u8?user_session_id=44f7b5160dfee224d2649c8770c60a13&edge_slice=true&auth_key=1677962656-0-0-6e5cad81847f25678a96145dcc231a62&sub_m3u8=true"
                 }
                 
             ]
@@ -266,7 +266,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 4",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
             "teams" : "Aston Villa Vs Crystal Palace",
@@ -276,7 +276,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-197901_lsd.m3u8?auth_key=1677962416-0-0-dee163c1c6f3edbe8cdd32627666c5ed&user_session_id=53ed87b82f86fbe2c953d18228b6a0ce&edge_slice=true&sub_m3u8=true"
          
                 },                     
 {
@@ -291,7 +291,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-197901_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1677962416-0-0-f27698c0696e5051c9bf2d32974c4bbf&user_session_id=0168c1ab9c99e188a420f711279b2742"
                 }
                 
             ]
@@ -299,7 +299,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 4",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "teams" : "Brighton Vs West Ham",
@@ -309,7 +309,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-195586_lsd.m3u8?user_session_id=eb9bf299452112a0a54a31cc6041d1cb&auth_key=1677962536-0-0-d16e1deac924c133ae6a59d8bceaae7c&edge_slice=true&sub_m3u8=true"
          
                 },                     
 {
@@ -324,7 +324,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-195586_lhd.m3u8?user_session_id=1ba7c5a7c6dfeaeed6ddfd390391971d&edge_slice=true&auth_key=1677962536-0-0-938b8c9b42a3337b5c4e22f7424d0372&sub_m3u8=true"
                 }
                 
             ]
@@ -332,7 +332,7 @@
 {
            "league": "🏆 Laliga",
             "date": "March 4",
-            "time": "9:45 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
             "teams" : "Almeria Vs Villarreal",
@@ -342,7 +342,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?edge_slice=true&user_session_id=8547f393bc1474e78bb3250351147292&auth_key=1677962715-0-0-5bf0ca94bb54efefc0944998a99848dc&sub_m3u8=true"
          
                 },                     
 {
@@ -357,7 +357,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1677962715-0-0-d4350a0153ab5a68a2a6837942387410&user_session_id=765bcd374e72fda43cfb443d36f4504a&edge_slice=true&sub_m3u8=true"
                 }
                 
             ]
