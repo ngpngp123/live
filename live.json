@@ -1,40 +1,5 @@
 [
-{
-           "league": "🏆 Premier League",
-            "date": "March 4",
-            "time": "end",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-            "teams" : "Manchester City Vs Newcastle United",
-            "hteam" : "Manchester City",
-            "ateam" : "Newcastle United",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?user_session_id=fe310aa50ff262b2a5cdd84279f71c15&edge_slice=true&auth_key=1677952882-0-0-a280f83f02cdec924bfddc366b23627e&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-114959_lsd.m3u8?user_session_id=f7be724dbf846bb330924ff844fe125d&edge_slice=true&auth_key=1677952935-0-0-ad3dacd3a83334ad65d0538c060979c1&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1677952882-0-0-a2d19cdbbb49ee530dafa5c822a4fbcc&sub_m3u8=true&edge_slice=true&user_session_id=ec9604abf883a0a0ba101d73acdabf39"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
-                },
-              {
-                    "type": "Eng FHD",
-                "livelink":"https://wwwpsjaj.azureedge.net/live/usa/chunks.m3u8"
-                }  
-            ]
-},
+
 {
            "league": "🏆 Laliga",
             "date": "March 4",
@@ -375,7 +340,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "March 4",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
             "teams" : "Lens Vs Lille",
@@ -383,24 +348,16 @@
             "ateam" : "Lille",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+  
+                    
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-100684_lsd.m3u8?sub_m3u8=true&user_session_id=ce0091bf110730d1b3824faaaccec4aa&edge_slice=true&auth_key=1677966015-0-0-3231ee49a93f185f6bb0a1d5df43b8be"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-100684_lhd.m3u8?sub_m3u8=true&auth_key=1677966015-0-0-6fe7e8452095afc0fc297b2928c6547b&edge_slice=true&user_session_id=d30023bce6a4909ac57aa988e687319e"
                 }
                 
             ]
