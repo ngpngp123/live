@@ -82,8 +82,11 @@
 {
                     "type": "FHD",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-                }
-                
+                },
+              {
+                    "type": "Eng FHD",
+                "livelink":"https://ssnchsba.azureedge.net/live/sspl/chunks.m3u8"
+                }  
             ]
 },
 {
