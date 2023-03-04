@@ -1,135 +1,35 @@
 [
 {
-           "league": "🏆 Saudi Premier Leaguee",
-            "date": "March 4",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/582752_small.png",
-            "teams" : "Al Nassr FC Vs Al Batin",
-            "hteam" : "Al Nassr FC",
-            "ateam" : "Al Batin",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?auth_key=1677884595-0-0-f9904ec47f9ba7b951b1daeca7cf4036&sub_m3u8=true&user_session_id=41303f0000236a0cd5d3b5c9c563a4fb&edge_slice=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?user_session_id=128df6f75acb5672b3b4845fd6846a47&auth_key=1677884715-0-0-69b5e190b77bcea4b564c6c09dd6c11b&sub_m3u8=true&edge_slice=true"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-                },
-              {
-                    "type": "FHD 1",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may116FHD/chunklist.m3u8"
-                }  
-            ]
-},
-{
-           "league": "🏆 Bundesliga",
-            "date": "March 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-            "teams" : "Borussia Dortmund Vs RB Leipzig",
-            "hteam" : "Borussia Dortmund",
-            "ateam" : "RB Leipzig",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?sub_m3u8=true&user_session_id=583c8212d2df2dcb84a1dccdef8de6a0&edge_slice=true&auth_key=1677890055-0-0-6bccae446063373a71d6916561f9c141"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?edge_slice=true&auth_key=1677890217-0-0-f15a060fb1f6eb3d43b419b8e5144cdc&user_session_id=6398818ff81f4a706367b6419da82944&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?edge_slice=true&user_session_id=1e96defa93989748d8f045b25ef0c093&auth_key=1677890217-0-0-39dff7b62a0bc14091fa7636cc8d6ed3&sub_m3u8=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?sub_m3u8=true&auth_key=1677890055-0-0-fa6eb4ffdf5174a319ec8bd51e3ede43&edge_slice=true&user_session_id=66d6d99e8a531a8bcbe1fac308298198"
-                }
                 
-            ]
-},
 {
-           "league": "🏆 Serie A",
-            "date": "March 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
-            "teams" : "Napoli Vs Lazio",
-            "hteam" : "Napoli",
-            "ateam" : "Lazio",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-161243_lsd.m3u8?auth_key=1677890115-0-0-12aae35e36e5dfeae27512f0b6c095c0&sub_m3u8=true&user_session_id=6d64085b749a5835f1e0845643eff1a2&edge_slice=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?user_session_id=96b5be8d11ca551a5945b3f363870571&sub_m3u8=true&edge_slice=true&auth_key=1677890277-0-0-5ef8dd0a2f5026ccdf30f26803df8002"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
          
                 },
-{
-                    "type": "HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?user_session_id=a2e684b916f70f28b4e749e361041367&sub_m3u8=true&auth_key=1677890277-0-0-b034af993f98e09f56a1061a7741a313&edge_slice=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-161243_lhd.m3u8?auth_key=1677890115-0-0-1d4b20f71a9bf2074dcb66f020eb1aa2&sub_m3u8=true&user_session_id=25ab313f3fbb9a646bd7b86bd05a28b5&edge_slice=true"
-                }
                 
-            ]
-},
 {
-           "league": "🏆 Laliga",
-            "date": "March 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-            "teams" : "Real Sociedad Vs Cadiz",
-            "hteam" : "Real Sociedad",
-            "ateam" : "Cadiz",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?edge_slice=true&user_session_id=7558bdd131eba1eee7bc99a6955bc0e4&sub_m3u8=true&auth_key=1677890175-0-0-48f153a9f7b55b157fdad072a1eaaf9d"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-516701_ld.m3u8?auth_key=1677890277-0-0-55947bb60299c9c0549d9c4ecfe7d76e"
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
          
                 },
 {
-                    "type": "HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1677890277-0-0-3d4f003c098b9de0fd70617a322b0667"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
          
                 },
 {
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?sub_m3u8=true&auth_key=1677890175-0-0-0e390e8b9db957948613a8837d604ff1&edge_slice=true&user_session_id=2140b511bdf972a0f001906d9b2ca53e"
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
                 
             ]
