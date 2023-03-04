@@ -1,30 +1,5 @@
 [
 {
-           "league": "🏆 Laliga",
-            "date": "March 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-            "teams" : "Almeria Vs Villarreal",
-            "hteam" : "Almeria",
-            "ateam" : "Villarreal",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?edge_slice=true&user_session_id=8547f393bc1474e78bb3250351147292&auth_key=1677962715-0-0-5bf0ca94bb54efefc0944998a99848dc&sub_m3u8=true"
-         
-                },                     
-
-                    
-{
-                    "type": "FHD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1677962715-0-0-d4350a0153ab5a68a2a6837942387410&user_session_id=765bcd374e72fda43cfb443d36f4504a&edge_slice=true&sub_m3u8=true"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Ligue 1",
             "date": "March 4",
             "time": "live",
@@ -65,11 +40,7 @@
                 "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lsd.m3u8?auth_key=1677969837-0-0-1a3e12d48c7fafdf62224d3d84f66f58&sub_m3u8=true&user_session_id=7664c99f227f32bf5b07feac9fbe9157&edge_slice=true"
          
                 },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+
 {
                     "type": "HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=94be6488db9a7f0e226f5e9b805a09c4&txTime=6403c947"
@@ -85,7 +56,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 5",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
             "teams" : "Southampton Vs Leicester City",
@@ -118,7 +89,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "March 5",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
             "teams" : "VfB Stuttgart Vs Bayern München",
@@ -151,7 +122,7 @@
 {
            "league": "🏆 Laliga",
             "date": "March 5",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
             "teams" : "Mallorca Vs Elche",
