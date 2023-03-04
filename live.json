@@ -193,6 +193,12 @@
 {
                     "type": "FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=bd8cf0a8c7db572c158a946534a2d0ba&txTime=6403ac73"
+                },
+
+{
+                    "type": "HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         
                 }
                 
             ]
@@ -226,6 +232,12 @@
 {
                     "type": "FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=7c1739e3239f67e0756b09e411ab8354&txTime=6403ad64"
+                },
+
+{
+                    "type": "HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/bunHD/chunks.m3u8"
+         
                 }
                 
             ]
@@ -259,6 +271,12 @@
 {
                     "type": "FHD",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-190631_lhd.m3u8?user_session_id=44f7b5160dfee224d2649c8770c60a13&edge_slice=true&auth_key=1677962656-0-0-6e5cad81847f25678a96145dcc231a62&sub_m3u8=true"
+                },
+
+{
+                    "type": "HD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may101/chunklist.m3u8"
+         
                 }
                 
             ]
@@ -345,16 +363,8 @@
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?edge_slice=true&user_session_id=8547f393bc1474e78bb3250351147292&auth_key=1677962715-0-0-5bf0ca94bb54efefc0944998a99848dc&sub_m3u8=true"
          
                 },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
+
+                    
 {
                     "type": "FHD",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1677962715-0-0-d4350a0153ab5a68a2a6837942387410&user_session_id=765bcd374e72fda43cfb443d36f4504a&edge_slice=true&sub_m3u8=true"
