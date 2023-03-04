@@ -81,7 +81,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
                 }
                 
             ]
@@ -114,7 +114,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8"
                 }
                 
             ]
@@ -144,11 +144,8 @@
                     "type": "HD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d7c2b60caa640902927780121e1bbb26&auth_key=1677970035-0-0-c51247eea3b3704d4d328d8290899baf"
          
-                },
-{
-                    "type": "FHD",
-                "livelink":""
                 }
+
                 
             ]
 },
