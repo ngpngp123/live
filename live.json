@@ -71,7 +71,7 @@
 {
            "league": "🏆 Serie A",
             "date": "March 4",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
             "teams" : "Monza Vs Empoli",
@@ -81,22 +81,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?sub_m3u8=true&auth_key=1677959355-0-0-42104415f626bd52bfa32e2a68e2cf41&edge_slice=true&user_session_id=e99e49b66e9bc6e9d7c2944d4ff140dc"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-3378908_ld.m3u8?auth_key=1677959097-0-0-a7e9e99470ead90b2654833c04f14d00"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1677959097-0-0-507f88fe5d85272f356bbe5a122b292a"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?sub_m3u8=true&auth_key=1677959355-0-0-1a6e4b69794516f59663a05c8687b69c&user_session_id=fa30b47a85e1be76b4affb7ac4bd6fb7&edge_slice=true"
                 }
                 
             ]
@@ -104,7 +104,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "March 4",
-            "time": "9:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
             "teams" : "Mainz 05 Vs TSG Hoffenheim",
@@ -114,22 +114,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-107307_lsd.m3u8?sub_m3u8=true&user_session_id=4f3d1ad5783acc0f0a96014b2a3a8f4e&auth_key=1677959295-0-0-97273ae17d4278181c8fc84ca4a1323a&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-294127_lsd.m3u8?auth_key=1677959157-0-0-53b09e7ca2af81ddfd08498fc6d6f21c&user_session_id=ce00d1cdbe5faa3a7b53fcc6222d0ebe&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-294127_lhd.m3u8?user_session_id=ca08432fe20acf0ee6d4de900ed294a6&edge_slice=true&sub_m3u8=true&auth_key=1677959157-0-0-4c01ae906f4dceb0a244b251fb04709e"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-107307_lhd.m3u8?sub_m3u8=true&user_session_id=813cc72be9b1c34bc3e38c3899b88c71&auth_key=1677959295-0-0-93224eb073110ea69a5a245a8fa3f4fa&edge_slice=true"
                 }
                 
             ]
@@ -137,7 +137,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "March 4",
-            "time": "9:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
             "teams" : "Union Berlin Vs 1. FC Köln",
@@ -145,24 +145,21 @@
             "ateam" : "1. FC Köln",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
+  
+                                         
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435066_lsd.m3u8?edge_slice=true&user_session_id=c4106b421259c9758bb15e1df4364c25&sub_m3u8=true&auth_key=1677959157-0-0-1a4d82f534c5eac57395f28ba132e467"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435066_lhd.m3u8?edge_slice=true&user_session_id=f623bcb8a2c61527f09b1b3cda94a3f1&auth_key=1677959157-0-0-10f45c4e2240006c63635e4c0c896f31&sub_m3u8=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=c0a347aa51c94770a8b64e6f9fedcb5a&txTime=6403a043"
                 }
                 
             ]
