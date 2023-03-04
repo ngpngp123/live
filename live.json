@@ -2,7 +2,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 4",
-            "time": "7:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "teams" : "Manchester City Vs Newcastle United",
@@ -31,7 +31,7 @@
                 },
               {
                     "type": "Eng FHD",
-                "livelink":""
+                "livelink":"https://errxssc.azureedge.net/live/usa/chunks.m3u8"
                 }  
             ]
 },
