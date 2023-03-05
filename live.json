@@ -1,58 +1,5 @@
 [
 {
-           "league": "🏆 Serie A",
-            "date": "March 5",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
-            "teams" : "Spezia Vs Hellas Verona",
-            "hteam" : "Spezia",
-            "ateam" : "Hellas Verona",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?sub_m3u8=true&user_session_id=9eaae524051d17c9c52230ea2f86a372&auth_key=1678037475-0-0-02488b252c11035072fd9fd301dcb8d7&edge_slice=true"
-         
-                },                     
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?sub_m3u8=true&user_session_id=eec8a801f9d844dbe3b02b5926b4b8ff&auth_key=1678037475-0-0-43efbe671a195e3acd83cd4daa1ab714&edge_slice=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=6e2ff22c47e75f3170082b6e3ca98a86&txTime=6404d220"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Ligue 1",
-            "date": "March 5",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-            "teams" : "Troyes Vs Monaco",
-            "hteam" : "Troyes",
-            "ateam" : "Monaco",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lhd.m3u8?sub_m3u8=true&auth_key=1678040775-0-0-2416899f461786b5497b0d1fc304c495&edge_slice=true&user_session_id=46e2fa00ad3c4f1fae3e699a25a51091"
-         
-                },                     
-
-{
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lsd.m3u8?user_session_id=7f347c1890ba3f319d7cf22b66311b39&auth_key=1678040775-0-0-25bdb4fc83b990694d3d8fb8730f561c&sub_m3u8=true&edge_slice=true"
-         
-                }
-                
-            ]
-},
-{
            "league": "🏆 Laliga",
             "date": "March 5",
             "time": "live",
