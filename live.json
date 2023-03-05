@@ -1,35 +1,5 @@
 [
 {
-           "league": "🏆 Laliga",
-            "date": "March 5",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-            "teams" : "Real Valladolid Vs Espanyol",
-            "hteam" : "Real Valladolid",
-            "ateam" : "Espanyol",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?auth_key=1678041856-0-0-afef8a29cb0aad0cf96b4a2de3f2cb06&sub_m3u8=true&edge_slice=true&user_session_id=80ef196535fbd609875be07770f914c7"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?sub_m3u8=true&user_session_id=12f00de5369925c4b7e93dcca9875453&edge_slice=true&auth_key=1678041976-0-0-a9c803b07fe2fb658e69dcf6990c4cea"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?auth_key=1678041856-0-0-afef8a29cb0aad0cf96b4a2de3f2cb06&sub_m3u8=true&edge_slice=true&user_session_id=80ef196535fbd609875be07770f914c7"
-         
-                }
-
-                
-            ]
-},
-{
            "league": "🏆 Premier League",
             "date": "March 5",
             "time": "live",
@@ -159,7 +129,7 @@
 {
            "league": "🏆 Laliga",
             "date": "March 5",
-            "time": "9:45 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
             "teams" : "Barcelona Vs Valencia",
@@ -169,7 +139,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?auth_key=1678050736-0-0-64ae55688862373de946ac937b61ec15&edge_slice=true&user_session_id=45711c8f4927c6b68d49d77cd0184512&sub_m3u8=true"
          
                 },                     
 {
@@ -179,7 +149,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?user_session_id=ddd4a0b6813c18089a8a7e84bc9aaa42&sub_m3u8=true&auth_key=1678050736-0-0-bc7c0c5f234201319f73bccd66f96262&edge_slice=true"
          
                 },
 {
