@@ -162,7 +162,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "March 5",
-            "time": "10:35 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
             "teams" : "Lyon Vs Lorient",
@@ -172,22 +172,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1678053675-0-0-d196ffc54678f70a7da214832cbe32eb&user_session_id=e9506fd86d77349387efd7d986606c8e"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-698231_lsd.m3u8?user_session_id=f4e82a18c4e2b02f006f310e6b64d6fe&edge_slice=true&auth_key=1678053717-0-0-33830f9dc90637c839e96d53de798499&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-698231_lhd.m3u8?auth_key=1678053717-0-0-6b655a6c487d11e6c5d7ed028ac29bad&user_session_id=e4b37b66015cd2e7fa1f0727eb1cd570&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1678053675-0-0-9771d8f93ebdf804498fdae2a7aeb397&user_session_id=dad2a259c5e9af77ed4504423ed82205"
                 }
                 
             ]
@@ -195,7 +195,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 5",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "teams" : "Liverpool Vs Man United",
@@ -205,22 +205,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?edge_slice=true&user_session_id=c10a90a11c2f8e387055ddbd4f8e03bb&auth_key=1678053616-0-0-2a9ecb77fbaa7460e1546a45dcffaf2d&sub_m3u8=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=5b387dbf63f8c9862570ee4941fbaa82&auth_key=1678053777-0-0-3b9f61978f49d50578e6beca6304ca10&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=5b387dbf63f8c9862570ee4941fbaa82&auth_key=1678053777-0-0-3b9f61978f49d50578e6beca6304ca10&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=3ca4fb5708463b519826f14687116823&txTime=640510b4"
                 }
                 
             ]
@@ -228,7 +228,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "March 5",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
             "teams" : "Wolfsburg Vs Frankfurt",
@@ -238,22 +238,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lsd.m3u8?edge_slice=true&user_session_id=abedc0aeaa571d781d63eccd0bb81b16&auth_key=1678053837-0-0-353db77cc873aabb776ee521792a16d4&sub_m3u8=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lsd.m3u8?edge_slice=true&user_session_id=abedc0aeaa571d781d63eccd0bb81b16&auth_key=1678053837-0-0-353db77cc873aabb776ee521792a16d4&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?user_session_id=5357f367084c82a2f60291edfdfba1eb&sub_m3u8=true&edge_slice=true&auth_key=1678053837-0-0-07f45a60e977e910cffb7df15ac7e5b5"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-120778.m3u8?txSecret=5a6a93d24ba6adc30a48652f93adf495&txTime=6405112b"
                 }
                 
             ]
