@@ -40,13 +40,13 @@
             "link":[
   {
                     "type": "HD",
-                "livelink":"https://pull.juqihuo.com/live/stream-543840_lhd.flv?auth_key=1678040638-0-0-23bfa3346f1d8a6fcb43850e3750bb46"
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lhd.m3u8?sub_m3u8=true&auth_key=1678040775-0-0-2416899f461786b5497b0d1fc304c495&edge_slice=true&user_session_id=46e2fa00ad3c4f1fae3e699a25a51091"
          
                 },                     
 
 {
                     "type": "SD",
-                "livelink":"https://pull.juqihuo.com/live/stream-543840_lhd.flv?auth_key=1678040638-0-0-23bfa3346f1d8a6fcb43850e3750bb46"
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lsd.m3u8?user_session_id=7f347c1890ba3f319d7cf22b66311b39&auth_key=1678040775-0-0-25bdb4fc83b990694d3d8fb8730f561c&sub_m3u8=true&edge_slice=true"
          
                 }
                 
