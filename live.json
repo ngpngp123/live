@@ -85,7 +85,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 5",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
             "teams" : "Nottingham Forest Vs Everton",
@@ -95,22 +95,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1678045258-0-0-b4fa9b7e05d91dac66e7644167dcd1a8&edge_slice=true&user_session_id=439101b6c7f1384799f1cd7352bab7d4&sub_m3u8=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1678045258-0-0-14e742b27d4a0941720fd4d1b497cf8e&user_session_id=c0e4ddd36e01379ad8cbb15524e5c82d&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=b945fe830071ac468ca486f292ec57a1&txTime=6404efa8"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=c812e0d6dd60363049e89d2b6df406c4&txTime=6404efa8"
                 }
                 
             ]
@@ -118,7 +118,7 @@
 {
            "league": "🏆 Serie A",
             "date": "March 5",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
             "teams" : "Sampdoria Vs Salernitana",
@@ -126,24 +126,16 @@
             "ateam" : "Salernitana",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+  
+                    
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-102153_lsd.m3u8?auth_key=1678045155-0-0-b6eb554994d66f62f774343b42c093fb&sub_m3u8=true&edge_slice=true&user_session_id=9bbfc0e8a2b49975ee4f58b764fb5064"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-102153_lhd.m3u8?sub_m3u8=true&auth_key=1678045155-0-0-8db35d38f4aa8914714450ba254f5d5e&edge_slice=true&user_session_id=91d8d7ba917fbdb9cf7c6e8c79674c9a"
                 }
                 
             ]
@@ -151,7 +143,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "March 5",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8576_small.png",
             "teams" : "Reims Vs AC Ajaccio",
@@ -161,22 +153,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lhd.m3u8?edge_slice=true&auth_key=1678045317-0-0-e5f200b0c6866d7f5eb52275f272e297&sub_m3u8=true&user_session_id=3effa4d94dbb63f3564277512830d885"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "HD 2",
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lhd.m3u8?edge_slice=true&auth_key=1678045317-0-0-e5f200b0c6866d7f5eb52275f272e297&sub_m3u8=true&user_session_id=3effa4d94dbb63f3564277512830d885"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?sub_m3u8=true&user_session_id=1fe8e69188957ddda318e0c806fb4845&auth_key=1678045216-0-0-cd505e540164dad4c05c95efe54f6802&edge_slice=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?sub_m3u8=true&auth_key=1678045216-0-0-418e3d2333d669ddd1f586a4992b431c&user_session_id=c77de74f2a0d4ce58bb269a462323ca3&edge_slice=true"
                 }
                 
             ]
@@ -184,7 +176,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "March 5",
-            "time": "9:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
             "teams" : "Bayer Leverkusen Vs Hertha BSC",
@@ -194,22 +186,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?user_session_id=17cae3df38c0af7a9a46305dcd561972&sub_m3u8=true&auth_key=1678045456-0-0-92d8fdf78a8b13bd82f605229be62bf4&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?user_session_id=52334a4820580bba209147f7a27e266c&sub_m3u8=true&edge_slice=true&auth_key=1678045438-0-0-4aa26f1ecb514bbcc9514050d55cea07"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?user_session_id=8430b0d8990a36e4c95a671e4692b235&edge_slice=true&sub_m3u8=true&auth_key=1678045438-0-0-2e88588847f410266fd27c572e4d5ecb"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1678045456-0-0-6f1fec46ec4270d25948e326ce599448&sub_m3u8=true&user_session_id=41a2ce9c03da3fbd043d695aab938534&edge_slice=true"
                 }
                 
             ]
