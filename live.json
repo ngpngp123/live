@@ -186,6 +186,17 @@
 {
                     "type": "FHD",
                 "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=3ca4fb5708463b519826f14687116823&txTime=640510b4"
+                },
+{
+                    "type": "SD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         
+                },                     
+{
+
+                    "type": "Eng HD",
+                "livelink":"https://wwtastysgg.azureedge.net/live/usa/chunks.m3u8"
+         
                 }
                 
             ]
