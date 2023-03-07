@@ -37,7 +37,7 @@
 {
            "league": "🏆 Champions League",
             "date": "March 8",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
             "teams" : "Chelsea Vs Borussia Dortmund",
@@ -47,22 +47,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?sub_m3u8=true&auth_key=1678239676-0-0-8ea2d88812b89186d5f87c693a78c942&user_session_id=c4e4c73e0e31ca0f2b2b4e7b270ffcb3&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1678239777-0-0-b25f5f98545f7c6cf99adab34dc8961e&user_session_id=7e0a95a2a3fc0994725b289d2f9d439f&sub_m3u8=true&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1678239777-0-0-b1268025fe3b244ed936a3970083cd7b&user_session_id=93be1190f7f84569f5c675bcf3baabd8&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?edge_slice=true&auth_key=1678239676-0-0-c56c4377eb0dae78214fb2f6a0752c6c&user_session_id=a98cdd9ccdd4d1144276c8997ffa1b12&sub_m3u8=true"
                 }
                 
             ]
@@ -70,7 +70,7 @@
 {
            "league": "🏆 Champions League",
             "date": "March 8",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8342_small.png",
             "teams" : "Benfica Vs Club Brugge",
@@ -80,22 +80,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?auth_key=1678239616-0-0-d7b873bf49e2892c7aa05babd7d5ee77&user_session_id=ced1409e40de3b345a0dd8baaad2e6dc&edge_slice=true&sub_m3u8=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?auth_key=1678239717-0-0-b2b4e55a261fabe06156c32b4edbda29&edge_slice=true&user_session_id=f161e27880a42cb9ffe6418082589e42&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?edge_slice=true&user_session_id=bbb81c9e707a38b44a9253ae71e24bc5&auth_key=1678239717-0-0-b1c7d0b35c079d999af7ba6b3a2560bd&sub_m3u8=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?user_session_id=b542d7667d8aefa05d7bd5bfece286d0&sub_m3u8=true&auth_key=1678239616-0-0-202788bc2a2013a8b6774c18e32b0fd6&edge_slice=true"
                 }
                 
             ]
