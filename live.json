@@ -35,69 +35,6 @@
             ]
 },
 {
-           "league": "🏆 Champions League",
-            "date": "March 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-            "teams" : "Bayern München Vs Paris Saint-Germain",
-            "hteam" : "Bayern München",
-            "ateam" : "Paris Saint-Germain",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-129184_lsd.m3u8?user_session_id=3b0fb35d0193fd459286fdac234435d2&sub_m3u8=true&edge_slice=true&auth_key=1678318576-0-0-dbd9b036eaed0937d989e91e27a25cb0"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1678319157-0-0-1a6d7558df014ddc8f958d21a5d54fb1&edge_slice=true&user_session_id=30f5ea4055056fd91023541d8956eaf1&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-129184_lhd.m3u8?user_session_id=a6d903cdc995d2e7bb31d85a6e88359a&sub_m3u8=true&edge_slice=true&auth_key=1678318576-0-0-3f5851b223df11604dd09ea189ee49e0"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1678319157-0-0-bedc665e9f402ed10cd0d92726ec2f30&sub_m3u8=true&edge_slice=true&user_session_id=83847934fa6919efeb24ccbe6808c934"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Champions League",
-            "date": "March 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-            "teams" : "Tottenham Hotspur Vs Milan",
-            "hteam" : "Tottenham Hotspur",
-            "ateam" : "Milan",
-            "hotmat":"yes",
-            "link":[
-  
-                            
-{
-                    "type": "SD 2",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lsd.m3u8?user_session_id=522d8e863d0e8a747cc2fbefbfdd3580&sub_m3u8=true&edge_slice=true&auth_key=1678319097-0-0-14a48b7f647a5edc67df5dbf1dfea0bd"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lhd.m3u8?auth_key=1678319097-0-0-fde0f40161b786d55fb6e475f7d905f3&sub_m3u8=true&edge_slice=true&user_session_id=977c2f83a719e73de87bc70ee5aa9aa9"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=028ac0f60e35446ab10c7e4367aa27d5&txTime=64091e84"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Europa League ",
             "date": "March 10",
             "time": "12:30 AM",
