@@ -99,6 +99,171 @@
                 }
                 
             ]
+},
+{
+           "league": "🏆 Europa League ",
+            "date": "March 10",
+            "time": "12:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+            "teams" : "Sporting CP Vs Arsenal",
+            "hteam" : "Sporting CP",
+            "ateam" : "Arsenal",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Europa League ",
+            "date": "March 10",
+            "time": "12:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+            "teams" : "Roma Vs Real Sociedad",
+            "hteam" : "Roma",
+            "ateam" : "Real Sociedad",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Europa League ",
+            "date": "March 10",
+            "time": "12:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8222_small.png",
+            "teams" : "Bayer Leverkusen Vs Ferencvaros",
+            "hteam" : "Bayer Leverkusen",
+            "ateam" : "Ferencvaros",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Europa League ",
+            "date": "March 10",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
+            "teams" : "Juventus Vs SC Freiburg",
+            "hteam" : "Juventus",
+            "ateam" : "SC Freiburg",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Europa League ",
+            "date": "March 10",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
+            "teams" : "Manchester United Vs Real Betis",
+            "hteam" : "Manchester United",
+            "ateam" : "Real Betis",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
 }
 
 ]
