@@ -84,7 +84,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/nenSD/chunklist.m3u8"
          
                 },
 {
@@ -94,7 +94,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8"
                 }
                 
             ]
@@ -117,18 +117,15 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may122/playlist.m3u8"
          
                 },
 {
                     "type": "HD",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1678405816-0-0-3818cf28a3f6834ebc654b64bcf69671&user_session_id=d8e2f3bb828ad59356d8cb32c37f2ed0&sub_m3u8=true&edge_slice=true"
          
-                },
-{
-                    "type": "FHD",
-                "livelink":""
                 }
+
                 
             ]
 },
