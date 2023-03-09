@@ -1,44 +1,9 @@
 [
-{
-           "league": "MAN U",
-            "date": "TV Channel",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "teams" : "Man United TV",
-            "hteam" : "MAN U",
-            "ateam" : "TV",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "MUTV 360 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "MUTV 240 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MUTV 540 HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MAN U TV 1080HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                }
-                
-            ]
-},
 
 {
            "league": "Premier League",
             "date": "March 10",
-            "time": "12:00AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8577.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
             "teams" : "Al Ittihad Vs Al Nassr FC",
@@ -48,7 +13,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lsd.m3u8?user_session_id=e1c434f9458fab15ec88d68994da5d63&sub_m3u8=true&auth_key=1678403596-0-0-abf9633f8f0f485892dce9eee79bc5e5&edge_slice=true"
          
                 },                     
 {
@@ -58,7 +23,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-114959_lhd.m3u8?user_session_id=e439f08d438547ddcd1bc9dfb71de793&sub_m3u8=true&auth_key=1678403596-0-0-bf1fa5fe2f8d651b7c0f8cf3dee26026&edge_slice=true"
          
                 },
 {
