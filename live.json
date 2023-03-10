@@ -36,8 +36,8 @@
 },
 {
            "league": "🏆 Bundesliga",
-            "date": "March 11",
-            "time": "2:00 AM",
+            "date": "March 11(2:00 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
             "teams" : "1. FC Köln Vs VfL Bochum",
@@ -47,30 +47,30 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?auth_key=1678487656-0-0-99e2688e5d15869f78240f99324cdafc&user_session_id=c515200387e21c3598b6babc8fb3a6ea&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-132343_lsd.m3u8?edge_slice=true&user_session_id=eb5c167c23cad8f78db63d844424ad1d&sub_m3u8=true&auth_key=1678487716-0-0-d392b937e3aeae9620a546c0e76b3af0"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?edge_slice=true&auth_key=1678487656-0-0-697e730ffe473eb45b90c4be50b80335&sub_m3u8=true&user_session_id=7462f149d7e2d4d861e181c3eb614404"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-132343_lhd.m3u8?user_session_id=8759986aae5b136c18c65e1662723a71&auth_key=1678487716-0-0-a1f6704f4a673ed42302cafccab4728a&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
 },
 {
            "league": "🏆 Serie A",
-            "date": "March 11",
-            "time": "2:00 AM",
+            "date": "March 11(2:30 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
             "teams" : "Spezia Vs Inter",
@@ -80,30 +80,30 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?sub_m3u8=true&user_session_id=442e449d5ca1bfe29960fc498d4a9ae9&auth_key=1678487776-0-0-2beeba5de15bc3d57f2ce69386075d7d&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105225_lsd.m3u8?edge_slice=true&auth_key=1678487836-0-0-0bcae38470cf9a5b16ec3801f32f3277&sub_m3u8=true&user_session_id=6b30137e40570c0aaf40bb5987c00875"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=74e05cf58605cd129d71d28f87e29113&auth_key=1678487776-0-0-d9e8fc1b7d94968b95d0e8fd5580f38c"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=f7461e8f05f7d153e0ab7002fecbe618&txTime=640bb0e0"
                 }
                 
             ]
 },
 {
            "league": "🏆 Laliga",
-            "date": "March 11",
-            "time": "2:30 AM",
+            "date": "March 11(2:30 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
             "teams" : "Cadiz Vs Getafe",
@@ -113,30 +113,30 @@
             "link":[
  {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158814_lsd.m3u8?auth_key=1678487896-0-0-8bd8fe09e2538dfb962cb7c76595f3cf&user_session_id=7ec890d4d5f17d6a3d32d962e9bf6910&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?edge_slice=true&auth_key=1678487896-0-0-b4bb332c2d7557ea90d77b087418ccf2&sub_m3u8=true&user_session_id=a8e2d5b2e7819b33ba6ef108819f96e5"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158814_lhd.m3u8?user_session_id=ea989a08dbdb611c6393187eaaf4c6ab&edge_slice=true&sub_m3u8=true&auth_key=1678487896-0-0-9c1ebf0cca6dce04375e839d05689a28"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-144861.m3u8?txSecret=00023fb42127b9393cb2dd1ae2ab5b93&txTime=640bb158"
                 }
                 
             ]
 },
 {
            "league": "🏆 Ligue 1",
-            "date": "March 11",
-            "time": "2:30 AM",
+            "date": "March 11(2:30 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
             "teams" : "Lille Vs Lyon",
@@ -146,7 +146,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-122774_lsd.m3u8?user_session_id=d5e2b3d67bba23590058ad278a1796b3&sub_m3u8=true&edge_slice=true&auth_key=1678487956-0-0-0e29b675a1471abb1843b2e131f0d5f5"
          
                 },                     
 {
@@ -156,12 +156,12 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?auth_key=1678487956-0-0-a596f35e9e76c11949d36069bbd5a42d&sub_m3u8=true&edge_slice=true&user_session_id=6c7bdab0a22c8a05e1013a6627b8b764"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-208390.m3u8?txSecret=4283e2dd3e9c21205ed4dc57bf76bbda&txTime=640bb194"
                 }
                 
             ]
