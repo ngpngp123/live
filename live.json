@@ -1,47 +1,5 @@
 [
-{
-           "league": "🏆 Premier League",
-            "date": "March 11",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-            "teams" : "AFC Bournemouth Vs Liverpool",
-            "hteam" : "AFC Bournemouth",
-            "ateam" : "Liverpool",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-139384_lsd.m3u8?sub_m3u8=true&user_session_id=9e03b6c732071dc33003a9b56064cf45&auth_key=1678557376-0-0-91063a7f45c878e65e0097bd0c9f5f4f&edge_slice=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-         
-                },
-{
-                    "type": "SD 3",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?edge_slice=true&auth_key=1678558036-0-0-70e39f5645355a72b52bcf16e69ac8b2&user_session_id=bcf728030bff4c863ee2853e07c99031&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-139384_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678557376-0-0-96eaac8d4bccd430b37cbf20de9d0a50&user_session_id=fee1d0bd3f8ef174f63a5bc5676f8335"
-         
-                },
-{
-                    "type": "English",
-                "livelink":"https://weak.wptasrasf.shop/live/usa/storage.m3u8"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/1-3747163-0/chunklist.m3u8"
-                }
-                
-            ]
-},
+
 {
            "league": "🏆 Laliga",
             "date": "March 11(7:30 PM)",
@@ -106,7 +64,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "March 11",
-            "time": "9:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
             "teams" : "Bayern München Vs FC AugsburgFC",
@@ -114,11 +72,8 @@
             "ateam" : "FC Augsburg",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
+  
+                                         
 {
                     "type": "SD 2",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-112565_lsd.m3u8?edge_slice=true&auth_key=1678558096-0-0-587422e057d4f58e23b538c23fb4c9af&sub_m3u8=true&user_session_id=2239beea6f1470fd0b107d05e5cbe666"
@@ -139,7 +94,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "March 11",
-            "time": "9:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
             "teams" : "Frankfurt Vs VfB Stuttgart",
@@ -167,7 +122,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "March 11",
-            "time": "9:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
             "teams" : "Hertha BSC Vs Mainz",
