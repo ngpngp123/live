@@ -44,8 +44,8 @@
 },
 {
            "league": "🏆 Laliga",
-            "date": "March 11",
-            "time": "7:30 PM",
+            "date": "March 11(7:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
             "teams" : "Real Madrid Vs Espanyol",
@@ -60,7 +60,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may81/chunklist.m3u8"
          
                 },
 {
