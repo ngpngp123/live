@@ -155,7 +155,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 11",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
             "teams" : "Everton Vs Brentford",
@@ -170,12 +170,12 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-139384_lsd.m3u8?auth_key=1678567396-0-0-6f4a849845f3f31d6d6bdcdcb12c824f&sub_m3u8=true&user_session_id=e2f134325108b252f20a0fbca6f37fcf&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-139384_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678567396-0-0-51f32fb1a6b4f277da75725e63a97931&user_session_id=07d8fca1e8631d530417fddb2ae1ee8a"
          
                 },
 {
@@ -188,7 +188,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 11",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "teams" : "Leicester City Vs Chelsea",
@@ -203,12 +203,12 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?sub_m3u8=true&user_session_id=a666ac4b680cbcd1eb03b025d713557c&auth_key=1678567456-0-0-29313ad968767b227919f8a1d6711aea&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?sub_m3u8=true&user_session_id=ad639c636f3e2a61ea72e8cc0a359ecc&auth_key=1678567456-0-0-1e91699a75b07b0b4045d3b580053327&edge_slice=true"
          
                 },
 {
@@ -221,7 +221,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 11",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "teams" : "Leeds Vs Brighton",
@@ -236,17 +236,17 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-122774_lsd.m3u8?sub_m3u8=true&user_session_id=d996d13e0a6d60820b74fabb98f1897e&edge_slice=true&auth_key=1678567576-0-0-bd798cc3e1dbd4f2c7714e2713b27d1a"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=7b7fc0441870db7f30797485949a8008&txTime=640ce820"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=cc601800d8802e2b1058238177adb6b3&txTime=640ce85c"
                 }
                 
             ]
@@ -274,7 +274,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=7b7fc0441870db7f30797485949a8008&txTime=640ce820"
          
                 },
 {
