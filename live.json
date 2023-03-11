@@ -132,12 +132,12 @@
   
                     
 {
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lhd.m3u8?auth_key=1678565638-0-0-5f6ebdc32c0ec118809b1b8c55ad200a&user_session_id=976fe80d9ca675954e325bcd858ba4f6&sub_m3u8=true&edge_slice=true"
+                    "type": "SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?user_session_id=b85830eb879cf1ea8f9a423df06b4a53&auth_key=1678579696-0-0-a40379fcfe92325e555b5cd586dc0852&sub_m3u8=true&edge_slice=true"
          
                 },
 {
-                    "type": "FHD",
+                    "type": "HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=6ded5c5da8a7af7b492e941c07162fdb&txTime=640ce988"
                 }
                 
