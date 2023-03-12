@@ -135,7 +135,7 @@
 {
            "league": "🏆 Laliga",
             "date": "March 12",
-            "time": "9:45 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
             "teams" : "Sevilla Vs Almeria",
@@ -145,22 +145,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-172256_lsd.m3u8?auth_key=1678654996-0-0-7a080362e28aa002cbe3412b8c4eebad&edge_slice=true&sub_m3u8=true&user_session_id=b90399ae9ec95c284b5d165648fc3c3c"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-172256_lhd.m3u8?edge_slice=true&auth_key=1678654996-0-0-2fa9fcd3c6f0cccf1d8066ad6b768b7e&sub_m3u8=true&user_session_id=a86d532541b3c5a7d4da32c71b2ac3eb"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=be9f5d78e36c6a27c862e4f706f5b36f&txTime=640e3e50"
                 }
                 
             ]
