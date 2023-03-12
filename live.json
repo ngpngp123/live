@@ -37,7 +37,7 @@
 {
            "league": "🏆 Serie A",
             "date": "March 12",
-            "time": "6:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
             "teams" : "Lecce Vs Torino",
@@ -47,22 +47,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1678641478-0-0-8ea030f9fc34c16c871667b173ca7103&sub_m3u8=true&user_session_id=e76f4fb2e44fb91e4780dc61f036cdbb&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?auth_key=1678641316-0-0-696cc8523bf2d54a26f072c1a3dce6f2&sub_m3u8=true&user_session_id=d28a82ff2d7b840a93aff7dbd22f9b18&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=be52e0dcbdb346d5480d248c68ed1156&sub_m3u8=true&auth_key=1678641478-0-0-eaa316c35f9d16b4c69e2e4fd93aa4ab&edge_slice=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?sub_m3u8=true&user_session_id=0a8155bca44205d845d7e63f94f92cbf&edge_slice=true&auth_key=1678641316-0-0-fb2758fd14df4023f64e316b397c58d5"
                 }
                 
             ]
@@ -70,7 +70,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "March 12",
-            "time": "6:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
             "teams" : "Clermont Foot Vs Lens",
@@ -80,22 +80,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678641538-0-0-15674c54ef33c884bf24070911d3461b&user_session_id=470c5fdc3e06664ffb2146c46ed6e0a7"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-102153_lsd.m3u8?auth_key=1678641376-0-0-9f6ffb6387349961deca4f63f1483897&user_session_id=cbe521f0489b53e6fead1deb3ed83f1c&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lhd.m3u8?sub_m3u8=true&user_session_id=45228e868389bec59ccfdcd39f3dcfbc&auth_key=1678641538-0-0-d3d9e0640d400608c5184c0d9197b674&edge_slice=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-102153_lhd.m3u8?edge_slice=true&auth_key=1678641376-0-0-6cf1d6e527acdf10bee76699556264ee&user_session_id=2917f58efa0c23aabf006b9df67e392c&sub_m3u8=true"
                 }
                 
             ]
