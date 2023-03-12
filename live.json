@@ -168,7 +168,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "March 12",
-            "time": "10:35 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
             "teams" : "Monaco Vs Reims",
@@ -178,22 +178,18 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?auth_key=1678657996-0-0-817055ed283aecc995719fc324dc498a&edge_slice=true&user_session_id=54a6c931453d3e8eb2033e7081824bd4&sub_m3u8=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1678657996-0-0-1daa55f6182fcaf45254210f0ea49647&user_session_id=d518e6bdfbd00260266f5cb106101245"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-144861.m3u8?txSecret=04d17f521da113a2e30fc3e60e4fc4e5&txTime=640e4990"
          
-                },
-{
-                    "type": "FHD",
-                "livelink":""
                 }
                 
             ]
@@ -201,7 +197,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 12",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
             "teams" : "Newcastle Vs Wolves",
@@ -209,24 +205,21 @@
             "ateam" : "Wolves",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
+  
+                                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678658056-0-0-1a5eca85c9916645eef1fe08218b3788&user_session_id=a0e124737e5c865b205e87557b8aa2bc"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=09335096170514ab1dae7b1bcaaa2048&txTime=640e49cc"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?edge_slice=true&user_session_id=94bcefecfd5dceabdc9843146fb6a6a4&auth_key=1678658056-0-0-6e723a3dfd3311b62ba3948561219b14&sub_m3u8=true"
                 }
                 
             ]
@@ -234,7 +227,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "March 12",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
             "teams" : "Werder Bremen Vs Bayer Leverkusen",
@@ -244,22 +237,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-116784_lsd.m3u8?edge_slice=true&user_session_id=e48884d4d2392e74db5b9125a41f5331&auth_key=1678658116-0-0-f426619bce0ca0bbcdcce5909813d104&sub_m3u8=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-116784_lsd.m3u8?edge_slice=true&user_session_id=e48884d4d2392e74db5b9125a41f5331&auth_key=1678658116-0-0-f426619bce0ca0bbcdcce5909813d104&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-116784_lhd.m3u8?user_session_id=377df5c03ef971b89cd5d25ddde501ad&auth_key=1678658116-0-0-fb00aad3291d32ade2f6afea4daf06fc&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-116784_lhd.m3u8?user_session_id=377df5c03ef971b89cd5d25ddde501ad&auth_key=1678658116-0-0-fb00aad3291d32ade2f6afea4daf06fc&edge_slice=true&sub_m3u8=true"
                 }
                 
             ]
