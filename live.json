@@ -127,7 +127,7 @@
 {
            "league": "🏆 Serie A",
             "date": "March 12",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
             "teams" : "Roma Vs Sassuolo",
@@ -137,22 +137,18 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-122774_lsd.m3u8?edge_slice=true&user_session_id=7582c21612cadef59cb42948b2166e6e&sub_m3u8=true&auth_key=1678661236-0-0-454a28ad4d1d8e7abc58cdcbf2d4a912"
          
                 },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?auth_key=1678661236-0-0-9b3fb52cf708802979063b7974ff222a&sub_m3u8=true&user_session_id=137f66de9cfefce76f4410f8868c2a43&edge_slice=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=a95801b46ea808216a34813722b7e876&txTime=640e5674"
                 }
                 
             ]
