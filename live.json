@@ -156,7 +156,7 @@
 {
            "league": "🏆 Laliga",
             "date": "March 13",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
             "teams" : "Villarreal Vs Real Betis",
@@ -166,22 +166,14 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-112310_lsd.m3u8?sub_m3u8=true&auth_key=1678663636-0-0-c521068533b964aef9ce54910d4e79f0&user_session_id=4824e466c31eb342da6c3bf493e06eeb&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-112310_lhd.m3u8?user_session_id=1b850316ae2dd75dfa965f0413fa7e9a&sub_m3u8=true&edge_slice=true&auth_key=1678663636-0-0-52638e11d3a60de538095d825d739964"
          
-                },
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":""
+                
                 }
                 
             ]
