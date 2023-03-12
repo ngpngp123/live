@@ -103,7 +103,7 @@
 {
            "league": "🏆 Laliga",
             "date": "March 12",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
             "teams" : "Mallorca Vs Real Sociedad",
@@ -113,22 +113,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lsd.m3u8?auth_key=1678646698-0-0-fcc8d287f914aaf5ffcefc891ef241ab&sub_m3u8=true&user_session_id=344a6a3fe85a3163fcb1d4d86fc240a1&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lsd.m3u8?auth_key=1678646698-0-0-fcc8d287f914aaf5ffcefc891ef241ab&sub_m3u8=true&user_session_id=344a6a3fe85a3163fcb1d4d86fc240a1&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-171964.m3u8?txSecret=98d23f38d5c2f4f331f161d2e3645079&txTime=640e1d80"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lhd.m3u8?edge_slice=true&auth_key=1678646698-0-0-a450234ca840677677c6dcb3c004bd02&user_session_id=cb773f979543593467c83574c2d240c1&sub_m3u8=true"
                 }
                 
             ]
