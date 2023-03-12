@@ -265,39 +265,7 @@
                 
             ]
 },
-{
-           "league": "🏆 Bundesliga",
-            "date": "March 12",
-            "time": "9:00 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
-            "teams" : "SC Freiburg Vs TSG Hoffenheim",
-            "hteam" : "SC Freiburg",
-            "ateam" : "TSG Hoffenheim",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":""
-                }
-                
-            ]
-},
+
 {
            "league": "🏆 Laliga",
             "date": "March 12",
