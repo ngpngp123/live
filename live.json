@@ -128,6 +128,11 @@
 {
                     "type": "FHD",
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?auth_key=1678926298-0-0-04a3fe79a3cec9e5f377956920332b33&sub_m3u8=true&user_session_id=1e7cb6ef8a3554f9b3c7a561dc45f407&edge_slice=true"
+                },
+{
+                    "type": "Bein",
+                "livelink":"http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768"
+         
                 }
                 
             ]
