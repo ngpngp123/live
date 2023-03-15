@@ -135,6 +135,12 @@
          
                 
 },
+
+{
+                    "type": "Elevel",
+                "livelink":"http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END"
+         
+                },
 {
                     "type": "Test",
                 "livelink":"https://fun.kepa.pw:30443/edge/vereaf046d22512863007b4aad76ef95731/chunks.m3u8?nimblesessionid=108478&wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIzIDc6NTA6MTkgUE0maGFzaF92YWx1ZT1jWlNFZDlrWkNsQ2hMSGJMSER2WnpBPT0mdmFsaWRtaW51dGVzPTEyMA=="
