@@ -1,106 +1,5 @@
 [
 {
-           "league": "MAN U",
-            "date": "TV Channel",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "teams" : "Man United TV",
-            "hteam" : "MAN U",
-            "ateam" : "TV",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "MUTV 360 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "MUTV 240 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MUTV 540 HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MAN U TV 1080HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Europa League",
-            "date": "March 17",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "teams" : "Real Betis Vs Manchester United",
-            "hteam" : "Real Betis",
-            "ateam" : "Manchester United",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?auth_key=1679008877-0-0-a8169c6f80e30f817234068c069d8975&user_session_id=289305b2e3d9468d0cb7c8a9ac08ba21&edge_slice=true&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?user_session_id=59c8f394ddf2538e805da9bcbc7a6903&edge_slice=true&sub_m3u8=true&auth_key=1679009098-0-0-2c96506171d15ed4b2970b91b43736d6"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=42f66091f5d9dbfdcb34a972657bc361&edge_slice=true&sub_m3u8=true&auth_key=1679009098-0-0-5577e92be1e881fab0c3881335c3e338"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=3e608646b7f5fa46cb61ae1d4d1269fb&txTime=6413a431"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Europa League",
-            "date": "March 17",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-            "teams" : "SC Freiburg Vs Juventus",
-            "hteam" : "SC Freiburg",
-            "ateam" : "Juventus",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?sub_m3u8=true&user_session_id=fd525a0c636a0f14b1d6fa7cbf3fcc14&edge_slice=true&auth_key=1679008877-0-0-e1c97b7b6a1f65b0b41ad137f7fadd2d"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1679009158-0-0-c13111801bf31d6d0dc1ee764906bee9&user_session_id=9f113d4cfe518112470bb8d0f2355d59"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1679009158-0-0-4f9d408d91714abfce9c358c5f9af8de&user_session_id=cc41a4564708e924be2386ceab7fc7d9"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?auth_key=1679008877-0-0-7d93ff2b5d8be50e74665b3d5e6b34e6&sub_m3u8=true&user_session_id=e8de19722322298fb00e9f9ef71f6945&edge_slice=true"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Europa League",
             "date": "March 17",
             "time": "live",
@@ -129,8 +28,11 @@
 {
                     "type": "FHD",
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?sub_m3u8=true&user_session_id=34393549425f54af9747eaec5015de14&edge_slice=true&auth_key=1679008937-0-0-b7a637a0e5af20268d719bd193ae6b60"
-                }
-                
+                },
+              {
+                    "type": "Test",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may111/chunklist.m3u8"
+                }  
             ]
 },
 {
@@ -169,7 +71,7 @@
 {
            "league": "🏆 Europa League",
             "date": "March 17",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8222_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
             "teams" : "Ferencvaros Vs Bayer Leverkusen",
@@ -179,22 +81,18 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/bunSD/chunklist.m3u8"
          
                 },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://179720687.global.cdnfastest.com/live/1-3886450-0/chunklist.m3u8"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=29401b566af0cec54a780439a7197929&txTime=6413c6a5"
                 }
                 
             ]
