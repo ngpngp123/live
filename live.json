@@ -1,98 +1,233 @@
 [
 {
-           "league": "🏆 Europa League",
-            "date": "March 17",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
-            "teams" : "Arsenal Vs Sporting CP",
-            "hteam" : "Arsenal",
-            "ateam" : "Sporting CP",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?user_session_id=460cc4ba748b5f95017ae92735d671ea&auth_key=1679008937-0-0-664a1b4104341becd8bf722a90adec3f&edge_slice=true&sub_m3u8=true"
-         
-                },                     
+                
 {
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1679009158-0-0-5eae6df462031893be7d235e47571380&edge_slice=true&sub_m3u8=true&user_session_id=bac4812262228b2bcdde935c22938477"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
+                },
+                
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
          
                 },
 {
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&user_session_id=d722ff0137799f7b91bdc10c10d04519&auth_key=1679009158-0-0-f02647b80cac0427419538e5406974d9&sub_m3u8=true"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
          
                 },
 {
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?sub_m3u8=true&user_session_id=34393549425f54af9747eaec5015de14&edge_slice=true&auth_key=1679008937-0-0-b7a637a0e5af20268d719bd193ae6b60"
-                },
-              {
-                    "type": "Test",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may111/chunklist.m3u8"
-                }  
-            ]
-},
-{
-           "league": "🏆 Laliga",
-            "date": "March 17",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-            "teams" : "Real Sociedad Vs Roma",
-            "hteam" : "Real Sociedad",
-            "ateam" : "Roma",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=32ce7bd4cca35d6ec1de62f7ce3935e7&auth_key=1679008997-0-0-5a1671e1307f38ae32a0638d49c3e9a7"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-349393_lsd.m3u8?sub_m3u8=true&user_session_id=3f74476dfc3dfb5851e68dbd54f681e7&auth_key=1679009218-0-0-ee913c68e3bc8c5d0fed87fb7cb8c177&edge_slice=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-349393_lhd.m3u8?sub_m3u8=true&auth_key=1679009218-0-0-32a721bdbdaeff18533a32dccc235310&user_session_id=0cb855c2dc12a20e4cf612f0e462549d&edge_slice=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?auth_key=1679008997-0-0-cc9a21fc04772c64cbf3cbb94b0b1460&sub_m3u8=true&edge_slice=true&user_session_id=9c215281bbf08d97e00c24c073d25de7"
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
                 
             ]
 },
 {
-           "league": "🏆 Europa League",
-            "date": "March 17",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8222_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-            "teams" : "Ferencvaros Vs Bayer Leverkusen",
-            "hteam" : "Ferencvaros",
-            "ateam" : "Bayer Leverkusen",
+           "league": "🏆 Serie A",
+            "date": "March 18",
+            "time": "12:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
+            "teams" : "Sassuolo Vs Spezia",
+            "hteam" : "Sassuolo",
+            "ateam" : "Spezia",
             "hotmat":"yes",
             "link":[
   {
                     "type": "SD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/bunSD/chunklist.m3u8"
+                "livelink":""
          
                 },                     
-
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
 {
                     "type": "HD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/1-3886450-0/chunklist.m3u8"
+                "livelink":""
          
                 },
 {
                     "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=29401b566af0cec54a780439a7197929&txTime=6413c6a5"
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Bundesliga",
+            "date": "March 18",
+            "time": "2:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
+            "teams" : "Borussia M'Gladbach Vs Werder Bremen",
+            "hteam" : "Borussia M'Gladbach",
+            "ateam" : "Werder Bremen",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Serie A",
+            "date": "March 18",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
+            "teams" : "Atalanta Vs Empoli",
+            "hteam" : "Atalanta",
+            "ateam" : "Empoli",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Premier League",
+            "date": "March 18",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "teams" : "Nottingham Vs Newcastle",
+            "hteam" : "Nottingham",
+            "ateam" : "Newcastle",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Laliga",
+            "date": "March 18",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+            "teams" : "Real Valladolid Vs Athletic Club",
+            "hteam" : "Real Valladolid",
+            "ateam" : "Athletic Club",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Ligue 1",
+            "date": "March 18",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
+            "teams" : "Lyon Vs Nantes",
+            "hteam" : "Lyon",
+            "ateam" : "Nantes",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
                 }
                 
             ]
