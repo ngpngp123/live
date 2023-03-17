@@ -37,7 +37,7 @@
 {
            "league": "🏆 Serie A",
             "date": "March 18",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
             "teams" : "Sassuolo Vs Spezia",
@@ -70,7 +70,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "March 18",
-            "time": "2:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
             "teams" : "Borussia M'Gladbach Vs Werder Bremen",
@@ -103,7 +103,7 @@
 {
            "league": "🏆 Serie A",
             "date": "March 18",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
             "teams" : "Atalanta Vs Empoli",
@@ -136,7 +136,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 18",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "teams" : "Nottingham Vs Newcastle",
@@ -169,7 +169,7 @@
 {
            "league": "🏆 Laliga",
             "date": "March 18",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
             "teams" : "Real Valladolid Vs Athletic Club",
@@ -197,7 +197,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "March 18",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
             "teams" : "Lyon Vs Nantes",
