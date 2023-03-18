@@ -192,8 +192,8 @@
 
 {
            "league": "🏆 Serie A",
-            "date": "March 19",
-            "time": "2:15 AM",
+            "date": "March 19(2:15 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
             "teams" : "Udinese Vs Milan",
@@ -225,8 +225,8 @@
 },
 {
            "league": "🏆 Laliga",
-            "date": "March 19",
-            "time": "2:30 AM",
+            "date": "March 19(2:30 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
             "teams" : "Atletico Madrid Vs Valencia",
@@ -258,8 +258,8 @@
 },
 {
            "league": "🏆 Ligue 1",
-            "date": "March 19",
-            "time": "2:30 AM",
+            "date": "March 19(2:30 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
             "teams" : "Lens Vs Angers",
