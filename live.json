@@ -1,293 +1,37 @@
 [
 {
-           "league": "🏆 Serie A",
-            "date": "March 18",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-            "teams" : "Salernitana Vs Bologna",
-            "hteam" : "Salernitana",
-            "ateam" : "Bologna",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1679177399-0-0-06e697068fa219abbcc32df685987aec&edge_slice=true&sub_m3u8=true&user_session_id=d483c654cdc49c160f2a210fdf5f6327"
-         
-                },                     
-{
-                    "type": "HD",
-                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1679177399-0-0-06e697068fa219abbcc32df685987aec&edge_slice=true&sub_m3u8=true&user_session_id=d483c654cdc49c160f2a210fdf5f6327"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=5285590386b6126e38a23279b7d7727f&txTime=64161a6d"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "March 19",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-            "teams" : "Chelsea Vs Everton",
-            "hteam" : "Chelsea",
-            "ateam" : "Everton",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1679177597-0-0-cacd44f062e4fc3001ca120b89e5aaab&sub_m3u8=true&user_session_id=b45b045cb3e39ae4a744a61d6a31605c&edge_slice=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1679177639-0-0-0a71b60c31728185a967c2689504d82e&sub_m3u8=true&user_session_id=e0a28d78d87a8958acf9a1c327eb0f18&edge_slice=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a579be0ca45b54a06e085c56721a7905&auth_key=1679177597-0-0-04d1ea9289fe46b93a3045505aa8efe5"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fe48c2506bdb5edb6d25df9634532ebc&auth_key=1679181238-0-0-8afefa9dc5e3a6f0c002f90d0881134b"
-                },
-{
-                    "type": "Eng FHD",
-                "livelink":"https://wanaty111ssaaq.azureedge.net/live/usa/chunks.m3u8"
-}
                 
-            ]
-},
 {
-           "league": "🏆 Bundesliga",
-            "date": "March 19",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
-            "teams" : "Borussia Dortmund Vs 1. FC Köln",
-            "hteam" : "Borussia Dortmund",
-            "ateam" : "1. FC Köln",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1679177759-0-0-e863cde5d69d3a2260d1cabed232109b&user_session_id=396879c6b2b409bc7566468d372c3ea5"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?auth_key=1679177837-0-0-1ee6a647c381fed9ebe3e8e5f735457b&user_session_id=3e1051590061339d770e049945064269&edge_slice=true&sub_m3u8=true"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
          
                 },
-{
-                    "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?edge_slice=true&auth_key=1679177837-0-0-6caaee6539f0432363bd6f8894ac152e&sub_m3u8=true&user_session_id=3cebcbdf92c17c156ee110f8ffd82c37"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1679181298-0-0-f9d8d3bdc56218470f6575ca625537e3&user_session_id=6674643d58973b163d3421006b471854"
-                }
                 
-            ]
-},
 {
-           "league": "🏆 Laliga",
-            "date": "March 19",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
-            "teams" : "Espanyol Vs Celta Vigo",
-            "hteam" : "Espanyol",
-            "ateam" : "Celta Vigo",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-122774_lsd.m3u8?edge_slice=true&user_session_id=9837d297c7d59b6e23992a929bbe9729&sub_m3u8=true&auth_key=1679177897-0-0-113b2bb3678920acfede9184172d248a"
-         
-                },                     
-
-{
-                    "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?sub_m3u8=true&user_session_id=61f2ca32f15c884a4acb6cf95fd2d490&auth_key=1679177897-0-0-1776b62f9e6574650aef9c040b9e3a16&edge_slice=true"
-         
-                }
-
-                
-            ]
-},
-{
-           "league": "🏆 Saudi Premier League",
-            "date": "March 19",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/150414_small.png",
-            "teams" : "Al Nassr FC Vs Abha",
-            "hteam" : "Al Nassr FC",
-            "ateam" : "Abha",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-226699_lsd.m3u8?edge_slice=true&user_session_id=333ec9c2b3027e4974562a4fb989700d&sub_m3u8=true&auth_key=1679178317-0-0-2ee2eddbb0aa19d6e3973e7924268581"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?user_session_id=9a152e4324e03bb3fef291826a5c1005&edge_slice=true&sub_m3u8=true&auth_key=1679178377-0-0-3c21dded49465c6d049d0518d819852f"
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
          
                 },
 {
-                    "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-226699_lhd.m3u8?auth_key=1679178317-0-0-d8c94a6006aa6b22ae5e1a3c51958552&user_session_id=fa715a726b9231f630de00b9f749a100&sub_m3u8=true&edge_slice=true"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
          
                 },
 {
-                    "type": "FHD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?user_session_id=e7d66e5ba42f235ab00ba1fa4f60d342&edge_slice=true&sub_m3u8=true&auth_key=1679178377-0-0-838600850f200c96b96f89a9f0c6d69a"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 FA CUP",
-            "date": "March 19",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
-            "teams" : "Manchester City Vs Burnley",
-            "hteam" : "Manchester City",
-            "ateam" : "Burnley",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=a7ec63ea76f58351334a7ea328bfe8dd&txTime=64164551"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lsd.m3u8?sub_m3u8=true&auth_key=1679181358-0-0-20f4fe8518f7d0fbb8267e77a46f2177&user_session_id=449e1f47df552a6380b04a6666274fee&edge_slice=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-181398.m3u8?txSecret=cd38edcb18421359df955f181e99f7fb&txTime=64164551"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/1-3888993-0/chunklist.m3u8"
-                }
-                
-            ]
-},
-
-{
-           "league": "🏆 Serie A",
-            "date": "March 19(2:15 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-            "teams" : "Udinese Vs Milan",
-            "hteam" : "Udinese",
-            "ateam" : "Milan",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-466758_lsd.m3u8?edge_slice=true&user_session_id=a261816c303165755774fa0f7482562f&sub_m3u8=true&auth_key=1679181418-0-0-6a998cf281f0b39a4910def18bf6c800"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-466758_lsd.m3u8?edge_slice=true&user_session_id=a261816c303165755774fa0f7482562f&sub_m3u8=true&auth_key=1679181418-0-0-6a998cf281f0b39a4910def18bf6c800"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=4f7b8de1afca8d132fdff732c597ad53&txTime=6416458d"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-466758_lhd.m3u8?auth_key=1679181418-0-0-9684e517e41a6edaf0e2b1738f64b462&sub_m3u8=true&user_session_id=a30dd112cf07e08e80e9dbb3949e1b27&edge_slice=true"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Laliga",
-            "date": "March 19(2:30 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-            "teams" : "Atletico Madrid Vs Valencia",
-            "hteam" : "Atletico Madrid",
-            "ateam" : "Valencia",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?auth_key=1679181358-0-0-b70ed657cfdc12759fc5261c626a04d2&user_session_id=da6ce2adaba024032f8824f284deb964&edge_slice=true&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?auth_key=1679181358-0-0-b70ed657cfdc12759fc5261c626a04d2&user_session_id=da6ce2adaba024032f8824f284deb964&edge_slice=true&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=6ddb355d8e02fdb3e33187595fe13704&txTime=6416458d"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?auth_key=1679181358-0-0-15a1f7db129802ba5486cc8103ccc65d&edge_slice=true&sub_m3u8=true&user_session_id=9f8acd6cd11c596b8f27f40240c7c261"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Ligue 1",
-            "date": "March 19(2:30 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
-            "teams" : "Lens Vs Angers",
-            "hteam" : "Lens",
-            "ateam" : "Angers",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-143449_lsd.m3u8?auth_key=1679181197-0-0-e3ff4b11102c7210673171ea2e31eea3&sub_m3u8=true&user_session_id=06d6ca7ae19b1559184fff0cc5d0b0dc&edge_slice=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-697579_lsd.m3u8?edge_slice=true&user_session_id=f5fc297eebe9dc4f62152011e6680173&auth_key=1679181478-0-0-0e486ee01c5878f2829be8df7b12bede&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?sub_m3u8=true&user_session_id=ee1ac26004215dc03366190b1da26e6b&edge_slice=true&auth_key=1679181197-0-0-6be1e9e080cbc7f4b122be1e104671eb"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-697579_lhd.m3u8?user_session_id=404ef2894da73d4c291df471f0b6284d&sub_m3u8=true&auth_key=1679181478-0-0-03d17d3009c8ee46b3363f0d2daa6d27&edge_slice=true"
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
                 
             ]
 }
-
 ]
