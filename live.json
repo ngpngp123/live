@@ -1,268 +1,7 @@
 [
-{
-           "league": "🏆 Bundesliga",
-            "date": "March 18",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-            "teams" : "VfL Bochum Vs RB Leipzig",
-            "hteam" : "VfL Bochum",
-            "ateam" : "RB Leipzig",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-201313_lsd.m3u8?auth_key=1679169557-0-0-8ad4b8371ac2c109f7b8cbff089d4e0f&user_session_id=098916342051623c0e711372fb8d5bce&edge_slice=true&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/bunSD/chunklist.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-201313_lhd.m3u8?user_session_id=f431962f9f6474889549b9dece4d3cda&auth_key=1679169557-0-0-9ecf69a5dc5db78ba055b206559844db&sub_m3u8=true&edge_slice=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/bunFHD/chunklist.m3u8"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Bundesliga",
-            "date": "March 18",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
-            "teams" : "TSG Hoffenheim Vs Hertha BSC",
-            "hteam" : "TSG Hoffenheim",
-            "ateam" : "Hertha BSC",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?auth_key=1679170558-0-0-6225a41ea0bf92c1aa80b12182c0270f&user_session_id=ff3d67d77a9203f09faf8a98271ba02a&edge_slice=true&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?user_session_id=9620f7ec152ef5618418f9c09850e5e1&sub_m3u8=true&edge_slice=true&auth_key=1679170558-0-0-04001a794556061a31d466af4fec348e"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-172256.m3u8?txSecret=9781d4627783dd84e446421e278844e4&txTime=64161941"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Bundesliga",
-            "date": "March 18",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
-            "teams" : "VfB Stuttgart Vs Wolfsburg",
-            "hteam" : "VfB Stuttgart",
-            "ateam" : "Wolfsburg",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-106737_lsd.m3u8?user_session_id=745057d7da5900a7abe6f03b8a2c66ed&auth_key=1679170157-0-0-bbfd57a65eb69df78f53b951dc652aec&sub_m3u8=true&edge_slice=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-900001_lsd.m3u8?user_session_id=d78ac5ac3c9c34ecb84fda4832a29955&edge_slice=true&auth_key=1679170739-0-0-71802c61525b9e2b5b5ea0e7272acf39&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-106737_lhd.m3u8?user_session_id=64b8abe4c79f947fc03f5d51aadb146c&auth_key=1679170157-0-0-ff66a365b65fed90b160bc3e7d082e9e&sub_m3u8=true&edge_slice=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=7fe5080ad9b4d6c9058dc7b0e3c932aa&txTime=64161aa9"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "March 18",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-            "teams" : "Southampton Vs Tottenham",
-            "hteam" : "Southampton",
-            "ateam" : "Tottenham",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-226699_lsd.m3u8?edge_slice=true&user_session_id=eb5f7bd9f5780a18a1b52b5acc5fb392&sub_m3u8=true&auth_key=1679169737-0-0-cd766b3cd9fd2d88db2f40dfb1392122"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-226699_lhd.m3u8?edge_slice=true&user_session_id=92700f74dd580359b68ce3ae4cdc3fd2&sub_m3u8=true&auth_key=1679169737-0-0-61e3e47661b776cb598d8a9faf02fd10"
-         
-                },
-{
-                    "type": "Eng FHD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/1-3747160-0/chunklist.m3u8"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "March 18",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-            "teams" : "Aston Villa Vs AFC Bournemouth",
-            "hteam" : "Aston Villa",
-            "ateam" : "AFC Bournemouth",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1679169557-0-0-121372e8cd48b55b6cebebdac2d6f842&user_session_id=1d763c1722c40831ae80e577b3fe4eec&sub_m3u8=true&edge_slice=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=419f46296d1bee670888ee7a31970d83&auth_key=1679172317-0-0-f1f795eed7e4ea5f291369b70374201d"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?edge_slice=true&user_session_id=72fd4095838c5653346c5398c7ba5a50&auth_key=1679169557-0-0-2acd497203484466a90dfe944b360617&sub_m3u8=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1f154ad756145304348233c6bafbfbce&auth_key=1679172317-0-0-7bd283d4e6160105e41cfdcbad5320cd"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "March 18",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-            "teams" : "Brentford Vs Leicester City",
-            "hteam" : "Brentford",
-            "ateam" : "Leicester City",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?user_session_id=186a43bb589c5af03b533b354767006e&edge_slice=true&sub_m3u8=true&auth_key=1679169617-0-0-831b8d4dcae2d667795fec18a65d6b95"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?auth_key=1679169617-0-0-900cafdcffccbee82ad650010a8d6718&user_session_id=fa8300463de709a9c11f4e0782785e75&sub_m3u8=true&edge_slice=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/1-3747147-0/chunklist.m3u8"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "March 18",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-            "teams" : "Wolves Vs Leeds",
-            "hteam" : "Wolves",
-            "ateam" : "Leeds",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-173024_lsd.m3u8?edge_slice=true&user_session_id=a425bf4cf8d647ba50a13c15f9a7d45e&sub_m3u8=true&auth_key=1679169797-0-0-1621ed9d8e44be91f4540d17476c9859"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may91/playlist.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-173024_lhd.m3u8?auth_key=1679169797-0-0-ae096a90ce440eb9f55c2b7ceda14f7e&user_session_id=79965d9558a61a623068946409e93076&sub_m3u8=true&edge_slice=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=5eb361f88c1a905965fa5322c3a72bd7&txTime=64161905"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Laliga",
-            "date": "March 18",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
-            "teams" : "Rayo Vallecano Vs Girona",
-            "hteam" : "Rayo Vallecano",
-            "ateam" : "Girona",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132343_lsd.m3u8?auth_key=1679170037-0-0-2e1a061bed8799dc7bf4755b2c2401b1&sub_m3u8=true&edge_slice=true&user_session_id=cb40f5b3391b4cba34065c13834fadd2"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may10/playlist.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-158814.m3u8?txSecret=0b0b24a3c3df3b1e4462c9b2b0d8830e&txTime=641619f5"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-144861.m3u8?txSecret=ab69183bdae84e89126eea034e5f4974&txTime=641619b9"
-                }
-                
-            ]
-},
+
+
+
 {
            "league": "🏆 Ligue 1",
             "date": "March 18",
@@ -322,7 +61,7 @@
 {
            "league": "🏆 Premier League",
             "date": "March 19",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
             "teams" : "Chelsea Vs Everton",
@@ -355,7 +94,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "March 19",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
             "teams" : "Borussia Dortmund Vs 1. FC Köln",
@@ -388,7 +127,7 @@
 {
            "league": "🏆 Laliga",
             "date": "March 19",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
             "teams" : "Espanyol Vs Celta Vigo",
@@ -414,7 +153,7 @@
 {
            "league": "🏆 Saudi Premier League",
             "date": "March 19",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/150414_small.png",
             "teams" : "Al Nassr FC Vs Abha",
