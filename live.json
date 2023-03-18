@@ -1,38 +1,5 @@
 [
 {
-           "league": "🏆 Laliga",
-            "date": "March 18",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-            "teams" : "Almeria Vs Cadiz",
-            "hteam" : "Almeria",
-            "ateam" : "Cadiz",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=ebecb9af943047c25bf0d10b2c8a85f1&sub_m3u8=true&auth_key=1679164217-0-0-90be2c9f34809dab95f53ff635c5dc1e&edge_slice=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may10/chunks.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=ebecb9af943047c25bf0d10b2c8a85f1&sub_m3u8=true&auth_key=1679164217-0-0-90be2c9f34809dab95f53ff635c5dc1e&edge_slice=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-144861.m3u8?txSecret=5980c89b1c35e36bf45eb473235b91b4&txTime=64160285"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Serie A",
             "date": "March 18",
             "time": "live",
@@ -191,8 +158,8 @@
          
                 },
 {
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=632b4160029b1641d4c0c2ea9c52a085&txTime=641618c9"
+                    "type": "Eng FHD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/1-3747160-0/chunklist.m3u8"
                 }
                 
             ]
