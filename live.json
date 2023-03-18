@@ -1,38 +1,5 @@
 [
 {
-           "league": "🏆 Serie A",
-            "date": "March 18",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
-            "teams" : "Monza Vs Cremonese",
-            "hteam" : "Monza",
-            "ateam" : "Cremonese",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?sub_m3u8=true&auth_key=1679168057-0-0-6395d53d3089041a20e7902e0126f327&edge_slice=true&user_session_id=dbe1ef29223ca7186e6b637f7bfa8048"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may101/playlist.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1679168057-0-0-0d84f4cae1332c29358df364b7494c1c&user_session_id=380ca931b24a2c3f830f0e17918bedde"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-115447.m3u8?txSecret=a1ccd5eb7aaa91cc17dba1315209c87b&txTime=64161275"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Bundesliga",
             "date": "March 18",
             "time": "live",
@@ -327,7 +294,7 @@
 {
            "league": "🏆 Serie A",
             "date": "March 18",
-            "time": "11:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
             "teams" : "Salernitana Vs Bologna",
@@ -337,17 +304,12 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1679177399-0-0-06e697068fa219abbcc32df685987aec&edge_slice=true&sub_m3u8=true&user_session_id=d483c654cdc49c160f2a210fdf5f6327"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
-{
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1679177399-0-0-06e697068fa219abbcc32df685987aec&edge_slice=true&sub_m3u8=true&user_session_id=d483c654cdc49c160f2a210fdf5f6327"
          
                 },
 {
@@ -370,17 +332,17 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1679177597-0-0-cacd44f062e4fc3001ca120b89e5aaab&sub_m3u8=true&user_session_id=b45b045cb3e39ae4a744a61d6a31605c&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1679177639-0-0-0a71b60c31728185a967c2689504d82e&sub_m3u8=true&user_session_id=e0a28d78d87a8958acf9a1c327eb0f18&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a579be0ca45b54a06e085c56721a7905&auth_key=1679177597-0-0-04d1ea9289fe46b93a3045505aa8efe5"
          
                 },
 {
@@ -403,17 +365,17 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1679177759-0-0-e863cde5d69d3a2260d1cabed232109b&user_session_id=396879c6b2b409bc7566468d372c3ea5"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?auth_key=1679177837-0-0-1ee6a647c381fed9ebe3e8e5f735457b&user_session_id=3e1051590061339d770e049945064269&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?edge_slice=true&auth_key=1679177837-0-0-6caaee6539f0432363bd6f8894ac152e&sub_m3u8=true&user_session_id=3cebcbdf92c17c156ee110f8ffd82c37"
          
                 },
 {
@@ -436,23 +398,16 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-122774_lsd.m3u8?edge_slice=true&user_session_id=9837d297c7d59b6e23992a929bbe9729&sub_m3u8=true&auth_key=1679177897-0-0-113b2bb3678920acfede9184172d248a"
          
                 },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?sub_m3u8=true&user_session_id=61f2ca32f15c884a4acb6cf95fd2d490&auth_key=1679177897-0-0-1776b62f9e6574650aef9c040b9e3a16&edge_slice=true"
          
-                },
-{
-                    "type": "FHD",
-                "livelink":""
                 }
+
                 
             ]
 },
