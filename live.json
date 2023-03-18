@@ -1,35 +1,4 @@
 [
-
-
-
-{
-           "league": "🏆 Ligue 1",
-            "date": "March 18",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
-            "teams" : "Toulouse Vs Lille",
-            "hteam" : "Toulouse",
-            "ateam" : "Lille",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112565_lsd.m3u8?sub_m3u8=true&user_session_id=0698b4dce08afa32cd6b3dda9c2fa1f3&auth_key=1679170097-0-0-e5a4b0f7d951b8459e243b85e98489f9&edge_slice=true"
-         
-                },                     
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=85b1c9908624cb02209cd2a41aedec61&txTime=64161a31"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-120778.m3u8?txSecret=c397847b1760da9627587050bd55dc9f&txTime=64161a31"
-                }
-                
-            ]
-},
 {
            "league": "🏆 Serie A",
             "date": "March 18",
