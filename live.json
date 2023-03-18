@@ -68,7 +68,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "March 18",
-            "time": "9:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
             "teams" : "VfL Bochum Vs RB Leipzig",
@@ -111,7 +111,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?auth_key=1679170558-0-0-6225a41ea0bf92c1aa80b12182c0270f&user_session_id=ff3d67d77a9203f09faf8a98271ba02a&edge_slice=true&sub_m3u8=true"
          
                 },                     
 {
@@ -121,7 +121,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?user_session_id=9620f7ec152ef5618418f9c09850e5e1&sub_m3u8=true&edge_slice=true&auth_key=1679170558-0-0-04001a794556061a31d466af4fec348e"
          
                 },
 {
@@ -134,7 +134,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "March 18",
-            "time": "9:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
             "teams" : "VfB Stuttgart Vs Wolfsburg",
