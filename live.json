@@ -83,7 +83,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?auth_key=1679169917-0-0-40b539de106a8cf235c9b450b78c9d97&sub_m3u8=true&user_session_id=16d3e8e062c343feb49660f93fb47a3f&edge_slice=true"
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/bunSD/chunklist.m3u8"
          
                 },
 {
@@ -93,7 +93,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?sub_m3u8=true&user_session_id=b4b44fce0c8cb662000f58d4a6031b14&edge_slice=true&auth_key=1679169917-0-0-6b40183e553af3cc6f9f6c53b24d071c"
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/bunFHD/chunklist.m3u8"
                 }
                 
             ]
@@ -101,7 +101,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "March 18",
-            "time": "9:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
             "teams" : "TSG Hoffenheim Vs Hertha BSC",
