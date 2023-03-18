@@ -86,7 +86,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":"https://wanaty111ssaaq.azureedge.net/live/usa/chunks.m3u8"
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fe48c2506bdb5edb6d25df9634532ebc&auth_key=1679181238-0-0-8afefa9dc5e3a6f0c002f90d0881134b"
                 }
                 
             ]
@@ -119,7 +119,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1679181298-0-0-f9d8d3bdc56218470f6575ca625537e3&user_session_id=6674643d58973b163d3421006b471854"
                 }
                 
             ]
@@ -186,7 +186,7 @@
 {
            "league": "🏆 FA CUP",
             "date": "March 19",
-            "time": "12:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
             "teams" : "Manchester City Vs Burnley",
@@ -195,23 +195,23 @@
             "hotmat":"yes",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=a7ec63ea76f58351334a7ea328bfe8dd&txTime=64164551"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lsd.m3u8?sub_m3u8=true&auth_key=1679181358-0-0-20f4fe8518f7d0fbb8267e77a46f2177&user_session_id=449e1f47df552a6380b04a6666274fee&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-181398.m3u8?txSecret=cd38edcb18421359df955f181e99f7fb&txTime=64164551"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=bd8c88afaa2cb2339d18177544730d4d&auth_key=1679181358-0-0-9ca69d9e4761047cf062499af0d024ea"
                 }
                 
             ]
@@ -230,22 +230,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-466758_lsd.m3u8?edge_slice=true&user_session_id=a261816c303165755774fa0f7482562f&sub_m3u8=true&auth_key=1679181418-0-0-6a998cf281f0b39a4910def18bf6c800"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-466758_lsd.m3u8?edge_slice=true&user_session_id=a261816c303165755774fa0f7482562f&sub_m3u8=true&auth_key=1679181418-0-0-6a998cf281f0b39a4910def18bf6c800"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=4f7b8de1afca8d132fdff732c597ad53&txTime=6416458d"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-466758_lhd.m3u8?auth_key=1679181418-0-0-9684e517e41a6edaf0e2b1738f64b462&sub_m3u8=true&user_session_id=a30dd112cf07e08e80e9dbb3949e1b27&edge_slice=true"
                 }
                 
             ]
@@ -263,22 +263,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?auth_key=1679181358-0-0-b70ed657cfdc12759fc5261c626a04d2&user_session_id=da6ce2adaba024032f8824f284deb964&edge_slice=true&sub_m3u8=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?auth_key=1679181358-0-0-b70ed657cfdc12759fc5261c626a04d2&user_session_id=da6ce2adaba024032f8824f284deb964&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=6ddb355d8e02fdb3e33187595fe13704&txTime=6416458d"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?auth_key=1679181358-0-0-15a1f7db129802ba5486cc8103ccc65d&edge_slice=true&sub_m3u8=true&user_session_id=9f8acd6cd11c596b8f27f40240c7c261"
                 }
                 
             ]
@@ -296,22 +296,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-143449_lsd.m3u8?auth_key=1679181197-0-0-e3ff4b11102c7210673171ea2e31eea3&sub_m3u8=true&user_session_id=06d6ca7ae19b1559184fff0cc5d0b0dc&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-697579_lsd.m3u8?edge_slice=true&user_session_id=f5fc297eebe9dc4f62152011e6680173&auth_key=1679181478-0-0-0e486ee01c5878f2829be8df7b12bede&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?sub_m3u8=true&user_session_id=ee1ac26004215dc03366190b1da26e6b&edge_slice=true&auth_key=1679181197-0-0-6be1e9e080cbc7f4b122be1e104671eb"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-697579_lhd.m3u8?user_session_id=404ef2894da73d4c291df471f0b6284d&sub_m3u8=true&auth_key=1679181478-0-0-03d17d3009c8ee46b3363f0d2daa6d27&edge_slice=true"
                 }
                 
             ]
