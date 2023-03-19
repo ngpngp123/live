@@ -131,7 +131,7 @@
 {
            "league": "🏆 Serie A",
             "date": "March 19",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
             "teams" : "Fiorentina Vs Lecce",
@@ -141,23 +141,15 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-161243_lsd.m3u8?user_session_id=691e2f5d3ba76fdf2bf511d34da2c434&auth_key=1679255597-0-0-9a20de23b12478fad16dfe9ab29beeef&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
-{
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-161243_lhd.m3u8?user_session_id=d23306f9f5ae8309da93ac120c9d9f6d&auth_key=1679255597-0-0-7b02644c6decceb47ffe77e5c3765b78&sub_m3u8=true&edge_slice=true"
          
-                },
-{
-                    "type": "FHD",
-                "livelink":""
                 }
+
                 
             ]
 },
