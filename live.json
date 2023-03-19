@@ -219,7 +219,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "March 19",
-            "time": "10:35 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
             "teams" : "PSG Vs Rennes",
@@ -252,7 +252,7 @@
 {
            "league": "🏆 FA CUP",
             "date": "March 19",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "teams" : "Manchester United Vs Fulham",
@@ -267,7 +267,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1679264099-0-0-effc590bafb6db73d9da8ea6b3add603&sub_m3u8=true&user_session_id=9b1a58e9ef1eab75a29b466171b5fab7&edge_slice=true"
          
                 },
 {
@@ -277,7 +277,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=cb15f924e1cf1953cda04b299ca7f681&sub_m3u8=true&auth_key=1679264099-0-0-618ebe850eb1f9210ec949b3bcb190ee&edge_slice=true"
                 }
                 
             ]
@@ -285,7 +285,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "March 19",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
             "teams" : "Bayer Leverkusen Vs Bayern München",
@@ -295,22 +295,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=1dadc0d4d55fc0249c7fff8222f9f654&auth_key=1679264099-0-0-dc3bdc99c05753d897883c62ecff7f1d"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?edge_slice=true&auth_key=1679263997-0-0-7371c758a478a02c4cc42dbacd805a57&sub_m3u8=true&user_session_id=0fe7d39f4de4203c1f8c20656fd985f8"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?user_session_id=5a023b1bbff217ae06f86f4570ea5fca&edge_slice=true&sub_m3u8=true&auth_key=1679263997-0-0-13e730c02e3c1d2d51a48c3ca6a13a28"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1679264099-0-0-162290688e199b75a9ef55037f588f0c&user_session_id=48cc3250b8065d17119edc8a74b78c52"
                 }
                 
             ]
