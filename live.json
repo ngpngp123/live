@@ -1,186 +1,37 @@
 [
 {
-           "league": "🏆 Bundesliga",
-            "date": "March 19",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-            "teams" : "Bayer Leverkusen Vs Bayern München",
-            "hteam" : "Bayer Leverkusen",
-            "ateam" : "Bayern München",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=1dadc0d4d55fc0249c7fff8222f9f654&auth_key=1679264099-0-0-dc3bdc99c05753d897883c62ecff7f1d"
-         
-                },                     
+                
 {
-                    "type": "SD 2",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?edge_slice=true&auth_key=1679263997-0-0-7371c758a478a02c4cc42dbacd805a57&sub_m3u8=true&user_session_id=0fe7d39f4de4203c1f8c20656fd985f8"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
+                },
+                
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
          
                 },
 {
-                    "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?user_session_id=5a023b1bbff217ae06f86f4570ea5fca&edge_slice=true&sub_m3u8=true&auth_key=1679263997-0-0-13e730c02e3c1d2d51a48c3ca6a13a28"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
          
                 },
 {
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1679264099-0-0-162290688e199b75a9ef55037f588f0c&user_session_id=48cc3250b8065d17119edc8a74b78c52"
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
                 
-            ]
-},
-{
-           "league": "🏆 Serie A",
-            "date": "March 19",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-            "teams" : "Lazio Vs Roma",
-            "hteam" : "Lazio",
-            "ateam" : "Roma",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-508945_ld.m3u8?auth_key=1679266679-0-0-1aa05d9792c4ff2a03fbce4babd5c8aa"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-508945.m3u8?auth_key=1679266679-0-0-da0a916b0a9e2fe526f690c7f755113c"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-508945.m3u8?auth_key=1679266679-0-0-da0a916b0a9e2fe526f690c7f755113c"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://yypull.gdsth.com/live/stream-508945.m3u8?auth_key=1679266679-0-0-da0a916b0a9e2fe526f690c7f755113c"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Laliga",
-            "date": "March 20",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-            "teams" : "Getafe Vs Sevilla",
-            "hteam" : "Getafe",
-            "ateam" : "Sevilla",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-113906.m3u8?txSecret=c341855d366054bf19185a358e731bd1&txTime=64179acd"
-         
-                
-
-                }
-                
-            ]
-},
-
-{
-           "league": "🏆 Serie A",
-            "date": "March 20(2:15 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-            "teams" : "Inter Vs Juventus",
-            "hteam" : "Inter",
-            "ateam" : "Juventus",
-            "hotmat":"yes",
-            "link":[
-                       
-{
-                    "type": "SD 2",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/bunSD/chunklist.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may81/chunklist.m3u8"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/bunFHD/chunklist.m3u8"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Ligue 1",
-            "date": "March 20(2:15 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
-            "teams" : "Reims Vs Marseille",
-            "hteam" : "Reims",
-            "ateam" : "Marseille",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lsd.m3u8?sub_m3u8=true&user_session_id=3a2dd15c13546bbc7b16eecec77ebfce&edge_slice=true&auth_key=1679273458-0-0-6fa50da81820ce149cba1dc6e13594c3"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?sub_m3u8=true&auth_key=1679273458-0-0-290b9b0ccbeef53ccd205833be117ec5&edge_slice=true&user_session_id=f1abc95d930532a104b21be52c844cf5"
-         
-                }
-
-                
-            ]
-},
-{
-           "league": "🏆 Laliga",
-            "date": "March 20(2:30 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "teams" : "Barcelona Vs Real Madrid",
-            "hteam" : "Barcelona",
-            "ateam" : "Real Madrid",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?edge_slice=true&user_session_id=6ae0d5410d496d7db734f5d9b23a8a00&auth_key=1679273758-0-0-1321506cb8d83992efd7eda4864bc079&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=73c75b401f2a3914920d1558d67f8a59&txTime=6417ad8d"
-                },
-             {
-                    "type": "FHD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may123/chunklist.m3u8"
-                }   
             ]
 }
-
 ]
