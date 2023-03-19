@@ -65,7 +65,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "March 19",
-            "time": "6:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8576_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
             "teams" : "AC Ajaccio Vs Monaco",
@@ -75,22 +75,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?sub_m3u8=true&user_session_id=388464366c22f81bac9b209aee7e9f19&edge_slice=true&auth_key=1679247917-0-0-0d1655ef8c337e87581a2249d03d9650"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1679248259-0-0-f0e819a8f7583c853b007efdb54c8d86&edge_slice=true&user_session_id=9a0bac91a0c80338139a727754908c72&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?auth_key=1679247917-0-0-0d1f1613c3848c8fa1e0bd8cf89af9a1&sub_m3u8=true&user_session_id=43bf74a4e8bc28e8a6ea03cbc69bcd96&edge_slice=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=8e43d8948c0c3008712cec629dcd0095&txTime=64174a69"
                 }
                 
             ]
