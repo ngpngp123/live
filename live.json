@@ -200,7 +200,7 @@
 {
            "league": "🏆 Laliga",
             "date": "March 20",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
             "teams" : "Getafe Vs Sevilla",
@@ -210,22 +210,10 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-113906.m3u8?txSecret=c341855d366054bf19185a358e731bd1&txTime=64179acd"
          
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":""
+                
+
                 }
                 
             ]
