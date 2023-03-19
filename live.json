@@ -218,39 +218,7 @@
                 
             ]
 },
-{
-           "league": "🏆 Bundesliga",
-            "date": "March 20",
-            "time": "1:00 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-            "teams" : "Mainz 05 Vs SC Freiburg",
-            "hteam" : "Mainz 05",
-            "ateam" : "SC Freiburg",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":""
-                }
-                
-            ]
-},
+
 {
            "league": "🏆 Serie A",
             "date": "March 20",
