@@ -1,33 +1,5 @@
 [
 {
-           "league": "🏆 Serie A",
-            "date": "March 19",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
-            "teams" : "Sampdoria Vs Hellas Verona",
-            "hteam" : "Sampdoria",
-            "ateam" : "Hellas Verona",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?user_session_id=d63472306f26c8256b59d15a8757ea1a&sub_m3u8=true&edge_slice=true&auth_key=1679245877-0-0-04f988a570d7e401967a257cb105831c"
-         
-                },                     
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1679245877-0-0-d9449371f91f740548dee9312074572a&user_session_id=e0b3cf20a3ded485a1b2acda28d607a0&sub_m3u8=true&edge_slice=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-208390.m3u8?txSecret=d9bf5e694ebaa625fb141e10f3cc2efc&txTime=641742e9"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Ligue 1",
             "date": "March 19",
             "time": "live",
@@ -103,7 +75,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1679254997-0-0-ce23f0345b36e719dc41ac5a8c2795f0&sub_m3u8=true&edge_slice=true&user_session_id=efcadcb141bf1302ef2d777b1cd4f140"
          
                 },                     
 {
@@ -113,7 +85,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?edge_slice=true&user_session_id=ee4d2a392a4fdfffc22c81dbeb92bacc&auth_key=1679254997-0-0-30f1c57543d726eac300ee34d3c93022&sub_m3u8=true"
          
                 },
 {
