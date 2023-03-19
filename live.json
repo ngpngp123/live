@@ -1,35 +1,5 @@
 [
 {
-           "league": "🏆 Laliga",
-            "date": "March 19",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
-            "teams" : "Real Betis Vs Mallorca",
-            "hteam" : "Real Betis",
-            "ateam" : "Mallorca",
-            "hotmat":"yes",
-            "link":[
-  
-                              
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?edge_slice=true&user_session_id=ece6ad0db3ed89a5798617c9e816c527&auth_key=1679252357-0-0-6f6b6b8d2ef6c85d36be5b3160a65a92&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-181398.m3u8?txSecret=4b58eaf9ff678425525f5fc969676601&txTime=64175b85"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?sub_m3u8=true&auth_key=1679252357-0-0-f32aa457df860ec75ea3f76940bcabc9&user_session_id=80fc8e71e48b575b245af0ae29c0cbbb&edge_slice=true"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Premier League",
             "date": "March 18",
             "time": "live",
