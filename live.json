@@ -33,40 +33,6 @@
                 }
                 
             ]
-},
-           {
-           "league": "Friendlies",
-            "date": "Today",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6329_small.png",
-            "teams" : "Myanmar Vs India",
-            "hteam" : "Myanmar",
-            "ateam" : "India",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?edge_slice=true&auth_key=1679510095-0-0-1e6ffe47dd701938531b8fbd1d906ef4&user_session_id=77a16e3b2050a55b347c76186d079bf3&sub_m3u8=true"
-         
-                },
-                
-{
-                    "type": "SD 2",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?auth_key=1679508175-0-0-c568fb2ce2861835b5e3dc9bdf7811c0&user_session_id=4312a80748479f221a6a77dc870fdae7&sub_m3u8=true&edge_slice=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-187579_lhd.m3u8?edge_slice=true&auth_key=1679510095-0-0-3ee85314e0b1c05e7df37e0f58e11c3e&user_session_id=1b30b7291e9621bc04eca6d53fc9a41d&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fa21ad9237e02a20fc869473c451196c&auth_key=1679508175-0-0-3c1ba4609324a28f188797076a90f939"
-                }
-                
-            ]
 }
+           
 ]
