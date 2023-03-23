@@ -1,95 +1,4 @@
 [
-
-{
-           "league": "🏆 Euro 2024 Qualification",
-            "date": "March 24",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8204_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
-            "teams" : "Italy Vs England",
-            "hteam" : "Italy",
-            "ateam" : "England",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?sub_m3u8=true&auth_key=1679628235-0-0-e72864b16466a9de311229799dfa0d7c&user_session_id=09a8c36e33f5d6cad2a5da5b327ac244&edge_slice=true"
-         
-                },                     
-
-{
-                    "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?edge_slice=true&auth_key=1679628235-0-0-dd7d405379978ed4248a7c5d9c0c2c78&sub_m3u8=true&user_session_id=f130cbf600cf8bcef0c4e1cc6e3b8591"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-171964.m3u8?txSecret=2844f5302f5b870e977d3ad4d3bf182e&txTime=641d178f"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Euro 2024 Qualification",
-            "date": "March 24",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5799_small.png",
-            "teams" : "Portugal Vs Liechtenstein",
-            "hteam" : "Portugal",
-            "ateam" : "Liechtenstein",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?edge_slice=true&user_session_id=98c0e85855b7899c3af03b5127fdc73f&auth_key=1679619283-0-0-054ded21983a00e8eeda028e883fcd46&sub_m3u8=true"               },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?sub_m3u8=true&user_session_id=3a079dc0eee0bacc0308360e3df8b978&edge_slice=true&auth_key=1679601715-0-0-15f68d65477bf939be4e4cd066f40837"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?user_session_id=3ad1c9894780065b0a1be40d6cf5b2b3&edge_slice=true&auth_key=1679601715-0-0-a3aabd5f8d15741c5a3571e704d3652f&sub_m3u8=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-144861.m3u8?txSecret=7064ac0453d39777bf002ad06bc7a1ab&txTime=641cb033"
-                }
-                
-            ]
-},
-    {
-           "league": "🏆 Euro 2024 Qualification",
-            "date": "March 24",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
-            "teams" : "Denmark Vs Finland",
-            "hteam" : "Denmark",
-            "ateam" : "Finland",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?edge_slice=true&auth_key=1679619103-0-0-ca5bc9f4f3953db127ee3cf32c035d11&sub_m3u8=true&user_session_id=96b8082741c77f2b95c6244dcb9e0f88"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://dc1769a42a64a444b68e0fc184768dba.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?sub_m3u8=true&auth_key=1679618863-0-0-7c65696fd251aedcdb1897687c64e883&user_session_id=809c2a994fa5c8b81b828e8f0a9a332e&edge_slice=true"
-         
-                },
-{
-                    
-
-                 "type": "FHD",
-                "livelink":""
-                }
-                
-            ]
-},
 {
            "league": "🏆 International Friendly",
             "date": "March 24",
@@ -165,6 +74,171 @@
             "teams" : "South Korea Vs Colombia",
             "hteam" : "South Korea",
             "ateam" : "Colombia",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Africa Cup Qualification",
+            "date": "March 25",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10255_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6020_small.png",
+            "teams" : "Egypt Vs Malawi",
+            "hteam" : "Egypt",
+            "ateam" : "Malawi",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Africa Cup Qualification",
+            "date": "March 25",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5965_small.png",
+            "teams" : "Senegal Vs Mozambique",
+            "hteam" : "Senegal",
+            "ateam" : "Mozambique",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Euro 2024 Qualification",
+            "date": "March 25",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
+            "teams" : "France Vs Netherlands",
+            "hteam" : "France",
+            "ateam" : "Netherlands",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Euro 2024 Qualification",
+            "date": "March 25",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8496_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
+            "teams" : "Czechia Vs Poland",
+            "hteam" : "Czechia",
+            "ateam" : "Poland",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Euro 2024 Qualification",
+            "date": "March 25",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8520_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
+            "teams" : "Sweden Vs Belgium",
+            "hteam" : "Sweden",
+            "ateam" : "Belgium",
             "hotmat":"yes",
             "link":[
   {
