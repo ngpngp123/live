@@ -80,7 +80,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-116784_lsd.m3u8?edge_slice=true&auth_key=1679601535-0-0-467097d5104236ff22361c9eb1c89bba&user_session_id=b3534d7bc1aa48905a892217a8c3dc2a&sub_m3u8=true"
          
                 },                     
 {
@@ -90,7 +90,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-116784_lhd.m3u8?auth_key=1679601535-0-0-4d30571d2e9227564ce55c7266e814fe&user_session_id=4731cb5f1f0893998ba36bec2f218a93&edge_slice=true&sub_m3u8=true"
          
                 },
 {
@@ -118,12 +118,12 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-116784_lsd.m3u8?edge_slice=true&auth_key=1679601535-0-0-467097d5104236ff22361c9eb1c89bba&user_session_id=b3534d7bc1aa48905a892217a8c3dc2a&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-116784_lhd.m3u8?auth_key=1679601535-0-0-4d30571d2e9227564ce55c7266e814fe&user_session_id=4731cb5f1f0893998ba36bec2f218a93&edge_slice=true&sub_m3u8=true"
          
                 },
 {
@@ -151,17 +151,17 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?sub_m3u8=true&user_session_id=3a079dc0eee0bacc0308360e3df8b978&edge_slice=true&auth_key=1679601715-0-0-15f68d65477bf939be4e4cd066f40837"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?user_session_id=3ad1c9894780065b0a1be40d6cf5b2b3&edge_slice=true&auth_key=1679601715-0-0-a3aabd5f8d15741c5a3571e704d3652f&sub_m3u8=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-144861.m3u8?txSecret=7064ac0453d39777bf002ad06bc7a1ab&txTime=641cb033"
                 }
                 
             ]
