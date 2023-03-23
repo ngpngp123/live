@@ -1,96 +1,5 @@
 [
-{
-           "league": "🏆 International Friendly",
-            "date": "March 24",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5900.png",
-            "teams" : "Malaysia Vs Turkmenistan",
-            "hteam" : "Malaysia",
-            "ateam" : "Turkmenistan",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1b3b0325cbab23ccad3f2991199ba39f&auth_key=1679603095-0-0-d8475b6e54e0b36c2ba3c4596d0d4ac1"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1679603095-0-0-be1b8135fe77c997cf4727edcda458ce&user_session_id=daf080ef7eced742368571f7b9dab00c"
-         
-                }
 
-                
-            ]
-},
-
- {
-           "league": "🏆 Euro 2024 Qualification",
-            "date": "March 23",
-            "time": "end",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8265_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5787_small.png",
-            "teams" : "Kazakhstan Vs Slovenia",
-            "hteam" : "Kazakhstan",
-            "ateam" : "Slovenia",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?sub_m3u8=true&auth_key=1679603755-0-0-48f7b99346271c429e7c28f17121734c&user_session_id=25aa38bef5541302f9918b6848fb40bc&edge_slice=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1679603755-0-0-3f60e88927e8accc5b32781148c63cd9&user_session_id=af954b008a41b7bc71da7edb4ce1acd3&edge_slice=true&sub_m3u8=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-226699_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=85d47557f8525f1d98f8f23301559cf0&auth_key=1679603815-0-0-e5ad3fba959aa2d67bb0e2188c0dc8ca"
-                }
-                
-            ]
-},
-            {
-           "league": "🏆 Africa Cup Qualification",
-            "date": "March 23(10:30 PM)",
-            "time": "end",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6714_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6712_small.png",
-            "teams" : "Ghana Vs Angola",
-            "hteam" : "Ghana",
-            "ateam" : "Angola",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-116784_lsd.m3u8?user_session_id=902b6508a68c9e42ef86a21412e647a6&auth_key=1679606395-0-0-fa2bd016eb7b80d96729e279854afdba&edge_slice=true&sub_m3u8=true61c9eb1c89bba&user_session_id=b3534d7bc1aa48905a892217a8c3dc2a&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-132343_lsd.m3u8?sub_m3u8=true&user_session_id=5a298d23c0aef769129feca3af315b64&edge_slice=true&auth_key=1679607175-0-0-feb7b3c21403d5088ead466f70f797ae"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-116784_lhd.m3u8?auth_key=1679606395-0-0-8b10e2d237b245c06c5b878cc2b6ff19&edge_slice=true&user_session_id=649e586bb2fac349d741d51b8669a626&sub_m3u8=trueer_session_id=4731cb5f1f0893998ba36bec2f218a93&edge_slice=true&sub_m3u8=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-132343_lhd.m3u8?sub_m3u8=true&user_session_id=a118760e67c6c7c228d10c093a2ea8e9&edge_slice=true&auth_key=1679607175-0-0-a4e15d9392fecab56cde82317e633b67"
-                }
-                
-            ]
-},
 {
            "league": "🏆 Euro 2024 Qualification",
             "date": "March 24",
@@ -104,22 +13,18 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?user_session_id=a1fcedadf330f7d07f14af308e8d45a7&auth_key=1679619343-0-0-c4d95759170c46b6880ec74f54d6fcdb&sub_m3u8=true&edge_slice=true"
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?sub_m3u8=true&auth_key=1679628235-0-0-e72864b16466a9de311229799dfa0d7c&user_session_id=09a8c36e33f5d6cad2a5da5b327ac244&edge_slice=true"
          
                 },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-116784_lsd.m3u8?edge_slice=true&auth_key=1679601535-0-0-467097d5104236ff22361c9eb1c89bba&user_session_id=b3534d7bc1aa48905a892217a8c3dc2a&sub_m3u8=true"
-         
-                },
+
 {
                     "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-116784_lhd.m3u8?auth_key=1679601535-0-0-4d30571d2e9227564ce55c7266e814fe&user_session_id=4731cb5f1f0893998ba36bec2f218a93&edge_slice=true&sub_m3u8=true"
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?edge_slice=true&auth_key=1679628235-0-0-dd7d405379978ed4248a7c5d9c0c2c78&sub_m3u8=true&user_session_id=f130cbf600cf8bcef0c4e1cc6e3b8591"
          
                 },
 {
                     "type": "FHD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1679619343-0-0-6db0e56acc324dd41518b87daea914c7&edge_slice=true&sub_m3u8=true&user_session_id=e12670ec821d1fcf3a28ad2040489dc7"
+                "livelink":"https://sports01.livnvess.com/live/stream-171964.m3u8?txSecret=2844f5302f5b870e977d3ad4d3bf182e&txTime=641d178f"
                 }
                 
             ]
