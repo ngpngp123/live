@@ -34,6 +34,32 @@
                 
             ]
 },
+{
+           "league": "🏆 ",
+            "date": "March 24",
+            "time": "live",
+            "himg": "",
+            "aimg": "",
+            "teams" : " Vs ",
+            "hteam" : "",
+            "ateam" : "",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1b3b0325cbab23ccad3f2991199ba39f&auth_key=1679603095-0-0-d8475b6e54e0b36c2ba3c4596d0d4ac1"
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1679603095-0-0-be1b8135fe77c997cf4727edcda458ce&user_session_id=daf080ef7eced742368571f7b9dab00c"
+         
+                }
+
+                
+            ]
+},
+
  {
            "league": "🏆 Euro 2024 Qualification",
             "date": "March 23",
