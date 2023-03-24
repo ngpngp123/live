@@ -83,7 +83,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132343_lsd.m3u8?auth_key=1679704315-0-0-a7e06918dbbaf2ee9e60daadc8e7c938&user_session_id=a69c8d93d0637186b7a2ad9eacd943ba&edge_slice=true&sub_m3u8=true"
          
                 },
 {
@@ -93,7 +93,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132343_lhd.m3u8?sub_m3u8=true&auth_key=1679704315-0-0-5ba2aa4b85bb44a4bb70d218d9fe111b&edge_slice=true&user_session_id=d6820fdebefa231553f55a1afbca7ddd"
                 }
                 
             ]
