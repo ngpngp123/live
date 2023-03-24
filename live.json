@@ -70,6 +70,35 @@
                 }  
             ]
 },
+           
+{
+           "league": "🏆 International Friendly",
+            "date": "March 24",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",
+            "teams" : "Australia Vs Ecuador",
+            "hteam" : "Japan",
+            "ateam" : "Uruguay",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-229184_lhd.m3u8?auth_key=1679674035-0-0-978ca9549c205fda578db2a746b01087&user_session_id=56a4f1a1b704a3d87e8359eba779781e&sub_m3u8=true&edge_slice=true"
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-229184_lhd.m3u8?sub_m3u8=true&user_session_id=86f1eab2867c210a0d01108e929bed90&auth_key=1679674035-0-0-978ca9549c205fda578db2a746b01087&edge_slice=true"
+         
+                },
+{
+                    "type": "HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=75f71e9a095fa7d57830c3a89f70c9c9&txTime=641dca63"
+         
+                }
+            ]
+},
 
 {
            "league": "🏆 International Friendly",
