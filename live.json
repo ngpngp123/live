@@ -103,7 +103,7 @@
 {
            "league": "🏆 International Friendly",
             "date": "March 24",
-            "time": "5:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_small.png",
             "teams" : "South Korea Vs Colombia",
@@ -113,7 +113,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?auth_key=1679676295-0-0-cb22d32d44bced070f471d5f8d5ac5bd&user_session_id=d9883749a8fa37b4dd9b14522ae30751&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
@@ -123,12 +123,12 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1679676295-0-0-aee52ef83d8e0ff3b9df6c0c43c8f07f&user_session_id=97390a7dc1b6f77a17c3e4c6f56a4b3d&sub_m3u8=true&edge_slice=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=88daef2774ff8da08e4532ec926f3dda&txTime=641dd3c3"
                 }
                 
             ]
