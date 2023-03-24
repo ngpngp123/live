@@ -35,6 +35,40 @@
             ]
 },
 {
+           "league": "🏆 Euro 2024 Qualification",
+            "date": "March 24",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
+            "teams" : "Australia Vs Ecuador",
+            "hteam" : "Australia",
+            "ateam" : "Ecuador",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?auth_key=1679668915-0-0-17a6950e3b3ad153f01d92365ecef97a&user_session_id=ab1992685269ebe43d8284e8b0c32124&sub_m3u8=true&edge_slice=true"
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?user_session_id=49192bb8a1642db6e7f9a7235d22a81f&auth_key=1679668963-0-0-70e8037f2a990c0a29b8937b75038068&edge_slice=true&sub_m3u8=true"
+         
+                },
+{
+                    "type": "HD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?auth_key=1679668915-0-0-655b73ee6a710b6cf6024af0f50fd3ee&user_session_id=51792c7a877df3dacac8d864023be312&sub_m3u8=true&edge_slice=true"
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1679668963-0-0-1555df958e9a85691b75f89a6e55d4a9&user_session_id=811fcca64e319f9f6bb933383111f0d9&sub_m3u8=true&edge_slice=true"
+                }
+                
+            ]
+},
+
+{
            "league": "🏆 International Friendly",
             "date": "March 24",
             "time": "5:30 PM",
