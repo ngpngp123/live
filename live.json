@@ -1,176 +1,37 @@
 [
 {
-           "league": "🏆 Africa Cup Qualification",
-            "date": "March 25",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10255_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6020_small.png",
-            "teams" : "Egypt Vs Malawi",
-            "hteam" : "Egypt",
-            "ateam" : "Malawi",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?sub_m3u8=true&auth_key=1679704195-0-0-ff704c2e9f4401276f1cd6fbbde3509e&user_session_id=93c8c659f94d7a72e857bebbc7071768&edge_slice=true"
-         
-                },                     
+                
 {
-                    "type": "SD 2",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-122774_lsd.m3u8?sub_m3u8=true&auth_key=1679697115-0-0-c39f4f3a71e987478fd72109d4198cfb&edge_slice=true&user_session_id=52492d698bc846026e9f6b99b3e73b5d"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
+                },
+                
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
          
                 },
 {
-                    "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b66f0519cde0b38116df76f78bd9b04c&auth_key=1679697115-0-0-faf95ec2866105c89a2b1fcdea453366"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
          
                 },
 {
-                    "type": "FHD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?sub_m3u8=true&auth_key=1679704195-0-0-eb37c42d2f68572c7ccb58f4a6f362ac&user_session_id=3fb7c9b964a44658f945c421147c235a&edge_slice=true"
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
                 
-            ]
-},
-{
-           "league": "🏆 Africa Cup Qualification",
-            "date": "March 25",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5965_small.png",
-            "teams" : "Senegal Vs Mozambique",
-            "hteam" : "Senegal",
-            "ateam" : "Mozambique",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132343_lsd.m3u8?auth_key=1679697175-0-0-59d122b1d4793a5302c5fc8f9b69a3d4&edge_slice=true&user_session_id=d2ec319190394201afe45f245057d331&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?user_session_id=eb2b1b66ec0dec8196777b1f4bacf4ca&auth_key=1679704903-0-0-a317dcbe1d70082df5119fd71d0d8d96&edge_slice=true&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132343_lhd.m3u8?auth_key=1679697175-0-0-dc5f75952d0866778233ad38a56d6aa2&edge_slice=true&user_session_id=5029c95ba1cd3d4d865cf6ebb522fc38&sub_m3u8=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?edge_slice=true&auth_key=1679704903-0-0-4e620ee4742b5508a2d97fdeb0aeb960&user_session_id=69f866d413df635b92133191d041d9e8&sub_m3u8=true"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Euro 2024 Qualification",
-            "date": "March 25(2:15 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
-            "teams" : "France Vs Netherlands",
-            "hteam" : "France",
-            "ateam" : "Netherlands",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?auth_key=1679704615-0-0-0df82be354a8f46ca01b7cf1e158b827&edge_slice=true&sub_m3u8=true&user_session_id=0d38bcb03daab9ea90dcec7f47f4b418"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?edge_slice=true&auth_key=1679704615-0-0-5c186f1256daa94c3a6710c181f95cef&sub_m3u8=true&user_session_id=a04c13922f6ef717fc24aa90ae1dacfc"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=aa785650b80372a0d03d6d187740e84c&txTime=641e2643"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1679704843-0-0-448bd8dbdcb944d7892c1fd5b84080ed&edge_slice=true&user_session_id=9f78a499562793e5ed5d5b0e7d78fa84&sub_m3u8=true"
-                },
-              {
-                    "type": "FHD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/1-3830748-0/chunklist.m3u8"
-                }  
-            ]
-},
-{
-           "league": "🏆 Euro 2024 Qualification",
-            "date": "March 25(2:15 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8496_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
-            "teams" : "Czechia Vs Poland",
-            "hteam" : "Czechia",
-            "ateam" : "Poland",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lsd.m3u8?edge_slice=true&auth_key=1679705023-0-0-096c5762ef0a4927289b488b0b42adec&user_session_id=82883fb7893b19f7f943f220b7ab3b16&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lsd.m3u8?edge_slice=true&auth_key=1679705023-0-0-096c5762ef0a4927289b488b0b42adec&user_session_id=82883fb7893b19f7f943f220b7ab3b16&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lhd.m3u8?auth_key=1679705023-0-0-92bf8e4a0e3e22588bb012e72ea7ef30&user_session_id=e0145699b974adf4f6948b7cf22704de&edge_slice=true&sub_m3u8=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lhd.m3u8?auth_key=1679705023-0-0-92bf8e4a0e3e22588bb012e72ea7ef30&user_session_id=e0145699b974adf4f6948b7cf22704de&edge_slice=true&sub_m3u8=true"
-                },
-              {
-                    "type": "FHD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/1-3830760-0/chunklist.m3u8"
-                }    
-            ]
-},
-{
-           "league": "🏆 Euro 2024 Qualification",
-            "date": "March 25(2:15 AM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8520_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
-            "teams" : "Sweden Vs Belgium",
-            "hteam" : "Sweden",
-            "ateam" : "Belgium",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-143449_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7f793347b9cdda611240db7730ae78a4&auth_key=1679704735-0-0-7428fb1a239386dea6bb50506e61b325"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1679704903-0-0-83bf0140200d7596036dbda8e970ad07&user_session_id=6bdc06e18e6ebe2c6b6f3666b90e7ea3&edge_slice=true&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1679704903-0-0-fa9956567f36127b6a480b44517fec5c&user_session_id=b0ff9f8e9f061425ce6a2f2c004ee907"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?user_session_id=01592402b2096e4accd5b9aebc742c0a&auth_key=1679704735-0-0-e6f0f2325889c9e3ff0fe1bbd3418b96&edge_slice=true&sub_m3u8=true"
-                },
-              {
-                    "type": "FHD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/1-3830763-0/chunklist.m3u8"
-                }    
             ]
 },
 {
