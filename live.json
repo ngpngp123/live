@@ -172,6 +172,205 @@
                 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8"
                 }    
             ]
+},
+{
+           "league": "🏆 International Friendly",
+            "date": "March 25",
+            "time": "7:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5893.png",
+            "teams" : "Myanmar Vs Kyrgyzstan",
+            "hteam" : "Myanmar",
+            "ateam" : "Kyrgyzstan",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Euro 2024 Qualification",
+            "date": "March 25",
+            "time": "11:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10057_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",
+            "teams" : "Belarus Vs Switzerland",
+            "hteam" : "Belarus",
+            "ateam" : "Switzerland",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Euro 2024 Qualification",
+            "date": "March 26",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
+            "teams" : "Spain Vs Norway",
+            "hteam" : "Spain",
+            "ateam" : "Norway",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Euro 2024 Qualification",
+            "date": "March 26",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
+            "teams" : "Croatia Vs Wales",
+            "hteam" : "Croatia",
+            "ateam" : "Wales",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 International Friendly",
+            "date": "March 26",
+            "time": "2:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5798_small.png",
+            "teams" : "Germany Vs Peru",
+            "hteam" : "Germany",
+            "ateam" : "Peru",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+
+{
+           "league": "🏆 International Friendly",
+            "date": "March 26",
+            "time": "4:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6262_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
+            "teams" : "Morocco Vs Brazil",
+            "hteam" : "Morocco",
+            "ateam" : "Brazil",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
 }
 
 ]
