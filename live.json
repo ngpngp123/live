@@ -126,7 +126,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1679704843-0-0-448bd8dbdcb944d7892c1fd5b84080ed&edge_slice=true&user_session_id=9f78a499562793e5ed5d5b0e7d78fa84&sub_m3u8=true"
                 }
                 
             ]
@@ -134,7 +134,7 @@
 {
            "league": "🏆 Euro 2024 Qualification",
             "date": "March 25",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8496_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
             "teams" : "Czechia Vs Poland",
@@ -167,7 +167,7 @@
 {
            "league": "🏆 Euro 2024 Qualification",
             "date": "March 25",
-            "time": "2:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8520_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
             "teams" : "Sweden Vs Belgium",
@@ -182,12 +182,12 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1679704903-0-0-83bf0140200d7596036dbda8e970ad07&user_session_id=6bdc06e18e6ebe2c6b6f3666b90e7ea3&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1679704903-0-0-fa9956567f36127b6a480b44517fec5c&user_session_id=b0ff9f8e9f061425ce6a2f2c004ee907"
          
                 },
 {
