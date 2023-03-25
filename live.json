@@ -34,39 +34,8 @@
                 
             ]
 },
-{
-           "league": "🏆 International Friendly",
-            "date": "March 25",
-            "time": "7:00 PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5893.png",
-            "teams" : "Myanmar Vs Kyrgyzstan",
-            "hteam" : "Myanmar",
-            "ateam" : "Kyrgyzstan",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":""
-                }
-                
-            ]
-},
+
+     
 {
            "league": "🏆 Euro 2024 Qualification",
             "date": "March 26",
