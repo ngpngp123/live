@@ -39,6 +39,305 @@
                 "livelink":"https://179720687.global.cdnfastest.com/live/1-3887856-0/chunklist.m3u8"
                 }  
             ]
+},
+{
+           "league": "MAN U",
+            "date": "TV Channel",
+            "time": "live",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
+            "hotmat":"yes",
+            "link":[
+                
+{
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
+                },
+                
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Euro 2024 Qualification",
+            "date": "March 26",
+            "time": "7:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8265_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
+            "teams" : "Kazakhstan Vs Denmark",
+            "hteam" : "Kazakhstan",
+            "ateam" : "Denmark",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Euro 2024 Qualification",
+            "date": "March 26",
+            "time": "10:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6718_small.png",
+            "teams" : "England Vs Ukraine",
+            "hteam" : "England",
+            "ateam" : "Ukraine",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Euro 2024 Qualification",
+            "date": "March 26",
+            "time": "10:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5787_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6035_small.png",
+            "teams" : "Slovenia Vs San Marino",
+            "hteam" : "Slovenia",
+            "ateam" : "San Marino",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Euro 2024 Qualification",
+            "date": "March 26",
+            "time": "10:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5799_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8536_small.png",
+            "teams" : "Liechtenstein Vs Iceland",
+            "hteam" : "Liechtenstein",
+            "ateam" : "Iceland",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Euro 2024 Qualification",
+            "date": "March 27",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8495_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8204_small.png",
+            "teams" : "Malta Vs Italy",
+            "hteam" : "Malta",
+            "ateam" : "Italy",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Euro 2024 Qualification",
+            "date": "March 26",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5792_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
+            "teams" : "Luxembourg Vs Portugal",
+            "hteam" : "Luxembourg",
+            "ateam" : "Portugal",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Euro 2024 Qualification",
+            "date": "March 27",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10259_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
+            "teams" : "Northern Ireland Vs Finland",
+            "hteam" : "Northern Ireland",
+            "ateam" : "Finland",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Euro 2024 Qualification",
+            "date": "March 27",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10106_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8497_small.png",
+            "teams" : "Slovakia Vs Bosnia and Herzegovina",
+            "hteam" : "Slovakia",
+            "ateam" : "Bosnia and Herzegovina",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
 }
 
 ]
