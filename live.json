@@ -27,10 +27,17 @@
          
                 },
 {
-                    "type": "FHD",
+                    "type": "HD 2",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lhd.m3u8?edge_slice=true&auth_key=1679786684-0-0-07a3f7946f8e602e71b1e8ded4ebb454&user_session_id=da34c128dc19794bdcf5610da7004ffe&sub_m3u8=true"
-                }
-                
+                },
+              {
+                    "type": "FHD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/bunFHD/chunklist.m3u8"
+                },
+{
+                    "type": "Test",
+                "livelink":"https://179720687.global.cdnfastest.com/live/1-3887856-0/chunklist.m3u8"
+                }  
             ]
 }
 
