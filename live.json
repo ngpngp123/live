@@ -34,6 +34,40 @@
                 
             ]
 },
+ 
+{
+           "league": "🏆 International Friendly",
+            "date": "March 25",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5893.png",
+            "teams" : "Myanmar Vs Kyrgyzstan",
+            "hteam" : "Myanmar",
+            "ateam" : "Kyrgyzstan",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?edge_slice=true&user_session_id=515d622ad1f7ccc5d06855b3963bf909&auth_key=1679769715-0-0-7167c52338c3880f1db3c1693d7886dc&sub_m3u8=true"
+
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?edge_slice=true&user_session_id=515d622ad1f7ccc5d06855b3963bf909&auth_key=1679769715-0-0-7167c52338c3880f1db3c1693d7886dc&sub_m3u8=true"
+
+                },
+{
+                    "type": "HD",
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?sub_m3u8=true&auth_key=1679769715-0-0-f4581b2a811162d42f00deea27c1fb1b&user_session_id=7b2bef2e0ca9173ac808d80bb3eaedfa&edge_slice=true"
+
+                },
+{
+                    "type": "FHD",
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?sub_m3u8=true&auth_key=1679769715-0-0-f4581b2a811162d42f00deea27c1fb1b&user_session_id=7b2bef2e0ca9173ac808d80bb3eaedfa&edge_slice=true"
+                }
+
+            ]
+},
 
      
 {
