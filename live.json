@@ -73,7 +73,7 @@
 {
            "league": "🏆 Euro 2024 Qualification",
             "date": "March 26",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5793_small.png",
             "teams" : "Scotland Vs Cyprus",
@@ -83,22 +83,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?auth_key=1679773135-0-0-2f44111cb8e7d43baf2b966114e26df9&user_session_id=0c9d71d39bf3fdaff3725d80c4be7bee&edge_slice=true&sub_m3u8=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://dc1769a42a64a444b68e0fc184768dba.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?edge_slice=true&auth_key=1679773544-0-0-b584daffb48007ee3296db7d371768d6&sub_m3u8=true&user_session_id=e161f1837d9bb1c04e7809c5d792f842"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1679773135-0-0-247c77d14bf98ae4c8998eb6c2f6837a&user_session_id=d3b988178b58d2d183b528f2f8161479"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://dc1769a42a64a444b68e0fc184768dba.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&auth_key=1679773544-0-0-83f5255fa2abb41f2a4e620c97160b2b&sub_m3u8=true&user_session_id=b90c4f294f7e5841cb92ccfd986f6d19"
                 }
                 
             ]
