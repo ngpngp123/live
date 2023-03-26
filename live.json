@@ -34,42 +34,8 @@
                 
             ]
 },
-{
-           "league": "🏆 Euro 2024 Qualification",
-            "date": "March 26",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8265_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
-            "teams" : "Kazakhstan Vs Denmark",
-            "hteam" : "Kazakhstan",
-            "ateam" : "Denmark",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112310_lsd.m3u8?auth_key=1679855635-0-0-3de7bf8372f0aa582076f8e3cfb96ffa&edge_slice=true&user_session_id=316cf47eca8c774b4835294a1f391711&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?user_session_id=b965bd7c6e5c5a3eafbcd29d9894af23&edge_slice=true&auth_key=1679855684-0-0-b870e304d5392d29039bec8aa3f2362e&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112310_lhd.m3u8?auth_key=1679855635-0-0-43e4d74fe0cbf0f97a66ec4356764a7b&edge_slice=true&user_session_id=1d471bc0ab4a47f65884410f7dd89153&sub_m3u8=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?user_session_id=9bf1da683b1199df14398411d67958d9&edge_slice=true&auth_key=1679855684-0-0-41effbc30d4a5dd3a99d712cc1723f34&sub_m3u8=true"
-                },
- {
-                    "type": "Test",
-                "livelink":"https://179720687.global.cdnfastest.com/live/1-3831037-0/chunklist.m3u8"
-                }               
-            ]
-},
+
+      
 {
            "league": "🏆 Euro 2024 Qualification",
             "date": "March 26",
