@@ -63,8 +63,11 @@
 {
                     "type": "FHD",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?user_session_id=9bf1da683b1199df14398411d67958d9&edge_slice=true&auth_key=1679855684-0-0-41effbc30d4a5dd3a99d712cc1723f34&sub_m3u8=true"
-                }
-                
+                },
+ {
+                    "type": "Test",
+                "livelink":"https://179720687.global.cdnfastest.com/live/1-3831037-0/chunklist.m3u8"
+                }               
             ]
 },
 {
