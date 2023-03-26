@@ -1,45 +1,4 @@
 [
-
-{
-           "league": "🏆 International Friendly",
-            "date": "March 26",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6262_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
-            "teams" : "Morocco Vs Brazil",
-            "hteam" : "Morocco",
-            "ateam" : "Brazil",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lsd.m3u8?edge_slice=true&auth_key=1679786684-0-0-ff84a1816302b7c890861442fb5e93d5&user_session_id=900dec8df3492aa3622b2df0d191c0ef&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lsd.m3u8?edge_slice=true&auth_key=1679786684-0-0-ff84a1816302b7c890861442fb5e93d5&user_session_id=900dec8df3492aa3622b2df0d191c0ef&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=68c7a415b7ecc24b779fe4b39f786bcd&txTime=641f7967"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lhd.m3u8?edge_slice=true&auth_key=1679786684-0-0-07a3f7946f8e602e71b1e8ded4ebb454&user_session_id=da34c128dc19794bdcf5610da7004ffe&sub_m3u8=true"
-                },
-              {
-                    "type": "FHD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/bunFHD/chunklist.m3u8"
-                },
-{
-                    "type": "Test",
-                "livelink":"https://179720687.global.cdnfastest.com/live/1-3887856-0/chunklist.m3u8"
-                }  
-            ]
-},
 {
            "league": "MAN U",
             "date": "TV Channel",
