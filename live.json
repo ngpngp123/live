@@ -219,5 +219,336 @@
                 "livelink":"https://179720687.global.cdnfastest.com/live/1-3830787-0/chunklist.m3u8"
                 } 
             ]
+},
+{
+           "league": "🏆 International Friendly",
+            "date": "March 28",
+            "time": "7:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9762_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6724_small.png",
+            "teams" : "Chile Vs Paraguay",
+            "hteam" : "Chile",
+            "ateam" : "Paraguay",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 International Friendly",
+            "date": "March 28",
+            "time": "3:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
+            "teams" : "Australia Vs Ecuador",
+            "hteam" : "Australia",
+            "ateam" : "Ecuador",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 International Friendly",
+            "date": "March 28",
+            "time": "4:50 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_small.png",
+            "teams" : "Japan Vs Colombia",
+            "hteam" : "Japan",
+            "ateam" : "Colombia",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 International Friendly",
+            "date": "March 28",
+            "time": "5:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",
+            "teams" : "South Korea Vs Uruguay",
+            "hteam" : "South Korea",
+            "ateam" : "Uruguay",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 International Friendly",
+            "date": "March 28",
+            "time": "7:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6329_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5893_small.png",
+            "teams" : "India Vs Kyrgyzstan",
+            "hteam" : "India",
+            "ateam" : "Kyrgyzstan",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Africa Cup Qualification",
+            "date": "March 28",
+            "time": "7:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6020_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10255_small.png",
+            "teams" : "Malawi Vs Egypt",
+            "hteam" : "Malawi",
+            "ateam" : "Egypt",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Africa Cup Qualification",
+            "date": "March 28",
+            "time": "7:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5802_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6629_small.png",
+            "teams" : "Namibia Vs Cameroon",
+            "hteam" : "Namibia",
+            "ateam" : "Cameroon",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 International Friendly",
+            "date": "March 28",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6324_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/121284_small.png",
+            "teams" : "Indonesia Vs Burundi",
+            "hteam" : "Indonesia",
+            "ateam" : "Burundi",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 International Friendly",
+            "date": "March 28",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5793_small.png",
+            "teams" : "Armenia Vs Cyprus",
+            "hteam" : "Armenia",
+            "ateam" : "Cyprus",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 European Qualifiers",
+            "date": "March 28",
+            "time": "10:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8268_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
+            "teams" : "Georgia Vs Norway",
+            "hteam" : "Georgia",
+            "ateam" : "Norway",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
 }
+
 ]
