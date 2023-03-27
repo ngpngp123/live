@@ -1,138 +1,9 @@
 [
-{
-           "league": "MAN U",
-            "date": "TV Channel",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "teams" : "Man United TV",
-            "hteam" : "MAN U",
-            "ateam" : "TV",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "MUTV 360 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "MUTV 240 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MUTV 540 HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MAN U TV 1080HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Africa Cup Qualification",
-            "date": "March 27",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6712_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6714_small.png",
-            "teams" : "Angola Vs Ghana",
-            "hteam" : "Angola",
-            "ateam" : "Ghana",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-789220_ld.m3u8?auth_key=1679953904-0-0-7e86f3cb50ac9eb7d5cd4ac20185f06b"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?auth_key=1679953616-0-0-167d53d31c6b0814d0b5ecc9905bd634&sub_m3u8=true&edge_slice=true&user_session_id=1993f5b8f85c42fac5210450ab5cf366"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-789220.m3u8?auth_key=1679953904-0-0-a25507984f304909045ae91b7e0c84f3"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?edge_slice=true&user_session_id=132476e3d0b5c8ccb660664518b3fab6&auth_key=1679953616-0-0-dae7063f1e3e2d429fa4cb5f6f768800&sub_m3u8=true"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Africa Cup Qualification",
-            "date": "March 27",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/230700_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6346_small.png",
-            "teams" : "Guinea-Bissau Vs Nigeria",
-            "hteam" : "Guinea-Bissau",
-            "ateam" : "Nigeria",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-19949_lsd.m3u8?auth_key=1679953736-0-0-7679cbdd93d293c42e8ff68f2d93f677&sub_m3u8=true&edge_slice=true&user_session_id=1c48d6ea08a6aeccb3277afb82bb89d9"
-                },                     
-                    
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?edge_slice=true&auth_key=1679953676-0-0-5d106151b7d7c84c3f456d32e4ebb840&user_session_id=e71c23e56525a72aa3a931a0a241abcb&sub_m3u8=true"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1679953736-0-0-2442b4bbe637cafd3a16fe4f0849cd09&sub_m3u8=true&edge_slice=true&user_session_id=0daf2df4b6e4afeca20639d147167ed5"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Africa Cup Qualification",
-            "date": "March 27",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/121281_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6317_small.png",
-            "teams" : "Niger Vs Algeria",
-            "hteam" : "Niger",
-            "ateam" : "Algeria",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=22f19ceebb2a32356e4f8345ccf4c8af&auth_key=1679953676-0-0-424976c8e20aa60fd92392f7d7b2c33d"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-516701_ld.m3u8?auth_key=1679954024-0-0-8d2b4226f3322c34c2729c9b1e75556d"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1679954024-0-0-8a20669bb8fe882da9cc19324aaa4356"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?edge_slice=true&auth_key=1679953676-0-0-5d106151b7d7c84c3f456d32e4ebb840&user_session_id=e71c23e56525a72aa3a931a0a241abcb&sub_m3u8=true"
-                }
-                
-            ]
-},
 
 {
            "league": "🏆 Euro 2024 Qualification",
             "date": "March 28",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5791_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
             "teams" : "Ireland Vs France",
@@ -142,17 +13,17 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-226699_lsd.m3u8?edge_slice=true&auth_key=1679962796-0-0-dde67004276eb5435ddce3da6f2d476d&sub_m3u8=true&user_session_id=02549b0eea91520b5c28bcd9a0fea270"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1679962844-0-0-e5a3a3130b4d444e87fd2bf35a3951b6"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-226699_lhd.m3u8?auth_key=1679962796-0-0-afc4b2670634663d0089c0c637b58dcc&sub_m3u8=true&edge_slice=true&user_session_id=cbeceff1bcdd52a6e68ca774b73bf3d3"
          
                 },
 {
@@ -165,7 +36,7 @@
 {
            "league": "🏆 Euro 2024 Qualification",
             "date": "March 28",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/507764_small.png",
             "teams" : "Netherlands Vs Gibraltar",
@@ -175,7 +46,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1679962736-0-0-ecaf304a60631d54ec82e45f2d31551a&sub_m3u8=true&user_session_id=e343d4aa013176f9604c736599d43ff3&edge_slice=true"
          
                 },                     
 {
@@ -185,7 +56,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1679962736-0-0-d3fe414c4bc86d81bf254f45ab1b0064&user_session_id=884804b388e08a972557b810b40d6b1c&sub_m3u8=true&edge_slice=true"
          
                 },
 {
@@ -198,7 +69,7 @@
 {
            "league": "🏆 Euro 2024 Qualification",
             "date": "March 28",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5794_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8496_small.png",
             "teams" : "Moldova Vs Czechia",
@@ -223,7 +94,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-208390.m3u8?txSecret=85e3638d29056642c02b6046701a72b2&txTime=64223324"
                 }
                 
             ]
@@ -231,7 +102,7 @@
 {
            "league": "🏆 Euro 2024 Qualification",
             "date": "March 28",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10024_small.png",
             "teams" : "Poland Vs Albania",
@@ -241,7 +112,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-143449_lsd.m3u8?auth_key=1679962976-0-0-01d711da7dcdfaf791a56ce4ff620b8f&user_session_id=f3d28193255e191c78803d62d5d51003&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
@@ -251,7 +122,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?auth_key=1679962976-0-0-1d5a280e8ede75f0ded18206c61522ad&user_session_id=b07fe551b9462c95206d770fbe33382b&sub_m3u8=true&edge_slice=true"
          
                 },
 {
@@ -264,7 +135,7 @@
 {
            "league": "🏆 Euro 2024 Qualification",
             "date": "March 28",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8255_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8261_small.png",
             "teams" : "Austria Vs Estonia",
@@ -274,7 +145,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-5645612_ld.m3u8?auth_key=1679963084-0-0-0eec10b6a93724c9e80e6788a352afac"
          
                 },                     
 {
@@ -289,7 +160,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-5645612.m3u8?auth_key=1679963084-0-0-9021d27e7c6bf67c066a9d1b5bcfbbcd"
                 }
                 
             ]
@@ -297,7 +168,7 @@
 {
            "league": "🏆 Euro 2024 Qualification",
             "date": "March 28",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8520_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8566_small.png",
             "teams" : "Sweden Vs Azerbaijan",
@@ -307,22 +178,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105225_lsd.m3u8?auth_key=1679963156-0-0-62c8e5325125994ba7a460dc1a0b00e0&user_session_id=fcc9412d66aece215c210395dd633ea4&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-466758_ld.m3u8?auth_key=1679963144-0-0-aba42b85e3f9a394afb08b18214ed6a7"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-466758.m3u8?auth_key=1679963144-0-0-385c4afc7c3e43c06e9c850ec91e13ae"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105225_lhd.m3u8?auth_key=1679963156-0-0-1ee9bb66700fca86048c9ecc1022865e&user_session_id=a5e574d60bc8f22ce88f1661798eceb7&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
