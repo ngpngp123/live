@@ -27,10 +27,13 @@
          
                 },
 {
+                    "type": "HD 2",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+                },
+               {
                     "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=90b027ff4b97b52d1c73a6334d238631&txTime=64222f64"
-                }
-                
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may179FHD/chunklist.m3u8"
+                } 
             ]
 },
 {
@@ -60,10 +63,13 @@
          
                 },
 {
-                    "type": "FHD",
+                    "type": "HD 2",
                 "livelink":"https://yypull.gdsth.com/live/stream-716108.m3u8?auth_key=1679962123-0-0-4e30b6d99988c3d3fe1b8557d7dbbcb9"
-                }
-                
+                },
+              {
+                    "type": "FHD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
+                }  
             ]
 },
 {
@@ -160,7 +166,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":"https://yypull.gdsth.com/live/stream-5645612.m3u8?auth_key=1679963084-0-0-9021d27e7c6bf67c066a9d1b5bcfbbcd"
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
                 }
                 
             ]
