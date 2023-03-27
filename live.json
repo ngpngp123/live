@@ -37,7 +37,7 @@
 {
            "league": "🏆 Africa Cup Qualification",
             "date": "March 27",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6712_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6714_small.png",
             "teams" : "Angola Vs Ghana",
@@ -52,7 +52,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?auth_key=1679953616-0-0-167d53d31c6b0814d0b5ecc9905bd634&sub_m3u8=true&edge_slice=true&user_session_id=1993f5b8f85c42fac5210450ab5cf366"
          
                 },
 {
@@ -62,7 +62,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?edge_slice=true&user_session_id=132476e3d0b5c8ccb660664518b3fab6&auth_key=1679953616-0-0-dae7063f1e3e2d429fa4cb5f6f768800&sub_m3u8=true"
                 }
                 
             ]
@@ -70,7 +70,7 @@
 {
            "league": "🏆 Africa Cup Qualification",
             "date": "March 27",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/230700_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6346_small.png",
             "teams" : "Guinea-Bissau Vs Nigeria",
@@ -80,8 +80,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
-         
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-19949_lsd.m3u8?auth_key=1679953736-0-0-7679cbdd93d293c42e8ff68f2d93f677&sub_m3u8=true&edge_slice=true&user_session_id=1c48d6ea08a6aeccb3277afb82bb89d9"
                 },                     
 {
                     "type": "SD 2",
@@ -90,12 +89,12 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?edge_slice=true&auth_key=1679953676-0-0-5d106151b7d7c84c3f456d32e4ebb840&user_session_id=e71c23e56525a72aa3a931a0a241abcb&sub_m3u8=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1679953736-0-0-2442b4bbe637cafd3a16fe4f0849cd09&sub_m3u8=true&edge_slice=true&user_session_id=0daf2df4b6e4afeca20639d147167ed5"
                 }
                 
             ]
@@ -103,7 +102,7 @@
 {
            "league": "🏆 Africa Cup Qualification",
             "date": "March 27",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/121281_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6317_small.png",
             "teams" : "Niger Vs Algeria",
@@ -113,7 +112,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=22f19ceebb2a32356e4f8345ccf4c8af&auth_key=1679953676-0-0-424976c8e20aa60fd92392f7d7b2c33d"
          
                 },                     
 {
@@ -128,7 +127,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?edge_slice=true&auth_key=1679953676-0-0-5d106151b7d7c84c3f456d32e4ebb840&user_session_id=e71c23e56525a72aa3a931a0a241abcb&sub_m3u8=true"
                 }
                 
             ]
