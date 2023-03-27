@@ -549,6 +549,204 @@
                 }
                 
             ]
+},
+{
+           "league": "🏆 European Qualifiers",
+            "date": "March 29",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
+            "teams" : "Scotland Vs Spain",
+            "hteam" : "Scotland",
+            "ateam" : "Spain",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 European Qualifiers",
+            "date": "March 29",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6595_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",
+            "teams" : "Turkiye Vs Croatia",
+            "hteam" : "Turkiye",
+            "ateam" : "Croatia",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 European Qualifiers",
+            "date": "March 29",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5795_small.png",
+            "teams" : "Wales Vs Latvia",
+            "hteam" : "Wales",
+            "ateam" : "Latvia",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 European Qualifiers",
+            "date": "March 29",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8567_small.png",
+            "teams" : "Switzerland Vs Israel",
+            "hteam" : "Switzerland",
+            "ateam" : "Israel",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 International Friendly",
+            "date": "March 29",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
+            "teams" : "Germany Vs Belgium",
+            "hteam" : "Germany",
+            "ateam" : "Belgium",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 International Friendly",
+            "date": "March 29",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/287981_small.png",
+            "teams" : "Argentina Vs Curacao",
+            "hteam" : "Argentina",
+            "ateam" : "Curacao",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
 }
 
 ]
