@@ -52,12 +52,12 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-118206_lsd.m3u8?auth_key=1679984096-0-0-98393602e38612b71a4a209e29ae495d&edge_slice=true&user_session_id=c87505d1f8094c020fa83293184709e2&sub_m3u8=true"
+                "livelink":"https://yypull.gdsth.com/live/stream-774913_ld.m3u8?auth_key=1679984504-0-0-49a78bae8acc483a43b8a04590767085"
          
                 },
 {
                     "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?edge_slice=true&auth_key=1679983376-0-0-a4559f1539c86644fc6c76a34363e508&sub_m3u8=true&user_session_id=00763cd7361a9b0605f1613ff97299b7"
+                "livelink":"https://yypull.gdsth.com/live/stream-774913.m3u8?auth_key=1679984504-0-0-c872826e7cfb5f02bf3520e93a362647"
          
                 },
 {
