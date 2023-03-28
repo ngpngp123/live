@@ -68,8 +68,11 @@
 {
                     "type": "FHD",
                 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may181FHD/chunklist.m3u8"
-                }
-                
+                },
+               {
+                    "type": "Test",
+                "livelink":"https://179720687.global.cdnfastest.com/live/1-3902418-0/chunklist.m3u8"
+                } 
             ]
 },
 {
