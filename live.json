@@ -1,39 +1,6 @@
 [
 {
            "league": "🏆 International Friendly",
-            "date": "March 28",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_small.png",
-            "teams" : "Japan Vs Colombia",
-            "hteam" : "Japan",
-            "ateam" : "Colombia",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&user_session_id=2bfbf02600469218afd2d33e58b35f7f&auth_key=1680019484-0-0-e73017e19f5a63793486791bfcb75866&edge_slice=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1680019484-0-0-13f04818e3423b171f7100bb33232bbc&edge_slice=true&user_session_id=30c55f15c4f079105829fa103552405a&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=102a5def19316798cf5c1763d42be972&txTime=64230efc"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=102a5def19316798cf5c1763d42be972&txTime=64230efc"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 International Friendly",
             "date": "March 28(5:30 PM)",
             "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
@@ -71,7 +38,7 @@
 {
            "league": "🏆 International Friendly",
             "date": "March 28",
-            "time": "7:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6329_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5893_small.png",
             "teams" : "India Vs Kyrgyzstan",
@@ -81,22 +48,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull.juqihuo.com/live/stream-559725_lsd.m3u8?sub_m3u8=true&user_session_id=30e074e9a8b7f02d8e2ff25471e8e357&auth_key=1680027164-0-0-e48ce28aa7f8334e7856c113d69d5cae&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?sub_m3u8=true&auth_key=1680027296-0-0-193b4aab7ae37531dfb706fbbc412793&user_session_id=2c696feeeb7dc75627daf5e19c01eb51&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull.juqihuo.com/live/stream-559725_lhd.m3u8?edge_slice=true&user_session_id=5d2598131dff471500fe1a89b0a94cc1&auth_key=1680027164-0-0-74cc25892de476a58658a7a92681438b&sub_m3u8=true"
          
                 },
 {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "HD 2",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?sub_m3u8=true&auth_key=1680027296-0-0-34c61f799780f1980fcd8d9a66ce773d&user_session_id=14cb17391e9362370d3a4531624ca760&edge_slice=true"
                 }
                 
             ]
