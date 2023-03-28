@@ -86,7 +86,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&auth_key=1680041144-0-0-b0152135a666317014b2770c790f8908&sub_m3u8=true&user_session_id=ba8d48d286f854399b6978bf671091d6"
          
                 },
 {
@@ -96,7 +96,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&auth_key=1680041144-0-0-eaa35cde925d3b82e3ffa7d7d9e1ba0f&user_session_id=31657b487597feb1431347aba02198ff&edge_slice=true"
                 }
                 
             ]
