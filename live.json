@@ -106,7 +106,7 @@
 {
            "league": "🏆 International Friendly",
             "date": "March 28",
-            "time": "8:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6324_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/121284_small.png",
             "teams" : "Indonesia Vs Burundi",
@@ -116,22 +116,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-160430_lsd.m3u8?edge_slice=true&auth_key=1680031196-0-0-52538c012ee17d95afc1490d89234fe5&user_session_id=ca363e407990fbe3a60ec820f17bc64e&sub_m3u8=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-693587_ld.m3u8?auth_key=1680031304-0-0-85156acbe50bb8e78ea43086bcf88d52"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-160430_lhd.m3u8?sub_m3u8=true&user_session_id=d3a2e8d65b089ef53eb200b17c831a72&auth_key=1680031196-0-0-fd844774b3d7235770407a96f817cbb0&edge_slice=true"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-693587.m3u8?auth_key=1680031304-0-0-84731f17ba2702a0192afcf12aa98203"
                 }
                 
             ]
