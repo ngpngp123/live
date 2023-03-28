@@ -36,7 +36,7 @@
 {
            "league": "🏆 European Qualifiers",
             "date": "March 29",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
             "teams" : "Scotland Vs Spain",
@@ -51,7 +51,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1680045044-0-0-1835ac132a9d801370b33eff0be7098d"
          
                 },
 {
@@ -61,7 +61,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1680045044-0-0-ffc043470aecf8c2887f4c76bc4cb71a"
                 }
                 
             ]
@@ -69,7 +69,7 @@
 {
            "league": "🏆 European Qualifiers",
             "date": "March 29",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6595_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",
             "teams" : "Turkiye Vs Croatia",
@@ -84,7 +84,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1680045104-0-0-72fcf1a1781d7326e12e576b296d03f0"
          
                 },
 {
@@ -94,7 +94,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1680045104-0-0-ec94389616f50364bc785d60a7ba6cf0"
                 }
                 
             ]
@@ -102,7 +102,7 @@
 {
            "league": "🏆 European Qualifiers",
             "date": "March 29",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5795_small.png",
             "teams" : "Wales Vs Latvia",
@@ -117,7 +117,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-418311_ld.m3u8?auth_key=1680045404-0-0-320d04d5dc79ea7cae272fc54786d22e"
          
                 },
 {
@@ -127,7 +127,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1680045404-0-0-7bf9b220cb8814117fb63d07e5f17f3b"
                 }
                 
             ]
@@ -135,7 +135,7 @@
 {
            "league": "🏆 European Qualifiers",
             "date": "March 29",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8567_small.png",
             "teams" : "Switzerland Vs Israel",
@@ -150,7 +150,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-317957_ld.m3u8?auth_key=1680045224-0-0-d9f38a9fc4eac929c22fc623758219c5"
          
                 },
 {
@@ -160,7 +160,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1680045224-0-0-bd18e5a863df4c28db1e388b1936f66d"
                 }
                 
             ]
@@ -168,7 +168,7 @@
 {
            "league": "🏆 International Friendly",
             "date": "March 29",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
             "teams" : "Germany Vs Belgium",
@@ -183,7 +183,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1680045284-0-0-317b545db4c472c67a7cfd7490cb9209&user_session_id=7184c48429928e7ca39afb339fef6703&sub_m3u8=true&edge_slice=true"
          
                 },
 {
@@ -193,15 +193,15 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1680045284-0-0-10858e73e44a9bf6471c8d372f4c8305&user_session_id=5de2f598dc3d49aa215b17c437704a73&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
 },
 {
            "league": "🏆 International Friendly",
-            "date": "March 29",
-            "time": "5;00 AM",
+            "date": "5:00AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/287981_small.png",
             "teams" : "Argentina Vs Curacao",
@@ -216,7 +216,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lsd.m3u8?auth_key=1680045524-0-0-77d21c61eab16e3a354d12ae70966416&edge_slice=true&sub_m3u8=true&user_session_id=f3f46b5bedebbc6897ae16d43daba48e"
          
                 },
 {
@@ -226,7 +226,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?user_session_id=8afb74d116b1c4cd04a491435149120e&auth_key=1680045524-0-0-8e68084b1b3558d514cf11f33fc45d10&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
