@@ -73,8 +73,8 @@
 },
 {
            "league": "🏆 Africa Cup Qualification",
-            "date": "March 28",
-            "time": "7:30 PM",
+            "date": "March 28(7:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6020_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10255_small.png",
             "teams" : "Malawi Vs Egypt",
@@ -84,30 +84,30 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-132343_lsd.m3u8?auth_key=1680028676-0-0-f4880f09a9c65821562f1114eb28d3e1&edge_slice=true&sub_m3u8=true&user_session_id=bfc47fec0eb3df2b681f1b8f55904f29"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?user_session_id=f1d8844a06d5b4d2ff3385095b871c34&auth_key=1680028784-0-0-00ceff14ae4c1611377308ecb4f46979&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-132343_lhd.m3u8?auth_key=1680028676-0-0-738ba787e0d236c8a8df68a01e3e609b&user_session_id=4a0e5e34e438544d7cc851249f809b5d&sub_m3u8=true&edge_slice=true"
          
                 },
 {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "HD 2",
+                "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=e929dfc9e5778a30a0d69b96a633fccc&txTime=642333c8"
                 }
                 
             ]
 },
 {
            "league": "🏆 Africa Cup Qualification",
-            "date": "March 28",
-            "time": "7:30 PM",
+            "date": "March 28(7:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5802_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6629_small.png",
             "teams" : "Namibia Vs Cameroon",
@@ -117,22 +117,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-385085_lsd.m3u8?auth_key=1680028976-0-0-40bb05f38e58d671347a67e069607e0f&user_session_id=89520d92c5e49a7adfc2d171578b8ae5&edge_slice=true&sub_m3u8=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-789220_ld.m3u8?auth_key=1680028844-0-0-2a0e9801a43dc58939ccdaf4c2418ead"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?auth_key=1680028976-0-0-d34f1d96dd631b0e3e2b9a1f1bff6d35&user_session_id=031284c0b9039dec6b816dd84b6af293&edge_slice=true&sub_m3u8=true"
          
                 },
 {
-                    "type": "FHD",
-                "livelink":""
+                    "type": "HD 2",
+                "livelink":"https://yypull.gdsth.com/live/stream-789220.m3u8?auth_key=1680028844-0-0-388ba2192249431c6e0d26369d7b49b0"
                 }
                 
             ]
