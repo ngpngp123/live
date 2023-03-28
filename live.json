@@ -37,42 +37,6 @@
 {
            "league": "🏆 International Friendly",
             "date": "March 28",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9762_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6724_small.png",
-            "teams" : "Chile Vs Paraguay",
-            "hteam" : "Chile",
-            "ateam" : "Paraguay",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=455ca1a293aa70a81e27d324d41d94f2&auth_key=1679983376-0-0-46c7017cfe41972f1ab9b3a8c9713e3f"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-574587_ld.m3u8?auth_key=1679985224-0-0-9007aa3e7b811754b26367feaf9d905c"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-574587.m3u8?auth_key=1679985224-0-0-48d4c9eea1984247f35d615010b99c15"
-         
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-118206_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6f642fc2733aca34fdc4a27c2f6e0340&auth_key=1679984096-0-0-49c6d4e03a4e0ba1a3204b1d9062b08f"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/1-3891993-0/playlist.m3u8"
-                } 
-            ]
-},
-{
-           "league": "🏆 International Friendly",
-            "date": "March 28",
             "time": "3:00 PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
