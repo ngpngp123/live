@@ -37,7 +37,7 @@
 {
            "league": "🏆 International Friendly",
             "date": "March 28",
-            "time": "3:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
             "teams" : "Australia Vs Ecuador",
@@ -47,22 +47,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1680012356-0-0-52458a28f33acfde7beb0729497cc07d&user_session_id=df469b4cedd182fbb397c1e2cde1c36e&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-265460_ld.m3u8?auth_key=1680012403-0-0-dde9d8b06562c5f809042c7138bc1c01"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1569acd239dc3e2dbc0c98c62b9d5ed5&auth_key=1680012356-0-0-95dd918aa288b63232686e42af312a02"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-265460.m3u8?auth_key=1680012403-0-0-5b4d4f871507c27e67d3496d930a4f7d"
                 }
                 
             ]
