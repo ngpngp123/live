@@ -94,8 +94,11 @@
 {
                     "type": "FHD",
                 "livelink":"https://yypull.gdsth.com/live/stream-693587.m3u8?auth_key=1680031304-0-0-84731f17ba2702a0192afcf12aa98203"
-                }
-                
+                },
+             {
+                    "type": "Test",
+                "livelink":"https://179720687.global.cdnfastest.com/live/1-3899960-0/chunklist.m3u8"
+                }   
             ]
 },
 {
