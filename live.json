@@ -522,14 +522,14 @@
             ]
 },
 {
-           "league": "🏆 ",
+           "league": "🏆 PREMIER LEAGUE",
             "date": "April",
-            "time": "",
-            "himg": "",
-            "aimg": "",
-            "teams" : " Vs ",
-            "hteam" : "",
-            "ateam" : "",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
+            "teams" : "Bournemouth Vs Fulham",
+            "hteam" : "Bournemouth",
+            "ateam" : "Fulham",
             "hotmat":"no",
             "link":[
   {
