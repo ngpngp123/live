@@ -37,7 +37,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "April 1",
-            "time": "1:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
             "teams" : "Frankfurt Vs VfL Bochum",
@@ -47,22 +47,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?edge_slice=true&auth_key=1680308756-0-0-36d81c7a3f172452e23e36609c3d8d83&sub_m3u8=true&user_session_id=55c5e6faaf8f7b3050b68fe71190a819"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?edge_slice=true&auth_key=1680308756-0-0-36d81c7a3f172452e23e36609c3d8d83&sub_m3u8=true&user_session_id=55c5e6faaf8f7b3050b68fe71190a819"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?auth_key=1680308756-0-0-69840a6995cb8a959a5ad7b3ca65b98b&user_session_id=787b5ce0b4d278763def84aabc0b876e&sub_m3u8=true&edge_slice=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?auth_key=1680308756-0-0-69840a6995cb8a959a5ad7b3ca65b98b&user_session_id=787b5ce0b4d278763def84aabc0b876e&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
@@ -70,7 +70,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 1",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
             "teams" : "Mallorca Vs Osasuna",
@@ -80,17 +80,17 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-181398.m3u8?txSecret=0c41dd8a79ed35bfaf2dc2e5e06db32b&txTime=64277a8c"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-181398.m3u8?txSecret=0c41dd8a79ed35bfaf2dc2e5e06db32b&txTime=64277a8c"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-181398.m3u8?txSecret=0c41dd8a79ed35bfaf2dc2e5e06db32b&txTime=64277a8c"
          
                 },
 {
@@ -103,7 +103,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 1",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
             "teams" : "Marseille Vs Montpellier",
@@ -113,22 +113,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-2376781_ld.m3u8?auth_key=1680308924-0-0-c0a65588432a43339d992391c6dbc470"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1680308924-0-0-a1e165843145e354f8bdb9fea7a2d95c"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1680308924-0-0-a1e165843145e354f8bdb9fea7a2d95c"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1680308924-0-0-a1e165843145e354f8bdb9fea7a2d95c"
                 }
                 
             ]
