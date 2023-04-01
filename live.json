@@ -101,7 +101,7 @@
 {
            "league": "🏆 PREMIER LEAGUE",
             "date": "April 1",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
             "teams" : "Chelsea Vs Aston Villa",
@@ -111,17 +111,17 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1680386636-0-0-08e6b4a0a3a342398fd49ffc73c6aa82&edge_slice=true&sub_m3u8=true&user_session_id=5365f7646b782111183bfd951c1e3455"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1680386264-0-0-925c732143be4ef4aba4917d9cc9b1d9"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-181398.m3u8?txSecret=7e2bc0bd6d4eeb6c4080eea403112760&txTime=6428a9d4"
          
                 },
 {
@@ -130,14 +130,14 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1680386264-0-0-925c732143be4ef4aba4917d9cc9b1d9"
                 }                
             ]
 },
 {
            "league": "🏆 Bundesliga",
             "date": "April 1",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
             "teams" : "Bayern München Vs Dortmund",
@@ -152,17 +152,17 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-789220.m3u8?auth_key=1680386384-0-0-3cb4e208ce7097518a3d120b86abc3a8"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=77a3f70afef3362d8b764938aee91e24&txTime=6428a9d4"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-789220.m3u8?auth_key=1680386384-0-0-3cb4e208ce7097518a3d120b86abc3a8"
                 }
                 
             ]
@@ -170,7 +170,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 1",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
             "teams" : "Cadiz Vs Sevilla",
@@ -180,22 +180,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-208390_lsd.m3u8?auth_key=1680386576-0-0-69f00c9c169088e28fd16bbf23a00acd&edge_slice=true&sub_m3u8=true&user_session_id=dbc92f86a9c171e7a9fd3290bc4de72e"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-759231_lsd.m3u8?auth_key=1680386444-0-0-c0a54242afb3884224e47c7ab53d0172&sub_m3u8=true&edge_slice=true&user_session_id=44be14134ba87723c45d307927d9d42f"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1680386576-0-0-263ec8523c839a9deffd50cd7accec4f&sub_m3u8=true&user_session_id=16d3af32534ee692a15eb8a276f5bdfc&edge_slice=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-759231_lhd.m3u8?sub_m3u8=true&auth_key=1680386444-0-0-569c9b3d66bd30c0d1912531e28f0a6b&edge_slice=true&user_session_id=1176118205299ca9d2e7902934c66494"
                 }
                 
             ]
