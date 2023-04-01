@@ -203,7 +203,7 @@
 {
            "league": "🏆 Serie A",
             "date": "April 2",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
             "teams" : "Juventus Vs Hellas Verona",
@@ -213,22 +213,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?auth_key=1680394856-0-0-705ba75f7ffbce125dc0c94bfcf7fcbe&edge_slice=true&sub_m3u8=true&user_session_id=aeeecf88b06b8783cbe62282f7201d22"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lsd.m3u8?auth_key=1680395264-0-0-3b416b6472fcbf1bc302341140a8fb6e&edge_slice=true&user_session_id=42ea6d9ce7fee19751cc545cc6af4c0a&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?sub_m3u8=true&auth_key=1680394856-0-0-6baff3922c8c9a2ff2bab07344b61889&user_session_id=49a1b34a2ab5c475d098dd4d8c853234&edge_slice=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?sub_m3u8=true&auth_key=1680395264-0-0-5679bad48501007c38590095cec21828&edge_slice=true&user_session_id=9f36d6e348c3654a7ba99f1cc1ae8234"
                 }
                 
             ]
@@ -236,7 +236,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 2",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "teams" : "Elche Vs Barcelona",
@@ -246,22 +246,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1680395144-0-0-85ff84753c4fa733f367bfc105ccc736"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1680395144-0-0-85ff84753c4fa733f367bfc105ccc736"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-113906.m3u8?txSecret=d60c540ae3b9e396ffd1d2cb4671ef9a&txTime=6428cae0"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1680395144-0-0-85ff84753c4fa733f367bfc105ccc736"
                 }
                 
             ]
