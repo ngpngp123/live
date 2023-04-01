@@ -314,7 +314,7 @@
 {
            "league": "🏆 PREMIER LEAGUE",
             "date": "April 1",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
             "teams" : "Nottingham Vs Wolves",
@@ -329,7 +329,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-886721_ld.m3u8?auth_key=1680378764-0-0-0efb3b7667f088e8b4ac19e02fe09296"
          
                 },
 {
@@ -339,7 +339,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-886721.m3u8?auth_key=1680378764-0-0-64db256a3d1bbe64cca05672d1f9ed8f"
                 }
                 
             ]
@@ -347,7 +347,7 @@
 {
            "league": "🏆 PREMIER LEAGUE",
             "date": "April",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "teams" : "Bournemouth Vs Fulham",
@@ -362,7 +362,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-651238_ld.m3u8?auth_key=1680378825-0-0-1bec1a3ea86cb9d159831a8510812542"
          
                 },
 {
@@ -372,7 +372,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-651238.m3u8?auth_key=1680378825-0-0-725ec307cc428b175e33a971294157c3"
                 }
                 
             ]
