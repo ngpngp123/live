@@ -383,7 +383,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
             "teams" : "Auxerre Vs Troyes",
@@ -393,22 +393,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-360663_lsd.m3u8?auth_key=1680382136-0-0-44fa8cda919473dedc4e5f343ce3d5ed&user_session_id=e8ee413c88c3c9a39c5445c81a189382&edge_slice=true&sub_m3u8=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-774913.m3u8?auth_key=1680382245-0-0-97259a07c11ae977e71040b256f39bb2"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=7653e0f4131cb61ca1801062991f8a8e&txTime=6428987c"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1680382136-0-0-daa3b61ed88687f3fb67bff5d37c1188&sub_m3u8=true&user_session_id=fd4e994ed2649a97db57e5624047a208&edge_slice=true"
                 }
                 
             ]
