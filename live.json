@@ -187,7 +187,7 @@
 {
            "league": "🏆 PREMIER LEAGUE",
             "date": "April 1",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "teams" : "Arsenal Vs Leeds United",
@@ -195,6 +195,11 @@
             "ateam" : "Leeds United",
             "hotmat":"yes",
             "link":[
+{
+                    "type": "SD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+         
+                },
   {
                     "type": "SD",
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?sub_m3u8=true&user_session_id=11906ac5be21afd801a2a3b0f73f9ceb&edge_slice=true&auth_key=1680372596-0-0-95c9fe4f009068bf3a8edfd4c5101fa1"
@@ -212,18 +217,23 @@
                 },
 {
                     "type": "HD 2",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         
+                },
+{
+                    "type": "HD 3",
                 "livelink":"https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1680376004-0-0-968669818eca3aeaebc7489f84c2d4c0"
                 },
  {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may134FHD/chunklist.m3u8"
                 }               
             ]
 },
 {
            "league": "🏆 PREMIER LEAGUE",
             "date": "April 1",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
             "teams" : "Brighton Vs Brentford",
@@ -235,9 +245,14 @@
                     "type": "SD",
                 "livelink":""
          
-                },                     
+                },
 {
                     "type": "SD 2",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
+         
+                },                     
+{
+                    "type": "SD 3",
                 "livelink":"https://yypull.gdsth.com/live/stream-956896_ld.m3u8?auth_key=1680376065-0-0-306c539157dd7fd90fbbee3dd29ca0a7"
          
                 },
@@ -248,8 +263,18 @@
                 },
 {
                     "type": "HD 2",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+         
+                },
+{
+                    "type": "HD 3",
                 "livelink":"https://sports01.livnvess.com/live/stream-226699.m3u8?txSecret=a51e04eba48284247264e635be03aa07&txTime=642873b0"
-                }
+                },
+{
+                    "type": "FHD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
+         
+                },
                 
             ]
 },
