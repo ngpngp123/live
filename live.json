@@ -393,7 +393,7 @@
 {
            "league": "🏆 Serie A",
             "date": "April 1",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
             "teams" : "Inter Vs Fiorentina",
@@ -403,22 +403,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lsd.m3u8?user_session_id=470ae6915e0d1b5e5ca175edbb1145e2&auth_key=1680385964-0-0-65964b528b2a94e81df98fdea6f0aa2f&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lhd.m3u8?sub_m3u8=true&auth_key=1680385904-0-0-e75add216eab632711acabd819f7d1b3&user_session_id=87b400d0b62be114503c2f2d4ce9fb82&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105225_lhd.m3u8?auth_key=1680385796-0-0-93e4365650dae393c7e3e4b301f7a031&user_session_id=1cfefd255c5ce4ad30d8f8e62c78fd2a&sub_m3u8=true&edge_slice=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=83bd315c7dbeb1e0900713667c0697a5&txTime=6428a704"
                 }
                 
             ]
