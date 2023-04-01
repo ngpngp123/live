@@ -1,28 +1,5 @@
 [    
 {
-           "league": "🏆 Serie A",
-            "date": "April 1",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-            "teams" : "Cremonese Vs Atalanta",
-            "hteam" : "Cremonese",
-            "ateam" : "Atalanta",
-            "hotmat":"no",
-            "link":[
-{
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-349393_ld.m3u8?auth_key=1680375284-0-0-bd6c7aec010f3d6149334089615a898e"
-         
-                },                     
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=de720335e5a956b9a8b2939ec51faa6a&txTime=64287ba8"
-         
-                }
-            ]
-},
-{
            "league": "🏆 Bundesliga",
             "date": "April 1",
             "time": "live",
