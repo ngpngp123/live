@@ -43,7 +43,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 1",
-            "time": "6:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
             "teams" : "Girona Vs Espanyol",
@@ -53,22 +53,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f688e4b47c3d511ffcda4dd0ef96875c&auth_key=1680371096-0-0-28f93566f8c6511e6b37ce11aa323688"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680371096-0-0-dfa05602c14273c04e8f8bd46ca6bdc8&user_session_id=23937810a27010f201afd0ef653e8728"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-115447.m3u8?txSecret=e3d697887701f1d0c17c129e9a83671b&txTime=64286d5c"
                 }
                 
             ]
