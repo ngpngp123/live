@@ -100,6 +100,16 @@
                     "type": "HD",
                 "livelink":"https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1680375944-0-0-432144c9a8f122b20224152a8cd4f7b5"
          
+                },
+{
+                    "type": "SD 2",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-385085_lsd.m3u8?user_session_id=01b995186d700aeaefcac37bfb500ada&edge_slice=true&sub_m3u8=true&auth_key=1680377516-0-0-84452d1df4a60b541ad3fce20022cc5e"
+         
+                },                     
+{
+                    "type": "HD 2",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?sub_m3u8=true&auth_key=1680377516-0-0-322ade6f1ba38a34c9f0263e66a18ccf&user_session_id=9c6d1183a85318d0370ef7f8df284d09&edge_slice=true"
+         
                 }               
             ]
 },
