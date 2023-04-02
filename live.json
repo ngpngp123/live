@@ -135,10 +135,15 @@
                     "type": "SD",
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?edge_slice=true&user_session_id=7c1d6b231eb2635384b925bf9a9951f3&sub_m3u8=true&auth_key=1680460016-0-0-56bd7bd0ad8d74efab0f82c79e6100e8"
          
-                },                     
+                },  
 {
                     "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-3378908_ld.m3u8?auth_key=1680460124-0-0-1c85300b02154d727a971af78ea7c7b9"
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1680460425-0-0-0cb5624e28c2f5624e70dc196b88eb2e"
+         
+                },                   
+{
+                    "type": "SD 3",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
          
                 },
 {
@@ -149,6 +154,16 @@
 {
                     "type": "HD 2",
                 "livelink":"https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1680460124-0-0-d8d1fcc041283a0cb35941ff2f1f3660"
+                },
+{
+                    "type": "HD 3",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may137FHD/chunklist.m3u8"
+         
                 }
                 
             ]
