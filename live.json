@@ -1,40 +1,4 @@
 [   
-{
-           "league": "🏆 Ligue 1",
-            "date": "April 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
-            "teams" : "Lille Vs Lorient",
-            "hteam" : "Lille",
-            "ateam" : "Lorient",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?edge_slice=true&user_session_id=5482c805692ea4c9d266960065f8de00&sub_m3u8=true&auth_key=1680453896-0-0-db318588707681136880ea80c1578037"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/yypull.gdsth.com_stream-2412304-1680432474634.ts?auth_key=1680454064-0-0-31e5845ec6c81d3789ac6ead2541fac0"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?sub_m3u8=true&auth_key=1680453896-0-0-d84839aec23b99a992d8fd30ddc37e76&edge_slice=true&user_session_id=bb5faf27408a5588e3967f58550e2552"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-2412304_ld.m3u8?auth_key=1680454064-0-0-4d9f322bb7606a3bcc5e887c1ce8aaea"
-                },
-              {
-                    "type": "Test",
-                "livelink":"https://179720687.global.cdnfastest.com/live/sd-l5ergphl5n79r8k/chunklist.m3u8"
-                }  
-            ]
-},
 
 
 {
