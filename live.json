@@ -1,44 +1,4 @@
 [   
-
-
-{
-           "league": "🏆 Laliga",
-            "date": "April 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-            "teams" : "Celta Vigo Vs Almeria",
-            "hteam" : "Celta Vigo",
-            "ateam" : "Almeria",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-420171_lsd.m3u8?auth_key=1680457616-0-0-f8b518a065e58c05c71b86ffdad8a47a&edge_slice=true&sub_m3u8=true&user_session_id=ad258cd59d347ddbb5042878c8514d52"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-284564_ld.m3u8?auth_key=1680457664-0-0-2ff3036430c90aab101d5b72e5559fdb"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=09706e4b03650feaf30b3e0b589bd3c1&txTime=6429bf54"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-284564.m3u8?auth_key=1680457664-0-0-0b980970e60313fee9a5796d00273f65"
-                },
-                {
-                    "type": "Test",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8"
-                }
-            ]
-},
-
-
 {
            "league": "🏆 Premier League",
             "date": "April 2(7:30 PM)",
