@@ -122,8 +122,8 @@
 },
 {
            "league": "🏆 Premier League",
-            "date": "April 2",
-            "time": "10:00 PM",
+            "date": "April 2(10:00 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "teams" : "Newcastle Vs Man United",
@@ -142,6 +142,11 @@
          
                 },
 {
+                    "type": "SD 3",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+         
+                },
+{
                     "type": "HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-226699.m3u8?txSecret=112cb08f95b1a703aa8768a1da4cdc48&txTime=6429edbc"
          
@@ -150,9 +155,14 @@
                     "type": "HD 2",
                 "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1680468105-0-0-b02fa4183e515a1071bd03477cb260bf"
                 },
+{
+                    "type": "HD 3",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         
+                },
  {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may138FHD/playlist.m3u8"
                 }               
             ]
 },
