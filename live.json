@@ -268,6 +268,11 @@
          
                 },
 {
+                    "type": "SD 3",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
+         
+                },
+{
                     "type": "HD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1680465296-0-0-5d77e1da140867f043ebf2e1a087fb46&sub_m3u8=true&user_session_id=bc581408cf3140f1c96a6aaf84379749&edge_slice=true"
          
@@ -275,8 +280,17 @@
 {
                     "type": "HD 2",
                 "livelink":"https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1680465464-0-0-0090b77a2e308ac0606b02b7a2c956bf"
+                },
+{
+                    "type": "HD 3",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+         
+                },
+                {
+                    "type": "FHD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
+         
                 }
-                
             ]
 },
 {
