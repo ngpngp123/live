@@ -163,7 +163,17 @@
  {
                     "type": "FHD",
                 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may138FHD/playlist.m3u8"
-                }               
+                }   ,
+  {
+                    "type": "beIN SD",
+                "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/49685.ts"
+         
+                }            ,
+  {
+                    "type": "beIN HD",
+                "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/9.ts"
+         
+                }
             ]
 },
 {
