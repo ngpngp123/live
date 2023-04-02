@@ -1,49 +1,5 @@
 [   
 {
-           "league": "🏆 Serie A",
-            "date": "April 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-            "teams" : "Bologna Vs Udinese",
-            "hteam" : "Bologna",
-            "ateam" : "Udinese",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-161243_lsd.m3u8?auth_key=1680451856-0-0-80ab3eef30a468f621f7cfd07ab80b66&edge_slice=true&user_session_id=18627256dfcb63c510d86adf1a3055ab&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&auth_key=1680451964-0-0-db58148aec41c830d5016fce43de2ef2&user_session_id=6c76a5b6d8d77d0e0aab996df2b16ce3&sub_m3u8=true"
-         
-                },
-{
-                    "type": "Test",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may81/playlist.m3u8"
-                },
-{
-                    "type": "Test 2",
-                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-6ypq3nh74po1md7/chunklist.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=ee09b66543b1de9ac656994f29673198&txTime=6429a8d4"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=f5e64a8a6eec581a92bc04de09608779&auth_key=1680451964-0-0-e40799c8bba82a0bd5822c52d7a440f0&edge_slice=true&sub_m3u8=true"
-                }
-                
-            ]
-},
-
-
-{
            "league": "🏆 Ligue 1",
             "date": "April 2",
             "time": "live",
@@ -121,8 +77,8 @@
 
 {
            "league": "🏆 Premier League",
-            "date": "April 2",
-            "time": "7:30 PM",
+            "date": "April 2(7:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
             "teams" : "West Ham Vs Southampton",
@@ -132,30 +88,30 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?edge_slice=true&auth_key=1680460736-0-0-b85ba95d9a0a42c7dd327ea879486815&sub_m3u8=true&user_session_id=b812da1144043488571671ab3c1aa42f"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1680460425-0-0-0cb5624e28c2f5624e70dc196b88eb2e"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=e7699916ff9bd289a47f68c7839c9f58&txTime=6429cad0"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1680460425-0-0-a27cab83fc879fffd20e8d4c6cd95a9b"
                 }
                 
             ]
 },
 {
            "league": "🏆 Serie A",
-            "date": "April 2",
-            "time": "7:30 PM",
+            "date": "April 2(7:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
             "teams" : "Monza Vs Lazio",
@@ -165,30 +121,30 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?edge_slice=true&user_session_id=7c1d6b231eb2635384b925bf9a9951f3&sub_m3u8=true&auth_key=1680460016-0-0-56bd7bd0ad8d74efab0f82c79e6100e8"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-3378908_ld.m3u8?auth_key=1680460124-0-0-1c85300b02154d727a971af78ea7c7b9"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=d54df4af9c0032387ffeb4ee8a709220&txTime=6429c8b4"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1680460124-0-0-d8d1fcc041283a0cb35941ff2f1f3660"
                 }
                 
             ]
 },
 {
            "league": "🏆 Serie A",
-            "date": "April 2",
-            "time": "7:30 PM",
+            "date": "April 2(7:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
             "teams" : "Spezia Vs Salernitana",
@@ -198,30 +154,30 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-208390_lsd.m3u8?sub_m3u8=true&auth_key=1680460503-0-0-d23cb6ac26e1d211040fab2513420b24&edge_slice=true&user_session_id=2cb0af7aaa4b12ce8f09dcb8b1b9d993"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-693587_ld.m3u8?auth_key=1680460605-0-0-10d9a1ea81849a0487462f059953a076"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1680460503-0-0-68a35ff051b87c618d8cde4f4c47c28e&edge_slice=true&sub_m3u8=true&user_session_id=1077f6d6f5dbeae2d2bab899b7e35486"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-693587.m3u8?auth_key=1680460605-0-0-881657119daf72bed90bca78e834e385"
                 }
                 
             ]
 },
 {
            "league": "🏆 Ligue 1",
-            "date": "April 2",
-            "time": "7:30 PM",
+            "date": "April 2 (7:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
             "teams" : "Nantes Vs Reims",
@@ -231,22 +187,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lsd.m3u8?sub_m3u8=true&user_session_id=faae49a7c8d81f96702fee53094aede7&auth_key=1680460365-0-0-8f9d223e042642d82ef2baa733132195&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?user_session_id=c3812bd453c879af9457bfd16c9500d0&edge_slice=true&sub_m3u8=true&auth_key=1680460316-0-0-47212f64e96b3c32c6a4d9afa51d9c3b"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lhd.m3u8?auth_key=1680460365-0-0-c8a52ed0d9b348755a023dd9930246a5&sub_m3u8=true&user_session_id=02dfed9f3736f503eba715a454ffdbdd&edge_slice=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-187579_lhd.m3u8?user_session_id=9d6c9ba667057cdd4c19a4a73d31626b&edge_slice=true&sub_m3u8=true&auth_key=1680460316-0-0-564ec7b0ce3605a9858ea81daa1ecac3"
                 }
                 
             ]
