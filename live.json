@@ -175,8 +175,8 @@
 },
 {
            "league": "🏆 Serie A",
-            "date": "April 2",
-            "time": "10:30 PM",
+            "date": "April 2(10:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
             "teams" : "Roma Vs Sampdoria",
@@ -186,22 +186,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?auth_key=1680472436-0-0-a4a01f6697b3071158db282d7f71d715&sub_m3u8=true&edge_slice=true&user_session_id=c24b9b419f56db70b8583b9dd612bb45"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680472484-0-0-593d99439622aacecb30f09eb54cfbae&user_session_id=90378b307fd8ab5574e42a84c2d90727"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-187579_lhd.m3u8?auth_key=1680472436-0-0-dc7eb8f94256d5510aae79f0440fc302&user_session_id=12e094f4d1abc787d15760422722bf1a&sub_m3u8=true&edge_slice=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lhd.m3u8?sub_m3u8=true&auth_key=1680472484-0-0-4aa9ba18104932632403b443f47064ee&edge_slice=true&user_session_id=3d0c8bf23c041405dbf11438d8b3308e"
                 }
                 
             ]
