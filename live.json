@@ -1,41 +1,5 @@
 [   
 {
-           "league": "🏆 Bundesliga",
-            "date": "April 2(8:00 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
-            "teams" : "1. FC Köln Vs Borussia M'Gladbach",
-            "hteam" : "1. FC Köln",
-            "ateam" : "Borussia M'Gladbach",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fcf07e0afac5d0674581f373f2fe0914&auth_key=1680462956-0-0-59bbdfd9e5e46624a6d3cdc2fc93ce6a"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1680463005-0-0-23e7ec8d33ff740a8881bf953fd19d41&user_session_id=a8c8476a0b304764e1e4b47bb92b9582"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&auth_key=1680462956-0-0-7e34e6e911e9979c814da9e9a15800e3&edge_slice=true&user_session_id=210d3045ad6cda02fcab6abfc74c7ec7"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lhd.m3u8?auth_key=1680463005-0-0-7eb6460c1aa1a05f4f7f040cc7ecea58&sub_m3u8=true&user_session_id=522a77624ddcbdace755f5f0cf7bbc80&edge_slice=true"
-                },
-              {
-                    "type": "Test",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may121/chunklist.m3u8"
-                }  
-            ]
-},
-{
            "league": "🏆 Laliga",
             "date": "April 2(8:45 PM)",
             "time": "live",
