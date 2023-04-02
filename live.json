@@ -1,57 +1,5 @@
 [   
 {
-           "league": "🏆 Laliga",
-            "date": "April 2(8:45 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-            "teams" : "Real Madrid Vs Real Valladolid",
-            "hteam" : "Real Madrid",
-            "ateam" : "Real Valladolid",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?auth_key=1680465296-0-0-c96a85d06c564b309dc9d47fe0f394f1&sub_m3u8=true&edge_slice=true&user_session_id=9a603db60307c5c9857dc8ad9e3b2c2b"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-552917_ld.m3u8?auth_key=1680465464-0-0-9c318dae1a960f0c2bd5c0d6ddbdf627"
-         
-                },
-{
-                    "type": "SD 3",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1680465296-0-0-5d77e1da140867f043ebf2e1a087fb46&sub_m3u8=true&user_session_id=bc581408cf3140f1c96a6aaf84379749&edge_slice=true"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1680465464-0-0-0090b77a2e308ac0606b02b7a2c956bf"
-                },
-{
-                    "type": "HD 3",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-         
-                },
-                {
-                    "type": "FHD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
-         
-                },
-{
-                    "type": "Test",
-                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-6ypq3nh7481kmd7/chunklist.m3u8"
-         
-                }
-            ]
-},
-{
            "league": "🏆 Ligue 1",
             "date": "April 2(9:35 PM)",
             "time": "live",
@@ -208,8 +156,8 @@
 },
 {
            "league": "🏆 Laliga",
-            "date": "April 2",
-            "time": "11:00 PM",
+            "date": "April 2(11:00 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
             "teams" : "Villarreal Vs Real Sociedad",
@@ -219,22 +167,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-197901_lsd.m3u8?sub_m3u8=true&user_session_id=011a9566592a7645ff391b076ea705df&edge_slice=true&auth_key=1680474116-0-0-1d83bf3ccb938ed528f575c187bf1ccd"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-112366_ld.m3u8?auth_key=1680474164-0-0-599f752c35459a31265df59a7930ca55"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158814.m3u8?txSecret=7bf5af581d4016f1763131addfc35bf0&txTime=6429ffc8"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1680474164-0-0-a0b664f5c6b299d0116ba8807cce70c3"
                 }
                 
             ]
