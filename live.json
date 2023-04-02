@@ -168,8 +168,8 @@
 },
 {
            "league": "🏆 Bundesliga",
-            "date": "April 2",
-            "time": "10:00 PM",
+            "date": "April 2(10:00 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
             "teams" : "Werder Bremen Vs TSG Hoffenheim",
@@ -179,7 +179,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-208390_lsd.m3u8?sub_m3u8=true&auth_key=1680469976-0-0-e015154628c2b7aa529857d9d6d31284&edge_slice=true&user_session_id=3a5a095a83fa6ce3275fba938d97e913"
          
                 },                     
 {
@@ -189,7 +189,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=fbe96cb1f3f181ddfd7404c1d8bdb93f&txTime=6429efd8"
          
                 },
 {
