@@ -110,8 +110,11 @@
 {
                     "type": "HD 2",
                 "livelink":"https://yypull.gdsth.com/live/stream-284564.m3u8?auth_key=1680457664-0-0-0b980970e60313fee9a5796d00273f65"
+                },
+                {
+                    "type": "Test",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8"
                 }
-                
             ]
 },
 
