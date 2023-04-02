@@ -190,7 +190,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 3",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
             "teams" : "PSG Vs Lyon",
@@ -200,22 +200,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-122774_lsd.m3u8?auth_key=1680481736-0-0-b2327940143e893ce8168b1637cd9fe6&user_session_id=63507160eb997fcb9378f6599fd7f76b&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-886721.m3u8?auth_key=1680481904-0-0-88e776c304e0a2b8ec1ee069054e32b0"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?auth_key=1680481736-0-0-bce652e65a75070a933a7b1eeeea2df4&edge_slice=true&sub_m3u8=true&user_session_id=f1bc7501fe286c9f7cf0636327705145"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-886721.m3u8?auth_key=1680481904-0-0-88e776c304e0a2b8ec1ee069054e32b0"
                 }
                 
             ]
@@ -223,7 +223,7 @@
 {
            "league": "🏆 Serie A",
             "date": "April 3",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
             "teams" : "Napoli Vs Milan",
@@ -233,22 +233,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?sub_m3u8=true&user_session_id=26aa453d779338cf4786d6f3db3e0a2a&edge_slice=true&auth_key=1680481796-0-0-a6672e36453bd3f586cc80ca9ceac6b7"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1680482024-0-0-2beeda6a241bd70f3b0278a9dd09c651"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?auth_key=1680481796-0-0-b7f967361ade2d23837b0a2fe610189b&edge_slice=true&sub_m3u8=true&user_session_id=a22622dcb55b502ce18c942117e6035e"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-226699.m3u8?txSecret=f794169097781a3b532f85234ef8db9f&txTime=642a1e04"
                 }
                 
             ]
@@ -256,7 +256,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 3",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
             "teams" : "Atletico Madrid Vs Real Betis",
@@ -266,22 +266,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?sub_m3u8=true&user_session_id=7e38fc883db99301a0bb535f24a8634a&auth_key=1680481856-0-0-0095ea2eceb1700c3b0b44d2792b5e61&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-553172_ld.m3u8?auth_key=1680482024-0-0-1b5937c199bb9b2fe0f46bca2b0d5b5f"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-553172.m3u8?auth_key=1680482024-0-0-1ea84a3c4d16e13ed701c8b91b802a62"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?sub_m3u8=true&auth_key=1680481856-0-0-dfd06b8842ec90227eaded70f1e627cb&user_session_id=6e24dddfefcbf6d8a5ae528b45cdd435&edge_slice=true"
                 }
                 
             ]
