@@ -280,8 +280,11 @@
 {
                     "type": "HD 2",
                 "livelink":""
-                }
-                
+                },
+              {
+                    "type": "Test",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may121/chunklist.m3u8"
+                }  
             ]
 },
 {
