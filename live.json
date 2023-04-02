@@ -1,70 +1,39 @@
-[    
+[ 
 {
-           "league": "🏆 Serie A",
-            "date": "April 2",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
-            "teams" : "Juventus Vs Hellas Verona",
-            "hteam" : "Juventus",
-            "ateam" : "Hellas Verona",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?auth_key=1680394856-0-0-705ba75f7ffbce125dc0c94bfcf7fcbe&edge_slice=true&sub_m3u8=true&user_session_id=aeeecf88b06b8783cbe62282f7201d22"
-         
-                },                     
+                
 {
-                    "type": "SD 2",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lsd.m3u8?auth_key=1680395264-0-0-3b416b6472fcbf1bc302341140a8fb6e&edge_slice=true&user_session_id=42ea6d9ce7fee19751cc545cc6af4c0a&sub_m3u8=true"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
+                },
+                
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
          
                 },
 {
-                    "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?sub_m3u8=true&auth_key=1680394856-0-0-6baff3922c8c9a2ff2bab07344b61889&user_session_id=49a1b34a2ab5c475d098dd4d8c853234&edge_slice=true"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?sub_m3u8=true&auth_key=1680395264-0-0-5679bad48501007c38590095cec21828&edge_slice=true&user_session_id=9f36d6e348c3654a7ba99f1cc1ae8234"
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
                 
             ]
-},
-{
-           "league": "🏆 Laliga",
-            "date": "April 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-            "teams" : "Elche Vs Barcelona",
-            "hteam" : "Elche",
-            "ateam" : "Barcelona",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1680395144-0-0-85ff84753c4fa733f367bfc105ccc736"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1680395144-0-0-85ff84753c4fa733f367bfc105ccc736"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-113906.m3u8?txSecret=d60c540ae3b9e396ffd1d2cb4671ef9a&txTime=6428cae0"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1680395144-0-0-85ff84753c4fa733f367bfc105ccc736"
-                }
-                
-            ]
-},
+},  
 {
            "league": "🏆 Serie A",
             "date": "April 2",
