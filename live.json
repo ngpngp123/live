@@ -35,133 +35,298 @@
             ]
 },
 {
-           "league": "🏆 Serie A",
-            "date": "April 3(11:00 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
-            "teams" : "Empoli Vs Lecce",
-            "hteam" : "Empoli",
-            "ateam" : "Lecce",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?user_session_id=ded4e00fdd02d24400b74728692a363c&auth_key=1680559556-0-0-f2dd8a89d23d4076e9cd4af2dd31a5a0&sub_m3u8=true&edge_slice=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&auth_key=1680559604-0-0-23a780f60d2390c608d4737981ad566b&edge_slice=true&user_session_id=12eb3dcfdceab29f917c25e568d34910"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=5e1f7755edc478b2adb0a15e5fd17a63&txTime=642b4d4c"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1680559604-0-0-d41033e5d5eb67b7ec80556cd2e67b0a&edge_slice=true&user_session_id=6c3470ac1121aad822867fa96b7da13b&sub_m3u8=true"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Serie A",
+           "league": "🏆 DFB Pokal Quarter Final",
             "date": "April 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
-            "teams" : "Sassuolo Vs Torino",
-            "hteam" : "Sassuolo",
-            "ateam" : "Torino",
+            "time": "10:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
+            "teams" : "Frankfurt Vs Union Berlin",
+            "hteam" : "Frankfurt",
+            "ateam" : "Union Berlin",
             "hotmat":"no",
             "link":[
   {
                     "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-112565_lsd.m3u8?auth_key=1680559796-0-0-c345b0b96586de10990918d429756324&sub_m3u8=true&user_session_id=e8d44693b751e4a8b7b4115b1fcc6703&edge_slice=true"
+                "livelink":""
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1680560084-0-0-177f0fc2cfd6e5bfca075bbd47234c06"
+                "livelink":""
          
                 },
 {
                     "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-112565_lhd.m3u8?sub_m3u8=true&user_session_id=818c7fdf129dbc234961e3b06363b1fd&auth_key=1680559796-0-0-d64d2fd8c06b56984bf7a61925fb7342&edge_slice=true"
+                "livelink":""
          
                 },
 {
                     "type": "HD 2",
-              "livelink": "https://yypull.gdsth.com/live/stream-238362_ld.m3u8?auth_key=1680559964-0-0-b0ab5d0379a380a7b3c01c623e428e43"
+                "livelink":""
                 }
                 
             ]
 },
 {
            "league": "🏆 Premier League",
-            "date": "April 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-            "teams" : "Everton Vs Tottenham",
-            "hteam" : "Everton",
-            "ateam" : "Tottenham",
-            "hotmat":"yes",
+            "date": "April 5",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+            "teams" : "Leicester City Vs Aston Villa",
+            "hteam" : "Leicester City",
+            "ateam" : "Aston Villa",
+            "hotmat":"no",
             "link":[
   {
                     "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?user_session_id=82ff997757b4091f8fcb17b0b2ddfbe3&sub_m3u8=true&edge_slice=true&auth_key=1680559856-0-0-ec3202a64454b3c07e12fec8c678b108"
+                "livelink":""
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-4569315_ld.m3u8?auth_key=1680559904-0-0-17bb293b4dc758ca829b07fa51950179"
+                "livelink":""
          
                 },
 {
                     "type": "HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1680559904-0-0-838a108dc58462bdb630a69c46582a59"
+                "livelink":""
          
                 },
 {
                     "type": "HD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?sub_m3u8=true&auth_key=1680559856-0-0-3681b696ebe9e583d874005560e0a744&edge_slice=true&user_session_id=3ed91dabdbf7b5881bebacac119f0603"
+                "livelink":""
                 }
                 
             ]
 },
 {
-           "league": "🏆 Laliga",
-            "date": "April 4",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-            "teams" : "Valencia Vs Rayo Vallecano",
-            "hteam" : "Valencia",
-            "ateam" : "Rayo Vallecano",
+           "league": "🏆 Premier League",
+            "date": "April 5",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+            "teams" : "Bournemouth Vs Brighton",
+            "hteam" : "Bournemouth",
+            "ateam" : "Brighton",
             "hotmat":"no",
             "link":[
   {
                     "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1680559964-0-0-ec5a4d0f2dde82147fdbb53f7edeb7e6"
+                "livelink":""
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-238362_ld.m3u8?auth_key=1680559964-0-0-b0ab5d0379a380a7b3c01c623e428e43"
+                "livelink":""
          
                 },
 {
                     "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-115493.m3u8?txSecret=735246a5af09aaa597db8dccdac27fca&txTime=642b4eb4"
+                "livelink":""
          
                 },
 {
                     "type": "HD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1680559964-0-0-ec5a4d0f2dde82147fdbb53f7edeb7e6"
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Premier League",
+            "date": "April 5",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+            "teams" : "Leeds Vs Nottingham",
+            "hteam" : "Leeds",
+            "ateam" : "Nottingham",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 DFB Pokal Quarter Final",
+            "date": "April 5",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
+            "teams" : "Bayern München Vs SC Freiburg",
+            "hteam" : "Bayern München",
+            "ateam" : "SC Freiburg",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Premier League",
+            "date": "April 5",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "teams" : "Chelsea Vs Liverpool",
+            "hteam" : "Chelsea",
+            "ateam" : "Liverpool",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Copa del Rey Semi Final",
+            "date": "April 5",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "teams" : "Juventus Vs Inter",
+            "hteam" : "Juventus",
+            "ateam" : "Inter",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Copa del Rey Semi Final",
+            "date": "April 5",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+            "teams" : "Athletic Club Vs Osasuna",
+            "hteam" : "Athletic Club",
+            "ateam" : "Osasuna",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Saudi Premier League",
+            "date": "April 5",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/582816_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+            "teams" : "Al-Adalah Vs Al Nassr FC",
+            "hteam" : "Al-Adalah",
+            "ateam" : "Al Nassr FC",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
                 }
                 
             ]
