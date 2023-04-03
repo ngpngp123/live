@@ -36,8 +36,8 @@
 },
 {
            "league": "🏆 Serie A",
-            "date": "April 3",
-            "time": "11:00 PM",
+            "date": "April 3(11:00 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
             "teams" : "Empoli Vs Lecce",
@@ -47,22 +47,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?user_session_id=ded4e00fdd02d24400b74728692a363c&auth_key=1680559556-0-0-f2dd8a89d23d4076e9cd4af2dd31a5a0&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&auth_key=1680559604-0-0-23a780f60d2390c608d4737981ad566b&edge_slice=true&user_session_id=12eb3dcfdceab29f917c25e568d34910"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=5e1f7755edc478b2adb0a15e5fd17a63&txTime=642b4d4c"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1680559604-0-0-d41033e5d5eb67b7ec80556cd2e67b0a&edge_slice=true&user_session_id=6c3470ac1121aad822867fa96b7da13b&sub_m3u8=true"
                 }
                 
             ]
