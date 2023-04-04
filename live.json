@@ -37,7 +37,7 @@
 {
            "league": "🏆 DFB Pokal Quarter Final",
             "date": "April 4",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
             "teams" : "Frankfurt Vs Union Berlin",
@@ -47,22 +47,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?auth_key=1680645236-0-0-4d1b43ed588b30bcbaea0e1ecb6c497c&sub_m3u8=true&user_session_id=f23ef79a8c9eed53d91ea3fe287f8394&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1680645284-0-0-60083555904b60c264dfc48a13a5a999&edge_slice=true&user_session_id=cacf77612a97a7d9abf77738155fa219&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=09718a3b098c7c605e70d78add627b05&auth_key=1680645236-0-0-9df5363b0952fee4040a94c6bf0a80b4"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1680645284-0-0-e99113e49788b69140d4f03a7ffedef3&edge_slice=true&user_session_id=e7a085effad4abc007dedfbc93b8dd37&sub_m3u8=true"
                 }
                 
             ]
