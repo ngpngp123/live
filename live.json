@@ -146,7 +146,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?sub_m3u8=true&user_session_id=900c95ce9f3940a852b36a58cd4d8676&edge_slice=true&auth_key=1680649616-0-0-31da1c921ba43442225ebbd8ad683d44""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?sub_m3u8=true&auth_key=1680649796-0-0-07ec5508729cab6c6c5b1cd441837e25&user_session_id=775694d86c58f5bc710e11fe64db850f&edge_slice=true"
          
                 },                     
 {
@@ -169,7 +169,7 @@
 {
            "league": "🏆 DFB Pokal Quarter Final",
             "date": "April 5",
-            "time": "1:15 AM",
+            "time": "livelink",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
             "teams" : "Bayern München Vs SC Freiburg",
@@ -235,7 +235,7 @@
 {
            "league": "🏆 Copa del Rey Semi Final",
             "date": "April 5",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
             "teams" : "Juventus Vs Inter",
@@ -245,22 +245,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lhd.m3u8?sub_m3u8=true&auth_key=1680649856-0-0-a57ce363d8fd903bdca01a3b8671b51e&edge_slice=true&user_session_id=3f76f51c10bb78a595fe75b572c7e210"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&auth_key=1680649976-0-0-7b47e47f7123ab64265afad918f97cb8&user_session_id=54ff236d6a26cc084553dfda3af2b0ca&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680649796-0-0-46b98b1ef6838a01a670190ae0b86167&user_session_id=9c62886135ea89b08d9a0f827c8acd0c"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?sub_m3u8=true&auth_key=1680650036-0-0-52637f2c98625c87131dce9c3daa975a&user_session_id=246b04a22d8ef91084e2b9b31420ed6f&edge_slice=true"
                 }
                 
             ]
@@ -268,7 +268,7 @@
 {
            "league": "🏆 Copa del Rey Semi Final",
             "date": "April 5",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
             "teams" : "Athletic Club Vs Osasuna",
@@ -278,22 +278,9 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=b4d950cbdab6e08de5260cb3ab713b55&txTime=642caf34"
          
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":""
+                
                 }
                 
             ]
@@ -301,7 +288,7 @@
 {
            "league": "🏆 Saudi Premier League",
             "date": "April 5",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/582816_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
             "teams" : "Al-Adalah Vs Al Nassr FC",
@@ -311,22 +298,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?sub_m3u8=true&auth_key=1680650096-0-0-e456094f3ca1f8df978640f2542255cc&user_session_id=7a89e53f8f6abd93c3872c9f7203ab78&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?sub_m3u8=true&auth_key=1680650096-0-0-e456094f3ca1f8df978640f2542255cc&user_session_id=7a89e53f8f6abd93c3872c9f7203ab78&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?sub_m3u8=true&auth_key=1680650096-0-0-5ea1007fbf82c0bfa8064063ccc81350&edge_slice=true&user_session_id=4d268fa591659c663e20f96237ae0741"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lhd.m3u8?sub_m3u8=true&auth_key=1680649856-0-0-a57ce363d8fd903bdca01a3b8671b51e&edge_slice=true&user_session_id=3f76f51c10bb78a595fe75b572c7e210"
                 }
                 
             ]
