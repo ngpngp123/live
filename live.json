@@ -34,39 +34,8 @@
                 
             ]
 },
-{
-           "league": "🏆 DFB Pokal Quarter Final",
-            "date": "April 5",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8165_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
-            "teams" : "1.FC Nürnberg Vs VfB Stuttgart",
-            "hteam" : "1.FC Nürnberg",
-            "ateam" : "VfB Stuttgart",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?sub_m3u8=true&auth_key=1680731637-0-0-a0bead505f11ded34e30d0a59f6a8be0&edge_slice=true&user_session_id=733131ba5ef20381722956dbae175522"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1680731745-0-0-fcec9dd2e5f9158112c92a6ab99b6328&sub_m3u8=true&edge_slice=true&user_session_id=4d2e3e25253507fc77128eac67e4d833"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&auth_key=1680731637-0-0-d0dfa7f0ac35b875d98e4cd14b12bdab&user_session_id=bb5c7b752ded4faf7f953dd885613c1f&edge_slice=true"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&user_session_id=c38361ebcee85a3f33ddc65c5185bb44&sub_m3u8=true&auth_key=1680731745-0-0-57092d83db1a6f6b2352d492eaccb035"
-                }
-                
-            ]
-},
+
+           
 {
            "league": "🏆 DFB Pokal Quarter Final",
             "date": "April 6",
@@ -91,6 +60,11 @@
 {
                     "type": "HD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?auth_key=1680739796-0-0-b4d5816d2ece81123ef6ad5eae825cd8&sub_m3u8=true&user_session_id=1eed48e22a2668955a9c8d9e35651252&edge_slice=true"
+         
+                },
+{
+                    "type": "Vietnam 2",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/bunHD/chunks.m3u8"
          
                 },
 {
@@ -132,6 +106,11 @@
          
                 },
 {
+                    "type": "Vietnam 2",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         
+                },
+{
                     "type": "HD 2",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?edge_slice=true&user_session_id=dc9c94789b2048997244e9d3aeb30688&auth_key=1680739856-0-0-a61474706ec600804e97ef083e1acc77&sub_m3u8=true"
                 }
@@ -162,6 +141,11 @@
 {
                     "type": "HD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?edge_slice=true&auth_key=1680739916-0-0-8a0081bc7372ed58d1faf253ad51b35e&sub_m3u8=true&user_session_id=edc6c30ea0cdd380be4074aa2840e68e"
+         
+                },
+{
+                    "type": "Vietnam 2",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
          
                 },
 {
@@ -198,49 +182,23 @@
          
                 },
 {
+                    "type": "Vietnam 2",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+         
+                },
+{
                     "type": "HD 2",
                 "livelink":"https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1680740264-0-0-0bbcc77389011ec4656ffa077d88f160"
                 }
                 
             ]
 },
-{
-           "league": "🏆 Coppa Italia Semi Final",
-            "date": "April 6",
-            "time": "1:30 AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-            "teams" : "Cremonese Vs Fiorentina",
-            "hteam" : "Cremonese",
-            "ateam" : "Fiorentina",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
-},
+
+          
 {
            "league": "🏆 Copa de France Semi Final",
             "date": "April 6",
-            "time": "1:40 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
             "teams" : "Nantes Vs Lyon",
@@ -253,19 +211,12 @@
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105225_lsd.m3u8?edge_slice=true&auth_key=1680740036-0-0-be0ad198afbf7a3a324f2f1a350c32e7&sub_m3u8=true&user_session_id=8a9f570c329cf3eebd1aa9ec31570802"
          
                 },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+                 
 {
                     "type": "HD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105225_lhd.m3u8?auth_key=1680740036-0-0-cf051a4a88d5794c3f75a5e1e6712445&edge_slice=true&user_session_id=9cbcafea9afec62d444b088f4715f0e2&sub_m3u8=true"
          
-                },
-{
-                    "type": "HD 2",
-                "livelink":""
+                
                 }
                 
             ]
