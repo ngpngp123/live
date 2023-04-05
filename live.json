@@ -37,7 +37,7 @@
 {
            "league": "🏆 DFB Pokal Quarter Final",
             "date": "April 5",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8165_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
             "teams" : "1.FC Nürnberg Vs VfB Stuttgart",
@@ -47,22 +47,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?sub_m3u8=true&auth_key=1680731637-0-0-a0bead505f11ded34e30d0a59f6a8be0&edge_slice=true&user_session_id=733131ba5ef20381722956dbae175522"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1680731745-0-0-fcec9dd2e5f9158112c92a6ab99b6328&sub_m3u8=true&edge_slice=true&user_session_id=4d2e3e25253507fc77128eac67e4d833"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&auth_key=1680731637-0-0-d0dfa7f0ac35b875d98e4cd14b12bdab&user_session_id=bb5c7b752ded4faf7f953dd885613c1f&edge_slice=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&user_session_id=c38361ebcee85a3f33ddc65c5185bb44&sub_m3u8=true&auth_key=1680731745-0-0-57092d83db1a6f6b2352d492eaccb035"
                 }
                 
             ]
