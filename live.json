@@ -1,217 +1,169 @@
 [   
-
-           
 {
-           "league": "🏆 DFB Pokal Quarter Final",
-            "date": "April 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-            "teams" : "RB Leipzig Vs Dortmund",
-            "hteam" : "RB Leipzig",
-            "ateam" : "Dortmund",
+           "league": "🏆 Serie A",
+            "date": "April 7",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "teams" : "Salernitana Vs Inter",
+            "hteam" : "Salernitana",
+            "ateam" : "Inter",
             "hotmat":"yes",
             "link":[
   {
                     "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?edge_slice=true&auth_key=1680739796-0-0-6fa3360811b2d869f2f577927474d43a&user_session_id=d7dd2a0180fb9919e3d239255ae74ad9&sub_m3u8=true"
+                "livelink":""
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?user_session_id=5edaa4317b94e18c55dd546269f306e5&sub_m3u8=true&edge_slice=true&auth_key=1680740084-0-0-1611f219788f784e115963cd4896e957"
+                "livelink":""
          
                 },
 {
-                    "type": "SD 3",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/bunSD/chunklist.m3u8"
-                },
-{
                     "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?auth_key=1680739796-0-0-b4d5816d2ece81123ef6ad5eae825cd8&sub_m3u8=true&user_session_id=1eed48e22a2668955a9c8d9e35651252&edge_slice=true"
+                "livelink":""
          
                 },
 {
                     "type": "HD 2",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/bunHD/chunks.m3u8"
-         
-                },
-{
-                    "type": "HD 3",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1680740084-0-0-f7d585684893183ae6327ae27a161ced&edge_slice=true&user_session_id=aa0cb12ebed8d8a559a7d44d304bc770&sub_m3u8=true"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/bunFHD/chunklist.m3u8"
+                "livelink":""
                 }
+                
             ]
 },
 {
-           "league": "🏆 Premier League",
-            "date": "April 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-            "teams" : "Man United Vs Brentford",
-            "hteam" : "Man United",
-            "ateam" : "Brentford",
+           "league": "🏆 Serie A",
+            "date": "April 7",
+            "time": "11:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+            "teams" : "Lecce Vs Napoli",
+            "hteam" : "Lecce",
+            "ateam" : "Napoli",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Laliga",
+            "date": "April 8",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
+            "teams" : "Sevilla Vs Celta Vigo",
+            "hteam" : "Sevilla",
+            "ateam" : "Celta Vigo",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Serie A",
+            "date": "April 8",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
+            "teams" : "AC Milan Vs Empoli",
+            "hteam" : "AC Milan",
+            "ateam" : "Empoli",
             "hotmat":"yes",
             "link":[
-{
-                    "type": "English SD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpo4xvmoe/chunklist.m3u8"
-         
-                },
   {
                     "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1680739856-0-0-bb1f48d4e64dc79609f4962ba5124a39&user_session_id=64e4ec22d6ba78a94949d997894fdcc8&sub_m3u8=true&edge_slice=true"
+                "livelink":""
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-553172_ld.m3u8?auth_key=1680740144-0-0-ea75ddac71f6da03e57b6eae83007a6c"
-         
-                },
-{
-                    "type": "SD 3",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+                "livelink":""
          
                 },
 {
                     "type": "HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-553172.m3u8?auth_key=1680740144-0-0-f816ee227ba25b4453fd1ae1ea3f0386"
+                "livelink":""
          
                 },
 {
                     "type": "HD 2",
-                "livelink":"https://sports01.livnvess.com/live/stream-226699.m3u8?txSecret=910eb3182e401f32d2b63b6de5f30381&txTime=642e1a05"
-         
-                },
-{
-                    "type": "Vietnam",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-         
-                },
-{
-                    "type": "HD 3",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?edge_slice=true&user_session_id=dc9c94789b2048997244e9d3aeb30688&auth_key=1680739856-0-0-a61474706ec600804e97ef083e1acc77&sub_m3u8=true"
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may145FHD/chunklist.m3u8"
-         
-                },
-               
-{
-                    "type": "English FHD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-dn1m1ghpo4xvmoe/chunklist.m3u8"
-         
-                } 
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "April 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-            "teams" : "West Ham Vs Newcastle",
-            "hteam" : "West Ham",
-            "ateam" : "Newcastle",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?edge_slice=true&user_session_id=3d97be2214f7c5d48e33cc1d95a66682&auth_key=1680739916-0-0-66176279e6e708b8935b8c6b8a19f651&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lsd.m3u8?auth_key=1680740204-0-0-7c0a82cc74a4bbe4b42773f298c5db94&sub_m3u8=true&edge_slice=true&user_session_id=725e6e716338f793bb61e50521f77f59"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?edge_slice=true&auth_key=1680739916-0-0-8a0081bc7372ed58d1faf253ad51b35e&sub_m3u8=true&user_session_id=edc6c30ea0cdd380be4074aa2840e68e"
-         
-                },
-{
-                    "type": "Vietnam 2",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?edge_slice=true&user_session_id=45bf76870c1535f9d70d30a4247b1295&sub_m3u8=true&auth_key=1680740204-0-0-dcc0400512bf660d1106c54853961ddb"
+                "livelink":""
                 }
                 
             ]
 },
 {
-           "league": "🏆 Copa del Rey Semi Final",
-            "date": "April 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "teams" : "Barcelona Vs Real Madrid",
-            "hteam" : "Barcelona",
-            "ateam" : "Real Madrid",
+           "league": "🏆 Ligue 1",
+            "date": "April 7",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
+            "teams" : "Lens Vs Strasbourg",
+            "hteam" : "Lens",
+            "ateam" : "Strasbourg",
             "hotmat":"no",
             "link":[
   {
                     "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?user_session_id=549bd1b8a259082beae08271d3c54534&auth_key=1680739977-0-0-e03016695dbf72c9473e7cce6887d640&sub_m3u8=true&edge_slice=true"
+                "livelink":""
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-4569315_ld.m3u8?auth_key=1680740264-0-0-71c572637d7af54be74d2bf92fa8ea61"
+                "livelink":""
          
                 },
 {
                     "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?auth_key=1680739977-0-0-d68fab82163823ba18991ac73c59ade2&edge_slice=true&sub_m3u8=true&user_session_id=0e4b46d18b904739ed1e4265c7b14def"
-         
-                },
-{
-                    "type": "Vietnam 2",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+                "livelink":""
          
                 },
 {
                     "type": "HD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1680740264-0-0-0bbcc77389011ec4656ffa077d88f160"
-                }
-                
-            ]
-},
-
-          
-{
-           "league": "🏆 Copa de France Semi Final",
-            "date": "April 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-            "teams" : "Nantes Vs Lyon",
-            "hteam" : "Nantes",
-            "ateam" : "Lyon",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105225_lsd.m3u8?edge_slice=true&auth_key=1680740036-0-0-be0ad198afbf7a3a324f2f1a350c32e7&sub_m3u8=true&user_session_id=8a9f570c329cf3eebd1aa9ec31570802"
-         
-                },                     
-                 
-{
-                    "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105225_lhd.m3u8?auth_key=1680740036-0-0-cf051a4a88d5794c3f75a5e1e6712445&edge_slice=true&user_session_id=9cbcafea9afec62d444b088f4715f0e2&sub_m3u8=true"
-         
-                
+                "livelink":""
                 }
                 
             ]
 }
 
+          
 ]
