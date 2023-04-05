@@ -57,6 +57,11 @@
             "ateam" : "Brentford",
             "hotmat":"yes",
             "link":[
+{
+                    "type": "English SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpo4xvmoe/chunklist.m3u8"
+         
+                },
   {
                     "type": "SD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1680739856-0-0-bb1f48d4e64dc79609f4962ba5124a39&user_session_id=64e4ec22d6ba78a94949d997894fdcc8&sub_m3u8=true&edge_slice=true"
@@ -96,11 +101,7 @@
                 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may145FHD/chunklist.m3u8"
          
                 },
-               {
-                    "type": "English SD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpo4xvmoe/chunklist.m3u8"
-         
-                },
+               
 {
                     "type": "English FHD",
                 "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-dn1m1ghpo4xvmoe/chunklist.m3u8"
