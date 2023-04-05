@@ -68,23 +68,33 @@
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-553172.m3u8?auth_key=1680740144-0-0-f816ee227ba25b4453fd1ae1ea3f0386"
+                    "type": "SD 3",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
          
                 },
 {
                     "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=985ded5b28042b44205ae213eed8811e&txTime=642e0e10"
-         
-                },
-{
-                    "type": "Vietnam 2",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+                "livelink":"https://yypull.gdsth.com/live/stream-553172.m3u8?auth_key=1680740144-0-0-f816ee227ba25b4453fd1ae1ea3f0386"
          
                 },
 {
                     "type": "HD 2",
+                "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=985ded5b28042b44205ae213eed8811e&txTime=642e0e10"
+         
+                },
+{
+                    "type": "Vietnam",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         
+                },
+{
+                    "type": "HD 3",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?edge_slice=true&user_session_id=dc9c94789b2048997244e9d3aeb30688&auth_key=1680739856-0-0-a61474706ec600804e97ef083e1acc77&sub_m3u8=true"
+                },
+{
+                    "type": "FHD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may145FHD/chunklist.m3u8"
+         
                 }
                 
             ]
