@@ -95,8 +95,17 @@
                     "type": "FHD",
                 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may145FHD/chunklist.m3u8"
          
-                }
-                
+                },
+               {
+                    "type": "English SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpo4xvmoe/chunklist.m3u8"
+         
+                },
+{
+                    "type": "English FHD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-dn1m1ghpo4xvmoe/chunklist.m3u8"
+         
+                } 
             ]
 },
 {
