@@ -28,8 +28,11 @@
 {
                     "type": "HD 2",
                 "livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=282a99175ddb83bf97fc1e0f8966e0b1&edge_slice=true&auth_key=1680904365-0-0-6497b1b26e3f44795ad5b7dc48057c9a&sub_m3u8=true"
-                }
-                
+                },
+              {
+                    "type": "FHD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
+                }  
             ]
 },
 {
