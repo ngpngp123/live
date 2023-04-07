@@ -1,39 +1,6 @@
 [   
 {
            "league": "🏆 Serie A",
-            "date": "April 7(9:30 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-            "teams" : "Salernitana Vs Inter",
-            "hteam" : "Salernitana",
-            "ateam" : "Inter",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?user_session_id=9403c9c6d7698e24b9bb550aa1452653&sub_m3u8=true&auth_key=1680899817-0-0-3251827d29e2cb221f9432bc6d8a464e&edge_slice=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?user_session_id=637f08efaa19ff4069ed67edad504b0f&sub_m3u8=true&edge_slice=true&auth_key=1680899865-0-0-1578e53ce0128a51f7b4525c037aad2c"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?user_session_id=ed8c157d44578c0092aafa8f14357c67&sub_m3u8=true&auth_key=1680899817-0-0-82eac7450e3c518a810c1189f9280695&edge_slice=true"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=55d9ce0bde5b9a8c3759f524f073b15a&sub_m3u8=true&edge_slice=true&auth_key=1680899865-0-0-04acdfb564f5e1d94748d7b0886d4029"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Serie A",
             "date": "April 7(11:30 PM)",
             "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
