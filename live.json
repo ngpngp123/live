@@ -403,7 +403,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-120778.m3u8?txSecret=d7158138f08df7b0b355ac0bc2043089&txTime=6431c5dd"
          
                 },
 {
@@ -416,32 +416,26 @@
 {
            "league": "🏆 Laliga",
             "date": "April 8",
-            "time": "8:45 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
             "teams" : "Espanyol Vs Athletic Club",
             "hteam" : "Espanyol",
             "ateam" : "Athletic Club",
             "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
+           "link":[
+  
+                                         
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-197901_lsd.m3u8?sub_m3u8=true&user_session_id=950025df6d50d934ec1f96c1cd8bd1e2&edge_slice=true&auth_key=1680983337-0-0-89ebb08ce14ba7d6e651f2841c3f3a90"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-197901_lhd.m3u8?sub_m3u8=true&auth_key=1680983337-0-0-65563cf8abcec92c6fd12a20da5b3465&edge_slice=true&user_session_id=0ded9577b8893d35485209f0bc09c8fa"
          
-                },
-{
-                    "type": "HD 2",
-                "livelink":""
+                
                 }
                 
             ]
@@ -449,7 +443,7 @@
 {
            "league": "🏆 Serie A",
             "date": "April 8",
-            "time": "9:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
             "teams" : "Atalanta Vs Bologna",
@@ -457,11 +451,8 @@
             "ateam" : "Bologna",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
+  
+                                         
 {
                     "type": "SD 2",
                 "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?auth_key=1680981405-0-0-90686b7799ffad69ef010473d5271eaf&user_session_id=7b44675f9cc468e13e311d1c84d3aa74&edge_slice=true&sub_m3u8=true"
@@ -469,7 +460,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=63753c3aa5d1c2b0925e384cd991de47&txTime=6431c5a1"
          
                 },
 {
@@ -482,7 +473,7 @@
 {
            "league": "🏆 Serie A",
             "date": "April 8",
-            "time": "9:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
             "teams" : "Sampdoria Vs Cremonese",
@@ -490,21 +481,14 @@
             "ateam" : "Cremonese",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
+  
+                                        
 {
                     "type": "SD 2",
                 "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-459156_lsd.m3u8?sub_m3u8=true&user_session_id=de8994fa76aaf395d647e989b4e953fe&auth_key=1680981345-0-0-c5df6908123501b372804bf2b684ab12&edge_slice=true"
          
                 },
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
+
 {
                     "type": "HD 2",
                 "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-459156_lhd.m3u8?sub_m3u8=true&auth_key=1680981345-0-0-cbd4a1c086ab9880f626f373d0479980&edge_slice=true&user_session_id=32770f41e99926cd21185a58c003be75"
