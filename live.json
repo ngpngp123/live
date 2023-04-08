@@ -48,6 +48,11 @@
             "ateam" : "Everton",
             "hotmat":"yes",
             "link":[
+{
+                    "type": "English SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-jw2r09h6pl7drz8/playlist.m3u8"
+         
+                },
   {
                     "type": "SD",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?sub_m3u8=true&auth_key=1680972597-0-0-b21c5223a514c2e61b936eae87aafa71&edge_slice=true&user_session_id=a2b83b14f876f87c04702e6e74e53847"
@@ -72,8 +77,8 @@
                 "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?edge_slice=true&user_session_id=21df08ca525ed19c093e36421d80e2df&auth_key=1680973425-0-0-3d2252585ebb248dc3b3007544738d11&sub_m3u8=true"
                 },
 {
-                    "type": "Bein SD",
-                "livelink":"http://chimeratv.live:25461/beinvip50/4SqObXnyDr/11"
+                    "type": "Eng FHD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-jw2r09h6pl7drz8/chunklist.m3u8"
                 }               
             ]
 },
