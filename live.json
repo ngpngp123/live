@@ -1,50 +1,6 @@
 [   
-{
-           "league": "🏆 Premier League",
-            "date": "April 8",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-            "teams" : "Man United Vs Everton",
-            "hteam" : "Man United",
-            "ateam" : "Everton",
-            "hotmat":"yes",
-            "link":[
-{
-                    "type": "English SD 1",
-                "livelink":"https://179720687.global.cdnfastest.com/live/sd-jw2r09h6pl7drz8/playlist.m3u8"
-         
-                },
-                       {
-                    "type": "English SD 2",
-                "livelink":"http://pulldg.hongdel.top/live/sd-1-3747089.m3u8?auth_key=1680950472-0-0-6b7e91bf6ee9e439357fedac93b04521"
-         
-                },
-  {
-                    "type": "SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-226699_lsd.m3u8?auth_key=1680975597-0-0-4f2f745074b0cae400830acda02b6907&edge_slice=true&sub_m3u8=true&user_session_id=d75a67932dbb68e903a267c6ac2e00e3"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?auth_key=1680973425-0-0-f115185c3760115ff6ff3c3be1bc9f26&user_session_id=279bb433b0e245bb441d78678a6b4e9d&edge_slice=true&sub_m3u8=true"
-         
-                },
 
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-226699_lhd.m3u8?auth_key=1680975597-0-0-35be5f035f9b33ace32f7fd97c5dd4de&sub_m3u8=true&edge_slice=true&user_session_id=2ea59e3494d9e6df5d119fc89861b101"
-                },
- {
-                    "type": "FHD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?edge_slice=true&user_session_id=21df08ca525ed19c093e36421d80e2df&auth_key=1680973425-0-0-3d2252585ebb248dc3b3007544738d11&sub_m3u8=true"
-                },
-{
-                    "type": "Eng FHD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-jw2r09h6pl7drz8/chunklist.m3u8"
-                }               
-            ]
-},
+     
 {
            "league": "🏆 Laliga",
             "date": "April 8",
@@ -256,7 +212,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 8",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "teams" : "Wolves Vs Chelsea",
@@ -265,7 +221,7 @@
             "hotmat":"yes",
             "link":[
 {
-                    "type": "Eng SD",
+                    "type": "Vietnam SD",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
          
                 },
@@ -294,7 +250,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 8",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "teams" : "Tottenham Vs Brighton",
@@ -327,7 +283,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 8",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
             "teams" : "Aston Villa Vs Nottingham",
@@ -360,7 +316,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 8",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "teams" : "Brentford Vs Newcastle United",
@@ -378,11 +334,8 @@
                 "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lsd.m3u8?sub_m3u8=true&user_session_id=2eef3f7cc100a62bf283f13c08387407&auth_key=1680981465-0-0-12c3ad7444910a18aa147784288b554b&edge_slice=true"
          
                 },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+
+                    
 {
                     "type": "HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=950b1a1797546bc6d2ca9950725fb2f7&txTime=6431b971"
@@ -398,7 +351,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 8",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "teams" : "Fulham Vs West Ham",
@@ -406,24 +359,16 @@
             "ateam" : "West Ham",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
+                       
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&user_session_id=2bbd439d24d6a2b7cada129c5cd37ed5&auth_key=1680982305-0-0-9ac823555b09291593bea725620ce5c3&edge_slice=true"
          
                 },
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
+
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&auth_key=1680982305-0-0-cad25aec02843092610f577237e1deca&sub_m3u8=true&user_session_id=fe988c70c1b136f03cc2bd5349b56f1c"
                 }
                 
             ]
@@ -456,7 +401,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-559725_lhd.m3u8?user_session_id=c72827c97c4b49247e5b8a8a6611a6cf&auth_key=1680982425-0-0-ea66c2bae342c70e562ae011cf0e62e2&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
