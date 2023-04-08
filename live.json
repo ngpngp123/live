@@ -85,7 +85,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 8",
-            "time": "6:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
             "teams" : "Osasuna Vs Elche",
@@ -93,24 +93,20 @@
             "ateam" : "Elche",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
+                       
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lsd.m3u8?user_session_id=9e615d9b4415338ef3144870073fc529&sub_m3u8=true&auth_key=1680976245-0-0-dc65067ae2f1befd3e137706602da2ca&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-102933.m3u8?txSecret=ec3e55d11416cdf798a46fb63b9c4bf0&txTime=6431a909"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":""
+                    "type": "FHD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7e44e7a5cbe9f363b6e25d1155530029&auth_key=1680976245-0-0-fec87b2357111892f1d5deca33a11475"
                 }
                 
             ]
