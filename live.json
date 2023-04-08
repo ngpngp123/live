@@ -40,7 +40,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 8",
-            "time": "6:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
             "teams" : "Man United Vs Everton",
@@ -55,7 +55,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?auth_key=1680973425-0-0-f115185c3760115ff6ff3c3be1bc9f26&user_session_id=279bb433b0e245bb441d78678a6b4e9d&edge_slice=true&sub_m3u8=true"
          
                 },
 {
@@ -69,7 +69,7 @@
                 },
  {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?edge_slice=true&user_session_id=21df08ca525ed19c093e36421d80e2df&auth_key=1680973425-0-0-3d2252585ebb248dc3b3007544738d11&sub_m3u8=true"
                 },
 {
                     "type": "Eng FHD",
