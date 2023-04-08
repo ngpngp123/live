@@ -110,7 +110,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "April 8",
-            "time": "8:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
             "teams" : "SC Freiburg Vs Bayern München",
@@ -125,7 +125,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?edge_slice=true&auth_key=1680980625-0-0-c154735e6430680e089bc28689411b65&user_session_id=85159f1f634f0295b509c0339c553bd6&sub_m3u8=true"
          
                 },
 {
@@ -135,7 +135,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?sub_m3u8=true&auth_key=1680980625-0-0-a20f8c76a3394257de68946aabfc3b2e&user_session_id=d2d7b7236c5d0eff28a26acb4cfabcce&edge_slice=true"
                 }
                 
             ]
@@ -143,7 +143,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "April 8",
-            "time": "8:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
             "teams" : "Dortmund Vs Union Berlin",
@@ -153,22 +153,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?sub_m3u8=true&auth_key=1680980217-0-0-621372ac06167f3dd7b948b9d1358bdb&user_session_id=920f34cc79d1b7f62e4c1125008a4d5a&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?sub_m3u8=true&user_session_id=cb826036d3c06930f677e5cb5f5397f4&auth_key=1680980685-0-0-dec8bd80ee67f893d516d43846ba4fa8&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?edge_slice=true&user_session_id=a413edc41640552f773c8cfe8e502017&sub_m3u8=true&auth_key=1680980217-0-0-8e8896a8e1a120760af64c1b88be83ca"
          
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1680980685-0-0-737f7f33a5e0638c52207b6947033caa&edge_slice=true&sub_m3u8=true&user_session_id=126d04a03e4019379be53e74bccfaf4f"
                 }
                 
             ]
@@ -176,7 +176,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "April 8",
-            "time": "8:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
             "teams" : "FC Augsburg Vs 1. FC Köln",
@@ -199,7 +199,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "April 8",
-            "time": "8:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
             "teams" : "Leverkusen Vs Frankfurt",
@@ -222,7 +222,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "April 8",
-            "time": "8:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
             "teams" : "Mainz 05 Vs Werder Bremen",
@@ -232,12 +232,12 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lsd.m3u8?sub_m3u8=true&auth_key=1680980745-0-0-5579211ae1b4ec6407211cefec728453&edge_slice=true&user_session_id=8368982204cbd2baf3307e543869c86c"
          
                 },                     
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?sub_m3u8=true&auth_key=1680980745-0-0-dae7347b01614bf56355c2d87c0be70c&edge_slice=true&user_session_id=92fdf67a11feb3dfe504509528ddf3ce"
                 }
                 
             ]
@@ -255,22 +255,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?sub_m3u8=true&auth_key=1680980457-0-0-9891f3d1e482351b6aa75fcec27d9491&user_session_id=6d0aba03213e1470992ab521ecb874c1&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-697889_lsd.m3u8?sub_m3u8=true&auth_key=1680980805-0-0-80252c7f07bb58e6f4030cf0b3471ecc&edge_slice=true&user_session_id=5c54982898b791e0341ee02ceb4fd885"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1680980457-0-0-a5fe41337b8f5a0298bb3570c4860ebd&user_session_id=516b81d0ae391b19d7ddd1b4b12c508f"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-697889_lhd.m3u8?edge_slice=true&user_session_id=1ab0584cc341c7baed6dc7d0d33ced4b&auth_key=1680980805-0-0-3200f0e57ae5b14746322a089dc95ba5&sub_m3u8=true"
                 }
                 
             ]
@@ -288,7 +288,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?auth_key=1680980397-0-0-6039aaff36310d6377cc7d76546b18a4&user_session_id=e4793a1960605de6d4316ee9d3e552a8&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
@@ -298,7 +298,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?user_session_id=fced7ce2204043e36ee130f512fc2c29&auth_key=1680980397-0-0-64ca5be0ba6c8c4a8a8d2eced457387c&edge_slice=true&sub_m3u8=true"
          
                 },
 {
@@ -331,7 +331,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-368932.m3u8?txSecret=b96ddb5e7eaaf230cb714c7f7316582c&txTime=6431b935"
          
                 },
 {
@@ -364,7 +364,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=950b1a1797546bc6d2ca9950725fb2f7&txTime=6431b971"
          
                 },
 {
