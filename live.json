@@ -50,7 +50,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?sub_m3u8=true&auth_key=1680972597-0-0-b21c5223a514c2e61b936eae87aafa71&edge_slice=true&user_session_id=a2b83b14f876f87c04702e6e74e53847"
          
                 },                     
 {
@@ -60,12 +60,12 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?sub_m3u8=true&user_session_id=6ecfdddb05749724bb48f9daa95b78e1&edge_slice=true&auth_key=1680972597-0-0-f84c42d2456ce63f43b2c316e06ae1d4"
                 },
  {
                     "type": "FHD",
@@ -870,7 +870,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"."
                 }
                 
             ]
