@@ -11,8 +11,13 @@
             "hotmat":"yes",
             "link":[
 {
-                    "type": "English SD",
+                    "type": "English SD 1",
                 "livelink":"https://179720687.global.cdnfastest.com/live/sd-jw2r09h6pl7drz8/playlist.m3u8"
+         
+                },
+                       {
+                    "type": "English SD 2",
+                "livelink":"http://pulldg.hongdel.top/live/sd-1-3747089.m3u8?auth_key=1680950472-0-0-6b7e91bf6ee9e439357fedac93b04521"
          
                 },
   {
