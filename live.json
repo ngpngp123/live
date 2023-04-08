@@ -254,6 +254,11 @@
 {
                     "type": "HD 2",
                 "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-697889_lhd.m3u8?edge_slice=true&user_session_id=1ab0584cc341c7baed6dc7d0d33ced4b&auth_key=1680980805-0-0-3200f0e57ae5b14746322a089dc95ba5&sub_m3u8=true"
+                },
+{
+                    "type": "Eng FHD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-pxwrxlhx2g7dryk/chunklist.m3u8"
+         
                 }
                 
             ]
@@ -287,8 +292,12 @@
 {
                     "type": "HD 2",
                 "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-651238_lhd.m3u8?sub_m3u8=true&auth_key=1680981585-0-0-212612e5ed505045f466b0c0528bfdd2&user_session_id=ebe94b0357506016e8f49f0a06021d1a&edge_slice=true"
-                }
-                
+                },
+             {
+                    "type": "Eng FHD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-8yomo4hg579dq0j/chunklist.m3u8"
+         
+                }   
             ]
 },
 {
@@ -351,8 +360,12 @@
 {
                     "type": "HD 2",
                 "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lhd.m3u8?user_session_id=7e17c71b15922d0b1b5728cea78bccd2&auth_key=1680981465-0-0-9283aeccf89b30ef1e718840d7b1625a&sub_m3u8=true&edge_slice=true"
+                },
+              {
+                    "type": "Eng FHD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-4jwq2ghz0466m0v/chunklist.m3u8"
+         
                 }
-                
             ]
 },
 {
