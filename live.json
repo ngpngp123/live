@@ -129,17 +129,17 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-78951465_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680976845-0-0-a49b5770d43e0d605c0081e265c08eb3&user_session_id=441bc3addf06633380d6d580a5fe617b"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-115447.m3u8?txSecret=ff362f3847c8401db54dca1879e32479&txTime=6431aba0"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-78951465_lhd.m3u8?auth_key=1680976845-0-0-ba86a200ebf5e84b700114f142ed8b35&edge_slice=true&user_session_id=8faece13039ccda53fc63ea63617c53c&sub_m3u8=true"
                 }
                 
             ]
@@ -223,7 +223,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-288414_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=cbe69634095f2fa03e6f7f744dd80260&auth_key=1680977025-0-0-9f6e7bc1c4abb548090f93b34dd6c2c4"
          
                 },                     
 {
@@ -246,12 +246,12 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lsd.m3u8?auth_key=1680976965-0-0-32448a7531ed0ac6c7e17d393d55dd7a&user_session_id=d4be962df8c21f97557ca1974d438b65&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=45a09ffa2653189f91e6e52c73bae756&txTime=6431ac15"
                 }
                 
             ]
