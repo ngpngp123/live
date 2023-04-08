@@ -118,7 +118,13 @@
             "ateam" : "Bayern München",
             "hotmat":"yes",
             "link":[
+{
+                    "type": "Recommend SD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
+         
+                },
   {
+
                     "type": "SD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-102153_lsd.m3u8?edge_slice=true&user_session_id=44736a62d5eb3c0349690d376af75a04&auth_key=1680979977-0-0-f7618b5576bb57972b10925193e91acd&sub_m3u8=true"
          
@@ -152,6 +158,11 @@
             "hotmat":"yes",
             "link":[
   {
+{
+                    "type": "Recommend SD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/bunHD/chunks.m3u8"
+         
+                },
                     "type": "SD",
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?sub_m3u8=true&auth_key=1680980217-0-0-621372ac06167f3dd7b948b9d1358bdb&user_session_id=920f34cc79d1b7f62e4c1125008a4d5a&edge_slice=true"
          
@@ -253,6 +264,11 @@
             "ateam" : "Chelsea",
             "hotmat":"yes",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+         
+                },
   {
                     "type": "SD",
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?sub_m3u8=true&auth_key=1680980457-0-0-9891f3d1e482351b6aa75fcec27d9491&user_session_id=6d0aba03213e1470992ab521ecb874c1&edge_slice=true"
@@ -352,6 +368,11 @@
             "ateam" : "Newcastle United",
             "hotmat":"no",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
+         
+                },
   {
                     "type": "SD",
                 "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lsd.m3u8?sub_m3u8=true&user_session_id=2eef3f7cc100a62bf283f13c08387407&auth_key=1680981465-0-0-12c3ad7444910a18aa147784288b554b&edge_slice=true"
