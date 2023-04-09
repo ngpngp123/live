@@ -253,7 +253,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-201313_lsd.m3u8?edge_slice=true&user_session_id=10d6db4234239ba9529c476d3751600c&auth_key=1681072857-0-0-665b0626bf71b7888ad36b0f3030819e&sub_m3u8=true"
          
                 },                     
 {
@@ -263,7 +263,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1681072857-0-0-7bb97b38c1aca1fe916251df22a85655&user_session_id=2b87f0d7230092084b0170ee7b4fd775&sub_m3u8=true&edge_slice=true"
          
                 },
 {
@@ -280,13 +280,13 @@
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "teams" : "Liverpool Vs Arsenal",
-            "hteam" : "",
+            "hteam" : "Liverpool",
             "ateam" : "",
             "hotmat":"yes",
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?edge_slice=true&user_session_id=0bea3504a6c397a53412a8325ee8da36&auth_key=1681072917-0-0-2573490917d43155643d1ebe0207e0e3&sub_m3u8=true"
          
                 },                     
 {
@@ -301,7 +301,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=d2abdf129dc859ea3f354d48d1558f12&txTime=64332315"
          
                 },
 {
@@ -328,7 +328,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-143449_lsd.m3u8?auth_key=1681073097-0-0-0e762a3ffbd72e43d13bfb71725ecb93&user_session_id=2c4e0e3775750cc417336583713c2f44&edge_slice=true&sub_m3u8=true"
          
                 },                     
 {
@@ -338,7 +338,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?user_session_id=6373316093db520b6ed315a7a274d652&auth_key=1681073097-0-0-fca2ff416c988027fe7ecd6eaee3c65b&edge_slice=true&sub_m3u8=true"
          
                 },
 {
@@ -371,12 +371,12 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-420171.m3u8?txSecret=6c5e4811be190a6c6f7c33a8d8b73f07&txTime=643323c9"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-120778.m3u8?txSecret=57fbaab8801260131bece8d1b9796f9f&txTime=64332405"
                 }
                 
             ]
