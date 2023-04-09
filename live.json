@@ -215,7 +215,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "April 9",
-            "time": "8:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
             "teams" : "M'Gladbach Vs Wolfsburg",
@@ -225,22 +225,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?auth_key=1681067997-0-0-1f719f7392b95c81f90b417a89f5767c&edge_slice=true&sub_m3u8=true&user_session_id=5935f317cc1d78502e67944166b68f21"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lsd.m3u8?edge_slice=true&auth_key=1681068105-0-0-db64fbf7753051f1c9683cdfedb62130&sub_m3u8=true&user_session_id=c16e3b798de36770afb376b4b103a8f3"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?edge_slice=true&auth_key=1681067997-0-0-3f6d5ddd8f105a6783df5295f3906a30&sub_m3u8=true&user_session_id=f36c57b8d4bc9e8cc89a33744f45e0fa"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lhd.m3u8?edge_slice=true&auth_key=1681068105-0-0-2396a86689e244327dfb7a3f168e3bfc&sub_m3u8=true&user_session_id=36196c199ec85439a44cde50d6fcd328"
                 }
                 
             ]
