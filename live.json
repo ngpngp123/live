@@ -59,6 +59,11 @@
          
                 },
 {
+                    "type": "SD 3",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8"
+         
+                },
+{
                     "type": "HD",
                 "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull06.scstream.net/live/stream-368932_lhd.m3u8?auth_key=1681061577-0-0-a0f26f195643e1eadf14e583b59fbb78&edge_slice=true&user_session_id=658b9f0cb3a1ee2c256b8d45b2e8a959&sub_m3u8=true"
          
