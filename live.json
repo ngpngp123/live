@@ -78,6 +78,11 @@
             "ateam" : "",
             "hotmat":"yes",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpo4k9moe/chunklist.m3u8"
+         
+                },
   {
                     "type": "SD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?edge_slice=true&user_session_id=0bea3504a6c397a53412a8325ee8da36&auth_key=1681072917-0-0-2573490917d43155643d1ebe0207e0e3&sub_m3u8=true"
