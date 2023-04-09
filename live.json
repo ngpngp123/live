@@ -1,43 +1,5 @@
 [   
 {
-           "league": "🏆 Ligue 1",
-            "date": "April 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-            "teams" : "Lyon Vs Rennes",
-            "hteam" : "Lyon",
-            "ateam" : "Rennes",
-            "hotmat":"yes",
-            "link":[
-
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-229285_lsd.m3u8?user_session_id=ddb138ea544dc9eaa2f6e8a7b4fd26c6&auth_key=1681058817-0-0-7d2f45360e729cf04d3409056d5292e3&edge_slice=true&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lsd.m3u8?user_session_id=888a0f256d5b603ae1189e8976f8002b&sub_m3u8=true&auth_key=1681058925-0-0-b8c8774734a873dbdbd90d9a56adfd40&edge_slice=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-229285_lhd.m3u8?auth_key=1681059057-0-0-3352f5e9002cdfd93105e99c924c3784&edge_slice=true&user_session_id=97c59da5de88891f0c050004b7e83de1&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?auth_key=1681058925-0-0-3a5c0f445b56c9fea37c429547e93f6b&user_session_id=21a299f52687fce92df2333babc3507b&edge_slice=true&sub_m3u8=true"
-                },
-              {
-                    "type": "Eng SD",
-                "livelink":"https://pulldg.hongdel.top/live/sd-1-3749587.m3u8?auth_key=1681035070-0-0-72c289903e621d3948ea43a1ffd78637"
-         
-                }
-            ]
-},
-{
            "league": "🏆 Laliga",
             "date": "April 9(6:30 PM)",
             "time": "live",
@@ -192,7 +154,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-201313_lsd.m3u8?edge_slice=true&auth_key=1681066737-0-0-d0875e47b6530de2814995e8d076f8f6&sub_m3u8=true&user_session_id=c3a0cdb57737637559e71df088ebade0"
          
                 },
 {
