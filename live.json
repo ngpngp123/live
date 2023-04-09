@@ -111,12 +111,8 @@
                     "type": "Eng FHD",
                 "livelink":"https://wekavnuokgn.azureedge.net/live/sspl/chunks.m3u8"
          
-                },
-{
-                    "type": "Test",
-                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-dn1m1ghpo4k9moe/chunklist.m3u8"
-         
                 }
+
             ]
 },
 {
