@@ -101,8 +101,12 @@
 {
                     "type": "FHD",
                 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
+                },
+                {
+                    "type": "Eng FHD",
+                "livelink":"https://wekavnuokgn.azureedge.net/live/sspl/chunks.m3u8"
+         
                 }
-                
             ]
 },
 {
