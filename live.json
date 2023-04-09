@@ -48,6 +48,11 @@
             "ateam" : "Crystal Palace",
             "hotmat":"no",
             "link":[
+{
+                    "type": "Eng FHD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-y39mp1h0k3p0moj/chunklist.m3u8"
+         
+                },
   {
                     "type": "SD",
                 "livelink":"https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1681065417-0-0-8973e897bccb347b25b30047483d9e01&edge_slice=true&sub_m3u8=true&user_session_id=d1c7f4e09bc2a149aecb3e4429d63ecc"
