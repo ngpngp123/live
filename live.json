@@ -78,7 +78,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 9",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
             "teams" : "Leeds United Vs Crystal Palace",
@@ -88,22 +88,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1681065417-0-0-8973e897bccb347b25b30047483d9e01&edge_slice=true&sub_m3u8=true&user_session_id=d1c7f4e09bc2a149aecb3e4429d63ecc"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681065465-0-0-e88df0c7a253896ac50f743e928032d3&user_session_id=463eae3368d9ef3a4235b40098861940"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?edge_slice=true&user_session_id=cb15231330f49cbb31f1ac5b676f8156&auth_key=1681065417-0-0-720368b75480ec62335968e26bb055d5&sub_m3u8=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&auth_key=1681065465-0-0-17a288982499d8f6227f36aeb3fab273&user_session_id=6f85df2537ed334af5239ad119b11b6b&edge_slice=true"
                 }
                 
             ]
@@ -111,7 +111,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 9",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8576_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
             "teams" : "AC Ajaccio Vs Auxerre",
@@ -121,7 +121,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-143449_lsd.m3u8?sub_m3u8=true&auth_key=1681066137-0-0-463a27a770dda373e96012dd68148a63&edge_slice=true&user_session_id=3dac2b0ede58435592f541d435fd78f1"
          
                 },                     
 {
@@ -131,7 +131,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-120778.m3u8?txSecret=64fcb675227fd0de9eeee0cf214f12a8&txTime=64330641"
          
                 },
 {
@@ -144,7 +144,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 9",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
             "teams" : "Montpellier Vs Toulouse",
@@ -154,7 +154,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-161243_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681065657-0-0-712518364c2d22f55664a4c66d41d7a2&user_session_id=e4d9f77aa22a99741140d1dedffce426"
          
                 },                     
 {
@@ -164,7 +164,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?sub_m3u8=true&auth_key=1681065777-0-0-a430404ee892b0e7bc161d68e8d98dec&edge_slice=true&user_session_id=dc9ed4bda408fe82225d73f306b49ce8"
          
                 },
 {
@@ -177,7 +177,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 9",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",
             "teams" : "Reims Vs Brest",
@@ -197,7 +197,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158814.m3u8?txSecret=7a4adef09b4b5a8a2fa59d9645aa9f56&txTime=643307a9"
          
                 },
 {
@@ -210,7 +210,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 9",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
             "teams" : "Troyes Vs Clermont Foot",
@@ -220,7 +220,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-112565_lsd.m3u8?user_session_id=162cd7eff79fdbd3f61a9c5d68e59df2&sub_m3u8=true&auth_key=1681065957-0-0-88707e05eeef4972e39853b899338317&edge_slice=true"
          
                 },                     
 {
@@ -230,7 +230,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-112565_lhd.m3u8?sub_m3u8=true&auth_key=1681065957-0-0-cf142cfecfb5a852ffbae0d8ac10274a&edge_slice=true&user_session_id=cd4d6c437d3ab99639362efb33aed86a"
          
                 },
 {
