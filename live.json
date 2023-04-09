@@ -276,7 +276,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 9",
-            "time": "10:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "teams" : "Liverpool Vs Arsenal",
@@ -295,8 +295,8 @@
          
                 },
 {
-                    "type": "SD 3",
-                "livelink":""
+                    "type": "HD 1",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
          
                 },
 {
