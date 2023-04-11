@@ -1,40 +1,5 @@
 [   
 {
-           "league": "MAN U",
-            "date": "TV Channel",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "teams" : "Man United TV",
-            "hteam" : "MAN U",
-            "ateam" : "TV",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "MUTV 360 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "MUTV 240 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MUTV 540 HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MAN U TV 1080HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Champions League",
             "date": "April 12",
             "time": "live",
@@ -52,7 +17,12 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?edge_slice=true&auth_key=1681255125-0-0-26a195a5a59a3e2d670447568db48594&user_session_id=cb5026cef328da54f505f9cfaade296d&sub_m3u8=true"
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1681259745-0-0-56bcea4521512c25bb373ece2cfee3d9&edge_slice=true&sub_m3u8=true&user_session_id=4d61065726b128b89fcc8deb82a5a46a"
+         
+                },
+{
+                    "type": "SD 3",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
          
                 },
 {
@@ -62,7 +32,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?auth_key=1681255125-0-0-b3da9ff44394aadde5b8448692d374f5&user_session_id=2b0c94f47b91e546e580f328c77f48ef&edge_slice=true&sub_m3u8=true"
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&auth_key=1681259745-0-0-74f2e2d4d18a3ac0a3faf8a3d389a5b4&user_session_id=b0fcbb1dca96f4f7543b555a50592172&edge_slice=true"
                 }
                 
             ]
@@ -85,7 +55,12 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?edge_slice=true&auth_key=1681255185-0-0-620a8621fd2d8b11593dca9aa48118f2&sub_m3u8=true&user_session_id=37d4409e7998e8b7f4a225e0cd272262"
+                "livelink":"https://yypull.gdsth.com/live/stream-112366_ld.m3u8?auth_key=1681259865-0-0-50c2c230c4752318545cf39e6176934c"
+         
+                },
+{
+                    "type": "SD 3",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8"
          
                 },
 {
@@ -95,7 +70,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?edge_slice=true&user_session_id=3436779ee55147aab27d1252aef421ae&sub_m3u8=true&auth_key=1681255185-0-0-d01b458b881ec802a672d6a84a66368b"
+                "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1681259865-0-0-f92b38eaee266fb901a7f4787fcef6bd"
                 }
                 
             ]
