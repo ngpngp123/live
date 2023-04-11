@@ -37,7 +37,7 @@
 {
            "league": "🏆 Champions League",
             "date": "April 12",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
             "teams" : "Manchester City Vs Bayern München",
@@ -47,22 +47,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?auth_key=1681255017-0-0-b96db74e1ac5c26dc5d10a5b6271b7f1&sub_m3u8=true&user_session_id=2ee55705302b29239b4064a02f2be41b&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?edge_slice=true&auth_key=1681255125-0-0-26a195a5a59a3e2d670447568db48594&user_session_id=cb5026cef328da54f505f9cfaade296d&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?auth_key=1681255017-0-0-37a752af93371198cf568c935607188b&edge_slice=true&sub_m3u8=true&user_session_id=348d670fb456538ab6d7e37835ad7d2a"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?auth_key=1681255125-0-0-b3da9ff44394aadde5b8448692d374f5&user_session_id=2b0c94f47b91e546e580f328c77f48ef&edge_slice=true&sub_m3u8=true"
                 }
                 
             ]
@@ -70,7 +70,7 @@
 {
            "league": "🏆 Champions League",
             "date": "April 12",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
             "teams" : "Benfica Vs Inter",
@@ -80,22 +80,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?auth_key=1681255077-0-0-c0fc55394bae30de43d729f7ebc6f9eb&user_session_id=fc2af640e99aeff1be5416afbe7e87dc&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?edge_slice=true&auth_key=1681255185-0-0-620a8621fd2d8b11593dca9aa48118f2&sub_m3u8=true&user_session_id=37d4409e7998e8b7f4a225e0cd272262"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?edge_slice=true&user_session_id=5e347ffb255884b23927bd9ea04ed523&sub_m3u8=true&auth_key=1681255077-0-0-07027eef15e24cb54154b975dcb08490"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?edge_slice=true&user_session_id=3436779ee55147aab27d1252aef421ae&sub_m3u8=true&auth_key=1681255185-0-0-d01b458b881ec802a672d6a84a66368b"
                 }
                 
             ]
