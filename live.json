@@ -1,98 +1,37 @@
 [   
 {
-           "league": "🏆 Champions League",
-            "date": "April 13",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "teams" : "Real Madrid Vs Chelsea",
-            "hteam" : "Real Madrid",
-            "ateam" : "Chelsea",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?sub_m3u8=true&auth_key=1681336497-0-0-e8c49786b0d0067e4e7327313ef07efb&user_session_id=2c782ef2a4e0e00dab12f4b94802dd07&edge_slice=true"
-         
-                },                     
+                
 {
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?auth_key=1681336605-0-0-9ac2006f703d8ee5fac1fae74914ce98&sub_m3u8=true&user_session_id=e87c982cf7f1107b452db4957cc1b407&edge_slice=true"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
+                },
+                
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
          
                 },
 {
-                    "type": "Recommend SD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpdwj3moe/chunklist.m3u8"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
          
                 },
 {
-                    "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-187579_lhd.m3u8?sub_m3u8=true&user_session_id=92aab5d1386114976b4505c35127d047&auth_key=1681336497-0-0-daf68e91ae222c012d85ae961a71e272&edge_slice=true"
-         
-                },
-{
-                    "type": "Eng SD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?auth_key=1681336605-0-0-5e0cc350f6011615ed0a2304d0caf816&sub_m3u8=true&user_session_id=667eec3f82899dfba4a277eafe710113&edge_slice=true"
-                },
-{
-                    "type": "English FHD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-dn1m1ghpdwj3moe/chunklist.m3u8"
-         
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
                 
             ]
-},
-{
-           "league": "🏆 Champions League",
-            "date": "April 10",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "teams" : "AC Milan Vs Napoli",
-            "hteam" : "AC Milan",
-            "ateam" : "Napoli",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-122774_lsd.m3u8?sub_m3u8=true&auth_key=1681336437-0-0-2bff004616822f0c1a433551a6b98721&user_session_id=59d690132a0f361dabeec1a7820b12e6&edge_slice=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lsd.m3u8?user_session_id=0593b8970aded637fa3c87d207eede2f&auth_key=1681336665-0-0-570b007cba78602bf45c19ce21e3dd1c&edge_slice=true&sub_m3u8=true"
-         
-                },
-{
-                    "type": "Recommend SD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/sd-jw2r09h6dozprz8/chunklist.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-113906.m3u8?txSecret=b2a4fcd94f47123fbe1d538f82ab686c&txTime=64372839"
-         
-                },
-{
-                    "type": "Eng SD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lhd.m3u8?auth_key=1681336665-0-0-2cd9265039c480f9157720087604056e&edge_slice=true&user_session_id=a1d2328c041f1a78209ee80603a2029b&sub_m3u8=true"
-                },
-              {
-                    "type": "Test FHD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-jw2r09h6dozprz8/chunklist.m3u8"
-         
-                }  
-            ]
 }
-
 ]
