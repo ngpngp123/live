@@ -88,6 +88,11 @@
             "ateam" : "Sevilla",
             "hotmat":"yes",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-4jwq2ghzd328m0v/chunklist.m3u8"
+         
+                },
   {
                     "type": "SD",
                 "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?edge_slice=true&auth_key=1681424673-0-0-44bdffc980be12c0fc10a13c7ca24bde&user_session_id=d39e38ac180b51163ab929ffd27dac54&sub_m3u8=true"
@@ -96,6 +101,11 @@
 {
                     "type": "SD 2",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?auth_key=1681425585-0-0-17bcaecf2dbdfd83083fbb0b0525108c&user_session_id=6d6d066dac10c617ab495753c8d672de&sub_m3u8=true&edge_slice=true"
+         
+                },
+{
+                    "type": "Test",
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-4jwq2ghzd328m0v/chunklist.m3u8"
          
                 },
 {
