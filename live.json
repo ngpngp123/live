@@ -37,7 +37,7 @@
 {
            "league": "🏆 Europa League Quarter Final",
             "date": "April 13",
-            "time": "11:15 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10235_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "teams" : "Feyenoord Vs Roma",
@@ -47,7 +47,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?user_session_id=55a183e3e86a01a2b554c186a922eaf0&auth_key=1681424673-0-0-44bdffc980be12c0fc10a13c7ca24bde&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
@@ -57,7 +57,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?edge_slice=true&auth_key=1681424613-0-0-8ecc5a7d275a53aa6504673f96693e83&sub_m3u8=true&user_session_id=16d588d8b97f4f28fa5f0c96c4d3b738"
          
                 },
 {
@@ -80,7 +80,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?edge_slice=true&auth_key=1681424673-0-0-44bdffc980be12c0fc10a13c7ca24bde&user_session_id=d39e38ac180b51163ab929ffd27dac54&sub_m3u8=true"
          
                 },                     
 {
@@ -90,7 +90,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?edge_slice=true&auth_key=1681424673-0-0-2b5076cdd51940c839ce65ee6d98b5a0&sub_m3u8=true&user_session_id=deddb7d00d9f2dabc6913fc84d685562"
          
                 },
 {
