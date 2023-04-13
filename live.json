@@ -52,7 +52,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&auth_key=1681425045-0-0-dfa85fa3b907f9c55a27c9e2361542a6&user_session_id=67642ad8bf21f450ff3598e445c30a30&sub_m3u8=true"
          
                 },
 {
@@ -62,7 +62,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&user_session_id=f06f7d6b8c5d0dfeed4ae48939222863&auth_key=1681424925-0-0-17cda9e5abf20b937dc6b13c10e93718&edge_slice=true"
                 }
                 
             ]
