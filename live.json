@@ -37,7 +37,7 @@
 {
            "league": "🏆 Serie A",
             "date": "April 14",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
             "teams" : "Cremonese Vs Empoli",
@@ -47,30 +47,30 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?user_session_id=714c21a072b8d74db70f1e814700302a&auth_key=1681509885-0-0-c48ec78698f36201e053855b00647d77&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=c5125bda7e7d0e4a0ce950662e1599df&auth_key=1681510233-0-0-249b114f6fc900a0162270a955917a7c"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=739b6cc7f80240fda17b4c7167dadc57&auth_key=1681509885-0-0-3ac3c1d642d5a35344e29bf7940adecf"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681510233-0-0-71d6c0e2979317ec9765614db18c2fd3&user_session_id=301dc08833d22ee03eb600c0e840b861"
                 }
                 
             ]
 },
 {
            "league": "🏆 Bundesliga",
-            "date": "April 15",
-            "time": "1:00 AM",
+            "date": "April 15(1:00Am)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
             "teams" : "Schalke 04 Vs Hertha BSC",
@@ -80,29 +80,29 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-143449_lsd.m3u8?sub_m3u8=true&user_session_id=8f5ad73e31ee8be8fa07cf8b7d339971&edge_slice=true&auth_key=1681509813-0-0-93814eb9f8d99badb294f6bcb90f0953"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-661570_lsd.m3u8?auth_key=1681509946-0-0-f4a1a53364250fcd6e9edfd2f8eaefe1&sub_m3u8=true&edge_slice=true&user_session_id=3dc85bae55ae9043eb647394e34dee46"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?auth_key=1681509813-0-0-3fa5d6df294cd03e81e590625121e330&user_session_id=d8305dc58cc2f79e612e9f977bf78c21&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-661570_lhd.m3u8?sub_m3u8=true&user_session_id=b8ec29ddf72360585e809aa6fab383ca&edge_slice=true&auth_key=1681509946-0-0-8c843b20d44675b5586e90685183d933"
                 }
                 
             ]
 },
 {
            "league": "🏆 Serie A",
-            "date": "April 15",
+            "date": "April 15(1:15)",
             "time": "1:15 AM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
@@ -113,30 +113,30 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-161243_lsd.m3u8?auth_key=1681509633-0-0-bf4ca280be2f80d970e35dabb5569242&edge_slice=true&user_session_id=42166f4119a533db5aa97fff9e770c63&sub_m3u8=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-482183_lsd.m3u8?user_session_id=c2beb253b099562b85dbdfc767153dc0&auth_key=1681510006-0-0-b62cbcf99452f37cda59135993dc7bd8&sub_m3u8=true&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-161243_lhd.m3u8?sub_m3u8=true&user_session_id=a19c782a12d03713795b9b3e7e1ecf05&edge_slice=true&auth_key=1681509633-0-0-2e14a691935ee4f7025538967b2157d9"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-482183_lhd.m3u8?auth_key=1681510006-0-0-633c8bc3abbfdc1ab8641a55409ad618&user_session_id=ab9667fde78833b811c4ecafd44ec3fa&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
 },
 {
            "league": "🏆 Laliga",
-            "date": "April 15",
-            "time": "1:30 AM",
+            "date": "April 15(1:30)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
             "teams" : "Rayo Vallecano Vs Osasuna",
@@ -146,22 +146,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?user_session_id=09c8e19ba81f92b8bff57dc8631cb423&sub_m3u8=true&edge_slice=true&auth_key=1681509753-0-0-add1ef13c28a9ab1d091660eefce42ad"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-2961234_ld.m3u8?auth_key=1681510005-0-0-8957892b469ed6bef75a63e7af7f7716"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1681509753-0-0-6bb26644010b395bd8d99746a52dbb4e&user_session_id=b2f1e83065c0193c0be165dee8576abf&edge_slice=true&sub_m3u8=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1681510005-0-0-e5dbe07498097c2ab18a49e3cd268ddf"
                 }
                 
             ]
@@ -169,7 +169,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 15",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
             "teams" : "Toulouse Vs Lyon",
@@ -179,22 +179,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-208390_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=38685fa7fc7fc85c967b50eae2a81e91&auth_key=1681509693-0-0-240b3cf5e02968cc3212fd4d1013fc2c"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lsd.m3u8?edge_slice=true&auth_key=1681510066-0-0-9978ed826c1fa8621b26e1deb828856b&sub_m3u8=true&user_session_id=4bc6017b6a120d44ddd317bee49922ed"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?edge_slice=true&auth_key=1681509693-0-0-72ee4a7246f970e94e5267a38d45fb4c&user_session_id=7a3e826c21915465f6d61ffaf5fd1805&sub_m3u8=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=90bc394568f395c6172d66045fe5251c&auth_key=1681510066-0-0-04fb0ee5d7c232b697aa929f9f6e4021"
                 }
                 
             ]
