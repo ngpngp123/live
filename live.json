@@ -1,52 +1,5 @@
 [   
 {
-           "league": "🏆 Premier League",
-            "date": "April 15 (6:00 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-            "teams" : "Aston Villa Vs Newcastle United",
-            "hteam" : "Aston Villa",
-            "ateam" : "Newcastle United",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-226699_lsd.m3u8?user_session_id=b8e2f8a29d5eaf0d817a639902a2bc9d&sub_m3u8=true&edge_slice=true&auth_key=1681578513-0-0-b785ce77e6b895ee20b1cd7d47382232"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://179720687.global.cdnfastest.com/live/sd-4jwq2ghz0406m0v/chunklist.m3u8"
-         
-                },
-{
-                    "type": "SD 3",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-226699_lhd.m3u8?user_session_id=dc95be0d4016053aa956f4595a247977&sub_m3u8=true&edge_slice=true&auth_key=1681578513-0-0-a4ac30072638900b8db61daa6fe82a83"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-4jwq2ghz0406m0v/chunklist.m3u8"
-                },
-               {
-                    "type": "FHD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may177FHD/chunklist.m3u8"
-         
-                },
-{
-                    "type": "Test",
-                "livelink":"https://287827193.global.cdnfastest.com/live/258e31263e1bd5e428bbe616069943654e1/playlist.m3u8?_=1681557587274"
-         
-                }
-            ]
-},
-{
            "league": "🏆 Laliga",
             "date": "April 15 (6:30 PM)",
             "time": "live",
@@ -166,6 +119,11 @@
 {
                     "type": "Vebo SD",
                 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
+         
+                },
+{
+                    "type": "Recommend SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-4wyrn4ho7474q86/chunklist.m3u8"
          
                 },
 {
