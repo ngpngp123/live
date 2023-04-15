@@ -1,112 +1,6 @@
 [   
 
-{
-           "league": "🏆 Premier League",
-            "date": "April 15",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-            "teams" : "Chelsea Vs Brighton",
-            "hteam" : "Chelsea",
-            "ateam" : "Brighton",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?user_session_id=6209a58be85ac1fe780696144d6bc02f&sub_m3u8=true&auth_key=1681586433-0-0-fedb74d01bd2a1da862f021aa3032933&edge_slice=true"
-         
-                },   
-{
-                    "type": "Eng SD",
-                "livelink":"https://pulldg.hongdel.top/live/sd-1-3747058.m3u8?auth_key=1681573751-0-0-3014aff6e7239adfb2d270acb2eaa7f1"
-         
-                },
-                  
-{
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lsd.m3u8?user_session_id=eea82f066432bb67d9171ef91927dc62&sub_m3u8=true&edge_slice=true&auth_key=1681586926-0-0-5e1d202cdfe834ee47d990e4f0dca5ed"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?auth_key=1681586433-0-0-ed28c91583e28c6a19bd3d9743fa6f5c&sub_m3u8=true&user_session_id=87cd90a8dea73fd5d488c4cff0f7c57f&edge_slice=true"
-         
-                },
-{
-                    "type": "Good HD",
-                "livelink":"https://pulldg.hongdel.top/live/hd-en-1-3747058.m3u8?auth_key=1681573751-0-0-3014aff6e7239adfb2d270acb2eaa7f1"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?auth_key=1681586926-0-0-910fbac5dd233855c965a894de62f707&user_session_id=cb2e8921e1250864606c00ff260def3b&edge_slice=true&sub_m3u8=true"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "April 15",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-            "teams" : "Everton Vs Fulham",
-            "hteam" : "Everton",
-            "ateam" : "Fulham",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-368932_lsd.m3u8?user_session_id=2b613510b228d0f9cae91fb730a0586a&sub_m3u8=true&edge_slice=true&auth_key=1681586493-0-0-dcdd8036ed092772aaf8bbcf3cf7d95d"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-617898_lsd.m3u8?edge_slice=true&auth_key=1681586806-0-0-3609cd3742f0d3e6cb89074489274fb3&user_session_id=68c1d3f846e402dc7d21cab6fb50febb&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-368932_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=6481d0224360cf0556296764bf23c8f8&auth_key=1681586493-0-0-c19c634196e99903703c951a4b9fe770"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-617898_lhd.m3u8?user_session_id=43b5b26d19a9736e05e1281b34a9de3f&sub_m3u8=true&auth_key=1681586806-0-0-1387e5fd250dc41f1736b39bb769a969&edge_slice=true"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "April 15",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-            "teams" : "Southampton Vs Crystal Palace",
-            "hteam" : "Southampton",
-            "ateam" : "Crystal Palace",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lsd.m3u8?auth_key=1681586866-0-0-e27b643913159753d93b6246ddf7fe9f&sub_m3u8=true&user_session_id=fa9896141cfa505d7bad5e7d370a8ba0&edge_slice=true"
-         
-                },                     
 
-                   
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=40bcf5fc96dfa6cc2620ff6932154a64&txTime=643af979"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lhd.m3u8?auth_key=1681586866-0-0-863ebe3e9468bc18880e70df74901942&sub_m3u8=true&edge_slice=true&user_session_id=e2296c31372f93c8661d88d9823a2a01"
-                }
-                
-            ]
-},
 {
            "league": "🏆 Premier League",
             "date": "April 15",
@@ -281,7 +175,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 15",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
             "teams" : "Man City Vs Leicester",
@@ -291,7 +185,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?auth_key=1681595673-0-0-0a3c8cd191b4ebe10f1b8c610904c834&sub_m3u8=true&user_session_id=b4d2d24eb3955251a8477bb3aaa2cf13&edge_slice=true"
          
                 },                     
 {
@@ -301,7 +195,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?auth_key=1681595673-0-0-5557741fb851d70d5fd4aac1d3f7097c&sub_m3u8=true&user_session_id=e8e01ea3af8133d265e7f049328c929e&edge_slice=true"
          
                 },
 {
@@ -314,7 +208,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 15",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
             "teams" : "Real Betis Vs Espanyol",
@@ -324,7 +218,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?sub_m3u8=true&user_session_id=77276d79818e00ec71c227d0b7aa5abf&edge_slice=true&auth_key=1681595553-0-0-c8806c21b482fe4b094f8be39b95751b"
          
                 },                     
 {
@@ -334,7 +228,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?sub_m3u8=true&auth_key=1681595553-0-0-9550735a8f95c8f99fb411f4ff6bd970&edge_slice=true&user_session_id=f489a9979a0aa7afca2bd53cb59dbbb5"
          
                 },
 {
@@ -347,7 +241,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "April 15",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
             "teams" : "Frankfurt Vs M'Gladbach",
@@ -355,11 +249,9 @@
             "ateam" : "M'Gladbach",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
+  
+                   
+                                
 {
                     "type": "SD 2",
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lsd.m3u8?sub_m3u8=true&auth_key=1681595386-0-0-8c89a0b25e0372b561121ca64749682d&user_session_id=3320573d294233f16236ce255078f21e&edge_slice=true"
@@ -367,7 +259,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-115493_lhd.m3u8?txSecret=9f14fcad6b154786b9eee6844d83132b&txTime=643b1d91"
          
                 },
 {
@@ -395,12 +287,12 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-360663_lsd.m3u8?auth_key=1681595673-0-0-b2cc92fcaf601bfc57bcce393cf55798&user_session_id=7ed29ca09ed83608becc8578ab1b0388&sub_m3u8=true&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?user_session_id=4725765cc82aac494777967589cfa86f&sub_m3u8=true&auth_key=1681595673-0-0-b350f0f12ea7d67a4c2e006bcf808cde&edge_slice=true"
          
                 },
 {
@@ -428,12 +320,12 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?sub_m3u8=true&user_session_id=77276d79818e00ec71c227d0b7aa5abf&edge_slice=true&auth_key=1681595553-0-0-c8806c21b482fe4b094f8be39b95751b"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?sub_m3u8=true&auth_key=1681595553-0-0-9550735a8f95c8f99fb411f4ff6bd970&edge_slice=true&user_session_id=f489a9979a0aa7afca2bd53cb59dbbb5"
          
                 },
 {
