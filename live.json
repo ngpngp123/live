@@ -1,57 +1,5 @@
 [   
 {
-           "league": "🏆 Laliga",
-            "date": "April 15 (6:30 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-            "teams" : "Villarreal Vs Real Valladolid",
-            "hteam" : "Villarreal",
-            "ateam" : "Real Valladolid",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-102933_lsd.m3u8?txSecret=e301ed4a873c165d1063bc2a01e7c574&txTime=643ae065"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-238362_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=4e621d020721306997e04b08a2299890&auth_key=1681580206-0-0-639862536063fc1da18a7d4840083a7c"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=e301ed4a873c165d1063bc2a01e7c574&txTime=643ae065"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-238362_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=1fc35b96220b3101e79f5e079fb5f543&auth_key=1681580206-0-0-2fd82ece3eb2055c68f246957df8dcec"
-                },
-{
-                    "type": "Recommend SD",
-                "livelink":"https://pulldg.hongdel.top/live/hd-en-1-3748780.m3u8?auth_key=1681572493-0-0-dd99ccf4a5c92329df02374dc9ff4996"
-         
-                },
-
-{
-                    "type": "Eng SD",
-                "livelink":"https://pulldg.hongdel.top/live/hd-en-1-3748780.m3u8?auth_key=1681572493-0-0-dd99ccf4a5c92329df02374dc9ff4996"
-         
-                },
-{
-                    
-                
-         
-                            "type": "Recommend FHD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-vjxm8gh5209or6o/chunklist.m3u8"
-         
-                }
-                
-            ]
-},
-{
            "league": "🏆 Serie A",
             "date": "April 15 (7:30 PM)",
             "time": "live",
@@ -358,7 +306,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=fd659f8375adba23a38ec20f5a906602&auth_key=1681586553-0-0-45d2a6780104aa72abecc10256067e55"
+                "livelink":"https://sports01.livnvess.com/live/stream-121256_lsd.m3u8?txSecret=b68e4bd1fef3b74e28a6f91a85ebaee3&txTime=643b0261"
          
                 },                     
 {
@@ -368,7 +316,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?auth_key=1681586553-0-0-4eb88b89518facffd838c8cb1e6f9569&sub_m3u8=true&edge_slice=true&user_session_id=5798506bbc163d35a3100e0b9ccfc093"
+                "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=b68e4bd1fef3b74e28a6f91a85ebaee3&txTime=643b0261"
          
                 },
 {
