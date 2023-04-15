@@ -128,6 +128,16 @@
                     "type": "FHD",
                 "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
          
+                },
+{
+                    "type": "Test SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8e9w6r51/chunklist.m3u8"
+         
+                },
+{
+                    "type": "Test FHD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-l7oqdeh8e9w6r51/chunklist.m3u8"
+         
                 }
                 
             ]
