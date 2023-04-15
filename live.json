@@ -150,6 +150,11 @@
                 },                     
 {
                     "type": "SD 2",
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lsd.m3u8?auth_key=1681582126-0-0-af60b2c86c3f10f3e60f4d9d917748df&user_session_id=727891da3f7ff2ba6e8a315566973b64&edge_slice=true&sub_m3u8=true"
+         
+                },
+{
+                    "type": "Vebo SD",
                 "livelink":""
          
                 },
@@ -160,7 +165,12 @@
                 },
 {
                     "type": "HD 2",
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lhd.m3u8?auth_key=1681582126-0-0-3131cd4dc2cda901d59a6355b66d8052&sub_m3u8=true&user_session_id=fb9eaf0ff31d0c8aa93e67066ee42e51&edge_slice=true"
+                },
+{
+                    "type": "FHD",
                 "livelink":""
+         
                 }
                 
             ]
@@ -183,6 +193,11 @@
                 },                     
 {
                     "type": "SD 2",
+                "livelink":"https://yypull.gdsth.com/live/stream-723064_ld.m3u8?auth_key=1681582186-0-0-8016fc22a2933f923ab66704b987d6f7"
+         
+                },
+{
+                    "type": "Vebo SD",
                 "livelink":""
          
                 },
@@ -193,9 +208,13 @@
                 },
 {
                     "type": "HD 2",
+                "livelink":"https://yypull.gdsth.com/live/stream-723064.m3u8?auth_key=1681582186-0-0-1e1796d1a06dc7b4536a5a4f843dd18f"
+                },
+               {
+                    "type": "FHD",
                 "livelink":""
-                }
-                
+         
+                } 
             ]
 },
 {
