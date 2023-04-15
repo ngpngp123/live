@@ -271,6 +271,11 @@
          
                 },
 {
+                    "type": "Good HD",
+                "livelink":"https://287827193.global.cdnfastest.com/live/2584536957289e043e9bf9da960b301a9ed/chunklist.m3u8"
+         
+                },
+{
                     "type": "HD 2",
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?auth_key=1681586926-0-0-910fbac5dd233855c965a894de62f707&user_session_id=cb2e8921e1250864606c00ff260def3b&edge_slice=true&sub_m3u8=true"
                 }
@@ -326,11 +331,8 @@
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lsd.m3u8?auth_key=1681586866-0-0-e27b643913159753d93b6246ddf7fe9f&sub_m3u8=true&user_session_id=fa9896141cfa505d7bad5e7d370a8ba0&edge_slice=true"
          
                 },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+
+                   
 {
                     "type": "HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=40bcf5fc96dfa6cc2620ff6932154a64&txTime=643af979"
