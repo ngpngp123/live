@@ -406,8 +406,8 @@
 },
 {
            "league": "🏆 Ligue 1",
-            "date": "April 15",
-            "time": "9:30 PM",
+            "date": "April 15 (9:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
             "teams" : "Rennes Vs Reims",
@@ -417,12 +417,12 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-106737_lsd.m3u8?txSecret=495f9f495a7626fad94ffa2eb702fa81&txTime=643b0ddd"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-309440_lsd.m3u8?auth_key=1681591846-0-0-e4d3f259658eefb303dffa5c00990f35&user_session_id=9cc2f5126b0ddca8844290277f94017f&edge_slice=true&sub_m3u8=true"
          
                 },
 {
@@ -432,7 +432,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-309440_lhd.m3u8?user_session_id=71c5b4d69653018b3f9c8082bfae780b&auth_key=1681591846-0-0-5d05f9384b54cf2ff9e98a3c8b27cab4&edge_slice=true&sub_m3u8=true"
                 }
                 
             ]
