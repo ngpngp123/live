@@ -201,6 +201,16 @@
 {
                     "type": "HD 2",
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&user_session_id=85ad23c3225a7841237b1c6ac602ab72&auth_key=1681595506-0-0-c1e0eace38ea1cdff1e59a5458eb2c8e&sub_m3u8=true"
+                },
+{
+                    "type": "FHD",
+                "livelink":"https://287827193.global.cdnfastest.com/live/258e31263e1bd5e428bbe616069943654e1/chunklist.m3u8"
+         
+                },
+{
+                    "type": "FHD 2",
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-l7oqdeh8enekr51/chunklist.m3u8"
+         
                 }
                 
             ]
