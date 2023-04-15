@@ -207,7 +207,13 @@
                     "type": "SD",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?user_session_id=6209a58be85ac1fe780696144d6bc02f&sub_m3u8=true&auth_key=1681586433-0-0-fedb74d01bd2a1da862f021aa3032933&edge_slice=true"
          
-                },                     
+                },   
+{
+                    "type": "Eng SD",
+                "livelink":"https://pulldg.hongdel.top/live/sd-1-3747058.m3u8?auth_key=1681573751-0-0-3014aff6e7239adfb2d270acb2eaa7f1"
+         
+                },
+                  
 {
                     "type": "SD 2",
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lsd.m3u8?user_session_id=eea82f066432bb67d9171ef91927dc62&sub_m3u8=true&edge_slice=true&auth_key=1681586926-0-0-5e1d202cdfe834ee47d990e4f0dca5ed"
