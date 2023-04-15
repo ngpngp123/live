@@ -38,6 +38,11 @@
                     "type": "FHD",
                 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may177FHD/chunklist.m3u8"
          
+                },
+{
+                    "type": "Test",
+                "livelink":"https://287827193.global.cdnfastest.com/live/258e31263e1bd5e428bbe616069943654e1/playlist.m3u8?_=1681557587274"
+         
                 }
             ]
 },
