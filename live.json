@@ -37,7 +37,7 @@
 {
            "league": "🏆 Serie A",
             "date": "April 16",
-            "time": "5:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
             "teams" : "Lecce Vs Sampdoria",
@@ -47,22 +47,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-248802_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681661073-0-0-ff49db875a4435dc6a9a853d3025628a&user_session_id=af9255d606eb0d9bfee055cc603f2328"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?sub_m3u8=true&user_session_id=4fa0f704767af2649665f5858cdc9a1a&edge_slice=true&auth_key=1681660966-0-0-7adc9cc5bacb2dc8d0dbc437ac4da0da"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a01af31d863ae3b786386797186c3108&auth_key=1681660966-0-0-4eaef65cb1b5fefa466f57a89fe9eda5"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-248802_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=830fef8c08ea3b030bc2ce643c79ec6a&auth_key=1681661073-0-0-cff84f6edc6e79b253553a025966e676"
                 }
                 
             ]
@@ -70,7 +70,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 16",
-            "time": "5:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
             "teams" : "Lille Vs Montpellier",
@@ -78,24 +78,17 @@
             "ateam" : "Montpellier",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
+  
+                                        
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-484756_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681661026-0-0-52e14185c494eff907268bff066e6e0c&user_session_id=84f4f39c210ff46dfada31626fdf651d"
          
                 },
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
+
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-484756_lhd.m3u8?auth_key=1681661026-0-0-263b89a16e1d3285f75c0dcfaec76a8e&user_session_id=ce51406c4510733db6abc29525e3c0b6&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
