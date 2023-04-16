@@ -1,33 +1,5 @@
 [
-{
-           "league": "🏆 Bundesliga",
-            "date": "April 16",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-            "teams" : "Werder Bremen Vs SC Freiburg",
-            "hteam" : "Werder Bremen",
-            "ateam" : "SC Freiburg",
-            "hotmat":"no",
-            "link":[
 
-{
-                    "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lsd.m3u8?sub_m3u8=true&user_session_id=7d970aa3ce8edd42a1de82f53119283a&auth_key=1681670446-0-0-98e6587399912483f30b669747053c8f&edge_slice=true"
-
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=781ea45c3c41a9dad8f5247a0d82e0bd&txTime=643c3f06"
-
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?auth_key=1681670446-0-0-65d8bea829ea6a3d6440ae4603d51432&sub_m3u8=true&user_session_id=169167d63b8f5b1d00c572504c7208ad&edge_slice=true"
-                }
-
-            ]
-},
 {
            "league": "🏆 Laliga",
             "date": "April 16 (8:45 PM)",
