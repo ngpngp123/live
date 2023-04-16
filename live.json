@@ -96,7 +96,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 16",
-            "time": "6:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
             "teams" : "Girona Vs Elche",
@@ -106,22 +106,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-102153_lsd.m3u8?auth_key=1681666353-0-0-005fb84e66f7828389a0e843778210db&sub_m3u8=true&user_session_id=eeaa89d3a8d444fc96d6c982382f1f8e&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-5645612_lsd.m3u8?sub_m3u8=true&auth_key=1681666486-0-0-98a43e842650c878c511e6a63d45b8e7&user_session_id=7e70deca256ea90cf6f37478f61b56af&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-102153_lhd.m3u8?user_session_id=686bc2df81a74c60e616413cf2ea54ad&sub_m3u8=true&auth_key=1681666353-0-0-0106aa4c11c538fdde48d519a0a8661a&edge_slice=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-5645612_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681666486-0-0-def8e79c0d20e0d4f3bbd772d0e2f68e&user_session_id=01c79efb9cdaaa9f1b41eb14c6331be7"
                 }
                 
             ]
