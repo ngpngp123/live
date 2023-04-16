@@ -1,98 +1,7 @@
 [
-{
-           "league": "MAN U",
-            "date": "TV Channel",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "teams" : "Man United TV",
-            "hteam" : "MAN U",
-            "ateam" : "TV",
-            "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "MUTV 360 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-         
-                },
-                
-{
-                    "type": "MUTV 240 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MUTV 540 HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MAN U TV 1080HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Serie A",
-            "date": "April 16",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
-            "teams" : "Lecce Vs Sampdoria",
-            "hteam" : "Lecce",
-            "ateam" : "Sampdoria",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-248802_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681661073-0-0-ff49db875a4435dc6a9a853d3025628a&user_session_id=af9255d606eb0d9bfee055cc603f2328"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?sub_m3u8=true&user_session_id=4fa0f704767af2649665f5858cdc9a1a&edge_slice=true&auth_key=1681660966-0-0-7adc9cc5bacb2dc8d0dbc437ac4da0da"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a01af31d863ae3b786386797186c3108&auth_key=1681660966-0-0-4eaef65cb1b5fefa466f57a89fe9eda5"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-248802_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=830fef8c08ea3b030bc2ce643c79ec6a&auth_key=1681661073-0-0-cff84f6edc6e79b253553a025966e676"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Ligue 1",
-            "date": "April 16",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
-            "teams" : "Lille Vs Montpellier",
-            "hteam" : "Lille",
-            "ateam" : "Montpellier",
-            "hotmat":"no",
-            "link":[
-  
-                                        
-{
-                    "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-484756_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681661026-0-0-52e14185c494eff907268bff066e6e0c&user_session_id=84f4f39c210ff46dfada31626fdf651d"
-         
-                },
 
-{
-                    "type": "HD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-484756_lhd.m3u8?auth_key=1681661026-0-0-263b89a16e1d3285f75c0dcfaec76a8e&user_session_id=ce51406c4510733db6abc29525e3c0b6&sub_m3u8=true&edge_slice=true"
-                }
-                
-            ]
-},
+
+
 {
            "league": "🏆 Laliga",
             "date": "April 16",
@@ -246,7 +155,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 16",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
             "teams" : "Clermont Foot Vs Angers",
@@ -256,17 +165,13 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?sub_m3u8=true&auth_key=1681671166-0-0-55e2ae1352e03a9350f5fbfc9e9f7c9d&user_session_id=b8480985ffe72234f7dc132e27311f75&edge_slice=true"
          
                 },                     
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
+
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?edge_slice=true&auth_key=1681671166-0-0-cd72d2750a754f75a7d8104ba4032e2e&sub_m3u8=true&user_session_id=a89b430ec8a7e25603c1f703bbc9ff06"
                 }
                 
             ]
@@ -302,7 +207,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "April 16",
-            "time": "8:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
             "teams" : "Werder Bremen Vs SC Freiburg",
@@ -483,7 +388,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-797853_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681671106-0-0-1e362c3853302d0e8debec906141bb19&user_session_id=82171cf49b2d02be1ad594aa53df4033"
          
                 },
 {
@@ -493,7 +398,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-797853_lhd.m3u8?auth_key=1681671106-0-0-9b6d21fc70169419f6f0b2f87c4d05b5&user_session_id=87d61b709e17f5ab5f715df74075efad&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
@@ -516,7 +421,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-516701_ld.m3u8?auth_key=1681671046-0-0-26557daf609aeaa30590126b362b7e5c"
          
                 },
 {
@@ -526,7 +431,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1681671046-0-0-7da7de2843d7b73685a485eff0cb270d"
                 }
                 
             ]
@@ -549,7 +454,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1681671046-0-0-e6b0f519433e98f8ba247e5d93de9a25&user_session_id=328c77ea7398e96ad851a378c3eb7d22&sub_m3u8=true&edge_slice=true"
          
                 },
 {
@@ -559,7 +464,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1681671046-0-0-f9e10b13c0ccf9c0aba0c1f3145ee3f6&user_session_id=f1814a489fb800a72f07afca64064164&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
@@ -582,7 +487,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-718172_lsd.m3u8?sub_m3u8=true&user_session_id=310b0858b18e95e97d32781872b8b710&edge_slice=true&auth_key=1681670986-0-0-d68c8f2fc231c0c614bf7555505d5eb1"
          
                 },
 {
@@ -592,7 +497,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-718172_lhd.m3u8?sub_m3u8=true&user_session_id=68098a077dc8b2da89bed93e18ed80a8&edge_slice=true&auth_key=1681670986-0-0-6cf7585b4de28252d8768cb94dc08318"
                 }
                 
             ]
@@ -615,7 +520,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lsd.m3u8?sub_m3u8=true&user_session_id=6c63818fa579073810f2800fc3d31ed8&edge_slice=true&auth_key=1681670926-0-0-90e27ff3f5cb3a77c400f76e1584147a"
          
                 },
 {
@@ -625,7 +530,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lhd.m3u8?sub_m3u8=true&user_session_id=4025b341d5f96a239c2685335d37bdca&edge_slice=true&auth_key=1681670926-0-0-a352c9e108ac3d7235bffa4dd9e05ec8"
                 }
                 
             ]
@@ -648,7 +553,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-5645612_lsd.m3u8?auth_key=1681670806-0-0-dcfee20e62fb52251a6a4a45724e8c9e&sub_m3u8=true&edge_slice=true&user_session_id=3a83a565b366defe84aaeb8fd4aa6785"
          
                 },
 {
@@ -658,7 +563,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-5645612_lhd.m3u8?sub_m3u8=true&user_session_id=f54c49cdc0f295179c7f7667268048a9&auth_key=1681670806-0-0-e83760c30992bb83baa046dd8b18245e&edge_slice=true"
                 }
                 
             ]
