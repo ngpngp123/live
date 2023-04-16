@@ -1,39 +1,8 @@
 [
 
 
-{
-           "league": "🏆 Ligue 1",
-            "date": "April 16(9:35 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
-            "teams" : "Monaco Vs Lorient",
-            "hteam" : "Monaco",
-            "ateam" : "Lorient",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-197901_lsd.m3u8?sub_m3u8=true&auth_key=1681670014-0-0-05f3f22d4e0698886b3f0b885b3faba2&edge_slice=true&user_session_id=179d65e6ef11afad000d36b4861c9718"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lsd.m3u8?auth_key=1681672426-0-0-869595f5a4b5fc0a6ea87abfd4fffe08&sub_m3u8=true&user_session_id=6017e7a4be2b1bb02e0e60a929d430ed&edge_slice=true"
-         
-                },
-{
-                    "type": "HD.",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681669953-0-0-93363a0500e8f1df114cbc9bef54df2f&user_session_id=e9c752d66453bcc10bff07d340ed9462"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1681672426-0-0-c5261017cb1772e6b11d0591f97372ee&sub_m3u8=true&user_session_id=cdf007ec3a35777527c2264b7715cf16&edge_slice=true"
-                }
-                
-            ]
-},
+
+      
 {
            "league": "🏆 Premier League",
             "date": "April 16",
@@ -189,7 +158,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "April 17",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
             "teams" : "Wolfsburg Vs Leverkusen",
