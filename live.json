@@ -62,6 +62,16 @@
          
                 },
 {
+                    "type": "Vietnam HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         
+                },
+{
+                    "type": "Good HD",
+                "livelink":"https://287827193.global.cdnfastest.com/live/258e31263e1bd5e428bbe616069943654e1/chunklist.m3u8"
+         
+                },
+{
                     "type": "HD 2",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&auth_key=1681670146-0-0-445c3faa0944302c0210060bc87d4815&sub_m3u8=true&user_session_id=b62ff02f0bfc3b0359703ac20fbb92be"
                 }
@@ -288,7 +298,7 @@
          
                 },
 {
-                    "type": "HD",
+                    "type": "HD.",
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681669953-0-0-93363a0500e8f1df114cbc9bef54df2f&user_session_id=e9c752d66453bcc10bff07d340ed9462"
          
                 },
