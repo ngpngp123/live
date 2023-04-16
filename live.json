@@ -129,7 +129,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 16",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "teams" : "West Ham Vs Arsenal",
@@ -144,7 +144,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681670146-0-0-8c3a185798ec6cb21e6e5d1acd0449d2&user_session_id=4ea1cb99bc57002fc2f2f8adceba326a"
          
                 },
 {
@@ -154,7 +154,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&auth_key=1681670146-0-0-445c3faa0944302c0210060bc87d4815&sub_m3u8=true&user_session_id=b62ff02f0bfc3b0359703ac20fbb92be"
                 }
                 
             ]
@@ -162,7 +162,7 @@
 {
            "league": "🏆 Serie A",
             "date": "April 16",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
             "teams" : "Torino Vs Salernitana",
@@ -177,7 +177,7 @@
                 },                     
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-306929_lhd.m3u8?auth_key=1681670326-0-0-1454ce03162cc896b52c579fd0534de1&sub_m3u8=true&edge_slice=true&user_session_id=b6f5746e1871f4e5a5e9dc6e48b53cc4"
          
                 },
 {
@@ -190,7 +190,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 16",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
             "teams" : "Auxerre Vs Nantes",
@@ -200,17 +200,17 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=acbd404c29f60de654b392b90e200af0&auth_key=1681670206-0-0-37d43a9f0c49ec4f04688b69706133db"
          
                 },                     
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=ac529ca01dd3920c8e321becd0bed594&auth_key=1681670386-0-0-b70464c2fc365862a43742dbc64da028"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1b248ed1a21aad5c65b9473c1714906e&auth_key=1681670206-0-0-d4882acd44ded54cfa3e6a757184affb"
                 }
                 
             ]
@@ -218,7 +218,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 16",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
             "teams" : "Brest Vs Nice",
@@ -233,7 +233,7 @@
                 },                     
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-758261_lhd.m3u8?auth_key=1681670386-0-0-2976173541e8182ca17d9c79066b3e33&sub_m3u8=true&user_session_id=7d0cf87b36eb993608b8b57c4ad66215&edge_slice=true"
          
                 },
 {
@@ -274,7 +274,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 16",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8576_small.png",
             "teams" : "Strasbourg Vs AC Ajaccio",
@@ -289,7 +289,7 @@
                 },                     
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-750178_lhd.m3u8?auth_key=1681670506-0-0-fcc94377907a3e6e1e64462b2d04b702&edge_slice=true&sub_m3u8=true&user_session_id=23ca6220e1df544625292d9147097e7b"
          
                 },
 {
@@ -310,14 +310,10 @@
             "ateam" : "SC Freiburg",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
+                       
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lsd.m3u8?sub_m3u8=true&user_session_id=7d970aa3ce8edd42a1de82f53119283a&auth_key=1681670446-0-0-98e6587399912483f30b669747053c8f&edge_slice=true"
          
                 },
 {
@@ -327,7 +323,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?auth_key=1681670446-0-0-65d8bea829ea6a3d6440ae4603d51432&sub_m3u8=true&user_session_id=169167d63b8f5b1d00c572504c7208ad&edge_slice=true"
                 }
                 
             ]
