@@ -50,7 +50,12 @@
                     "type": "SD",
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?edge_slice=true&auth_key=1681669714-0-0-3ee0319bdbee9af54b08e8fc9ba9c69e&sub_m3u8=true&user_session_id=af727fa09bedbe9cf2b9821da5c44926"
          
-                },                     
+                },  
+{
+                    "type": "English SD",
+                "livelink":"https://pulldg.hongdel.top/live/sd-1-3747072.m3u8?auth_key=1681652831-0-0-253ee22f8ffdf9b5743cde002089c259"
+         
+                },                   
 {
                     "type": "SD 2",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681670146-0-0-8c3a185798ec6cb21e6e5d1acd0449d2&user_session_id=4ea1cb99bc57002fc2f2f8adceba326a"
@@ -74,6 +79,11 @@
 {
                     "type": "Bein HD",
                 "livelink":"http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768"
+         
+                },
+{
+                    "type": "English HD",
+                "livelink":"https://pulldg.hongdel.top/live/hd-en-1-3747072.m3u8?auth_key=1681652831-0-0-253ee22f8ffdf9b5743cde002089c259"
          
                 },
 
