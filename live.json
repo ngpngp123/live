@@ -37,7 +37,7 @@
 {
            "league": "🏆 Serie A",
             "date": "April 18",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
             "teams" : "Fiorentina Vs Atalanta",
@@ -47,22 +47,19 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lsd.m3u8?user_session_id=17f15e8623192d1ecdef437ac80687f1&sub_m3u8=true&auth_key=1681775206-0-0-f6d40d303bfd6999dd8835db21f2ccaa&edge_slice=true"
          
                 },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+
+                    
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681769194-0-0-7cce16e54d18296e9ad565dbbb055b31&user_session_id=5ef4eb324f88045476bb72d024fdb213"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lhd.m3u8?sub_m3u8=true&auth_key=1681775206-0-0-875b6ae2392914375ebeebfc894c9708&user_session_id=4d95b532b8d13af56a5e0a51c3d8e289&edge_slice=true"
                 }
                 
             ]
@@ -70,7 +67,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 18",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
             "teams" : "Leeds United Vs Liverpool",
@@ -80,22 +77,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-941508_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=d7e6faeccc18ebb60e6e371e37a5791b&auth_key=1681775014-0-0-dc46164228fbabbf665753ff6871d8a3"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1681774906-0-0-af1457165122ef68b9c37f98b411f003"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-941508_lhd.m3u8?sub_m3u8=true&user_session_id=047d4d213d747ffb23f1e20482a37be6&edge_slice=true&auth_key=1681775014-0-0-a34692b8a6c00f4e6c538fbb28f91373"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1681774906-0-0-8dc8a903a7a5cb6260a1228aff715ce6"
                 }
                 
             ]
@@ -103,7 +100,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 18",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
             "teams" : "Celta Vigo Vs Mallorca",
@@ -113,22 +110,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-122774_lsd.m3u8?edge_slice=true&user_session_id=b6a69ceb80819cf51b15aa8802515cab&sub_m3u8=true&auth_key=1681775134-0-0-8474ec35b9aae7056e2023ef23e643ae"
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-19949_lsd.m3u8?sub_m3u8=true&user_session_id=d13c8571ae2ca50413327a3371314111&edge_slice=true&auth_key=1681775074-0-0-46f3036c8eab6eedbcf54cc189248b67"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?auth_key=1681775146-0-0-d1dee7b9c66bf4fba38a3f33bc0d9ad7&sub_m3u8=true&edge_slice=true&user_session_id=c2293a806722d1662a1c7cf40856728b"
          
                 },
 {
                     "type": "HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?sub_m3u8=true&user_session_id=084a50028474dde1c036016f2a4a9369&auth_key=1681775134-0-0-3af2923947d00b19d66063c1da618861&edge_slice=true"
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?sub_m3u8=true&user_session_id=11991a0a1eb0f41cd89b38b28a14da45&auth_key=1681775074-0-0-344ab3713009bf3f57d894dc288416ff&edge_slice=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=127843b45b05ff1d643890dd62e5a378&auth_key=1681775146-0-0-d3d289259a166898e4b459f5256ae601"
                 }
                 
             ]
