@@ -50,7 +50,11 @@
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lsd.m3u8?user_session_id=17f15e8623192d1ecdef437ac80687f1&sub_m3u8=true&auth_key=1681775206-0-0-f6d40d303bfd6999dd8835db21f2ccaa&edge_slice=true"
          
                 },                     
-
+{
+                    "type": "Vietnam SD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+         
+                },
                     
 {
                     "type": "HD",
@@ -79,7 +83,12 @@
                     "type": "SD",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-941508_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=d7e6faeccc18ebb60e6e371e37a5791b&auth_key=1681775014-0-0-dc46164228fbabbf665753ff6871d8a3"
          
-                },                     
+                },        
+{
+                    "type": "Vietnam SD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         
+                },             
 {
                     "type": "SD 2",
                 "livelink":"https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1681774906-0-0-af1457165122ef68b9c37f98b411f003"
