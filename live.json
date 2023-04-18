@@ -21,8 +21,18 @@
          
                 },
 {
-                    "type": "Test SD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8z5pdr51/chunklist.m3u8"
+                    "type": "Eng HD",
+                "livelink":"https://pulldg.hongdel.top/live/hd-en-1-3897128.m3u8?auth_key=1681861630-0-0-10119aae9a3b559bf28776ddaa03f316"
+         
+                },
+{
+                    "type": "Eng SD",
+                "livelink":"https://pulldg.hongdel.top/live/sd-1-3897128.m3u8?auth_key=1681861630-0-0-10119aae9a3b559bf28776ddaa03f316"
+         
+                },
+{
+                    "type": "CCTV HD",
+                "livelink":"https://pulldg.hongdel.top/live/hd-zh-1-3897128.m3u8?auth_key=1681861570-0-0-f2114d8924ba47524479cf89f43b5b8b"
          
                 },
 {
@@ -42,11 +52,6 @@
 {
                     "type": "FHD",
                 "livelink":"https://287827193.global.cdnfastest.com/live/2584536957289e043e9bf9da960b301a9ed/chunklist.m3u8"
-         
-                },
-{
-                    "type": "Test FHD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-l7oqdeh8z5pdr51/chunklist.m3u8"
          
                 }
                 
@@ -74,15 +79,21 @@
          
                 },
 {
-                    "type": "Test SD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/sd-8yomo4hgjdpgq0j/chunklist.m3u8"
-         
-                },
-{
                     "type": "Vietnam HD",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
          
                 },
+{
+                    "type": "Eng SD",
+                "livelink":"https://pulldg.hongdel.top/live/hd-zh-1-3897131.m3u8?auth_key=1681861512-0-0-f06a030eb82d60b160e1ce280e9581d8"
+         
+                },
+{
+                    "type": "Eng SD",
+                "livelink":"https://pulldg.hongdel.top/live/hd-zh-1-3897131.m3u8?auth_key=1681861512-0-0-f06a030eb82d60b160e1ce280e9581d8"
+         
+                },
+
 {
                     "type": "HD",
                 "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?edge_slice=true&auth_key=1681863934-0-0-2e91923a26413b4cb181e1b34fb12f56&sub_m3u8=true&user_session_id=0057979b891acd5890e6d1cde38b2f2f"
@@ -95,11 +106,6 @@
 {
                     "type": "FHD",
                 "livelink":"https://287827193.global.cdnfastest.com/live/258e31263e1bd5e428bbe616069943654e1/chunklist.m3u8"
-         
-                },
-{
-                    "type": "Test FHD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-8yomo4hgjdpgq0j/chunklist.m3u8"
          
                 }
                 
@@ -124,11 +130,6 @@
 {
                     "type": "SD 2",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-520790_lsd.m3u8?auth_key=1681855726-0-0-49787ab94642b45ab05c29c6f05f7f03&edge_slice=true&sub_m3u8=true&user_session_id=27bde5d3fcc8d94ae56c81e3d82878f2"
-         
-                },
-{
-                    "type": "Test SD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/sd-23xmvkhpyn1kqg8/chunklist.m3u8"
          
                 },
 {
