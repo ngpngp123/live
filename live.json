@@ -1,150 +1,35 @@
 [
 {
-           "league": "🏆 Champions League Quarter Final",
-            "date": "April 19",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "teams" : "Chelsea Vs Real Madrid",
-            "hteam" : "Chelsea",
-            "ateam" : "Real Madrid",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lsd.m3u8?auth_key=1681867114-0-0-0b9c17708a9e1d9b3ea7cb887e50f382&user_session_id=b78e3902a616d21cfbf68177ba9be001&sub_m3u8=true&edge_slice=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?edge_slice=true&auth_key=1681865506-0-0-f44bd588654ed0c8d3d23bf688c68e71&user_session_id=a05b75ca43921f3a39727e081224e3b7&sub_m3u8=true"
-         
-                },
-{
-                    "type": "Eng HD",
-                "livelink":"https://pulldg.hongdel.top/live/hd-en-1-3897128.m3u8?auth_key=1681861630-0-0-10119aae9a3b559bf28776ddaa03f316"
-         
-                },
-{
-                    "type": "Eng SD",
-                "livelink":"https://pulldg.hongdel.top/live/sd-1-3897128.m3u8?auth_key=1681861630-0-0-10119aae9a3b559bf28776ddaa03f316"
-         
-                },
-{
-                    "type": "CCTV HD",
-                "livelink":"https://pulldg.hongdel.top/live/hd-zh-1-3897128.m3u8?auth_key=1681861570-0-0-f2114d8924ba47524479cf89f43b5b8b"
-         
-                },
-{
-                    "type": "Vietnam HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?edge_slice=true&auth_key=1681867114-0-0-038b4732ac4d29b7edeab9eee320f461&sub_m3u8=true&user_session_id=2937af26fb4f36f5388594fa51ef8bc2"
-         
-                },
-{
-                    "type": "English 2",
-                "livelink":"http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/663"
-              },
-{
-                    "type": "FHD",
-                "livelink":"https://287827193.global.cdnfastest.com/live/2584536957289e043e9bf9da960b301a9ed/chunklist.m3u8"
-         
-                }
                 
-            ]
-},
 {
-           "league": "🏆 Champions League Quarter Final",
-            "date": "April 19",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-            "teams" : "Napoli Vs Milan",
-            "hteam" : "Napoli",
-            "ateam" : "Milan",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?edge_slice=true&auth_key=1681863934-0-0-6493306ebcf82e807adcb15daa529a5f&sub_m3u8=true&user_session_id=c800b6de3e3bafd4fea00860eb1b4083"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-643519_ld.m3u8?auth_key=1681855606-0-0-c6b6bd80e1029b3261fcbb147539b0bd"
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
          
                 },
-{
-                    "type": "Vietnam HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-         
-                },
-{
-                    "type": "Eng SD",
-                "livelink":"https://pulldg.hongdel.top/live/hd-zh-1-3897131.m3u8?auth_key=1681861512-0-0-f06a030eb82d60b160e1ce280e9581d8"
-         
-                },
-{
-                    "type": "Eng SD",
-                "livelink":"https://pulldg.hongdel.top/live/hd-zh-1-3897131.m3u8?auth_key=1681861512-0-0-f06a030eb82d60b160e1ce280e9581d8"
-         
-                },
-
-{
-                    "type": "HD",
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?edge_slice=true&auth_key=1681863934-0-0-2e91923a26413b4cb181e1b34fb12f56&sub_m3u8=true&user_session_id=0057979b891acd5890e6d1cde38b2f2f"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-643519.m3u8?auth_key=1681855606-0-0-81d7fbba960253d7222cce1f9f774dad"
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://287827193.global.cdnfastest.com/live/258e31263e1bd5e428bbe616069943654e1/chunklist.m3u8"
-         
-                }
                 
-            ]
-},
 {
-           "league": "🏆 Saudi Premier League",
-            "date": "April 19",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-            "teams" : "Al Hilal Vs Al Nassr FC",
-            "hteam" : "Al Hilal",
-            "ateam" : "Al Nassr FC",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-132343_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681855954-0-0-dc78f28aea913090e21c1cc85322aa32&user_session_id=6bc5a7c76a2b6cc513d5517d5d41e3ba"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-520790_lsd.m3u8?auth_key=1681855726-0-0-49787ab94642b45ab05c29c6f05f7f03&edge_slice=true&sub_m3u8=true&user_session_id=27bde5d3fcc8d94ae56c81e3d82878f2"
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
          
                 },
 {
-                    "type": "Eng SD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
          
                 },
 {
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?auth_key=1681855894-0-0-516469498caf27b8bcab7422d83bbb18&sub_m3u8=true&edge_slice=true&user_session_id=cb140a759d854b1e469a4217d539592f"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-520790_lhd.m3u8?auth_key=1681855726-0-0-0f05285e01ce757af19331e67d9cad85&edge_slice=true&sub_m3u8=true&user_session_id=bf054d3ba19189849f2556aa292c6fce"
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
                 
             ]
