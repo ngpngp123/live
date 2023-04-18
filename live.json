@@ -21,6 +21,11 @@
          
                 },
 {
+                    "type": "Test SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8z5pdr51/chunklist.m3u8"
+         
+                },
+{
                     "type": "Vietnam HD",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
          
@@ -37,6 +42,11 @@
 {
                     "type": "FHD",
                 "livelink":"https://287827193.global.cdnfastest.com/live/2584536957289e043e9bf9da960b301a9ed/chunklist.m3u8"
+         
+                },
+{
+                    "type": "Test FHD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-l7oqdeh8z5pdr51/chunklist.m3u8"
          
                 }
                 
@@ -64,6 +74,11 @@
          
                 },
 {
+                    "type": "Test SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-8yomo4hgjdpgq0j/chunklist.m3u8"
+         
+                },
+{
                     "type": "Vietnam HD",
                 "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
          
@@ -80,6 +95,11 @@
 {
                     "type": "FHD",
                 "livelink":"https://287827193.global.cdnfastest.com/live/258e31263e1bd5e428bbe616069943654e1/chunklist.m3u8"
+         
+                },
+{
+                    "type": "Test FHD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-8yomo4hgjdpgq0j/chunklist.m3u8"
          
                 }
                 
@@ -104,6 +124,11 @@
 {
                     "type": "SD 2",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-520790_lsd.m3u8?auth_key=1681855726-0-0-49787ab94642b45ab05c29c6f05f7f03&edge_slice=true&sub_m3u8=true&user_session_id=27bde5d3fcc8d94ae56c81e3d82878f2"
+         
+                },
+{
+                    "type": "Test SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-23xmvkhpyn1kqg8/chunklist.m3u8"
          
                 },
 {
