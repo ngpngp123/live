@@ -56,6 +56,11 @@
          
                 },
 {
+                    "type": "Vietnam HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         
+                },
+{
                     "type": "HD",
                 "livelink":"https://sports01.livnvess.com/live/stream-201986_lhd.m3u8?txSecret=a25e981f9f752c007c9d033899f2d3ed&txTime=64407d1e"
          
@@ -86,6 +91,11 @@
 {
                     "type": "SD 2",
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lsd.m3u8?auth_key=1681947826-0-0-40d8fbb4ae2ad844e982ce09b4f43c5e&sub_m3u8=true&user_session_id=698e5a66a3c06f47ab2bda6c19faed21&edge_slice=true"
+         
+                },
+{
+                    "type": "Vietnam HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
          
                 },
 {
