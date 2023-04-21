@@ -37,7 +37,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "April 22",
-            "time": "1:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
             "teams" : "FC Augsburg Vs VfB Stuttgart",
@@ -47,12 +47,12 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?sub_m3u8=true&auth_key=1682116186-0-0-ffd6f31fb70e2c2b3ab4f30b2a40960c&edge_slice=true&user_session_id=b9c703546efe1c7d08b474cf789fec32"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?sub_m3u8=true&auth_key=1682116126-0-0-bf9982e060f8838898f932dc1aad41ea&edge_slice=true&user_session_id=12435c2f95c80f0f325ba53cfa138408"
          
                 },
 {
@@ -70,7 +70,7 @@
 {
            "league": "🏆 Serie A",
             "date": "April 22",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
             "teams" : "Hellas Verona Vs Bologna",
@@ -85,7 +85,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?edge_slice=true&auth_key=1682116246-0-0-77125f959ea0a822af17169a80d93322&sub_m3u8=true&user_session_id=716bd80a4b4b8066e0f56e02891485b5"
          
                 },
 {
@@ -95,7 +95,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?user_session_id=acd99101219ac40b78a20a116093ab58&edge_slice=true&auth_key=1682116246-0-0-a9f7aa518683d408997d4cc91adc214d&sub_m3u8=true"
                 }
                 
             ]
@@ -103,7 +103,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 22",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
             "teams" : "Arsenal Vs Southampton",
@@ -118,7 +118,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&auth_key=1682116366-0-0-dd555bb3901cbb13fea962d881e3873e&user_session_id=1b64223d13fc0f36e4c2058176276e6c&edge_slice=true"
          
                 },
 {
@@ -128,7 +128,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=797cbb73427248cbf6b4705cd527845e&auth_key=1682116366-0-0-9209ba4399c16b7cde9800879a86e243"
                 },
 {
                     "type": "FHD",
@@ -140,7 +140,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 22",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
             "teams" : "Espanyol Vs Cadiz",
@@ -155,7 +155,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-317957_ld.m3u8?auth_key=1682116486-0-0-b23de36abd48e3762c8e93de8b3da85e"
          
                 },
 {
@@ -165,7 +165,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1682116486-0-0-2687eb405e6e211a757782a6f49d4cec"
                 }
                 
             ]
@@ -173,7 +173,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 22",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
             "teams" : "Angers Vs PSG",
@@ -188,7 +188,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-516701_ld.m3u8?auth_key=1682116606-0-0-6bd2b72e92e0d12e899eb6b63fd14591"
          
                 },
 {
@@ -198,7 +198,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1682116606-0-0-e871cfb4e2324dc8aaad52481990cd18"
                 }
                 
             ]
