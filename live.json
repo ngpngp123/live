@@ -35,39 +35,6 @@
             ]
 },
 {
-           "league": "🏆 Ligue 1",
-            "date": "April 22",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-            "teams" : "Angers Vs PSG",
-            "hteam" : "Angers",
-            "ateam" : "PSG",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-143449_lsd.m3u8?auth_key=1682115994-0-0-a0bc870555f41938388b43bf7166c652&sub_m3u8=true&user_session_id=6bda1d8c57d64d955df05a60d75b28c6&edge_slice=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-516701_ld.m3u8?auth_key=1682116606-0-0-6bd2b72e92e0d12e899eb6b63fd14591"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682115994-0-0-e756fc46c11f730961622a4da25f5e0e&user_session_id=d8ef7c69cac94f0d50c797b0de7861a7"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1682116606-0-0-e871cfb4e2324dc8aaad52481990cd18"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Premier League",
             "date": "April 22",
             "time": "6:00 PM",
