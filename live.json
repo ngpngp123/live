@@ -243,7 +243,7 @@
 {
            "league": "🏆 Serie A",
             "date": "April 22",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
             "teams" : "Lazio Vs Torino",
@@ -258,7 +258,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682199526-0-0-90745b64487722a2e8aa900916e2b566&user_session_id=b4aa34106941e65989e3b016dfecb3c2"
          
                 },
 {
@@ -268,7 +268,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=a5636b15a2d8164579d3be7f3e3d727d&auth_key=1682199526-0-0-173cf4a9e96151fe65d1211ef20c7d73"
                 }
                 
             ]
@@ -291,7 +291,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1682199466-0-0-a16d421ab02be7bb1f285d43959b2b64&edge_slice=true&sub_m3u8=true&user_session_id=e0c8b11127aa538e64b8c459ef964a88"
          
                 },
 {
@@ -301,7 +301,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682199466-0-0-958cdb5f0837e03ff54daa3269b3ee46&user_session_id=09af3b2694549adf15171c6f5d87f849"
                 }
                 
             ]
@@ -309,7 +309,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 22",
-            "time": "11:00 PM",
+            "time": "liv",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
             "teams" : "Real Sociedad Vs Rayo Vallecano",
@@ -324,7 +324,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-2961234_ld.m3u8?auth_key=1682199586-0-0-0a7b51ee6e64c10727a53d3f1f9e07cf"
          
                 },
 {
@@ -334,8 +334,8 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
-                }
+                "livelink":"https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1682199586-0-0-b6cb4f77b83e01db483254304a9959de"
+  }
                 
             ]
 },
@@ -357,7 +357,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?auth_key=1682199646-0-0-7e8d2dcc8b84b5da45b7d081ae635893&sub_m3u8=true&edge_slice=true&user_session_id=e83faa600194526c0d395736c3c45991"
          
                 },
 {
@@ -367,7 +367,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?auth_key=1682199646-0-0-a717ff6af5b61151161e177ff35506e4&sub_m3u8=true&edge_slice=true&user_session_id=085a82ec31a994fda33a953b8ba41136"
                 }
                 
             ]
@@ -390,7 +390,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lsd.m3u8?user_session_id=51cb05b619759b4d5517337653b5b19d&auth_key=1682199766-0-0-95e4788dff77be36cf104bb8be795036&edge_slice=true&sub_m3u8=true"
          
                 },
 {
@@ -400,7 +400,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lhd.m3u8?sub_m3u8=true&user_session_id=b812f532720131cc7279797720c32f2e&auth_key=1682199766-0-0-7e9d11699482244340a269fba9bd5b19&edge_slice=true"
                 }
                 
             ]
@@ -423,7 +423,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?edge_slice=true&auth_key=1682199766-0-0-03f19e828de61060c393377fd25ee0fd&user_session_id=2d19a22ac5386474bddcc7faf1c77b8f&sub_m3u8=true"
          
                 },
 {
@@ -433,7 +433,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1682199766-0-0-fc40cc0c74c9c7d7cb110bab7bcab0b7&sub_m3u8=true&user_session_id=e56cfd84570ec98ad5e3d372571d9493&edge_slice=true"
                 }
                 
             ]
@@ -456,7 +456,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lsd.m3u8?user_session_id=180beaaeaa30190122026cb9f2896cdb&sub_m3u8=true&edge_slice=true&auth_key=1682199706-0-0-91a5b6eb5fb2c931cef4cc9b9e1d39de"
          
                 },
 {
@@ -466,7 +466,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lhd.m3u8?edge_slice=true&user_session_id=9831bb9fe03aa9cd3b860bf1932a8199&auth_key=1682199706-0-0-493d1d548cfa52ee2321a576eb2a5d75&sub_m3u8=true"
                 }
                 
             ]
