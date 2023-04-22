@@ -368,7 +368,7 @@
 {
            "league": "🏆 FA Cup Semi Final",
             "date": "April 22",
-            "time": "10:15 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
             "teams" : "Manchester City Vs Sheffield United",
@@ -383,7 +383,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-482183_lsd.m3u8?auth_key=1682199046-0-0-c9f61ee3bf38b42412ff0b53bba77f07&sub_m3u8=true&edge_slice=true&user_session_id=80b84637370da725d8191ce1ea741e7a"
          
                 },
 {
@@ -393,7 +393,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-482183_lhd.m3u8?sub_m3u8=true&auth_key=1682199046-0-0-bf3c7eaa8db801f69a54d83da31e994a&user_session_id=e7d86ea3c55dd423ec7102e80f1f038d&edge_slice=true"
                 },
 {
                     "type": "FHD",
