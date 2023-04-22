@@ -99,7 +99,7 @@
 {
            "league": "🏆 Serie A",
             "date": "April 22",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
             "teams" : "Salernitana Vs Sassuolo",
@@ -109,22 +109,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?auth_key=1682189134-0-0-6b640c635851e465879b6f78185118d5&sub_m3u8=true&user_session_id=0a5e2fdaab25d683b9514041af1b7372&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lsd.m3u8?auth_key=1682189087-0-0-d1e0a42f27bba7674b5fbc20514367da&user_session_id=ec61c3ed3896e1e9da4aac0cca9cc482&sub_m3u8=true&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lhd.m3u8?auth_key=1682189087-0-0-c063d3fa3d054e9458af148a37c4dcea&edge_slice=true&sub_m3u8=true&user_session_id=9760cce00fc06a0e049e2d9b1a98a6d2"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?sub_m3u8=true&auth_key=1682189134-0-0-a004602899da0fbdc7ca1d89f38dfd53&edge_slice=true&user_session_id=ebf9ab2e515857468ba4fad0422cc3e9"
                 }
                 
             ]
