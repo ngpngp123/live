@@ -1,34 +1,4 @@
 [
-     
-{
-           "league": "🏆 Laliga",
-            "date": "April 22",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-            "teams" : "Osasuna Vs Real Betis",
-            "hteam" : "Osasuna",
-            "ateam" : "Real Betis",
-            "hotmat":"no",
-            "link":[
-                     
-{
-                    "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-78951465_ld.m3u8?auth_key=1682183506-0-0-8dd2f6a9b1eff76de97cb168093169cf"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=9a48e5779e3f75d9e9cd2cfd854e636a&txTime=644415be"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-78951465.m3u8?auth_key=1682183506-0-0-41d995265d813d181a74d63c48f242af"
-                }
-                
-            ]
-},
 {
            "league": "🏆 Serie A",
             "date": "April 22",
@@ -412,7 +382,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=8b42063a3d62527de25098301ed1ee82&auth_key=1682195674-0-0-a27bff8c70b6b8fdcd2b0794d5797fbc"
          
                 },                     
 {
@@ -422,7 +392,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=409ad99d3690bb09b58017ebf70d94e8&auth_key=1682195674-0-0-a4d745a9032c4f66a108e2559aa9cf8b"
          
                 },
 {
@@ -449,7 +419,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-105723_lsd.m3u8?txSecret=104f90ba9612bed6e6d5bb4294f71344&txTime=64444516"
          
                 },                     
 {
@@ -459,7 +429,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-105723_lhd.m3u8?txSecret=104f90ba9612bed6e6d5bb4294f71344&txTime=64444516"
          
                 },
 {
@@ -482,7 +452,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?auth_key=1682195794-0-0-891a7f301fdfb9f2ce0fddd2056cbc49&edge_slice=true&user_session_id=fa1842906285cfbe0483bab1e71bb4ce&sub_m3u8=true"
          
                 },                     
 {
@@ -492,7 +462,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?auth_key=1682195794-0-0-bb4a6f6cd3870c3211fb35a5b5352e5c&edge_slice=true&user_session_id=621c3ea21e0957de2a89dc613341d73c&sub_m3u8=true"
          
                 },
 {
@@ -515,7 +485,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-118206_lsd.m3u8?edge_slice=true&auth_key=1682195794-0-0-2cc3ba2165f04ec629fd170848585345&sub_m3u8=true&user_session_id=c65e552f3c5ba7001702923279b92747"
          
                 },                     
 {
@@ -525,7 +495,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-118206_lhd.m3u8?edge_slice=true&auth_key=1682195794-0-0-67b340f6e53e5d1221a4b5c6318458ea&sub_m3u8=true&user_session_id=eb529e2a41832c4ba108cfdba96443df"
          
                 },
 {
@@ -548,7 +518,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-921508_lsd.m3u8?txSecret=151297e26c8fb7d04b040f9831f88c1e&txTime=644445ca"
          
                 },                     
 {
@@ -558,7 +528,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-921508_lhd.m3u8?txSecret=151297e26c8fb7d04b040f9831f88c1e&txTime=644445ca"
          
                 },
 {
