@@ -37,7 +37,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 22",
-            "time": "6:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "teams" : "Fulham Vs Leeds United",
@@ -47,22 +47,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-911508_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=58bf51d3013df472dbdc2525aca9c33a&auth_key=1682183614-0-0-5d57a95af413408c9686511632149402"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1682183447-0-0-84256a3dfc92ceb38a0bb524e9d421bc&sub_m3u8=true&user_session_id=598fa6e3aea42e25c41c8819bf5f8067&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-115493_lhd.m3u8?txSecret=d58d9663d9b1da7b8a3476fa9cc59ba6&txTime=64441582"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1682183447-0-0-54387f98b1b20cb0fc33dc24e2945019&sub_m3u8=true&user_session_id=872848d999dd492b1bffd91126908d9d&edge_slice=true"
                 }
                 
             ]
@@ -70,7 +70,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 22",
-            "time": "6:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
             "teams" : "Osasuna Vs Real Betis",
@@ -78,24 +78,20 @@
             "ateam" : "Real Betis",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
+                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-78951465_ld.m3u8?auth_key=1682183506-0-0-8dd2f6a9b1eff76de97cb168093169cf"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=9a48e5779e3f75d9e9cd2cfd854e636a&txTime=644415be"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-78951465.m3u8?auth_key=1682183506-0-0-41d995265d813d181a74d63c48f242af"
                 }
                 
             ]
