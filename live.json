@@ -264,7 +264,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 22",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
             "teams" : "Liverpool Vs Nottingham",
@@ -274,22 +274,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-911508_lsd.m3u8?auth_key=1682191594-0-0-5986d645c50f8d1e6528cf66213f8417&user_session_id=7ee5a8139c65833b8d413ac57693fe91&edge_slice=true&sub_m3u8=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&auth_key=1682191427-0-0-b4e1d275eda1232eab334b684d047b54&user_session_id=22ea6c1de8919cc2538e58581f20e19a&edge_slice=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-911508_lhd.m3u8?edge_slice=true&auth_key=1682191594-0-0-29b19d4fb69ae233192b64542bf3d0a7&user_session_id=e2cef9e12d7d6eb87308cc42c5914b3f&sub_m3u8=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1682191427-0-0-afced15c0acfd622ad9d2410be037155&user_session_id=f598066ff57ad424ba93fda7b789e32d&sub_m3u8=true&edge_slice=true"
                 },
 {
                     "type": "FHD",
@@ -301,7 +301,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 22",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
             "teams" : "Brentford Vs Aston Villa",
@@ -311,7 +311,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132343_lsd.m3u8?user_session_id=aafd0c31545b0582019ee83d6e31efb9&sub_m3u8=true&edge_slice=true&auth_key=1682191714-0-0-23f5a7ab179c28698cc7bc46429d911d"
          
                 },                     
 {
@@ -321,7 +321,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-115493_lhd.m3u8?txSecret=52f911032adb746faeeeace94bf9a5e4&txTime=64443562"
          
                 },
 {
@@ -334,7 +334,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 22",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
             "teams" : "Crystal Palace Vs Everton",
@@ -344,7 +344,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=4fcb921c335287f7c65f573706fb4156&txTime=644435da"
          
                 },                     
 {
@@ -354,7 +354,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-101511_lhd.m3u8?txSecret=225accac61011c6128ae9293d7f5396e&txTime=6444359e"
          
                 },
 {
@@ -382,7 +382,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-669312_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5786149d6aab6fb37ffc0bd88586b56e&auth_key=1682191487-0-0-a53f0797eac58b8ae9b86ca6ac9d029e"
          
                 },
 {
@@ -392,7 +392,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-669312_lhd.m3u8?auth_key=1682191487-0-0-41c7bbad01f74b8858d61ddcb911b65c&edge_slice=true&user_session_id=a9140aa1274bc9ad8e8f6ecf695f0b34&sub_m3u8=true"
                 }
                 
             ]
