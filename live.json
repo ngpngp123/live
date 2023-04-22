@@ -218,7 +218,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-208390_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=1c3267fb8c0df6e62bba9170458794f7&auth_key=1682201674-0-0-3fa500b6d5c8c3793bc60e92b2a40bc4"
          
                 },                     
 {
@@ -228,7 +228,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-161243_lhd.m3u8?txSecret=488fd9972c053b6ab6b306a775bc901a&txTime=64445c4a"
          
                 },
 {
@@ -241,7 +241,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 23",
-            "time": "1:30 AM",
+            "time": "1:30",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
             "teams" : "Real Madrid Vs Celta Vigo",
@@ -251,7 +251,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-931508_lsd.m3u8?sub_m3u8=true&user_session_id=40eba05a39fcfa1d323dbfed744b0407&edge_slice=true&auth_key=1682201614-0-0-3fe396e78a10e31329fcd8a747cf5359"
          
                 },                     
 {
@@ -261,7 +261,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?user_session_id=7d604a53998d15873b2fe6784cc8d051&auth_key=1682201614-0-0-868f53043f2d0aae319f04630d21c2ab&sub_m3u8=true&edge_slice=true"
          
                 },
 {
@@ -284,7 +284,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-122774_lsd.m3u8?txSecret=6af8d1983fa686e3e552b1663c3df6d6&txTime=64445c86"
          
                 },                     
 {
@@ -294,7 +294,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-385085_lhd.m3u8?txSecret=463ca4c8707fd445df959279a32fac3c&txTime=64445c86"
          
                 },
 {
