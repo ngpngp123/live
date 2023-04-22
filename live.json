@@ -367,7 +367,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 22",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
             "teams" : "Leicester Vs Wolves",
@@ -375,11 +375,7 @@
             "ateam" : "Wolves",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
+                       
 {
                     "type": "SD 2",
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-669312_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5786149d6aab6fb37ffc0bd88586b56e&auth_key=1682191487-0-0-a53f0797eac58b8ae9b86ca6ac9d029e"
@@ -387,7 +383,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=dcf243cabc73ee186caa2fcb3adf35c1&txTime=644436ca"
          
                 },
 {
@@ -400,7 +396,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 22",
-            "time": "8:45 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
             "teams" : "Almeria Vs Athletic Club",
@@ -410,17 +406,13 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-197901_lsd.m3u8?user_session_id=5f8d529acf5b599eab5a07d0917a6d0c&sub_m3u8=true&edge_slice=true&auth_key=1682192194-0-0-e51bd4b9763d970e3c8223e22f6c7274"
          
                 },                     
-{
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=771c975a67d7e204e3d2a6473cbb91ab&txTime=64443706"
          
                 },
 {
