@@ -1,78 +1,4 @@
 [
-
-
-
-
-{
-           "league": "🏆 Ligue 1",
-            "date": "April 22 (9:30 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
-            "teams" : "Auxerre Vs Lille",
-            "hteam" : "Auxerre",
-            "ateam" : "Lille",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-106737_lsd.m3u8?txSecret=a2c25287f62288f95ef0337ab8849244&txTime=64444642"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-3045619_lhd.m3u8?sub_m3u8=true&auth_key=1682196106-0-0-e8cd25405933b19c4109525c98231df7&edge_slice=true&user_session_id=56713ca1b07a97cc3e6544a2ae1e67eb"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=a2c25287f62288f95ef0337ab8849244&txTime=64444642"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-3045619_lhd.m3u8?auth_key=1682196106-0-0-e8cd25405933b19c4109525c98231df7&edge_slice=true&sub_m3u8=true&user_session_id=c93af0a9b66e975f3e4cdb1adc01fa10"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 FA Cup Semi Final",
-            "date": "April 22",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
-            "teams" : "Manchester City Vs Sheffield United",
-            "hteam" : "Manchester City",
-            "ateam" : "Sheffield United",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=8b42063a3d62527de25098301ed1ee82&auth_key=1682195674-0-0-a27bff8c70b6b8fdcd2b0794d5797fbc"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-482183_lsd.m3u8?auth_key=1682199046-0-0-c9f61ee3bf38b42412ff0b53bba77f07&sub_m3u8=true&edge_slice=true&user_session_id=80b84637370da725d8191ce1ea741e7a"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=409ad99d3690bb09b58017ebf70d94e8&auth_key=1682195674-0-0-a4d745a9032c4f66a108e2559aa9cf8b"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-482183_lhd.m3u8?sub_m3u8=true&auth_key=1682199046-0-0-bf3c7eaa8db801f69a54d83da31e994a&user_session_id=e7d86ea3c55dd423ec7102e80f1f038d&edge_slice=true"
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-                }
-                
-            ]
-},
 {
            "league": "🏆 Serie A",
             "date": "April 22",
@@ -208,7 +134,7 @@
 {
            "league": "🏆 Serie A",
             "date": "April 23",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
             "teams" : "Sampdoria Vs Spezia",
@@ -240,8 +166,8 @@
 },
 {
            "league": "🏆 Laliga",
-            "date": "April 23",
-            "time": "1:30",
+            "date": "April 23(1:30 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
             "teams" : "Real Madrid Vs Celta Vigo",
@@ -273,8 +199,8 @@
 },
 {
            "league": "🏆 Ligue 1",
-            "date": "April 23",
-            "time": "1:30 AM",
+            "date": "April 23(1:30 AM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
             "teams" : "Lens Vs Monaco",
