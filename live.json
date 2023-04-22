@@ -225,6 +225,11 @@
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1682191427-0-0-afced15c0acfd622ad9d2410be037155&user_session_id=f598066ff57ad424ba93fda7b789e32d&sub_m3u8=true&edge_slice=true"
                 },
 {
+                    "type": "HD 3",
+                "livelink":"https://287827193.global.cdnfastest.com/live/258c46d73039d134f219428814c0fcdb8cf/chunklist.m3u8"
+         
+                },
+{
                     "type": "FHD",
                 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
                 }
