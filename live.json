@@ -205,6 +205,11 @@
             "ateam" : "Nottingham",
             "hotmat":"yes",
             "link":[
+{
+                    "type": "Eng SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-318q66h67okxqo9/chunklist_w792220809.m3u8"
+         
+                },
   {
                     "type": "SD",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-911508_lsd.m3u8?auth_key=1682191594-0-0-5986d645c50f8d1e6528cf66213f8417&user_session_id=7ee5a8139c65833b8d413ac57693fe91&edge_slice=true&sub_m3u8=true"
@@ -234,6 +239,7 @@
                 "livelink":"https://287827193.global.cdnfastest.com/live/258c46d73039d134f219428814c0fcdb8cf/chunklist.m3u8"
          
                 },
+
 {
                     "type": "FHD",
                 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
