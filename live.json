@@ -71,8 +71,8 @@
 },
 {
            "league": "🏆 Premier League",
-            "date": "April 23",
-            "time": "7:30 PM",
+            "date": "April 23 (7:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "teams" : "Newcastle Vs Tottenham",
@@ -106,7 +106,7 @@
                 },
 {
                     "type": "FHD",
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
          
                 }
                 
@@ -114,8 +114,8 @@
 },
 {
            "league": "🏆 Premier League",
-            "date": "April 23",
-            "time": "7:30 PM",
+            "date": "April 23 (7:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "teams" : "Bournemouth Vs West Ham",
@@ -141,8 +141,12 @@
 {
                     "type": "HD 2",
                 "livelink":"https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1682274586-0-0-b671a5c53cfc657c9621564fdf3cdce1"
+                },
+                {
+                    "type": "FHD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
+         
                 }
-                
             ]
 },
 {
@@ -180,8 +184,8 @@
 },
 {
            "league": "🏆 Serie A",
-            "date": "April 23",
-            "time": "7:30 PM",
+            "date": "April 23 (7:30 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
             "teams" : "Udinese Vs Cremonese",
@@ -191,7 +195,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=5a6fdebaa9287e1efa9917f64f134334&txTime=64457ab2"
          
                 },                     
 {
@@ -201,7 +205,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=5a6fdebaa9287e1efa9917f64f134334&txTime=64457ab2"
          
                 },
 {
@@ -273,8 +277,12 @@
 {
                     "type": "HD 2",
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?sub_m3u8=true&auth_key=1682274827-0-0-11eb717df80d3b1b724be3c306976051&edge_slice=true&user_session_id=f73fdf8bd85e9205a563b42734d79c48"
+                },
+                {
+                    "type": "FHD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
+         
                 }
-                
             ]
 },
 {
