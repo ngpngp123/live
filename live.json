@@ -1,189 +1,10 @@
 [
-{
-           "league": "🏆 Premier League",
-            "date": "April 23 (7:30 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-            "teams" : "Newcastle Vs Tottenham",
-            "hteam" : "Newcastle",
-            "ateam" : "Tottenham",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-941508_lsd.m3u8?txSecret=f4a059511ea19339842cf172fbc1eefc&txTime=6445884a"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?auth_key=1682274587-0-0-e9408db3b608ed290b0a3a72cd1f9c45&edge_slice=true&sub_m3u8=true&user_session_id=2ad225d62e474eb62d883d9284bd9a75"
-         
-                },
 
-{
-                    "type": "Test HD",
-                "livelink":"https://287827193.global.cdnfastest.com/live/258e31263e1bd5e428bbe616069943654e1/playlist.m3u8?_=1682254049134"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-941508_lhd.m3u8?txSecret=f4a059511ea19339842cf172fbc1eefc&txTime=6445884a"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?auth_key=1682274587-0-0-6ce305a85a2b1a92db14a98e62b6cf0d&edge_slice=true&sub_m3u8=true&user_session_id=a3896f2c12f8da172f92baff59f1d751"
-                },
-{
-                    "type": "FHD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-         
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Premier League",
-            "date": "April 23 (7:30 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-            "teams" : "Bournemouth Vs West Ham",
-            "hteam" : "Bournemouth",
-            "ateam" : "West Ham",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-144861_lsd.m3u8?txSecret=8e955a84a6f6ae43416b1aa37d8d25ad&txTime=6445781e"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-552917_ld.m3u8?auth_key=1682274586-0-0-cdf078e3795298522268626a180b97aa"
-         
-                },
-{
-                    "type": "Test HD",
-                "livelink":"https://287827193.global.cdnfastest.com/live/2584536957289e043e9bf9da960b301a9ed/playlist.m3u8?_=1682254316325"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=8e955a84a6f6ae43416b1aa37d8d25ad&txTime=6445781e"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1682274586-0-0-b671a5c53cfc657c9621564fdf3cdce1"
-                },
-                {
-                    "type": "FHD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
-         
-                }
-            ]
-},
-{
-           "league": "🏆 Serie A",
-            "date": "April 23 (7:30 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-            "teams" : "Monza Vs Fiorentina",
-            "hteam" : "Monza",
-            "ateam" : "Fiorentina",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-190631_lsd.m3u8?txSecret=28005e0ffc38ff51cc02a7c548ebef4e&txTime=64457d82"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-288414_lsd.m3u8?sub_m3u8=true&auth_key=1682274706-0-0-86ee1f88f613122d7f85e96cb5d32049&edge_slice=true&user_session_id=65f28049fe08d44b8f9d8d823c00c765"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-190631_lhd.m3u8?txSecret=28005e0ffc38ff51cc02a7c548ebef4e&txTime=64457d82"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-288414_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1682274706-0-0-10ace8e0ff3673ad4390f24545ab1873&user_session_id=8a158256703f59d6b68c17911870966d"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Serie A",
-            "date": "April 23 (7:30 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
-            "teams" : "Udinese Vs Cremonese",
-            "hteam" : "Udinese",
-            "ateam" : "Cremonese",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=5a6fdebaa9287e1efa9917f64f134334&txTime=64457ab2"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-559725_lsd.m3u8?sub_m3u8=true&auth_key=1682274766-0-0-091fac6faa822ab3d35551d0cee59e48&user_session_id=5da9c673660e2ed76e21c4103421e7de&edge_slice=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=5a6fdebaa9287e1efa9917f64f134334&txTime=64457ab2"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-559725_lhd.m3u8?sub_m3u8=true&auth_key=1682274766-0-0-97d66bd8bffe8f92413d973a391a509e&user_session_id=b4db627d06049258c648d728614248df&edge_slice=true"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Ligue 1",
-            "date": "April 23 (7:30 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
-            "teams" : "Nice Vs Clermont Foot",
-            "hteam" : "Nice",
-            "ateam" : "Clermont Foot",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?auth_key=1682275774-0-0-9704ecda3a961f85787d06f07cc1f8b1&user_session_id=43d08935a463d897371c17b3a7d88c05&edge_slice=true&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-718172_lsd.m3u8?user_session_id=791abe087ba76b6edd0f017b34ef51fb&edge_slice=true&auth_key=1682275847-0-0-6997c3c1a804f3a596113478685a2b84&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?sub_m3u8=true&auth_key=1682275774-0-0-7b34ce4a038e69af86f14a123db9abff&edge_slice=true&user_session_id=aa94cb61aa90e03ddad951b5b0b13608"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-718172_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=f36d887fdb6a3b6a6f0df882dc963154&auth_key=1682275847-0-0-85e3028717f927f6ba4ab2d57daf2294"
-                }
-                
-            ]
-},
+
+
+     
+
+     
 {
            "league": "🏆 Bundesliga",
             "date": "April 23",
@@ -261,7 +82,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 23",
-            "time": "9:35 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
             "teams" : "Montpellier Vs Rennes",
@@ -276,7 +97,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1682283047-0-0-d3b40d440b0a0ba286ebddf87c4bbd22&user_session_id=20f17c84789864258c0bf21ebda10e7d"
          
                 },
 {
@@ -286,7 +107,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?auth_key=1682283047-0-0-21d4a2eb21cf6fbe292cb0b8157e83e3&sub_m3u8=true&edge_slice=true&user_session_id=865b2bfb87855000c926612b610d9091"
                 }
                 
             ]
@@ -309,7 +130,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?sub_m3u8=true&auth_key=1682283106-0-0-9fdaa09f95d88f328d97aec09e1e876d&edge_slice=true&user_session_id=32aebd8a82dea816bad699cf220c4ab3"
          
                 },
 {
@@ -324,7 +145,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?edge_slice=true&auth_key=1682283106-0-0-a74918e1108036639d7fae00b98fb5f8&user_session_id=27a64eb468581f03df9662f25da7ca6d&sub_m3u8=true"
                 },
 {
                     "type": "FHD",
@@ -352,7 +173,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-758261_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682283167-0-0-f576642be4f21e9e8854561a35bd84a0&user_session_id=c6264566fd9364a68f5d4428d74d4230"
          
                 },
 {
@@ -362,7 +183,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-758261_lhd.m3u8?sub_m3u8=true&user_session_id=e23fc0c9d10b5187a319869901f4a677&edge_slice=true&auth_key=1682283167-0-0-9cb3d3ca4d7fd518424522a6b77ec7a4"
                 }
                 
             ]
