@@ -1,38 +1,5 @@
 [
 {
-           "league": "🏆 Laliga",
-            "date": "April 23 (6:30 PM)",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-            "teams" : "Elche Vs Valencia",
-            "hteam" : "Elche",
-            "ateam" : "Valencia",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-106737_lsd.m3u8?txSecret=9a42192bfdf77087940e0caaaf76b5cd&txTime=64456e46"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-693587_ld.m3u8?auth_key=1682271887-0-0-fc08f60246a938739a4d9667e2e76d79"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=9a42192bfdf77087940e0caaaf76b5cd&txTime=64456e46"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-693587.m3u8?auth_key=1682271887-0-0-2cfc8c2ed95f2d5b7afcb273de996445"
-                }
-                
-            ]
-},
-{
            "league": "🏆 Premier League",
             "date": "April 23 (7:30 PM)",
             "time": "live",
@@ -256,8 +223,8 @@
 },
 {
            "league": "🏆 Laliga",
-            "date": "April 23",
-            "time": "8:45 PM",
+            "date": "April 23(8:45 PM)",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
             "teams" : "Barcelona Vs Atletico Madrid",
@@ -272,7 +239,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-723064_lsd.m3u8?sub_m3u8=true&user_session_id=b1c5d28fd25245648f161b792dc4cfed&auth_key=1682280407-0-0-742202b4cfdcc510563ca81eae8dacbc&edge_slice=true"
          
                 },
 {
@@ -282,7 +249,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-723064_lhd.m3u8?sub_m3u8=true&user_session_id=699b1115eaebcd631dd6f9591b95e25f&auth_key=1682280407-0-0-dc6cde22ac95b361e6edfeeb79f0fb48&edge_slice=true"
                 }
                 
             ]
