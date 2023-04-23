@@ -115,7 +115,7 @@
 {
            "league": "🏆 FA Cup Semi Final",
             "date": "April 23",
-            "time": "10:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "teams" : "Brighton Vs Man United",
@@ -134,7 +134,7 @@
          
                 },
 {
-                    "type": "SD 3",
+                    "type": "wait SD 3",
                 "livelink":""
          
                 },
@@ -148,7 +148,7 @@
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?edge_slice=true&auth_key=1682283106-0-0-a74918e1108036639d7fae00b98fb5f8&user_session_id=27a64eb468581f03df9662f25da7ca6d&sub_m3u8=true"
                 },
 {
-                    "type": "FHD",
+                    "type": "wait FHD",
                 "livelink":""
          
                 }
@@ -158,7 +158,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "April 23",
-            "time": "10:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
             "teams" : "Bayer Leverkusen Vs RB Leipzig",
