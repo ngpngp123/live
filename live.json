@@ -214,7 +214,7 @@
 {
            "league": "🏆 Serie A",
             "date": "April 24",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
             "teams" : "Juventus Vs Napoli",
@@ -247,7 +247,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 24",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
             "teams" : "Lyon Vs Marseille",
@@ -280,7 +280,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 24",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
             "teams" : "Sevilla Vs Villarreal",
