@@ -39,7 +39,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 23",
-            "time": "5:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
             "teams" : "Reims Vs Strasbourg",
@@ -49,22 +49,21 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
-         
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?user_session_id=0fc2ec730a23d4efbb284c635840c528&edge_slice=true&auth_key=1682268394-0-0-1dd3470db93e993499598b711660f25f&sub_m3u8=true"
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-552917_ld.m3u8?auth_key=1682268466-0-0-91df32ae162b0c5760fbc8d72a89d76b"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?sub_m3u8=true&user_session_id=eaf89d52bf0e9e14afd660bd98ed4658&auth_key=1682268394-0-0-13c53885fe8304c4e6ea5f229a72cb9c&edge_slice=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1682268466-0-0-8a65f7e751e4e7101e255d7103d4b016"
                 }
                 
             ]
