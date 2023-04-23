@@ -96,6 +96,11 @@
          
                 },
 {
+                    "type": "Test HD",
+                "livelink":"https://287827193.global.cdnfastest.com/live/258e31263e1bd5e428bbe616069943654e1/playlist.m3u8?_=1682254049134"
+         
+                },
+{
                     "type": "HD",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?sub_m3u8=true&auth_key=1682274274-0-0-a51ad610f4f3a32068325e93f0f2baa5&edge_slice=true&user_session_id=e525e0f92e33c7dd90307fed9c993215"
          
