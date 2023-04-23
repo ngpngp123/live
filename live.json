@@ -47,6 +47,11 @@
             "ateam" : "Strasbourg",
             "hotmat":"no",
             "link":[
+{
+                    "type": "Bein SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-l5ergphl5nj9r8k/chunklist_w344056910.m3u8"
+         
+                },
   {
                     "type": "SD",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?user_session_id=0fc2ec730a23d4efbb284c635840c528&edge_slice=true&auth_key=1682268394-0-0-1dd3470db93e993499598b711660f25f&sub_m3u8=true"
