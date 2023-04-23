@@ -1,311 +1,35 @@
 [
-
-
-
-     
-
-     
-
 {
-           "league": "🏆 Ligue 1",
-            "date": "April 23",
+           "league": "MAN U",
+            "date": "TV Channel",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-            "teams" : "Montpellier Vs Rennes",
-            "hteam" : "Montpellier",
-            "ateam" : "Rennes",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?auth_key=1682274514-0-0-7ded80bfc1317762c8d7c719726bd4bc&sub_m3u8=true&edge_slice=true&user_session_id=e36bef2e1c2ccc4a50435aa67c45e913"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1682283047-0-0-d3b40d440b0a0ba286ebddf87c4bbd22&user_session_id=20f17c84789864258c0bf21ebda10e7d"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?auth_key=1682274514-0-0-b16d9d0935a621e53ddb43941d76f19b&sub_m3u8=true&edge_slice=true&user_session_id=7fa9d368aba8fc0c0599583307399dc8"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?auth_key=1682283047-0-0-21d4a2eb21cf6fbe292cb0b8157e83e3&sub_m3u8=true&edge_slice=true&user_session_id=865b2bfb87855000c926612b610d9091"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 FA Cup Semi Final",
-            "date": "April 23",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "teams" : "Brighton Vs Man United",
-            "hteam" : "Brighton",
-            "ateam" : "Man United",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "teams" : "Man United TV",
+            "hteam" : "MAN U",
+            "ateam" : "TV",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lsd.m3u8?user_session_id=cbd87898c3fad63a41fd55f5d75618b4&edge_slice=true&auth_key=1682282614-0-0-2d38f68e4467ce2e0c2204cc206ec73c&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?sub_m3u8=true&auth_key=1682283106-0-0-9fdaa09f95d88f328d97aec09e1e876d&edge_slice=true&user_session_id=32aebd8a82dea816bad699cf220c4ab3"
-         
-                },
-{
-                    "type": "Vietnam SD 3",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1682282614-0-0-840a53a874d26b75afa10718d406bdc6&user_session_id=1dc5e842c8954665a5a1523dbc606993"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?edge_slice=true&auth_key=1682283106-0-0-a74918e1108036639d7fae00b98fb5f8&user_session_id=27a64eb468581f03df9662f25da7ca6d&sub_m3u8=true"
                 
-
-                }
+{
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
+                },
                 
-            ]
-},
 {
-           "league": "🏆 Bundesliga",
-            "date": "April 23",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-            "teams" : "Bayer Leverkusen Vs RB Leipzig",
-            "hteam" : "Bayer Leverkusen",
-            "ateam" : "RB Leipzig",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?user_session_id=f5a225225a923a4870f6031a35bb6e3e&sub_m3u8=true&edge_slice=true&auth_key=1682282674-0-0-7b6905464682577a72634d79b945ee79"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-758261_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682283167-0-0-f576642be4f21e9e8854561a35bd84a0&user_session_id=c6264566fd9364a68f5d4428d74d4230"
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
          
                 },
 {
-                    "type": "HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1682282674-0-0-47b387cbaea35ded55840b7eacafd571&sub_m3u8=true&user_session_id=b037d3b881e5c476986df35201ded904&edge_slice=true"
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-758261_lhd.m3u8?sub_m3u8=true&user_session_id=e23fc0c9d10b5187a319869901f4a677&edge_slice=true&auth_key=1682283167-0-0-9cb3d3ca4d7fd518424522a6b77ec7a4"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Serie A",
-            "date": "April 23",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
-            "teams" : "AC Milan Vs Lecce",
-            "hteam" : "AC Milan",
-            "ateam" : "Lecce",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?auth_key=1682282734-0-0-d9e52401b3740b1d8b3c4bbf965bb032&user_session_id=38ce92524a1ad97fe2d2c0e7db8bb69b&edge_slice=true&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lsd.m3u8?sub_m3u8=true&auth_key=1682285566-0-0-5af46d4bf21571331bc93f136ecc7b1e&edge_slice=true&user_session_id=1104366874dd8c5b6a2fd0f931693e2d"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=1d3774e22c5d674d6f7d7ae7677fa263&txTime=644598ee"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lhd.m3u8?sub_m3u8=true&user_session_id=566c40bd6132d469cdf770880407fd37&edge_slice=true&auth_key=1682285566-0-0-4a9b8df47d1ebd891d1e32f9778a829c"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Laliga",
-            "date": "April 23",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
-            "teams" : "Mallorca Vs Getafe",
-            "hteam" : "Mallorca",
-            "ateam" : "Getafe",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lsd.m3u8?auth_key=1682282734-0-0-5563d9f42e8c5747055efa4eac922234&edge_slice=true&sub_m3u8=true&user_session_id=e357c8d7a0597c9c2b0ee3222f479517"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-482183_lsd.m3u8?sub_m3u8=true&user_session_id=21cb729222ab5883462fc054fca77fcf&auth_key=1682288026-0-0-eb76b61982f575899a4e659e0ba673aa&edge_slice=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?edge_slice=true&user_session_id=8f85004f5016170549c17a6bbd45c22f&auth_key=1682282734-0-0-cd8380181ed3c7c98138a05aba8a7828&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-482183_lhd.m3u8?user_session_id=6d0f6a3f7af7a76bdcfc5ebe11f1c521&auth_key=1682288026-0-0-821cc4cf8eba936edf77d88d196a2b3f&sub_m3u8=true&edge_slice=true"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Bundesliga",
-            "date": "April 24",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
-            "teams" : "M'Gladbach Vs Union Berlin",
-            "hteam" : "M'Gladbach",
-            "ateam" : "Union Berlin",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-206851_lsd.m3u8?edge_slice=true&user_session_id=ca692a8c552bdb3d214f34a932689392&auth_key=1682282794-0-0-c43b9ad0b5e1cf30efe6775217a46d91&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7115a14e9f752e25174661618838b57a&auth_key=1682288086-0-0-59ad84602301bcf250631022920a97ca"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-206851_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=e364eeb2d73059ae560b1e9050866dae&auth_key=1682282794-0-0-a1ecbdf2d857d9cc61cb3ab2907e9775"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682288086-0-0-983249ebc25cc8843857e7c3e2cd86d4&user_session_id=33a7c6851a978c46e53771c9ddf80759"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Serie A",
-            "date": "April 24",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "teams" : "Juventus Vs Napoli",
-            "hteam" : "Juventus",
-            "ateam" : "Napoli",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1682282854-0-0-0b76c56be8f6d23044dc489738529daf&user_session_id=7dae12a3e7192c37c0363d42f2c9af75"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?sub_m3u8=true&auth_key=1682288146-0-0-8292bc0de3f3616ef3926a1940c3e1cd&user_session_id=22c0f50a2e479e433f56d858c068e3c3&edge_slice=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?user_session_id=a12fb03a456f89776efb793e7e6a163c&auth_key=1682282854-0-0-73eab910cee0e3d1e4881f4b898bafbb&sub_m3u8=true&edge_slice=true"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?sub_m3u8=true&user_session_id=20cc7cabc8be92c24267276497756411&edge_slice=true&auth_key=1682288146-0-0-ad4d6f302bde4e1da497df3331cb2bb5"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Ligue 1",
-            "date": "April 24",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
-            "teams" : "Lyon Vs Marseille",
-            "hteam" : "Lyon",
-            "ateam" : "Marseille",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-516701_ld.m3u8?auth_key=1682288266-0-0-586bd77dd8a5b77d286fc79d0f6c6176"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://yypull.gdsth.com/live/stream-516701_ld.m3u8?auth_key=1682288266-0-0-586bd77dd8a5b77d286fc79d0f6c6176"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=01f909c9bf4cac0ae7bab3bd3a6c0de7&txTime=644599a2"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lsd.m3u8?sub_m3u8=true&user_session_id=ae09a4f057d2a548f19f0f710ac71aa6&auth_key=1682288206-0-0-21ce651f228bb4a405f3316b203ff120&edge_slice=true"
-                }
-                
-            ]
-},
-{
-           "league": "🏆 Laliga",
-            "date": "April 24",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-            "teams" : "Sevilla Vs Villarreal",
-            "hteam" : "Sevilla",
-            "ateam" : "Villarreal",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?auth_key=1682282914-0-0-7e9f9c2928cea2010e26d9f592194d1a&sub_m3u8=true&edge_slice=true&user_session_id=5137013f3862229f1ff0927c4d247b2a"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lsd.m3u8?sub_m3u8=true&user_session_id=ae09a4f057d2a548f19f0f710ac71aa6&auth_key=1682288206-0-0-21ce651f228bb4a405f3316b203ff120&edge_slice=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lhd.m3u8?sub_m3u8=true&auth_key=1682288206-0-0-c1d90ffeeb8d10267f8089c7cd1c5a42&edge_slice=true&user_session_id=4cca6bb0b29ef4897786f801cab56f6a"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?auth_key=1682282914-0-0-786752b9ad7cf842b66c9862eefcd9c1&user_session_id=3e415c65c1a3c016e68cb2c4997f333e&edge_slice=true&sub_m3u8=true"
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
                 
             ]
