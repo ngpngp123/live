@@ -33,5 +33,73 @@
                 }
                 
             ]
+},
+{
+           "league": "🏆 King's Cup Semi Final",
+            "date": "April 25",
+            "time": "12:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6354_small.png",
+            "teams" : "Al Nassr FC Vs Al-Wehda",
+            "hteam" : "Al Nassr FC",
+            "ateam" : "Al-Wehda",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+
+{
+           "league": "🏆 Serie A",
+            "date": "April 25",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+            "teams" : "Atalanta Vs Roma",
+            "hteam" : "Atalanta",
+            "ateam" : "Roma",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
 }
+
 ]
