@@ -35,82 +35,199 @@
             ]
 },
 {
-           "league": "🏆 King's Cup Semi Final",
-            "date": "April 25",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6354_small.png",
-            "teams" : "Al Nassr FC Vs Al-Wehda",
-            "hteam" : "Al Nassr FC",
-            "ateam" : "Al-Wehda",
+           "league": "🏆 Laliga",
+            "date": "April 26",
+            "time": "12:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "teams" : "Girona Vs Real Madrid",
+            "hteam" : "Girona",
+            "ateam" : "Real Madrid",
             "hotmat":"yes",
             "link":[
   {
                     "type": "SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-911508_lsd.m3u8?user_session_id=a3dfbd92492dd154f8c65fb40ad1d604&auth_key=1682373454-0-0-39f92ede5f9418466adad96b7c7d6c02&edge_slice=true&sub_m3u8=true"
+                "livelink":""
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?sub_m3u8=true&auth_key=1682373407-0-0-f4fcf55f7d6c2a11a2935d7608a39209&edge_slice=true&user_session_id=39659764006fe895399104cbd58dc1e8"
-         
-                },
-{
-                    "type": "Good HD",
-                "livelink":"https://lokiiptv.in/nocast.m3u8/?c=__hdnea__=st=1682361353~exp=1682364953~acl=/packagerx_mpd3/Ten2_HD_HLS/*~hmac=8bbde13e4efb9d8c3db07f070a27dcf02cfc5d0e614ac21f87ddeadc27e73b47&q=https://jiotvmblive.cdn.jio.com/packagerx_mpd3/Ten2_HD_HLS/5.m3u8&id=891&token=MR.NITROX-127l"
-         
-                },
-{
-                    "type": "Good SD",
-                "livelink":"https://lokiiptv.in/nocast.m3u8/?c=__hdnea__=st=1682361353~exp=1682364953~acl=/packagerx_mpd3/Ten2_HD_HLS/*~hmac=8bbde13e4efb9d8c3db07f070a27dcf02cfc5d0e614ac21f87ddeadc27e73b47&q=https://jiotvmblive.cdn.jio.com/packagerx_mpd3/Ten2_HD_HLS/3.m3u8&id=891&token=MR.NITROX-127l"
-         
-                },{
-                    "type": "Good FHD",
-                "livelink":"https://lokiiptv.in/nocast.m3u8/?c=__hdnea__=st=1682361353~exp=1682364953~acl=/packagerx_mpd3/Ten2_HD_HLS/*~hmac=8bbde13e4efb9d8c3db07f070a27dcf02cfc5d0e614ac21f87ddeadc27e73b47&q=https://jiotvmblive.cdn.jio.com/packagerx_mpd3/Ten2_HD_HLS/5.m3u8&id=891&token=MR.NITROX-127l"
+                "livelink":""
          
                 },
 {
                     "type": "HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-911508_lhd.m3u8?edge_slice=true&auth_key=1682373454-0-0-c319c940b437d9b9318661f1caa38461&user_session_id=54ff735e3b23027dbb248caa1e9b2a13&sub_m3u8=true"
+                "livelink":""
          
                 },
 {
                     "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?sub_m3u8=true&auth_key=1682373407-0-0-c65c9e454db4c0d576acebb340d661dc&user_session_id=4fff56ed2221b09097119880624c9184&edge_slice=true"
+                "livelink":""
                 }
                 
             ]
 },
-
 {
-           "league": "🏆 Serie A",
-            "date": "April 25",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-            "teams" : "Atalanta Vs Roma",
-            "hteam" : "Atalanta",
-            "ateam" : "Roma",
-            "hotmat":"yes",
+           "league": "🏆 Laliga",
+            "date": "April 26",
+            "time": "12:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+            "teams" : "Cadiz Vs Osasuna",
+            "hteam" : "Cadiz",
+            "ateam" : "Osasuna",
+            "hotmat":"no",
             "link":[
   {
                     "type": "SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=e473287308a97b447ea6e8591b910675&txTime=6446f87e"
+                "livelink":""
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?sub_m3u8=true&auth_key=1682373286-0-0-3bd8cac0e4dd17a362c3743d56dfaaf4&user_session_id=a7029058b0560383750237ffc2f3d8cc&edge_slice=true"
+                "livelink":""
          
                 },
 {
                     "type": "HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=e473287308a97b447ea6e8591b910675&txTime=6446f87e"
+                "livelink":""
          
                 },
 {
                     "type": "HD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?sub_m3u8=true&user_session_id=b7e1ee2cc67071ca4dbba1d45dae6167&auth_key=1682373286-0-0-45dd36acc717ec3514aebc122a64c71a&edge_slice=true"
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Premier League",
+            "date": "April 26",
+            "time": "1:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+            "teams" : "Wolves Vs Crystal Palace",
+            "hteam" : "Wolves",
+            "ateam" : "Crystal Palace",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Premier League",
+            "date": "April 26",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
+            "teams" : "Aston Villa Vs Fulham",
+            "hteam" : "Aston Villa",
+            "ateam" : "Fulham",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Premier League",
+            "date": "April 26",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+            "teams" : "Leeds United Vs Leicester City",
+            "hteam" : "Leeds United",
+            "ateam" : "Leicester City",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Laliga",
+            "date": "April 26",
+            "time": "2:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+            "teams" : "Real Betis Vs Real Sociedad",
+            "hteam" : "Real Betis",
+            "ateam" : "Real Sociedad",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
                 }
                 
             ]
