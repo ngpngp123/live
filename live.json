@@ -56,6 +56,20 @@
          
                 },
 {
+                    "type": "Good HD",
+                "livelink":"https://lokiiptv.in/nocast.m3u8/?c=__hdnea__=st=1682361353~exp=1682364953~acl=/packagerx_mpd3/Ten2_HD_HLS/*~hmac=8bbde13e4efb9d8c3db07f070a27dcf02cfc5d0e614ac21f87ddeadc27e73b47&q=https://jiotvmblive.cdn.jio.com/packagerx_mpd3/Ten2_HD_HLS/5.m3u8&id=891&token=MR.NITROX-127l"
+         
+                },
+{
+                    "type": "Good SD",
+                "livelink":"https://lokiiptv.in/nocast.m3u8/?c=__hdnea__=st=1682361353~exp=1682364953~acl=/packagerx_mpd3/Ten2_HD_HLS/*~hmac=8bbde13e4efb9d8c3db07f070a27dcf02cfc5d0e614ac21f87ddeadc27e73b47&q=https://jiotvmblive.cdn.jio.com/packagerx_mpd3/Ten2_HD_HLS/3.m3u8&id=891&token=MR.NITROX-127l"
+         
+                },{
+                    "type": "Good FHD",
+                "livelink":"https://lokiiptv.in/nocast.m3u8/?c=__hdnea__=st=1682361353~exp=1682364953~acl=/packagerx_mpd3/Ten2_HD_HLS/*~hmac=8bbde13e4efb9d8c3db07f070a27dcf02cfc5d0e614ac21f87ddeadc27e73b47&q=https://jiotvmblive.cdn.jio.com/packagerx_mpd3/Ten2_HD_HLS/5.m3u8&id=891&token=MR.NITROX-127l"
+         
+                },
+{
                     "type": "HD",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-911508_lhd.m3u8?edge_slice=true&auth_key=1682373454-0-0-c319c940b437d9b9318661f1caa38461&user_session_id=54ff735e3b23027dbb248caa1e9b2a13&sub_m3u8=true"
          
