@@ -146,7 +146,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 27",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
             "teams" : "West Ham Vs Liverpool",
@@ -165,6 +165,11 @@
          
                 },
 {
+                    "type": "Vebo SD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/batHD/chunks.m3u8"
+         
+                },
+{
                     "type": "HD",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?auth_key=1682552435-0-0-80eaec685b61df4f805a7ce375adcc2b&sub_m3u8=true&user_session_id=fa5da5aa77e2728530ab757d91d7dba8&edge_slice=true"
          
@@ -179,7 +184,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 27",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
             "teams" : "Chelsea Vs Brentford",
@@ -198,6 +203,11 @@
          
                 },
 {
+                    "type": "Vebo SD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+         
+                },
+{
                     "type": "HD",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1682552495-0-0-44098736e18b7aecaf353f4c3cd0076c&sub_m3u8=true&edge_slice=true&user_session_id=57f2043cff1fe26c5379678bbea19119"
          
@@ -212,7 +222,7 @@
 {
            "league": "🏆 Premier League",
             "date": "April 27",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "teams" : "Manchester City Vs Arsenal",
@@ -228,6 +238,11 @@
 {
                     "type": "SD 2",
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=6ff56951bcaca39f095c5abd4957ad3e&auth_key=1682552866-0-0-bc09b4f49fad7f534545665d89ada737"
+         
+                },
+{
+                    "type": "Vebo SD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
          
                 },
 {
