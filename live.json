@@ -47,7 +47,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull06.scstream.net/live/stream-113906_lsd.m3u8?user_session_id=dc9a130eeecaa1121226fa7eb75ca591&edge_slice=true&auth_key=1682551235-0-0-b7bf90cd40a4502e94d396bddc1da6a6&sub_m3u8=true"
          
                 },                     
 {
@@ -57,7 +57,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?auth_key=1682551175-0-0-28a6af0547f49fc0a211c696595e9e8c&user_session_id=755abe4a2b015e2d1c0a5a96b8de3018&sub_m3u8=true&edge_slice=true"
          
                 },
 {
@@ -80,7 +80,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?auth_key=1682551235-0-0-b8f5da7262355e526e973f40e7409914&sub_m3u8=true&user_session_id=497300a02393f0c788bef7b2a7e4ed19&edge_slice=true"
          
                 },                     
 {
@@ -90,7 +90,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?auth_key=1682551235-0-0-d69c79a0ba3a802ba72ab3d655a277f0&user_session_id=62cb209e023ce7edf1c3edc161c06dad&sub_m3u8=true&edge_slice=true"
          
                 },
 {
@@ -113,7 +113,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull06.scstream.net/live/stream-360663_lsd.m3u8?edge_slice=true&auth_key=1682551355-0-0-a92c929ab38522c1f30b7a3d8b99ec2b&sub_m3u8=true&user_session_id=0c4e358a6412b2bbd69b52c7c521c5de"
          
                 },                     
 {
@@ -123,7 +123,7 @@
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=93d6ffc091bd9287be9535e0d50aad5d&txTime=6449b1ff"
          
                 },
 {
