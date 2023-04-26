@@ -175,8 +175,8 @@
          
                 },
 {
-                    "type": "HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?auth_key=1682552435-0-0-80eaec685b61df4f805a7ce375adcc2b&sub_m3u8=true&user_session_id=fa5da5aa77e2728530ab757d91d7dba8&edge_slice=true"
+                    "type": "Eng HD",
+                "livelink":"https://storage.googleapis.com/krfupu/mux_video_ts/index-1.m3u8"
          
                 },{
                     "type": "Good beIN HD",
