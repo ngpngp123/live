@@ -358,6 +358,11 @@
             "ateam" : "Barcelona",
             "hotmat":"yes",
             "link":[
+{
+                    "type": "Good beIN AD",
+                "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/3244.ts"
+         
+                },
   {
                     "type": "SD",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?edge_slice=true&user_session_id=1e1b59f2317fed1cedf025e9c65b6dbc&auth_key=1682552675-0-0-eba3855667b1b02f790fdaa13060b9b3&sub_m3u8=true"
@@ -369,11 +374,17 @@
          
                 },
 {
+                    "type": "Good  beIN HD",
+                "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/1.ts"
+         
+                },
+{
                     "type": "HD",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?user_session_id=58238832da1f35b01037df186b62b4a3&sub_m3u8=true&edge_slice=true&auth_key=1682552675-0-0-53bb13d05c24154af6dae28ce78e8da6"
          
                 },
 {
+                   
                     "type": "HD 2",
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?auth_key=1682552746-0-0-7f1403c422a0b7f26b89b07843f21e43&sub_m3u8=true&edge_slice=true&user_session_id=cf3af6518308fceb00561c6d9d30528d"
                 }
