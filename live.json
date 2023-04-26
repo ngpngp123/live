@@ -61,8 +61,13 @@
          
                 },
 {
-                    "type": "Eng SD",
+                    "type": "Bein HD",
                 "livelink":"http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=941569"
+         
+                },
+{
+                    "type": "Bein SD",
+                "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/3244.ts"
          
                 },
 {
