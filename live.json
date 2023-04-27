@@ -264,6 +264,172 @@
                 }
                 
             ]
+},
+{
+           "league": "🏆 Serie A",
+            "date": "April 28",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+            "teams" : "Lecce Vs Udinese",
+            "hteam" : "Lecce",
+            "ateam" : "Udinese",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Bundesliga",
+            "date": "April 29",
+            "time": "1:00 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "teams" : "VfL Bochum Vs Dortmund",
+            "hteam" : "VfL Bochum",
+            "ateam" : "Dortmund",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Serie A",
+            "date": "April 29",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
+            "teams" : "Spezia Vs Monza",
+            "hteam" : "Spezia",
+            "ateam" : "Monza",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Laliga",
+            "date": "April 29",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+            "teams" : "Osasuna Vs Real Sociedad",
+            "hteam" : "Osasuna",
+            "ateam" : "Real Sociedad",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Ligue 1",
+            "date": "April 29",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+            "teams" : "Strasbourg Vs Lyon",
+            "hteam" : "Strasbourg",
+            "ateam" : "Lyon",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
 }
+
 
 ]
