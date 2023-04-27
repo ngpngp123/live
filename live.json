@@ -37,7 +37,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 28",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
             "teams" : "Valencia Vs Real Valladolid",
@@ -52,7 +52,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1682636927-0-0-4afe55df91fca34c6edbd091389d0733&sub_m3u8=true&user_session_id=c558335d54553d2fcd33600e76a94124&edge_slice=true"
          
                 },
 {
@@ -62,7 +62,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1682636927-0-0-ad0891287e9409a27aa9a29b9a907f6a&sub_m3u8=true&user_session_id=a28168016fcaf582b28ef34d17f49208&edge_slice=true"
                 }
                 
             ]
@@ -70,7 +70,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 28",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
             "teams" : "Villarreal Vs Espanyol",
@@ -85,7 +85,7 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lsd.m3u8?edge_slice=true&auth_key=1682636927-0-0-2b5fd0230f61d9e544746366ff66ccbf&user_session_id=e172b7f8418f2d7c5e6ec52de624f63e&sub_m3u8=true"
          
                 },
 {
@@ -95,7 +95,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?edge_slice=true&auth_key=1682636927-0-0-5466e0d37382f70a0edbc58216db33b9&user_session_id=db5b79d5dd9730841dbaba097f2bae22&sub_m3u8=true"
                 }
                 
             ]
@@ -113,7 +113,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lsd.m3u8?auth_key=1682636807-0-0-6afe33f893fba1e23004b77e6fbc477f&edge_slice=true&user_session_id=0458a0af9ec247253d2bed70082fd318&sub_m3u8=true"
          
                 },                     
 {
@@ -128,7 +128,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?user_session_id=631ec19cc11c8dccff7353ad19891062&auth_key=1682636807-0-0-549c0434f607685d2c8a75f9dee04837&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
@@ -179,7 +179,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lsd.m3u8?auth_key=1682636747-0-0-3a73b115d714122e66438298944bf9bc&edge_slice=true&sub_m3u8=true&user_session_id=d315dccd69876e6670377ae068fe41e3"
          
                 },                     
 {
@@ -194,7 +194,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lhd.m3u8?sub_m3u8=true&user_session_id=631bd21628ed6fee116ca07ab4fe0471&auth_key=1682636747-0-0-a32ff04a7a62521f38d3ba3e7a3403b0&edge_slice=true"
                 }
                 
             ]
@@ -212,7 +212,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?sub_m3u8=true&auth_key=1682636747-0-0-f19c15235429ab1013ef5da3f190c5f0&user_session_id=39bca7cd23a57cbda35f5748f4bfae03&edge_slice=true"
          
                 },                     
 {
@@ -227,7 +227,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?auth_key=1682636747-0-0-21370e118dd163e0841bc55b14eb1183&edge_slice=true&sub_m3u8=true&user_session_id=b392d35ebb6c13437d87be9bf94870aa"
                 }
                 
             ]
@@ -245,7 +245,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lsd.m3u8?auth_key=1682636687-0-0-33ff083781346caf67b3d8c6b1d92fa2&sub_m3u8=true&edge_slice=true&user_session_id=ce3507d09b7e24de578d94dc7f7e1bca"
          
                 },                     
 {
@@ -260,7 +260,7 @@
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lsd.m3u8?auth_key=1682636687-0-0-33ff083781346caf67b3d8c6b1d92fa2&sub_m3u8=true&edge_slice=true&user_session_id=ce3507d09b7e24de578d94dc7f7e1bca"
                 }
                 
             ]
