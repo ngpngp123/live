@@ -37,7 +37,7 @@
 {
            "league": "🏆 Serie A",
             "date": "April 28",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
             "teams" : "Lecce Vs Udinese",
@@ -47,22 +47,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?sub_m3u8=true&user_session_id=2f5c4389312e0f282c9ccf0525479a59&auth_key=1682719955-0-0-bacc11575862deb407b369dfcb7bc309&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?edge_slice=true&auth_key=1682720327-0-0-77e212e08cf564ac11b1ed5956f73e2b&user_session_id=282451c60b7d297cd56a158336e587d8&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-951508_lhd.m3u8?txSecret=3474c211222d878adcf9857784012bce&txTime=644c445b"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1682720327-0-0-1b04864fab14078cf553245d6ba29102&sub_m3u8=true&edge_slice=true&user_session_id=747b899a59042c65ab0d01f5797adeaf"
                 }
                 
             ]
