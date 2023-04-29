@@ -10,6 +10,16 @@
             "ateam" : "West Ham",
             "hotmat":"no",
             "link":[
+                         {
+                    "type": "ENGLISH SD",
+                "livelink":"http://weishuifang.com/live/streamhd4040.m3u8"
+         
+                },
+                              {
+                    "type": "ENGLISH FHD",
+                "livelink":"https://storage.googleapis.com/iziove1/mux_video_ts/index-1.m3u8"
+         
+                },
   {
                     "type": "SD",
                 "livelink":"https://sports01.livnvess.com/live/stream-115493_lhd.m3u8?txSecret=4b95aa9fe941a7887e126f42da570782&txTime=644d5477"
