@@ -207,7 +207,7 @@
 {
            "league": "🏆 Laliga",
             "date": "April 29",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
             "teams" : "Real Madrid Vs Almeria",
@@ -219,10 +219,25 @@
                     "type": "SD",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-831508_lsd.m3u8?sub_m3u8=true&auth_key=1682803895-0-0-13c3262da5eba6b607c8d0d478f9f899&user_session_id=78fa6bfb91a2cb078c795e48e010d17e&edge_slice=true"
          
-                },                     
+                },          
+{
+                    "type": "beIN SD",
+                "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/49685.ts"
+         
+                },           
 {
                     "type": "SD 2",
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?edge_slice=true&auth_key=1682803607-0-0-494fb79aaa1680afd0b4d92975ec68f1&sub_m3u8=true&user_session_id=351803c2bc309f2b4ea7c066cc95a33d"
+         
+                },
+{
+                    "type": "beIN HD",
+                "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/9.ts"
+         
+                },
+{
+                    "type": "beIN FHD",
+                "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/52269.ts"
          
                 },
 {
