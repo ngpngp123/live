@@ -181,22 +181,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-201986_lsd.m3u8?txSecret=c6edb03637eb340c7a577b173b5c4b25&txTime=644d6a07"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1682794787-0-0-4c01153a1f1bc168c3aa4d4b60831b5a&edge_slice=true&sub_m3u8=true&user_session_id=9929c4910075837d0e120e7e2a63717c"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-941508_lhd.m3u8?txSecret=24b1d911bea6c867b01f1bbbb7f86f27&txTime=644d6a07"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=f7def70d711e045ed103962d21e2e5af&edge_slice=true&sub_m3u8=true&auth_key=1682794787-0-0-cb366455cfad47c4549d7a4c5038c916"
                 }
                 
             ]
@@ -214,22 +214,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-831508_lsd.m3u8?auth_key=1682795015-0-0-6ba521c599e712b5903ddaeff6a70a61&user_session_id=2bf375460657553502deea46f7b5be0d&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1682794907-0-0-e27c403133f6737accb41268bcc00e89&user_session_id=f3e3fd60b8933b8a4d9c8f7f29c99c5f"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-831508_lhd.m3u8?auth_key=1682795015-0-0-3f6b268001622511a1b4442d5a4c1d0f&user_session_id=b49741ef5590c70e580d9b06057e7269&sub_m3u8=true&edge_slice=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1682794907-0-0-4b422884e0960138d10a643aa3c3b931&user_session_id=a55fe31598b877bee6105f7ed0e2de8c"
                 }
                 
             ]
@@ -247,22 +247,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-421651_lsd.m3u8?auth_key=1682795075-0-0-7cb96a5a1b7a19bea813f4ca14167b6e&edge_slice=true&user_session_id=58b7b3ba76ff758df3a5990fddd718bc&sub_m3u8=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lsd.m3u8?user_session_id=279af84e5e726e16ca6e93c95436f8c8&edge_slice=true&auth_key=1682794907-0-0-1e6f61fea49e1244b2aa5763a8c5e041&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-421651_lhd.m3u8?user_session_id=50e0e21cd3ee35b121b96fa07254648d&edge_slice=true&auth_key=1682795075-0-0-11cbb72bd5990fa08fb8e1f904600dea&sub_m3u8=true"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?sub_m3u8=true&user_session_id=1b70e174399877916127d07ae132716d&auth_key=1682794907-0-0-c22b5185f99273af22d8cf3dccc60a9d&edge_slice=true"
                 }
                 
             ]
