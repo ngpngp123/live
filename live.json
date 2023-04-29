@@ -260,7 +260,7 @@
 {
            "league": "🏆 Ligue 1",
             "date": "April 29",
-            "time": "9:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8576_small.png",
             "teams" : "Lille Vs AC Ajaccio",
@@ -270,22 +270,22 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?auth_key=1682800355-0-0-278736693f7bace4ae273c6f35741500&user_session_id=c4265e186a640f5a234088031ccd86ea&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lsd.m3u8?auth_key=1682800427-0-0-6b8d17e653d4618747877d5530f719f9&sub_m3u8=true&edge_slice=true&user_session_id=b66e2895342e6ff7b6109c18a5720cc9"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?sub_m3u8=true&auth_key=1682800355-0-0-0131c4e168158848f842b91425a364dc&edge_slice=true&user_session_id=d10f2fc6a938e7517ac37e9e553adcc8"
          
                 },
 {
                     "type": "HD 2",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682800427-0-0-8f4febedd8e4bded7fa67e7129fd6e0f&user_session_id=acc03e36cae704d172b3224b37bcf88b"
                 }
                 
             ]
