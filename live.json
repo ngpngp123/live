@@ -192,11 +192,7 @@
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-971508_lhd.m3u8?user_session_id=467e1132db7145cda5c04c6701bf8f7e&auth_key=1682803955-0-0-4a1f66f14441091a0aeafd2d808690fb&edge_slice=true&sub_m3u8=true"
          
                 },
-{
-                    "type": "English BT Sports HD",
-                "livelink":"http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30566&extension=ts"
-         
-                },
+
 {
                     "type": "HD 2",
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?edge_slice=true&user_session_id=f266b31327ceca78d69b5e8a50eb4bac&sub_m3u8=true&auth_key=1682803547-0-0-737417f442142c63a632c7148be3c5fd"
@@ -255,7 +251,7 @@
 {
            "league": "🏆 Bundesliga",
             "date": "April 29",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
             "teams" : "Schalke 04 Vs Werder Bremen",
