@@ -486,7 +486,7 @@
 
             "date": "April 30",
 
-            "time": "9:35 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
 
@@ -506,7 +506,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1682887247-0-0-ff16ad89b07ee8b81c6cb2baa7a2f422"
 
          
 
@@ -516,7 +516,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-118206_lsd.m3u8?sub_m3u8=true&auth_key=1682887175-0-0-7012d5cf94ebe6c02cc6cc5a54d70df7&edge_slice=true&user_session_id=e9d5c42439b4516fbe4eb01b4df5e567"
 
          
 
@@ -526,7 +526,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-118206_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682887175-0-0-3931921604550816a45c6b37d8cf6235&user_session_id=cd37a2037d61841f045896812cd12e70"
 
          
 
@@ -536,7 +536,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1682887247-0-0-1df09a4a58e1386d5beb39e675f92b68"
 
                 }
 
