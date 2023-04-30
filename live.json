@@ -406,7 +406,9 @@
 
             "date": "April 30",
 
-            "time": "7:30 PM",
+            "time": "live",
+
+
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
 
@@ -426,7 +428,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-109053_lsd.m3u8?txSecret=7d3fda7d0ef41b7ac8a83769431a7e88&txTime=644eb623"
 
          
 
@@ -446,7 +448,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-109053_lhd.m3u8?txSecret=7d3fda7d0ef41b7ac8a83769431a7e88&txTime=644eb623"
 
          
 
