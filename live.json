@@ -3,45 +3,9 @@
    
 
 
-{
-
-           "league": "🏆 Bundesliga",
-
-            "date": "April 30",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
-
-            "teams" : "Bayern München Vs Hertha BSC",
-
-            "hteam" : "Bayern München",
-
-            "ateam" : "Hertha BSC",
-
-            "hotmat":"yes",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://49c1f938208318cdf8288bc36b62472a.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lsd.m3u8?auth_key=1682881967-0-0-2f3849a58540a75cfe332acb24f1a5a1&user_session_id=b92ce2e07e569a31390a937b22077d1e&edge_slice=true&sub_m3u8=true"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-190631_lsd.m3u8?txSecret=a05d8ca61bef4b62d92a237b07cc725c&txTime=644ebe1b"
 
 
+           
 
 {
 
