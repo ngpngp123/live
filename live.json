@@ -12,54 +12,7 @@
 
 
 
-{
 
-           "league": "🏆 Ligue 1",
-
-            "date": "April 30",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
-
-            "teams" : "Monaco Vs Montpellier",
-
-            "hteam" : "Monaco",
-
-            "ateam" : "Montpellier",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-19949_lsd.m3u8?sub_m3u8=true&auth_key=1682873795-0-0-5e5d3238415c1ca4ebd985ad39f439e3&user_session_id=3df99fa4f3964093110e9f4f137e1d65&edge_slice=true"
-
-         
-
-                },                     
-
-{
-
-                    "type": "HD 1",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?sub_m3u8=true&auth_key=1682873795-0-0-c81c2b8435240e016277699d88d5a2b7&user_session_id=90fa9cb58a6da8a150f4ede0086aaac8&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-
-},
 
 {
 
@@ -102,21 +55,6 @@
 
          
 
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?auth_key=1682876027-0-0-70e3d31b4ee1e97a1d8be159abaa3e92&user_session_id=6a254d7ea804636a9f06930bfe33cf86&sub_m3u8=true&edge_slice=true"
-
-                }
-
-                
-
-            ]
-
-},
 
 {
 
