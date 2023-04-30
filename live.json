@@ -458,7 +458,7 @@
 
             "date": "April 30",
 
-            "time": "7:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
 
@@ -488,7 +488,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-520790_lsd.m3u8?edge_slice=true&auth_key=1682879027-0-0-e623fffad2effc450ae831f1584fa132&user_session_id=c815676df6d630f0a9d73550e1789e68&sub_m3u8=true"
 
          
 
@@ -498,7 +498,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-520790_lhd.m3u8?auth_key=1682879027-0-0-ceb1186f1da7eb8dd8d3841b5af218aa&user_session_id=2f8dbac3a549210337598d64eae6f57d&edge_slice=true&sub_m3u8=true"
 
          
 
