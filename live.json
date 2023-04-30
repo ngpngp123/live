@@ -1,220 +1,5 @@
 [
-
-   
-
-
-
-
-           
-
-{
-
-           "league": "🏆 Ligue 1",
-
-            "date": "April 30",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
-
-            "teams" : "PSG Vs Lorient",
-
-            "hteam" : "PSG",
-
-            "ateam" : "Lorient",
-
-            "hotmat":"yes",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1682887247-0-0-ff16ad89b07ee8b81c6cb2baa7a2f422"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-118206_lsd.m3u8?sub_m3u8=true&auth_key=1682887175-0-0-7012d5cf94ebe6c02cc6cc5a54d70df7&edge_slice=true&user_session_id=e9d5c42439b4516fbe4eb01b4df5e567"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-118206_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682887175-0-0-3931921604550816a45c6b37d8cf6235&user_session_id=cd37a2037d61841f045896812cd12e70"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1682887247-0-0-1df09a4a58e1386d5beb39e675f92b68"
-
-                }
-
-                
-
-            ]
-
-},
-
-{
-
-           "league": "🏆 Premier League",
-
-            "date": "April 30",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-
-            "teams" : "Liverpool Vs Tottenham",
-
-            "hteam" : "Liverpool",
-
-            "ateam" : "Tottenham",
-
-            "hotmat":"yes",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-121256_lsd.m3u8?txSecret=2af7eb760aac149dbe12c64bda741b0d&txTime=644ed7e3"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&user_session_id=ebc5b6792039a4fc88aa77343a39b92a&auth_key=1682888927-0-0-653b6900536257cd179d01c5b29e569a&edge_slice=true"
-
-         
-
-                },
-                     {
-
-                    "type": "vebo SD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=2af7eb760aac149dbe12c64bda741b0d&txTime=644ed7e3"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1682888927-0-0-4c05f7afec772b38b21b7299a545134b&sub_m3u8=true&edge_slice=true&user_session_id=f71f0be3ee896b77cefb2ac886562d99"
-
-                }
-
-                
-
-            ]
-
-},
-
-{
-
-           "league": "🏆 Bundesliga",
-
-            "date": "April 30",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
-
-            "teams" : "Wolfsburg Vs Mainz 05",
-
-            "hteam" : "Wolfsburg",
-
-            "ateam" : "Mainz 05",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?auth_key=1682888735-0-0-1924974aa3f95b3373db475dba323891&user_session_id=0cf59520cea9734f5341d6c44bec3521&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1682889407-0-0-febfd2a8ea5e65ec77ca2829c11ddcc3&edge_slice=true&user_session_id=e41f472d5e53379e48390dc0da4947b5&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?sub_m3u8=true&user_session_id=e8a4f1b5918027c38ad44381e49862bc&auth_key=1682888735-0-0-da734c08f5c02003442c35ecd3bde448&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1682889407-0-0-9c258450cca80ea57a9bc8b03430328a&user_session_id=f73cf08ba74073e3a4e9bfb8f43a2462"
-
-                }
-
-                
-
-            ]
-
-},
-
-{
+   {
 
            "league": "🏆 Serie A",
 
@@ -352,7 +137,7 @@
 
             "date": "May 1",
 
-            "time": "1:15 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
 
@@ -418,7 +203,7 @@
 
             "date": "May 1",
 
-            "time": "1:15 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 
@@ -484,7 +269,7 @@
 
             "date": "May 1",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
 
