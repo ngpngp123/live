@@ -189,7 +189,7 @@
                        
                        {
 
-                    "type": "beIN SD",
+                    "type": "use vpn beIN SD",
 
                 "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/9.ts"
 
@@ -286,7 +286,7 @@
                 },
                        {
 
-                    "type": "beIN SD",
+                    "type": "use vpn beIN SD",
 
                 "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/49386.ts"
 
@@ -308,7 +308,7 @@
 
 {
 
-                    "type": "beIN FHD",
+                    "type": "Vebo FHD",
 
                 "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 
