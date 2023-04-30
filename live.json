@@ -14,47 +14,6 @@
 
 
 
-{
-
-           "league": "🏆 Laliga",
-
-            "date": "April 30",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-
-            "teams" : "Cadiz Vs Valencia",
-
-            "hteam" : "Cadiz",
-
-            "ateam" : "Valencia",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lsd.m3u8?auth_key=1682876027-0-0-cb07ac13ed11b62e2e3c7997ff2a0c8c&edge_slice=true&sub_m3u8=true&user_session_id=cb77f0f49f01fbec590748b5a003494f"
-
-         
-
-                },                     
-
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-107307_lhd.m3u8?txSecret=cd220f377e4eeeac211770c9716ee082&txTime=644ea813"
-
-         
-
 
 {
 
