@@ -5,7 +5,7 @@
 
             "date": "May 1",
 
-            "time": "11:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
 
@@ -25,7 +25,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1682981195-0-0-95b0382e8a8f6155c80fb62dbe83049f&edge_slice=true&sub_m3u8=true&user_session_id=78f7abd5289e81347be5da681654bf2b"
 
          
 
@@ -35,7 +35,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?user_session_id=e7009779bb2240bbe7bd394ed606b087&sub_m3u8=true&edge_slice=true&auth_key=1682981567-0-0-355a20348301f57ee2d8fea2bef502eb"
 
          
 
@@ -45,7 +45,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682981195-0-0-121154f1e654399c61a70d3b0dabe6e9&user_session_id=90d40918c2ed9ed3155f750c9a479cf1"
 
          
 
@@ -55,7 +55,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&auth_key=1682981567-0-0-016929d8766c36aaad8d0c4344dd2289&edge_slice=true&user_session_id=81ba65ea4717be7904e984c97de50ad8"
 
                 }
 
@@ -71,7 +71,7 @@
 
             "date": "May 2",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
 
@@ -91,7 +91,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1682981627-0-0-58c403bab0edbffba800cfac3e0f4109&user_session_id=22b745147896f5555bd2462c411b2518&edge_slice=true&sub_m3u8=true"
 
          
 
@@ -101,7 +101,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-115493_lsd.m3u8?txSecret=ef64fe91fe75b49bf474b666648fd911&txTime=6450423b"
 
          
 
@@ -111,7 +111,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&auth_key=1682981627-0-0-4cdc2898c62505d5b5fb5de2ebee0735&sub_m3u8=true&user_session_id=7ff3e368b2aacbc28733fa2d5df90ada"
 
          
 
@@ -121,7 +121,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-115493_lhd.m3u8?txSecret=ef64fe91fe75b49bf474b666648fd911&txTime=6450423b"
 
                 }
 
@@ -137,7 +137,7 @@
 
             "date": "May 2",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
 
@@ -157,7 +157,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1682981687-0-0-821d339f108c15ae9a51c338b21fade6&user_session_id=c62e46240cf39bcb36c8015b243d5947&edge_slice=true&sub_m3u8=true"
 
          
 
@@ -167,7 +167,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-113906_lsd.m3u8?auth_key=1682981315-0-0-eb7b12f4fe695e7279dfb903ce2787c6&user_session_id=a6d41f7e6ff25358a1e43b3ddadf463a&sub_m3u8=true&edge_slice=true"
 
          
 
@@ -175,9 +175,9 @@
 
 {
 
-                    "type": "HD",
+                    "type": "SD",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1682981687-0-0-ba9eca2fe7bb21db82e0bd3ebef3f53d&user_session_id=1943f558e9b645000336c6ebfe3895f5&sub_m3u8=true&edge_slice=true"
 
          
 
@@ -187,7 +187,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?edge_slice=true&auth_key=1682981315-0-0-0626520b463d792ea1f79367398bd4e4&sub_m3u8=true&user_session_id=59f89f9d4d52738893f02410688d3038"
 
                 }
 
