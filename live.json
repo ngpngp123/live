@@ -408,7 +408,7 @@
 
             "date": "May 4",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
 
@@ -428,7 +428,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://49c1f938208318cdf8288bc36b62472a.livehwc3.cn/pull.juqihuo.com/live/stream-772920_lhd.m3u8?edge_slice=true&auth_key=1683161387-0-0-d989a67bd40489e08576db7cb697527a&sub_m3u8=true&user_session_id=11bdb49cc6862b89a89fe882b33a4a8a"
 
          
 
