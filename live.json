@@ -168,7 +168,16 @@
 
          
 
-                },                     
+                },           
+              {
+
+                    "type": "beIN SD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
+
+         
+
+                },
 
 {
 
@@ -234,7 +243,8 @@
 
          
 
-                },                     
+                },        
+              
 
 {
 
@@ -251,6 +261,15 @@
                     "type": "HD",
 
                 "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=9af8489cade8d89787e5de3dc0a10a48&txTime=6452fa8f"
+
+         
+
+                },
+              {
+
+                    "type": "vebo SD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 
          
 
