@@ -6,39 +6,7 @@
   
 
            
-           {
-           "league": "🏆 Laliga",
-            "date": "May 5",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-            "teams" : "Sevilla Vs Espanyol",
-            "hteam" : "Sevilla",
-            "ateam" : "Espanyol",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?sub_m3u8=true&user_session_id=4799e93c8df4f29cdf05ac04395c0321&auth_key=1683242255-0-0-ee32aae578689184749c16efcd10a90f&edge_slice=true"
-         
-                },                     
-{
-                    "type": "SD 2",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lsd.m3u8?user_session_id=42cfe04d0842fe76cb96e50f5092f830&edge_slice=true&auth_key=1683242516-0-0-b882df99544a84de6af742b65ee80423&sub_m3u8=true"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lhd.m3u8?sub_m3u8=true&auth_key=1683242456-0-0-6d74e0f16d36a0cb676846b4037fdc8e&user_session_id=bf1df4bf786b33f43aac937cbc4ac861&edge_slice=true"
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?sub_m3u8=true&user_session_id=87f810b9370c272dbf03fde6846fa917&auth_key=1683242255-0-0-32023c8e2c790349c33a28de148131f3&edge_slice=true"
-                }
-                
-            ]
-},
+
 
            {
            "league": "🏆 Serie A",
@@ -74,39 +42,7 @@
             ]
 },
 
-           {
-           "league": "🏆 Serie A",
-            "date": "May 5",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "teams" : "Udinese Vs Napoli",
-            "hteam" : "Udinese",
-            "ateam" : "Napoli",
-            "hotmat":"no",
-            "link":[
-  
-        
-              
-         
-
-{
-                    "type": "SD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-161243_lsd.m3u8?edge_slice=true&user_session_id=40b27a9c2dba88c0e9cb4fe88fbe0ce5&sub_m3u8=true&auth_key=1683243635-0-0-47e6d8f725334c8de9c36f91ca354305"
-         
-                },
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-161243_lhd.m3u8?auth_key=1683243635-0-0-56bc90fdaf483824b21ae2dcbcbf4e58&edge_slice=true&user_session_id=d548bbf956d069664bad1707e946af39&sub_m3u8=true"
-                }
-                
-            ]
-},
+           
 
            {
            "league": "🏆 Premier League",
