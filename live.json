@@ -9,7 +9,7 @@
            {
            "league": "🏆 Laliga",
             "date": "May 5",
-            "time": "12:00 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
             "teams" : "Sevilla Vs Espanyol",
@@ -24,12 +24,12 @@
                 },                     
 {
                     "type": "SD 2",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lsd.m3u8?user_session_id=42cfe04d0842fe76cb96e50f5092f830&edge_slice=true&auth_key=1683242516-0-0-b882df99544a84de6af742b65ee80423&sub_m3u8=true"
          
                 },
 {
                     "type": "HD",
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lhd.m3u8?sub_m3u8=true&auth_key=1683242456-0-0-6d74e0f16d36a0cb676846b4037fdc8e&user_session_id=bf1df4bf786b33f43aac937cbc4ac861&edge_slice=true"
          
                 },
 {
