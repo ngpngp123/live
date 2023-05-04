@@ -111,7 +111,7 @@
            {
            "league": "🏆 Premier League",
             "date": "May 5",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "teams" : "Brighton Vs Man United",
@@ -145,7 +145,8 @@
            {
            "league": "🏆 Laliga",
             "date": "May 5",
-            "time": "2:30 AM",
+            "time": "live",
+
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
             "teams" : "Athletic Club Vs Real Betis",
@@ -155,7 +156,7 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1683244796-0-0-151851877fcf50a4cb98f818d02e1b58&sub_m3u8=true&user_session_id=072f406c6570e0f87214c57533f26c75&edge_slice=true"
          
                 },                     
 {
@@ -179,7 +180,7 @@
            {
            "league": "🏆 Laliga",
             "date": "May 5",
-            "time": "2:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
             "teams" : "Rayo Vallecano Vs Real Valladolid",
@@ -189,12 +190,12 @@
             "link":[
   {
                     "type": "SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1683244856-0-0-a45773dcdfafb7084552e1b260599317"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "HD 2",
+                "livelink":"https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1683244856-0-0-773c5efc920381ab444ebf4805397560"
          
                 },
 {
