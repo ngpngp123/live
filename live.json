@@ -68,95 +68,8 @@
             ]
 
 },
-           {
-
-           "league": "🏆 Bundesliga",
-
-            "date": "May 6",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
-
-            "teams" : "Bayer Leverkusen Vs 1. FC Köln",
-
-            "hteam" : "Bayer Leverkusen",
-
-            "ateam" : "1. FC Köln",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8"
-
-         
-
-                },                     
-
+           
 {
-
-                    "type": "SD 2",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?user_session_id=ff397ba7e5fdc5b27cd233eb655b31ae&edge_slice=true&sub_m3u8=true&auth_key=1683330536-0-0-7391241f0b90a3aaf99267fcdc7f989d"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?user_session_id=929663448f75084af379669421f15ffc&sub_m3u8=true&auth_key=1683330536-0-0-b93eda913c706f6b043e2d2ed3ac22f2&edge_slice=true"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Bundesliga",
-
-            "date": "May 6",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
-
-            "teams" : "Mainz 05 Vs Schalke 04",
-
-            "hteam" : "Mainz 05",
-
-            "ateam" : "Schalke 04",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
 
                     "type": "SD",
 
@@ -198,9 +111,1001 @@
 
             ]
 
+},
+
+           {
+
+           "league": "🏆 Serie A",
+
+            "date": "May 6",
+
+            "time": "7:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+
+            "teams" : "Milan Vs Lazio",
+
+            "hteam" : "Milan",
+
+            "ateam" : "Lazio",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Bundesliga",
+
+            "date": "May 6",
+
+            "time": "8:00 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+
+            "teams" : "SC Freiburg Vs RB Leipzig",
+
+            "hteam" : "SC Freiburg",
+
+            "ateam" : "RB Leipzig",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Bundesliga",
+
+            "date": "May 6",
+
+            "time": "8:00 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
+
+            "teams" : "Hertha BSC Vs VfB Stuttgart",
+
+            "hteam" : "Hertha BSC",
+
+            "ateam" : "VfB Stuttgart",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Bundesliga",
+
+            "date": "May 6",
+
+            "time": "8:00 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
+
+            "teams" : "TSG Hoffenheim Vs Frankfurt",
+
+            "hteam" : "TSG Hoffenheim",
+
+            "ateam" : "Frankfurt",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Premier League",
+
+            "date": "May 6",
+
+            "time": "8:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+
+            "teams" : "Man City Vs Leeds",
+
+            "hteam" : "Man City",
+
+            "ateam" : "Leeds",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Premier League",
+
+            "date": "May 6",
+
+            "time": "8:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+
+            "teams" : "Bournemouth Vs Chelsea",
+
+            "hteam" : "Bournemouth",
+
+            "ateam" : "Chelsea",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Premier League",
+
+            "date": "May 6",
+
+            "time": "8:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+
+            "teams" : "Tottenham Vs Crystal Palace",
+
+            "hteam" : "Tottenham",
+
+            "ateam" : "Crystal Palace",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Premier League",
+
+            "date": "May 6",
+
+            "time": "8:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+
+            "teams" : "Wolves Vs Aston Villa",
+
+            "hteam" : "Wolves",
+
+            "ateam" : "Aston Villa",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Ligue 1",
+
+            "date": "May 6",
+
+            "time": "9:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
+
+            "teams" : "Nice Vs Rennes",
+
+            "hteam" : "Nice",
+
+            "ateam" : "Rennes",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Serie A",
+
+            "date": "May 6",
+
+            "time": "10:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+
+            "teams" : "Roma Vs Inter",
+
+            "hteam" : "Roma",
+
+            "ateam" : "Inter",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Premier League",
+
+            "date": "May 6",
+
+            "time": "11:00 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+
+            "teams" : "Liverpool Vs Brentford",
+
+            "hteam" : "Liverpool",
+
+            "ateam" : "Brentford",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Bundesliga",
+
+            "date": "May 6",
+
+            "time": "11:00 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+
+            "teams" : "Werder Bremen Vs Bayern München",
+
+            "hteam" : "Werder Bremen",
+
+            "ateam" : "Bayern München",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Ligue 1",
+
+            "date": "May 6",
+
+            "time": "11:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
+
+            "teams" : "Reims Vs Lille",
+
+            "hteam" : "Reims",
+
+            "ateam" : "Lille",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Serie A",
+
+            "date": "May 7",
+
+            "time": "1:15 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
+
+            "teams" : "Cremonese Vs Spezia",
+
+            "hteam" : "Cremonese",
+
+            "ateam" : "Spezia",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Ligue 1",
+
+            "date": "May 7",
+
+            "time": "1:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
+
+            "teams" : "Lens Vs Marseille",
+
+            "hteam" : "Lens",
+
+            "ateam" : "Marseille",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
 }
 
 
+                    
+  
 
 
   
