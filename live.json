@@ -159,7 +159,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&auth_key=1683410756-0-0-c79fa2e995eb18e45e051aa404e2c1cc&user_session_id=8bc5be87a731e2c1cac751b4b912ee54&sub_m3u8=true"
 
          
 
@@ -179,7 +179,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"."
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1683410756-0-0-4a9dd62d511c1b8fce650ed154f8ea2e&edge_slice=true&sub_m3u8=true&user_session_id=94b8a164d61f1da941f3939330243771"
 
                 }
 
@@ -225,7 +225,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?user_session_id=32b1e32f336ebeb9f58572de36d77a75&sub_m3u8=true&auth_key=1683410876-0-0-e230cd03f13f628606d424525ca49774&edge_slice=true"
 
          
 
@@ -245,7 +245,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"."
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?sub_m3u8=true&auth_key=1683410876-0-0-734fd816d38b2f06aa6bfd71dfd2a9ec&edge_slice=true&user_session_id=0f99a641940bf1fa0ca9f6f394ea13d1"
 
                 }
 
@@ -261,7 +261,7 @@
 
             "date": "May 6",
 
-            "time": "live",
+            "time": "live11:30",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
 
