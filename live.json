@@ -310,6 +310,15 @@
          
 
                 },
+                       {
+
+                    "type": "beIN SD",
+
+                "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/49685.ts"
+
+         
+
+                },
 
 {
 
@@ -384,7 +393,25 @@
 
          
 
-                },                     
+                },             
+                       {
+
+                    "type": "beIN SD",
+
+                "livelink":""
+
+         
+
+                },
+                       {
+
+                    "type": "beIN SD",
+
+                "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/49386.ts"
+
+         
+
+                },
 
 {
 
@@ -457,6 +484,27 @@
                     "type": "SD 2",
 
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-723064_lsd.m3u8?sub_m3u8=true&auth_key=1683400917-0-0-94140a8515fee8569d4e7cd3c0845f03&user_session_id=b9c62018672cedbce4991f8c21b9118f&edge_slice=true"
+
+         
+
+                },
+                       {
+
+                    "type": "beIN SD",
+
+                "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/49686.ts"
+
+         
+
+                },
+                       {
+
+                    "type": "beIN SD",
+
+                "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/11.ts"
+                                  
+                                  
+                              
 
          
 
