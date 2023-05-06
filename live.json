@@ -129,7 +129,7 @@
 
             "date": "May 6",
 
-            "time": "11:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 
@@ -149,7 +149,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991101_lsd.m3u8?sub_m3u8=true&auth_key=1683410616-0-0-3b0d617b9bc588d3ef0fdb1ac3dc3efb&user_session_id=9fc6c806038cff248ea0dca6a77ccb10&edge_slice=true"
 
          
 
@@ -169,7 +169,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991101_lhd.m3u8?user_session_id=db6a439e457624a818927e169606403f&auth_key=1683410616-0-0-59b129367c31185942e322a9f6d3c4de&sub_m3u8=true&edge_slice=true"
 
          
 
@@ -195,7 +195,7 @@
 
             "date": "May 6",
 
-            "time": "11:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
 
@@ -215,7 +215,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-190631_lsd.m3u8?txSecret=bc4944f07be8a67071bcbff6a5138688&txTime=6456cef4"
 
          
 
@@ -235,7 +235,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-190631_lhd.m3u8?txSecret=bc4944f07be8a67071bcbff6a5138688&txTime=6456cef4"
 
          
 
@@ -261,7 +261,7 @@
 
             "date": "May 6",
 
-            "time": "11:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
 
@@ -281,7 +281,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-115447_lsd.m3u8?txSecret=f00e74098cdd5ec17f0facaa4fab6ed0&txTime=6456cef4"
 
          
 
@@ -301,7 +301,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=f00e74098cdd5ec17f0facaa4fab6ed0&txTime=6456cef4"
 
          
 
