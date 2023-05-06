@@ -642,7 +642,7 @@
 
             "date": "May 6",
 
-            "time": "9:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
 
@@ -658,21 +658,13 @@
 
             "link":[
 
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105723_lsd.m3u8?edge_slice=true&auth_key=1683401496-0-0-99576dd3487874de1146a63490d393a2&user_session_id=516a5578e17268d27a65a28645a20a69&sub_m3u8=true"
-
-         
-
-                },                     
+                       
 
 {
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-106737_lsd.m3u8?txSecret=dcd3433bdd07f7f2c2a04142ff597a44&txTime=6456beee"
 
          
 
@@ -682,7 +674,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=dcd3433bdd07f7f2c2a04142ff597a44&txTime=6456beee"
 
          
 
