@@ -348,6 +348,15 @@
          
 
                 },
+                       {
+
+                    "type": "Eng D",
+
+                "livelink":"https://wbgwgsa.azureedge.net/live/usa/chunks.m3u8"
+
+         
+
+                },
 
 {
 
@@ -428,6 +437,15 @@
                     "type": "HD",
 
                 "livelink":"https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8"
+
+         
+
+                },
+                       {
+
+                    "type": "Eng SD",
+
+                "livelink":"https://wbgwgsa.azureedge.net/live/s3/chunks.m3u8"
 
          
 
@@ -519,6 +537,15 @@
          
 
                 },
+                       {
+
+                    "type": "Eng SD",
+
+                "livelink":"https://cbacsfyu.azureedge.net/live/lltv/chunks.m3u8"
+
+         
+
+                },
 
 {
 
@@ -581,6 +608,15 @@
                     "type": "HD",
 
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-421651_lhd.m3u8?user_session_id=8bb783d0e779c5d962a2f43f0a8807fc&sub_m3u8=true&edge_slice=true&auth_key=1683401196-0-0-7f49e5be131f3edd683c76b42470eacc"
+
+         
+
+                },
+                       {
+
+                    "type": "Eng HD",
+
+                "livelink":"https://cbacsfyu.azureedge.net/live/lltv/chunks.m3u8"
 
          
 
