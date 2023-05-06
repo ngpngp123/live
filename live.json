@@ -700,7 +700,7 @@
 
             "date": "May 6",
 
-            "time": "10:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
 
@@ -720,7 +720,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158841_lsd.m3u8?txSecret=73829b56fee30a800acae0a45a212e5f&txTime=6456c864"
 
          
 
@@ -730,7 +730,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?user_session_id=8d7f55a377e16ff7081b98ba1393bd90&edge_slice=true&sub_m3u8=true&auth_key=1683409077-0-0-6dea724bca5acf8749f7b5b7ca290f68"
 
          
 
@@ -740,7 +740,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158841_lhd.m3u8?txSecret=73829b56fee30a800acae0a45a212e5f&txTime=6456c864"
 
          
 
@@ -750,7 +750,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"."
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?user_session_id=f190f6fa19aee5b535e0fa510d9f53df&edge_slice=true&sub_m3u8=true&auth_key=1683409077-0-0-95079da1b5c5c31960c7f9a1031cafb8"
 
                 }
 
