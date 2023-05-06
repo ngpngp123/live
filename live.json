@@ -1,178 +1,45 @@
 [
-               
-            
+ {
 
+           "league": "MAN U",
 
-
-           {
-
-           "league": "🏆 Ligue 1",
-
-            "date": "May 6",
+            "date": "TV Channel",
 
             "time": "live",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
 
-            "teams" : "Reims Vs Lille",
+            "teams" : "Man United TV",
 
-            "hteam" : "Reims",
+            "hteam" : "MAN U",
 
-            "ateam" : "Lille",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-115447_lsd.m3u8?txSecret=f00e74098cdd5ec17f0facaa4fab6ed0&txTime=6456cef4"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lsd.m3u8?auth_key=1683412917-0-0-ad30284389ebb959daf5b00c80c6a19a&sub_m3u8=true&edge_slice=true&user_session_id=1372097798686685d77895854b02c1c7"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=f00e74098cdd5ec17f0facaa4fab6ed0&txTime=6456cef4"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lhd.m3u8?auth_key=1683412917-0-0-50ec424d4d89ce2c9db48718c37b372e&sub_m3u8=true&edge_slice=true&user_session_id=6185881cf9fe851bf4b4e2d51e85378c"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Serie A",
-
-            "date": "May 7",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
-
-            "teams" : "Cremonese Vs Spezia",
-
-            "hteam" : "Cremonese",
-
-            "ateam" : "Spezia",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-385085_lsd.m3u8?user_session_id=be8134d1afdadadef4406839dd6d0ebd&edge_slice=true&sub_m3u8=true&auth_key=1683420156-0-0-39a2119980c8862a979ead9f199f0168"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lsd.m3u8?user_session_id=b952ed266f35a5a3d39c8958325e297e&edge_slice=true&auth_key=1683420296-0-0-b14e356c28c6ce5af71b4294fc16d0f4&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lhd.m3u8?user_session_id=934a1b22cc586cf0da16e821977417c9&edge_slice=true&auth_key=1683420296-0-0-bd8539f1216de6164837a6e21302d5c6&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?user_session_id=f45314803a1f67b8cd4d00ee9dba11a6&auth_key=1683420156-0-0-67cfb4f8cb874a3dc1b9bb85f6699e4b&sub_m3u8=true&edge_slice=true"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Spain - Copa del Rey - Final",
-
-            "date": "May 7",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
-
-            "teams" : "Real Madrid Vs Osasuna",
-
-            "hteam" : "Real Madrid",
-
-            "ateam" : "Osasuna",
+            "ateam" : "TV",
 
             "hotmat":"yes",
 
             "link":[
 
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?user_session_id=6028ba35628325151d840a65196da651&edge_slice=true&sub_m3u8=true&auth_key=1683420356-0-0-28867aaabcdf8e75744bd86a27be0f71"
-
-         
-
-                },                     
+                
 
 {
 
-                    "type": "SD 2",
+                    "type": "MUTV 360 SD",
 
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991103_lsd.m3u8?user_session_id=eb100dcd46ef74c0717dc295ec9d9e96&sub_m3u8=true&auth_key=1683420216-0-0-4f96daf1f9db1cc726155a0b8ab75b48&edge_slice=true"
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+
+         
+
+                },
+
+                
+
+{
+
+                    "type": "MUTV 240 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
 
          
 
@@ -180,9 +47,9 @@
 
 {
 
-                    "type": "HD",
+                    "type": "MUTV 540 HD",
 
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?user_session_id=d2edfa72bd02c7864c1922f91d251b95&edge_slice=true&sub_m3u8=true&auth_key=1683420356-0-0-8da4fc24ffa393558c89dfc0dc2546e8"
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
 
          
 
@@ -190,31 +57,27 @@
 
 {
 
-                    "type": "HD 2",
+                    "type": "MAN U TV 1080HD",
 
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991103_lhd.m3u8?sub_m3u8=true&auth_key=1683420216-0-0-7f518865f58fa1fc14dff972949c4554&user_session_id=54a46fd1d1fd4abab0055ec4b5ea16a6&edge_slice=true"
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
 
                 }
-                       
-                       
 
                 
 
             ]
 
-}
+}         
+            
 
 
-                    
-  
-
-
-  
 
            
 
+                    
 
             
+                
                 
             
                
