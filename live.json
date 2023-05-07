@@ -206,7 +206,7 @@
 
             "date": "May 7",
 
-            "time": "7:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
 
@@ -226,7 +226,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991101_lsd.m3u8?sub_m3u8=true&auth_key=1683484617-0-0-519ce384f1942cf7e1abc1e75cd0881f&edge_slice=true&user_session_id=f30a7dc4adb312f5bd51ecab0e19f010"
 
          
 
@@ -246,7 +246,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991101_lhd.m3u8?sub_m3u8=true&user_session_id=0ac17ac4ed61d7019e240fe136a275b8&edge_slice=true&auth_key=1683484617-0-0-c16c188a8696e8f954a759477548d389"
 
          
 
@@ -272,7 +272,7 @@
 
             "date": "May 7",
 
-            "time": "7:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
 
@@ -292,7 +292,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991102_lsd.m3u8?sub_m3u8=true&auth_key=1683484656-0-0-9495aa38fa0d79de631a0ed27eaf6779&user_session_id=476fad326252c8b7e88423babddb8244&edge_slice=true"
 
          
 
@@ -312,7 +312,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991102_lhd.m3u8?sub_m3u8=true&user_session_id=2e6d1cdcd00bcaf4cb567b343dbba7fc&auth_key=1683484656-0-0-f66eb15efdc7d88e2c21512469d23c50&edge_slice=true"
 
          
 
@@ -338,7 +338,7 @@
 
             "date": "May 7",
 
-            "time": "7:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
 
@@ -358,7 +358,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158841_lsd.m3u8?txSecret=f6e3c2d239b55f7597ddd917710d0363&txTime=6457f02c"
 
          
 
@@ -378,7 +378,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158841_lhd.m3u8?txSecret=f6e3c2d239b55f7597ddd917710d0363&txTime=6457f02c"
 
          
 
