@@ -2,240 +2,8 @@
 
 
                     
-           {
 
-           "league": "🏆 Ligue 1",
-
-            "date": "May 7",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
-
-            "teams" : "Lyon Vs Montpellier",
-
-            "hteam" : "Lyon",
-
-            "ateam" : "Montpellier",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-143449_lsd.m3u8?txSecret=f18353a2453f92cdf6cce60fca0d9dda&txTime=64580b98"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lsd.m3u8?edge_slice=true&auth_key=1683491817-0-0-a2b58337d5a55ba876c4d0cb08783dc1&sub_m3u8=true&user_session_id=053732a90f0463ec2b94c011d48a830e"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=f18353a2453f92cdf6cce60fca0d9dda&txTime=64580b98"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?edge_slice=true&auth_key=1683491817-0-0-e7c279b22f11e7756b548e6c1b325127&sub_m3u8=true&user_session_id=e1335092cb6f6e181e0677741758bdef"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Premier League",
-
-            "date": "May 7",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-
-            "teams" : "Newcastle Vs Arsenal",
-
-            "hteam" : "Newcastle",
-
-            "ateam" : "Arsenal",
-
-            "hotmat":"yes",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-118582_lsd.m3u8?txSecret=c47c2d225e9269c3969c52c2669fefa5&txTime=64581c00"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?user_session_id=3866f10449b871c2d8beab310330cbfe&auth_key=1683493437-0-0-eb4229efd808e94a5b348a4dfdf50604&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },
-              {
-
-                    "type": "Vebo SD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-
-         
-
-                },
-              {
-
-                    "type": "Vebo Hd",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991101_lhd.m3u8?sub_m3u8=true&auth_key=1683493176-0-0-c072f485042d0ed0329c9f9d3aba4345&edge_slice=true&user_session_id=5cc418107f0b4fcdd571150c53618996"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1683493437-0-0-414c76498e8974cbc7c7f6c494945ce1&sub_m3u8=true&user_session_id=41aad8a9bde2fc0d797e8327cc535bbc&edge_slice=true"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Bundesliga",
-
-            "date": "May 7",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
-
-            "teams" : "Dortmund Vs Wolfsburg",
-
-            "hteam" : "Dortmund",
-
-            "ateam" : "Wolfsburg",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-901508_lsd.m3u8?txSecret=fdd32fbb9c72f4cfa0245cf534791473&txTime=64581174"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1683493497-0-0-dddbe8fffb8a94cb35625454af12dc8d&user_session_id=0a8b9d363788bdb9e9a80274104fe45f&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },
-              {
-
-                    "type": "Vebo SD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/phoSD/chunklist.m3u8"
-
-         
-
-                },
-              {
-
-                    "type": "Vebo HD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-901508_lhd.m3u8?txSecret=fdd32fbb9c72f4cfa0245cf534791473&txTime=64581174"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1683493497-0-0-fdcef8938e9acadcad09e0b18f0b9c71&user_session_id=f09a968c86e19432797254bd5c4c0e0c"
-
-                }
-
-                
-
-            ]
-
-},
-
+                    
            {
 
            "league": "🏆 Serie A",
@@ -308,7 +76,7 @@
 
             "date": "May 8",
 
-            "time": "12:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
 
@@ -374,7 +142,7 @@
 
             "date": "May 8",
 
-            "time": "1:15 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
 
@@ -440,7 +208,7 @@
 
             "date": "May 8",
 
-            "time": "1:15 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
 
