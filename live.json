@@ -104,7 +104,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&user_session_id=378a9884469d3594646666a4406095f8&auth_key=1683476217-0-0-944481348db83561d8a780b8866d3353&edge_slice=true"
 
          
 
@@ -124,7 +124,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"."
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&auth_key=1683476157-0-0-3fa416dbd133af9ea152f7d0ecf6489f&user_session_id=df4818945f1fad378ce01c2126538b8b&edge_slice=true"
 
                 }
 
@@ -140,7 +140,7 @@
 
             "date": "May 7",
 
-            "time": "5:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
 
@@ -160,7 +160,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?user_session_id=5bc744140f728959001c84ffcba0810d&auth_key=1683476076-0-0-6387530f2e5f10bf969b90650cb03257&sub_m3u8=true&edge_slice=true"
 
          
 
@@ -180,7 +180,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?user_session_id=5bc744140f728959001c84ffcba0810d&auth_key=1683476076-0-0-6387530f2e5f10bf969b90650cb03257&sub_m3u8=true&edge_slice=true"
 
          
 
