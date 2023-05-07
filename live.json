@@ -109,6 +109,24 @@
          
 
                 },
+              {
+
+                    "type": "Vebo SD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+
+         
+
+                },
+              {
+
+                    "type": "Vebo Hd",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+
+         
+
+                },
 
 {
 
@@ -171,6 +189,24 @@
                     "type": "SD 2",
 
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1683493497-0-0-dddbe8fffb8a94cb35625454af12dc8d&user_session_id=0a8b9d363788bdb9e9a80274104fe45f&sub_m3u8=true&edge_slice=true"
+
+         
+
+                },
+              {
+
+                    "type": "Vebo SD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/phoSD/chunklist.m3u8"
+
+         
+
+                },
+              {
+
+                    "type": "Vebo HD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8"
 
          
 
