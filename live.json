@@ -1,140 +1,13 @@
 [
-{
 
-           "league": "MAN U",
-
-            "date": "TV Channel",
-
-            "time": "live",
-
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-
-            "teams" : "Man United TV",
-
-            "hteam" : "MAN U",
-
-            "ateam" : "TV",
-
-            "hotmat":"yes",
-
-            "link":[
-
-                
-
-{
-
-                    "type": "MUTV 360 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-
+                    
          
 
-                },
+               
 
-                
 
-{
 
-                    "type": "MUTV 240 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MUTV 540 HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MAN U TV 1080HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Premier League",
-
-            "date": "May 8",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-
-            "teams" : "Fulham Vs Leicester City",
-
-            "hteam" : "Fulham",
-
-            "ateam" : "Leicester City",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?sub_m3u8=true&user_session_id=ff72a1b56bff808852eb0d194dae247d&auth_key=1683574776-0-0-3648342f6b781f5a042e88789a2b02f4&edge_slice=true"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-3378908_lsd.m3u8?auth_key=1683574857-0-0-73a0b8c0ad43632676b3f79b95ae4460&edge_slice=true&sub_m3u8=true&user_session_id=494f0f15a2dc036f736a66308dac6c19"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?sub_m3u8=true&user_session_id=dc4d89f6f20d8b823117acbb61c49c6f&auth_key=1683574776-0-0-139935d492468aa26feac521e43ec07a&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-3378908_lhd.m3u8?auth_key=1683574857-0-0-c1d1aa06fc1a6607c9c7516a0e8ad8a9&edge_slice=true&sub_m3u8=true&user_session_id=0c3c23b90b50b64bb7f170573f4e0b59"
-
-                }
-
-                
-
-            ]
-
-},
-
+                    
            {
 
            "league": "🏆 Saudi Pro League",
@@ -206,7 +79,7 @@
 
             "date": "May 8",
 
-            "time": "11:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
 
@@ -226,7 +99,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-951508_lsd.m3u8?auth_key=1683584376-0-0-bb961596df616a77335ece9305e5254b&user_session_id=87dfbff7122d0cccf7df72619bdbad17&sub_m3u8=true&edge_slice=true"
 
          
 
@@ -246,7 +119,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-951508_lhd.m3u8?sub_m3u8=true&user_session_id=43a82555344700a6a9ff3742decba2ae&auth_key=1683584376-0-0-1f7f471dab347da4aa8167f1b87fc720&edge_slice=true"
 
          
 
@@ -272,7 +145,7 @@
 
             "date": "May 8",
 
-            "time": "11:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
 
@@ -292,7 +165,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?auth_key=1683584316-0-0-3a528901904d0b9ae0829e4118449986&user_session_id=96f60eec48a710700c56e7bdf5914910&sub_m3u8=true&edge_slice=true"
 
          
 
@@ -312,7 +185,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991101_lsd.m3u8?auth_key=1683584136-0-0-2a1a0a35e95c27527b65587cc03fd3d3&edge_slice=true&user_session_id=39554ff9e186b568169e9ffe3776aece&sub_m3u8=true"
 
          
 
