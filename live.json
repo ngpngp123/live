@@ -259,9 +259,9 @@
 
            "league": "🏆 Serie A",
 
-            "date": "May 9",
+            "date": "May 9(1:15AM)",
 
-            "time": "1:15 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
 
@@ -281,7 +281,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-778499_lsd.m3u8?user_session_id=07f25e3b61c25c5ed64bb76d52c61515&sub_m3u8=true&auth_key=1683585357-0-0-a3420c3a91498cbf1c3e1d4734fde92f&edge_slice=true"
 
          
 
@@ -301,7 +301,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-778499_lhd.m3u8?edge_slice=true&auth_key=1683585357-0-0-005ad6f7d01fed98855efefe7dba3181&sub_m3u8=true&user_session_id=9e803299ca8b9efb40118d2b2284d3a2"
 
          
 
@@ -347,7 +347,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&user_session_id=c04c36543249f4bff950d643c597f54a&auth_key=1683585357-0-0-846029567ab7f753f551b7f3c1c95f14&edge_slice=true"
 
          
 
@@ -367,7 +367,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&auth_key=1683585357-0-0-bf88c7970fb18dd9d634ce5626619474&user_session_id=fbcf632df99749ccfe8f11e925b07af1&edge_slice=true"
 
          
 
