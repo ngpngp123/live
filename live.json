@@ -1,42 +1,45 @@
 [
+ {
 
-{
+           "league": "MAN U",
 
-           "league": "🏆 Saudi Pro League",
-
-            "date": "May 8",
+            "date": "TV Channel",
 
             "time": "live",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/550433_small.png",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
 
-            "teams" : "Al Nassr FC Vs Al Khaleej",
+            "teams" : "Man United TV",
 
-            "hteam" : "Al Nassr FC",
+            "hteam" : "MAN U",
 
-            "ateam" : "Al Khaleej",
+            "ateam" : "TV",
 
-            "hotmat":"no",
+            "hotmat":"yes",
 
             "link":[
 
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-160430_lsd.m3u8?auth_key=1683582216-0-0-e3e33d25d530e778e7581f6c71c625ff&edge_slice=true&sub_m3u8=true&user_session_id=8de23729a1eadecf7373d8dd19136005"
-
-         
-
-                },                     
+                
 
 {
 
-                    "type": "SD 2",
+                    "type": "MUTV 360 SD",
 
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?edge_slice=true&user_session_id=a4e5c9145f3b983afa90eaf13b558b47&sub_m3u8=true&auth_key=1683582417-0-0-b7f638fb851ec7f2f809a90db9b02cdc"
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+
+         
+
+                },
+
+                
+
+{
+
+                    "type": "MUTV 240 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
 
          
 
@@ -44,9 +47,9 @@
 
 {
 
-                    "type": "HD",
+                    "type": "MUTV 540 HD",
 
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-160430_lhd.m3u8?auth_key=1683582216-0-0-0bb468678415f0fda9d1336fbac4321a&edge_slice=true&sub_m3u8=true&user_session_id=b058dc0e58f3498bc59bb7d59c525807"
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
 
          
 
@@ -54,9 +57,9 @@
 
 {
 
-                    "type": "HD 2",
+                    "type": "MAN U TV 1080HD",
 
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?auth_key=1683582357-0-0-51c96b20fa6d5cc7e7c31d2be7439209&sub_m3u8=true&edge_slice=true&user_session_id=4d5c70ec4d93165cc659f17576f50318"
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
 
                 }
 
@@ -64,327 +67,5 @@
 
             ]
 
-},
-           {
-
-           "league": "🏆 Premier League",
-
-            "date": "May 8",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-
-            "teams" : "Brighton Vs Everton",
-
-            "hteam" : "Brighton",
-
-            "ateam" : "Everton",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-951508_lsd.m3u8?auth_key=1683584376-0-0-bb961596df616a77335ece9305e5254b&user_session_id=87dfbff7122d0cccf7df72619bdbad17&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?auth_key=1683584577-0-0-2986a18f361e22969ecd171ff7edc2f1&user_session_id=30f3012a1423f2691c3fad77f33a03b7&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-951508_lhd.m3u8?sub_m3u8=true&user_session_id=43a82555344700a6a9ff3742decba2ae&auth_key=1683584376-0-0-1f7f471dab347da4aa8167f1b87fc720&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?auth_key=1683584577-0-0-36cfc27b2c912fdee20f9c0201270086&user_session_id=63e57ce52e2e5a7e04b7b8611af8c636&sub_m3u8=true&edge_slice=true"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Serie A",
-
-            "date": "May 8",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-
-            "teams" : "Empoli Vs Salernitana",
-
-            "hteam" : "Empoli",
-
-            "ateam" : "Salernitana",
-
-            "hotmat":"no",
-
-            "link":[
-
-                       
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-778499_lsd.m3u8?sub_m3u8=true&auth_key=1683584697-0-0-afd9719a41282bae040ba20fad8b600e&edge_slice=true&user_session_id=8ace88afcd8d86959c456c38cbe76c31"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991101_lsd.m3u8?auth_key=1683584136-0-0-2a1a0a35e95c27527b65587cc03fd3d3&edge_slice=true&user_session_id=39554ff9e186b568169e9ffe3776aece&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull.juqihuo.com/live/stream-778499_lhd.m3u8?auth_key=1683584697-0-0-7853fe26d626a406d9dcfa6a4db7350a&edge_slice=true&sub_m3u8=true&user_session_id=e61391ef5cc08e883b9046463f6fab4d"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Serie A",
-
-            "date": "May 8",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
-
-            "teams" : "Udinese Vs Sampdoria",
-
-            "hteam" : "Udinese",
-
-            "ateam" : "Sampdoria",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lhd.m3u8?user_session_id=0ac8776e5b62317ced38c619e4208a99&edge_slice=true&sub_m3u8=true&auth_key=1683584637-0-0-0f1b54a42f9886f6478074e0a6af08b8"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?user_session_id=649371fb0096cf2a6084cc9f788811c5&edge_slice=true&auth_key=1683585036-0-0-58bb308c61d89d11bb4c73be69473676&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lsd.m3u8?edge_slice=true&auth_key=1683584637-0-0-02401c298df1ccce1be75dbbc7b74d9f&sub_m3u8=true&user_session_id=7971118c0f92818c6f104d1d1df3b13c"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?edge_slice=true&auth_key=1683585036-0-0-0767242bb6994addf84a7a8d1519e961&user_session_id=91df383b1b7fa4b2da2e7766321e2f9c&sub_m3u8=true"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Serie A",
-
-            "date": "May 9(1:15AM)",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-
-            "teams" : "Sassuolo Vs Bologna",
-
-            "hteam" : "Sassuolo",
-
-            "ateam" : "Bologna",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-778499_lsd.m3u8?user_session_id=07f25e3b61c25c5ed64bb76d52c61515&sub_m3u8=true&auth_key=1683585357-0-0-a3420c3a91498cbf1c3e1d4734fde92f&edge_slice=true"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-161243_lsd.m3u8?edge_slice=true&auth_key=1683585096-0-0-53f81a8302502d2beaaa2a221bf73d8c&user_session_id=9cedfabf736d18da0ac00ee7a5ef1bd4&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-778499_lhd.m3u8?edge_slice=true&auth_key=1683585357-0-0-005ad6f7d01fed98855efefe7dba3181&sub_m3u8=true&user_session_id=9e803299ca8b9efb40118d2b2284d3a2"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-161243_lhd.m3u8?auth_key=1683585096-0-0-c6bc6fa99478de32f6a6b259b8e0c8b0&user_session_id=e9b0bd5a0d7a5b837ff75f46071daf27&edge_slice=true&sub_m3u8=true"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Premier League",
-
-            "date": "May 9(1:15AM)",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
-
-            "teams" : "Nottingham Forest Vs Southampton",
-
-            "hteam" : "Nottingham Forest",
-
-            "ateam" : "Southampton",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&user_session_id=c04c36543249f4bff950d643c597f54a&auth_key=1683585357-0-0-846029567ab7f753f551b7f3c1c95f14&edge_slice=true"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991101_lsd.m3u8?auth_key=1683585096-0-0-93338a0046da56a0fa22800843d9d0db&sub_m3u8=true&edge_slice=true&user_session_id=44ea0c03619b2c1db7b66ab3484f32d1"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&auth_key=1683585357-0-0-bf88c7970fb18dd9d634ce5626619474&user_session_id=fbcf632df99749ccfe8f11e925b07af1&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991101_lhd.m3u8?auth_key=1683585096-0-0-135172a7d804aa3dbb1577bec989f844&edge_slice=true&user_session_id=ddbd4834c858f224190288d9e3b49e34&sub_m3u8=true"
-
-               }
-               ]
-               }
- 
-]            
-                    
-
-                    
-                    
+}   
+]
