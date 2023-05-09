@@ -70,142 +70,20 @@
 },
  
 
-           {
+           
+                
 
-           "league": "🏆 Champions League Semi Final",
-
-            "date": "May 10",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-
-            "teams" : "Real Madrid Vs Man City",
-
-            "hteam" : "Real Madrid",
-
-            "ateam" : "Man City",
-
-            "hotmat":"yes",
-
-            "link":[
-             {
-
-                    "type": "Eng SD",
-
-                "livelink":"https://179720687.global.cdnfastest.com/live/sd-pxwrxlhxwk4yryk/chunklist_w595359004.m3u8"
-
-         
-
-                },
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1683677179-0-0-c9a115eb0d1e8f98813bd8d5b21af609&sub_m3u8=true&user_session_id=71fc03ae0412af1902a01f90a48c279d&edge_slice=true"
-
-         
-
-                },
-             {
-
-                    "type": "Vietnam SD",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-385085_lsd.m3u8?sub_m3u8=true&auth_key=1683678696-0-0-3dd11dd97c8178b8003c214c97b574f5&edge_slice=true&user_session_id=2bd6704e3609da56e9ac4e36683f94be"
-
-         
-
-                },
-{
-
-                    "type": "Eng FHD",
-
-                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-pxwrxlhxwk4yryk/chunklist_w1669059310.m3u8"
-
-         
-
-                },
-{
-
-                    "type": "HD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-
-         
-
-                },
-             {
-
-                    "type": "MATH 🇷🇺",
-
-                "livelink":"https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8"
-
-         
-
-                },
              
-             {
+             
+             
+             
+             
 
-                    "type": "Vietnam HD",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?user_session_id=c1404a215e10bc90dbb27acb19d3dd6b&auth_key=1683678696-0-0-c8ba87da7a08f305cbb1391bd2247add&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },
-             {
-
-                    "type": "Vebo FHD",
-
-                "livelink":"https://287827193.global.cdnfastest.com/live/258c46d73039d134f219428814c0fcdb8cf/chunklist.m3u8"
-
-         
-
-                },
-             {
-
-                    "type": "beIN HD",
-
-                "livelink":"https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8"
-         
-
-                },
-             {
-
-                    "type": "Emg HD",
-
-                "livelink":"https://xsdgbdfh.azureedge.net/live/s1/chunks.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1683677179-0-0-71a3cd6c38718f0e9a26ae7d0a713657&sub_m3u8=true&user_session_id=1d08852eedd3d02f59bfb86e749220da&edge_slice=true"
-
-                }
+                    
 
                 
 
-            ]
-
-},
+            
  
 
            {
