@@ -91,6 +91,15 @@
             "hotmat":"yes",
 
             "link":[
+             {
+
+                    "type": "Eng SD",
+
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-pxwrxlhxwk4yryk/chunklist_w595359004.m3u8"
+
+         
+
+                },
 
   {
 
@@ -120,7 +129,15 @@
          
 
                 },
+{
 
+                    "type": "Eng FHD",
+
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-pxwrxlhxwk4yryk/chunklist_w1669059310.m3u8"
+
+         
+
+                },
 {
 
                     "type": "HD",
