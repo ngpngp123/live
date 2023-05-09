@@ -76,7 +76,7 @@
 
             "date": "May 10",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
 
@@ -96,7 +96,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 
          
 
@@ -106,7 +106,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1683677179-0-0-c9a115eb0d1e8f98813bd8d5b21af609&sub_m3u8=true&user_session_id=71fc03ae0412af1902a01f90a48c279d&edge_slice=true"
 
          
 
@@ -116,7 +116,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 
          
 
@@ -126,7 +126,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"."
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1683677179-0-0-71a3cd6c38718f0e9a26ae7d0a713657&sub_m3u8=true&user_session_id=1d08852eedd3d02f59bfb86e749220da&edge_slice=true"
 
                 }
 
