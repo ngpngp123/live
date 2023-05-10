@@ -127,8 +127,16 @@
 
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-678199_lhd.m3u8?auth_key=1683740360-0-0-fff06fbaf548b30917232240d41f62e0&edge_slice=true&user_session_id=1652a28b10abb19d53a3267066863162&sub_m3u8=true"
 
-                }
+                },
+{
 
+                    "type": "FHD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
+
+         
+
+                }
                 
 
             ]
@@ -193,8 +201,16 @@
 
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-309440_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1683740360-0-0-6cf9ad5137ebf558433ce67367b4802a&user_session_id=7fffdd4ecd1f99a1c830016bc4e9c261"
 
-                }
+                },
+{
 
+                    "type": "FHD",
+
+                "livelink":"https://179672673.global.cdnfastest.com/live/cuonFHD/chunklist.m3u8"
+
+         
+
+                }
                 
 
             ]
