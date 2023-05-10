@@ -110,9 +110,9 @@
 
            "league": "🏆 Champions League Semi Final",
 
-            "date": "May 11",
+            "date": "May 11(1:30AM)",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
 
@@ -153,6 +153,24 @@
                     "type": "HD",
 
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1683760519-0-0-373a7b537f401b01273ef36ca5bce6ba&user_session_id=aa8d80230dc4e92487381fb577bff709"
+
+         
+
+                },
+             {
+
+                    "type": "Vietnam HD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+
+         
+
+                },
+             {
+
+                    "type": "Vietnam SD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 
          
 
