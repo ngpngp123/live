@@ -70,71 +70,10 @@
 },
  
 
-           {
+           
+  
 
-           "league": "🏆 Southeast Asia Games",
 
-            "date": "May 10",
-
-            "time": "3:30 PM",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/230139.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
-
-            "teams" : "Philippines Vs Myanmar",
-
-            "hteam" : "Philippines U22",
-
-            "ateam" : "Myanmar U22",
-
-            "hotmat":"yes",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":""
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"."
-
-                }
-
-                
-
-            ]
-
-},
            {
 
            "league": "🏆 Southeast Asia Games",
@@ -161,7 +100,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-122591_lsd.m3u8?txSecret=a5ab08dea4106460b356865c929fb005&txTime=645bab40"
 
          
 
@@ -171,7 +110,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-455861_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f82dd1e7e912cc1021ee8e41b6080f7a&auth_key=1683729499-0-0-5506bc46282889bb6aa62045932d8350"
 
          
 
@@ -181,7 +120,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-122591_lhd.m3u8?txSecret=a5ab08dea4106460b356865c929fb005&txTime=645bab40"
 
          
 
@@ -191,7 +130,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"."
+                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-455861_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7cab2123215b64a29c8dfdf19a0ed7d1&auth_key=1683729499-0-0-b89aa78bde03f02ae6337ad17e13c208"
 
                 }
 
