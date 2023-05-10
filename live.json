@@ -69,30 +69,25 @@
 
 },
  
-
-           
-  
-
-
            {
 
            "league": "🏆 Southeast Asia Games",
 
             "date": "May 10",
 
-            "time": "4:30 PM",
+            "time": "6:30 PM",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/230139.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/620747_small.png",
 
-            "teams" : "Thailand U22 Vs Vietnam U22",
+            "teams" : "Philippines U22 Vs Myanmar U22",
 
-            "hteam" : "Thailand U22",
+            "hteam" : "Philippines U22",
 
-            "ateam" : "Vietnam U22",
+            "ateam" : "Myanmar U22",
 
-            "hotmat":"no",
+            "hotmat":"yes",
 
             "link":[
 
@@ -100,7 +95,7 @@
 
                     "type": "SD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-122591_lsd.m3u8?txSecret=a5ab08dea4106460b356865c929fb005&txTime=645bab40"
+                "livelink":""
 
          
 
@@ -110,7 +105,7 @@
 
                     "type": "SD 2",
 
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-455861_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f82dd1e7e912cc1021ee8e41b6080f7a&auth_key=1683729499-0-0-5506bc46282889bb6aa62045932d8350"
+                "livelink":""
 
          
 
@@ -120,7 +115,7 @@
 
                     "type": "HD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-122591_lhd.m3u8?txSecret=a5ab08dea4106460b356865c929fb005&txTime=645bab40"
+                "livelink":""
 
          
 
@@ -130,7 +125,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-455861_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7cab2123215b64a29c8dfdf19a0ed7d1&auth_key=1683729499-0-0-b89aa78bde03f02ae6337ad17e13c208"
+                "livelink":"."
 
                 }
 
@@ -139,6 +134,82 @@
             ]
 
 },
+
+           {
+
+           "league": "🏆 Southeast Asia Games",
+
+            "date": "May 10",
+
+            "time": "6:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/624480_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6324.png",
+
+            "teams" : "Cambodia U22 Vs Indonesia U22",
+
+            "hteam" : "Cambodia U22",
+
+            "ateam" : "Indonesia U22",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+
+           
+  
+
+
+           
+         
+
+                
 
 
            
