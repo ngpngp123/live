@@ -67,7 +67,8 @@
 
             ]
 
-},
+}
+ ]
  
            
             
@@ -106,87 +107,5 @@
             
  
 
-           {
-
-           "league": "🏆 Champions League Semi Final",
-
-            "date": "May 11(1:30AM)",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-
-            "teams" : "AC Milan Vs Inter",
-
-            "hteam" : "AC Milan",
-
-            "ateam" : "Inter",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1683760519-0-0-4200b9c6f62c8471946335c2fdc886d0&user_session_id=50b53d2a0c019ea192157ea5c9355b25"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991108_lsd.m3u8?edge_slice=true&auth_key=1683760476-0-0-15ed982fb00e9cfe6c982e520e87aa72&sub_m3u8=true&user_session_id=812427b4adb59de764f7126c1f616a87"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1683760519-0-0-373a7b537f401b01273ef36ca5bce6ba&user_session_id=aa8d80230dc4e92487381fb577bff709"
-
-         
-
-                },
-             {
-
-                    "type": "Vietnam HD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-
-         
-
-                },
-             {
-
-                    "type": "Vietnam SD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991108_lhd.m3u8?auth_key=1683760416-0-0-d32e7bc70e3bced8b770dfcc0ea67e41&sub_m3u8=true&edge_slice=true&user_session_id=a43f5d057705b3d49a95fe07fba5dce6"
-
-                }
-
-                
-
-            ]
-
-}
-]
+           
+                    
