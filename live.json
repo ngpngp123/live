@@ -150,7 +150,7 @@
 
             "date": "May 11",
 
-            "time": "6:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/624147_small.png",
 
@@ -170,37 +170,24 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991108_lsd.m3u8?auth_key=1683829536-0-0-52c1c6371b9afe2fd0abb2bd7e0643f1&sub_m3u8=true&user_session_id=4caeed38d268d06802797709186415a2&edge_slice=true"
 
          
 
                 },                     
 
-{
 
-                    "type": "SD 2",
 
-                "livelink":""
-
-         
-
-                },
-
+                    
 {
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991108_lhd.m3u8?auth_key=1683829536-0-0-c84aceeece924ab1c4c49359e83d41c6&edge_slice=true&sub_m3u8=true&user_session_id=ab5101ae861fac2201bad2550c94e180"
 
          
 
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":""
+                
 
                 }
 
