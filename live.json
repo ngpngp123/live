@@ -128,8 +128,16 @@
 
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&auth_key=1683815479-0-0-f4baa2d7719577a3fff2a843e977a924&user_session_id=be0ea3fa5b82a420f22d8687177ad8ad&sub_m3u8=true"
 
-                }
+                },
+{
 
+                    "type": "FHD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+
+         
+
+                }
                 
 
             ]
