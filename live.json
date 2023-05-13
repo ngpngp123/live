@@ -1,130 +1,8 @@
 [
- {
-
-           "league": "MAN U",
-
-            "date": "TV Channel",
-
-            "time": "live",
-
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-
-            "teams" : "Man United TV",
-
-            "hteam" : "MAN U",
-
-            "ateam" : "TV",
-
-            "hotmat":"yes",
-
-            "link":[
-
-                
-
-{
-
-                    "type": "MUTV 360 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-
-         
-
-                },
-
-                
-
-{
-
-                    "type": "MUTV 240 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MUTV 540 HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MAN U TV 1080HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-                }
-
-                
-
-            ]
-
-},
  
 
-           {
+                    
 
-           "league": "🏆 SEA Games Semi Final",
-
-            "date": "May 13",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6324.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/624147_small.png",
-
-            "teams" : "Indonesia U22 Vs Vietnam U22",
-
-            "hteam" : "Indonesia U22",
-
-            "ateam" : "Vietnam U22",
-
-            "hotmat":"yes",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991118_lsd.m3u8?txSecret=902cebc381473189fef12feb53a16a18&txTime=645fa86c"
-
-         
-
-                },                     
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=902cebc381473189fef12feb53a16a18&txTime=645fa86c"
-
-         
-
-                },
-
-{
-
-                    "type": "FHD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
-
-                }
-
-                
-
-            ]
-
-},
  
            {
 
@@ -265,7 +143,7 @@
 
             "date": "May 13",
 
-            "time": "7:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/620738_small.png",
 
