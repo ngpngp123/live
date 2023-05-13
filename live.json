@@ -200,6 +200,73 @@
             ]
 
 },
+ 
+
+           {
+
+           "league": "🏆 SEA Games Semi Final",
+
+            "date": "May 13",
+
+            "time": "7:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/620738_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/620747_small.png",
+
+            "teams" : "Thailand U22 Vs Myanmar U22",
+
+            "hteam" : "Thailand U22",
+
+            "ateam" : "Myanmar U22",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
 
            {
 
