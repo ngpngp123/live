@@ -689,7 +689,7 @@
 
             "date": "May 13",
 
-            "time": "8:45 PM",
+            "time": "ူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူူ",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
 
@@ -709,7 +709,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-115447_lsd.m3u8?sub_m3u8=true&auth_key=1684009296-0-0-e7d371ff7fc9cd263725053a0a056f81&user_session_id=c7568278df637878049a012f2c186950&edge_slice=true"
 
          
 
@@ -739,7 +739,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-115447_lhd.m3u8?sub_m3u8=true&auth_key=1684009296-0-0-c1eea1876cf5348eda95843003ad5ccc&user_session_id=a2f608f5f8f539a1b9e149b3e44dc719&edge_slice=true"
 
                 }
 
