@@ -69,6 +69,63 @@
 
 },
  
+
+           {
+
+           "league": "🏆 SEA Games Semi Final",
+
+            "date": "May 13",
+
+            "time": "live",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6324.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/624147_small.png",
+
+            "teams" : "Indonesia U22 Vs Vietnam U22",
+
+            "hteam" : "Indonesia U22",
+
+            "ateam" : "Vietnam U22",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-991118_lsd.m3u8?txSecret=902cebc381473189fef12feb53a16a18&txTime=645fa86c"
+
+         
+
+                },                     
+
+{
+
+                    "type": "HD",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=902cebc381473189fef12feb53a16a18&txTime=645fa86c"
+
+         
+
+                },
+
+{
+
+                    "type": "FHD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
+
+                }
+
+                
+
+            ]
+
+},
+ 
            {
 
            "league": "🏆 Premier League",
