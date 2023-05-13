@@ -4,73 +4,7 @@
                     
 
  
-           {
-
-           "league": "🏆 Premier League",
-
-            "date": "May 13",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-
-            "teams" : "Leeds Vs Newcastle",
-
-            "hteam" : "Leeds",
-
-            "ateam" : "Newcastle",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991108_lsd.m3u8?sub_m3u8=true&auth_key=1683997356-0-0-60497e3fe968c4b668b6867c7b5be8d9&user_session_id=0d214cdefafc885e396792c48205cea2&edge_slice=true"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?sub_m3u8=true&user_session_id=b4468207983053341cb6d8f6d7443a46&auth_key=1683997520-0-0-56c668c0a9876bce7221c3a30b30ac60&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991108_lhd.m3u8?sub_m3u8=true&auth_key=1683997356-0-0-364e8936e510d4d3be1fd98b063c3f17&edge_slice=true&user_session_id=6a10d3942195cdafeff6affa6820aac9"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?sub_m3u8=true&user_session_id=5a4128e2153c0042515553eb85129792&auth_key=1683997520-0-0-04576c6ff94cf9f1bf5476dad003dd86&edge_slice=true"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
+                  {
 
            "league": "🏆 Laliga",
 
@@ -163,7 +97,7 @@
 
                     "type": "SD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=8fe08fdce91046ff685bcb58ab2d7c54&txTime=645fd9e0"
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may12/chunks.m3u8"
 
          
 
