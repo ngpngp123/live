@@ -325,7 +325,7 @@
 
             "date": "May 14",
 
-            "time": "1:15 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
 
@@ -345,7 +345,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991110_lsd.m3u8?txSecret=33d38ac46f444f3bbca03a6ac5edaed5&txTime=64602684"
 
          
 
@@ -365,7 +365,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991110_lhd.m3u8?txSecret=33d38ac46f444f3bbca03a6ac5edaed5&txTime=64602684"
 
          
 
@@ -391,7 +391,7 @@
 
             "date": "May 14",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
 
@@ -411,7 +411,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991106_lsd.m3u8?txSecret=d5ad3b70f667130f73e46844c7286b74&txTime=64602684"
 
          
 
@@ -431,7 +431,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991106_lhd.m3u8?txSecret=d5ad3b70f667130f73e46844c7286b74&txTime=64602684"
 
          
 
@@ -455,7 +455,7 @@
 
            "league": "🏆 Ligue 1",
 
-            "date": "May 14",
+            "date": "live",
 
             "time": "1:30 AM",
 
@@ -487,7 +487,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-360663_lsd.m3u8?txSecret=3a3383aa045366461495ae9dd589862b&txTime=646026c0"
 
          
 
@@ -507,7 +507,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=3a3383aa045366461495ae9dd589862b&txTime=646026c0"
 
                 }
 
