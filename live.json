@@ -295,7 +295,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lsd.m3u8?sub_m3u8=true&auth_key=1684003160-0-0-ad0fc78a0866f81afd070742476ec950&user_session_id=6a751cf9e4b637144d85ea10f0164d36&edge_slice=true"
 
          
 
@@ -315,7 +315,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lhd.m3u8?sub_m3u8=true&auth_key=1684003160-0-0-d0270132e60c8e3b2cf2b98abb37d86c&user_session_id=49c621d2610d1e92617e24b8dbe774ff&edge_slice=true"
 
                 }
 
@@ -331,7 +331,7 @@
 
             "date": "May 13",
 
-            "time": "7:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
 
