@@ -563,9 +563,9 @@
 
            "league": "🏆 Laliga",
 
-            "date": "May 14",
+            "date": "May 14 (11:00 PM)",
 
-            "time": "11:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
 
@@ -585,7 +585,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991117_lsd.m3u8?txSecret=ac64cc53731a71d0bbcf0ccf0b6b1ce1&txTime=646159c8"
 
          
 
@@ -595,17 +595,25 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?auth_key=1684101680-0-0-9e42d6ea73eb26be4de486c1a1072ae3&user_session_id=a2ad86beb38817fceb8339f9e52172bb&edge_slice=true&sub_m3u8=true"
 
          
 
                 },
+{
 
+                    "type": "Vebo SD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may121/chunklist.m3u8"
+
+         
+
+                },
 {
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=ac64cc53731a71d0bbcf0ccf0b6b1ce1&txTime=646159c8"
 
          
 
@@ -615,7 +623,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"."
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1684101680-0-0-da644001274abd8ec685990188eb67c1&user_session_id=4405d9ef48c3af9cb986e59ce67cf54e&edge_slice=true&sub_m3u8=true"
 
                 }
 
