@@ -159,6 +159,15 @@
             "hotmat":"yes",
 
             "link":[
+              {
+
+                    "type": "Test SD",
+
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-n54qllhpk2evqvy/chunklist_w1032443161.m3u8"
+
+         
+
+                },
 
   {
 
@@ -228,8 +237,16 @@
 
                
 
-                } 
+                }, 
+{
 
+                    "type": "Test FHD",
+
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-n54qllhpk2evqvy/chunklist_w387994932.m3u8"
+
+         
+
+                }
             ]
 
 },
