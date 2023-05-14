@@ -494,9 +494,9 @@
 
            "league": "🏆 Serie A",
 
-            "date": "May 14",
+            "date": "May 14 (7:30 PM)",
 
-            "time": "7:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
 
@@ -516,7 +516,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991110_lsd.m3u8?auth_key=1684090176-0-0-b49841b5d5d9da85a8c0d49254fbb398&edge_slice=true&sub_m3u8=true&user_session_id=aac03a288f0621d10de1edd98ed18edc"
 
          
 
@@ -536,7 +536,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1684090176-0-0-efa326d68c930dc69e038638a64a7e94&sub_m3u8=true&edge_slice=true&user_session_id=d726f2025aa72174d1a5da4dc891f3b9"
 
          
 
@@ -560,9 +560,9 @@
 
            "league": "🏆 Ligue 1",
 
-            "date": "May 14",
+            "date": "May 14 (7:30 PM)",
 
-            "time": "7:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
 
@@ -592,7 +592,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lsd.m3u8?auth_key=1684090220-0-0-b0e4236a8812dac2c4472e0644152839&sub_m3u8=true&user_session_id=724183effa2388eb17ae6fc2895cbfaf&edge_slice=true"
 
          
 
@@ -612,7 +612,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"."
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lhd.m3u8?auth_key=1684090220-0-0-c9bd938b34fa23072a9a9d2f3c92abb9&sub_m3u8=true&user_session_id=098f83f78940ac3b6b89e795214ab886&edge_slice=true"
 
                 }
 
