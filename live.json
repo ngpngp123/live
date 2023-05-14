@@ -239,8 +239,40 @@
 
                 "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-37723410_lhd.m3u8?user_session_id=15e168021fae49a8140bb9b7d8632166&auth_key=1684096820-0-0-23f2fdbef384c76dce8873adc9bfc534&sub_m3u8=true&edge_slice=true"
 
-                }
+                },
+{
 
+                    "type": "Vebo SD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/mySD/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "Vebo HD",
+
+                "livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
+
+         
+
+               
+
+                },
+
+{
+
+                    "type": "Vebo FHD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
+
+         
+
+               
+
+                }
                 
 
             ]
@@ -487,8 +519,40 @@
 
                 "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=fd44f7db7a1e2c167ff9d5ef51c91ed3&txTime=64615590"
 
-                }
+                },
+{
 
+                    "type": "Vebo SD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/nenSD/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "Vebo HD",
+
+                "livelink":"https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8"
+
+         
+
+               
+
+                },
+
+{
+
+                    "type": "Vebo FHD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8"
+
+         
+
+               
+
+                }
                 
 
             ]
