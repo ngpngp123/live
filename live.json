@@ -679,9 +679,9 @@
 
            "league": "🏆 Laliga",
 
-            "date": "May 14",
+            "date": "May 14 (8:45 PM)",
 
-            "time": "8:45 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
 
@@ -701,7 +701,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?auth_key=1684094300-0-0-9f48b05562eea9bbcefe7d95a747ed1a&user_session_id=75b2a8150dcb5a9b62923be0750876de&edge_slice=true&sub_m3u8=true"
 
          
 
@@ -711,7 +711,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-208390_lsd.m3u8?txSecret=a888ec56e4adf8906b1de9c413ff8502&txTime=64613cf5"
 
          
 
@@ -721,7 +721,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-208390_lhd.m3u8?txSecret=a888ec56e4adf8906b1de9c413ff8502&txTime=64613cf5"
 
          
 
@@ -731,7 +731,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"."
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?auth_key=1684094300-0-0-74fb6d5489ef1048942e092c3e84fa4d&user_session_id=c7315f447e11a76cb93e539b20d5b1c6&edge_slice=true&sub_m3u8=true"
 
                 }
 
