@@ -302,9 +302,9 @@
 
            "league": "🏆 Premier League",
 
-            "date": "May 14",
+            "date": "May 14 (7:30 PM)",
 
-            "time": "7:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
 
@@ -356,9 +356,39 @@
 
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?auth_key=1684089200-0-0-2fc139e9b897dc8327d0e467ba169a2e&sub_m3u8=true&edge_slice=true&user_session_id=7bc54127f6778ca778387819bd2f111d"
 
-                }
+                },
+{
 
-                
+                    "type": "Vebo SD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/mySD/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "Vebo HD",
+
+                "livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
+
+         
+
+               
+
+                },
+              {
+
+                    "type": "Vebo FHD",
+
+                "livelink":"https://179672673.global.cdnfastest.com/live/myFHD/chunklist.m3u8"
+
+         
+
+               
+
+                }  
 
             ]
 
