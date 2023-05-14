@@ -306,6 +306,24 @@
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&user_session_id=d87fc65270601acebdddc600ffb24791&auth_key=1684098980-0-0-d23f796a8dd1b3f24b588cb116735d04&edge_slice=true"
 
                 },
+              {
+
+                    "type": "Test SD",
+
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx2g1oryk/chunklist_w389395141.m3u8"
+
+         
+
+                },
+              {
+
+                    "type": "Test HD",
+
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-pxwrxlhx2g1oryk/chunklist_w1450333616.m3u8"
+
+         
+
+                },
 {
 
                     "type": "Vebo SD",
@@ -415,9 +433,9 @@
 
            "league": "🏆 Serie A",
 
-            "date": "May 14",
+            "date": "May 14 (10:30 PM)",
 
-            "time": "10:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
 
@@ -447,7 +465,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-112565_lsd.m3u8?txSecret=a8b4dfa51fdb8dfc75f027388a772d3c&txTime=646155cc"
 
          
 
@@ -467,7 +485,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"."
+                "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=fd44f7db7a1e2c167ff9d5ef51c91ed3&txTime=64615590"
 
                 }
 
