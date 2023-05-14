@@ -635,8 +635,40 @@
 
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1684091180-0-0-f34c58eeafe32333043aab4e7deebc50&edge_slice=true&sub_m3u8=true&user_session_id=26b89c69ae3fe0b5a007e2c08379ac2a"
 
-                }
+                },
+{
 
+                    "type": "Vebo SD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "Vebo HD",
+
+                "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
+
+         
+
+               
+
+                },
+
+{
+
+                    "type": "Vebo FHD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8"
+
+         
+
+               
+
+                }
                 
 
             ]
