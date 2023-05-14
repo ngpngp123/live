@@ -1,73 +1,16 @@
 [
-{
 
-           "league": "MAN U",
-
-            "date": "TV Channel",
-
-            "time": "live",
-
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-
-            "teams" : "Man United TV",
-
-            "hteam" : "MAN U",
-
-            "ateam" : "TV",
-
-            "hotmat":"yes",
-
-            "link":[
 
                 
 
-{
-
-                    "type": "MUTV 360 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-
-         
-
-                },
 
                 
 
-{
 
-                    "type": "MUTV 240 SD",
 
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
 
-         
 
-                },
 
-{
-
-                    "type": "MUTV 540 HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MAN U TV 1080HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-                }
-
-                
-
-            ]
-
-},
            
 
            {
@@ -140,9 +83,9 @@
 
            "league": "🏆 Ligue 1",
 
-            "date": "May 14",
+            "date": "May 14 (5:30 PM)",
 
-            "time": "5:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
 
@@ -162,7 +105,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991113_lsd.m3u8?sub_m3u8=true&auth_key=1684082616-0-0-6b4d480ca6787dd81a0c0b4365aa9f36&edge_slice=true&user_session_id=12358f5ee4bb2721f5fd45825a3713e4"
 
          
 
@@ -172,7 +115,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-651238_lsd.m3u8?user_session_id=9c8c661fbf461c6ed6889c3c705e5023&auth_key=1684082660-0-0-aff2eec19fc43371ae9b18aa5f98c293&edge_slice=true&sub_m3u8=true"
 
          
 
@@ -182,7 +125,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991113_lhd.m3u8?sub_m3u8=true&auth_key=1684082616-0-0-647021e49d211347d566e61fbed1fdb6&edge_slice=true&user_session_id=89a75d6c70aac5250fe5f2d25fdc1434"
 
          
 
@@ -192,7 +135,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"."
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-651238_lhd.m3u8?edge_slice=true&auth_key=1684082660-0-0-58c937bd5b6c22cb6c4976e2534c554c&user_session_id=758bd55d60f377237e9e73d6ea1db501&sub_m3u8=true"
 
                 }
 
