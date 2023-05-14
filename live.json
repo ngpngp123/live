@@ -398,9 +398,9 @@
 
            "league": "🏆 Serie A",
 
-            "date": "May 14",
+            "date": "May 14 (7:30 PM)",
 
-            "time": "7:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
 
@@ -452,9 +452,39 @@
 
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lhd.m3u8?edge_slice=true&auth_key=1684089260-0-0-c341fd241fdb4161b839c3ed8bf392a1&sub_m3u8=true&user_session_id=fec9e104e90ba303ac227bebf629eb1f"
 
-                }
+                },
+{
 
-                
+                    "type": "Vebo SD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "Vebo HD",
+
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+
+         
+
+               
+
+                },
+              {
+
+                    "type": "Vebo FHD",
+
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+
+         
+
+               
+
+                }  
 
             ]
 
