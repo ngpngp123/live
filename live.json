@@ -65,103 +65,14 @@
 
 
 
-           {
+           
 
-           "league": "🏆 Bundesliga",
+            
 
-            "date": "May 14 (8:00 PM)",
 
-            "time": "live",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
 
-            "teams" : "Stuttgart Vs Leverkusen",
-
-            "hteam" : "Stuttgart",
-
-            "ateam" : "Leverkusen",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-144861_lsd.m3u8?txSecret=83b2a721ff402deb6ee8c652ff978f83&txTime=646130c4"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lsd.m3u8?auth_key=1684091180-0-0-e824cd612a809a0972d6f84007b631ec&edge_slice=true&sub_m3u8=true&user_session_id=81334156108b0bda72dc056ecccbedc6"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=83b2a721ff402deb6ee8c652ff978f83&txTime=646130c4"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1684091180-0-0-f34c58eeafe32333043aab4e7deebc50&edge_slice=true&sub_m3u8=true&user_session_id=26b89c69ae3fe0b5a007e2c08379ac2a"
-
-                },
-{
-
-                    "type": "Vebo SD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "Vebo HD",
-
-                "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
-
-         
-
-               
-
-                },
-
-{
-
-                    "type": "Vebo FHD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8"
-
-         
-
-               
-
-                }
-                
-
-            ]
-
-},
 
            {
 
