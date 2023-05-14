@@ -17,80 +17,16 @@
 
 
 
-           {
+           
+                                   
 
-           "league": "🏆 Ligue 1",
 
-            "date": "May 14 (5:30 PM)",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-
-            "teams" : "Clermont Foot Vs Lyon",
-
-            "hteam" : "Clermont Foot",
-
-            "ateam" : "Lyon",
-
-            "hotmat":"no",
-
-            "link":[
-              {
-
-                    "type": "Eng SD",
-
-                "livelink":"https://179720687.global.cdnfastest.com/live/sd-dj2ryohedn6nq1z/chunklist_w589619593.m3u8"
-
-         
-
-                },
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991113_lsd.m3u8?sub_m3u8=true&auth_key=1684082616-0-0-6b4d480ca6787dd81a0c0b4365aa9f36&edge_slice=true&user_session_id=12358f5ee4bb2721f5fd45825a3713e4"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-651238_lsd.m3u8?user_session_id=9c8c661fbf461c6ed6889c3c705e5023&auth_key=1684082660-0-0-aff2eec19fc43371ae9b18aa5f98c293&edge_slice=true&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991113_lhd.m3u8?sub_m3u8=true&auth_key=1684082616-0-0-647021e49d211347d566e61fbed1fdb6&edge_slice=true&user_session_id=89a75d6c70aac5250fe5f2d25fdc1434"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-651238_lhd.m3u8?edge_slice=true&auth_key=1684082660-0-0-58c937bd5b6c22cb6c4976e2534c554c&user_session_id=758bd55d60f377237e9e73d6ea1db501&sub_m3u8=true"
-
-                }
 
                 
 
-            ]
+            
 
-},
+
 
            {
 
@@ -511,6 +447,15 @@
             "hotmat":"no",
 
             "link":[
+              {
+
+                    "type": "Vebo HD",
+
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may7/chunks.m3u8"
+
+         
+
+                },
 
   {
 
