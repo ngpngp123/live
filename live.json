@@ -130,9 +130,9 @@
 
               {
 
-                    "type": "Vebo SD",
+                    "type": "Vebo HD",
 
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8"
 
          
 
@@ -140,9 +140,9 @@
 
 {
 
-                    "type": "Vebo HD",
+                    "type": "Vebo SD",
 
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/phoSD/chunklist.m3u8"
 
          
 
