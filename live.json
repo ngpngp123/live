@@ -1,169 +1,100 @@
 [
+{
 
-                    
-                       
+           "league": "MAN U",
 
-
-                    
-           {
-
-           "league": "🏆 Serie A",
-
-            "date": "May 16",
+            "date": "TV Channel",
 
             "time": "live",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
 
-            "teams" : "Sampdoria Vs Empoli",
+            "teams" : "Man United TV",
 
-            "hteam" : "Sampdoria",
+            "hteam" : "MAN U",
 
-            "ateam" : "Empoli",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-421651_lsd.m3u8?txSecret=3d7b607e941333c82ff1e73c82e9f32d&txTime=6462cdbd"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lsd.m3u8?sub_m3u8=true&user_session_id=452a9bce1d4ab1d0dc4e51b217dd5e44&auth_key=1684196900-0-0-b7df85fbb4a54857ea717f45dee5710f&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=3d7b607e941333c82ff1e73c82e9f32d&txTime=6462cdbd"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?sub_m3u8=true&auth_key=1684196900-0-0-d6a99a7f7f4777a63fd6904147d4bcd3&user_session_id=76019179ead14d012e188a27fe93345a&edge_slice=true"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Laliga",
-
-            "date": "May 16",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-
-            "teams" : "Real Betis Vs Rayo Vallecano",
-
-            "hteam" : "Real Betis",
-
-            "ateam" : "Rayo Vallecano",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1684197020-0-0-8d704c71d234dee376277fb5d77c1516&sub_m3u8=true&user_session_id=aacdcbafb9605bf090ad92404ad7ddb9&edge_slice=true"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1684197020-0-0-f4f2578cb3ead7b8eec4d7fe8798260e&sub_m3u8=true&user_session_id=d0824815f2089c8946e927d04826566a&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Premier League",
-
-            "date": "May 16",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-
-            "teams" : "Leicester City Vs Liverpool",
-
-            "hteam" : "Leicester City",
-
-            "ateam" : "Liverpool",
+            "ateam" : "TV",
 
             "hotmat":"yes",
 
             "link":[
 
+                
+
+{
+
+                    "type": "MUTV 360 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+
+         
+
+                },
+
+                
+
+{
+
+                    "type": "MUTV 240 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "MUTV 540 HD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "MAN U TV 1080HD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+
+                }
+
+                
+
+            ]
+
+},
+           {
+
+           "league": "🏆 Saudi Pro League",
+
+            "date": "May 17",
+
+            "time": "1:00 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101917.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
+
+            "teams" : "Al Taee Vs Al Nassr FC",
+
+            "hteam" : "Al Taee",
+
+            "ateam" : "Al Nassr FC",
+
+            "hotmat":"no",
+
+            "link":[
+
   {
 
                     "type": "SD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-991121_lsd.m3u8?txSecret=c834bbea9b002d6d52affbbc995c3673&txTime=6462cdf8"
+                "livelink":""
 
          
 
@@ -173,34 +104,7 @@
 
                     "type": "SD 2",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-601450_lsd.m3u8?auth_key=1684197020-0-0-650a09a60718cf98458bd335fd4885bc&user_session_id=aa892f118f58140c2f529b35a557cf2c&edge_slice=true&sub_m3u8=true"
-
-         
-
-                },
-              {
-
-                    "type": "Vebo HD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-
-         
-
-                },
-              {
-
-                    "type": "Vebo SD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-
-         
-
-                },
-              {
-
-                    "type": "Bein SD",
-
-                "livelink":"http://king4k.live:8080/ASMDani/DaniASM/31267"
+                "livelink":""
 
          
 
@@ -210,7 +114,7 @@
 
                     "type": "HD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=c834bbea9b002d6d52affbbc995c3673&txTime=6462cdf8"
+                "livelink":""
 
          
 
@@ -220,7 +124,72 @@
 
                     "type": "HD 2",
 
-                "livelink":"https://lsstream.tvlbxg.cn/live2/6f00ae93be1bcdde80a56f6227e92d70.m3u8?auth_key=3368391642-0-0-ff57ddfe3dd99eb91004b7bbd798affc"
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
+},
+           {
+
+           "league": "🏆 Champions League Semi Final",
+
+            "date": "May 17",
+
+            "time": "1:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+
+            "teams" : "Inter Vs AC Milan",
+
+            "hteam" : "Inter",
+
+            "ateam" : "AC Milan",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
 
                 }
 
@@ -229,5 +198,28 @@
             ]
 
 }
-           ]
+  
+  
+]
+                    
+                       
+
+
+                    
+           
+
+                    
+                                 
+
+
+              
+
+
+
+                
+
+            
+
+
+           
            
