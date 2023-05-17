@@ -116,44 +116,7 @@
 
          
 
-                },
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991124_lsd.m3u8?auth_key=1684360837-0-0-50e604beee329af50977ae60929b2dee&sub_m3u8=true&edge_slice=true&user_session_id=973647ee3068541cb294dd9bc80d9aaa"
-
-         
-
-                },                     
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1684360837-0-0-902fdb501b37bf865d2958810974c747&sub_m3u8=true&edge_slice=true&user_session_id=685604aab756a940fb911171def35b53"
-
-         
-
-                },
-
-{
-
-                    "type": "Bein SD",
-
-                "livelink":"https://es3.quest123.top:8088/live/alkoora1/playlist.m3u8?vidictid=194943646373&id=119100&pk=9a2b63a3918a0a6ea88d4c7ef21c276bb96d4f12647ee288b11c6d116ba0472b385ff871876a0cedd976b1818c61dc0df000540b476084ee2a5943b24b225066"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=14f206a63a1d670204ac494acae5427e&txTime=64654e0d"
-
+                
                 }
                        
 
