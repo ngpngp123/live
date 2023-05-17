@@ -115,7 +115,7 @@
 
 {
 
-                    "type": "beIN FHD",
+                    "type": "china FHD",
 
                 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=ac33b2ef10fb6bca35fbf2bf01af02ca&auth_key=1684361060-0-0-5de114c1a774ebdc9db86765a5a0cc67"
 
@@ -158,6 +158,35 @@
                     "type": "HD 2",
 
                 "livelink":"https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=14f206a63a1d670204ac494acae5427e&txTime=64654e0d"
+
+                },
+                       {
+
+                    "type": "beIN HD",
+
+                "livelink":"http://king4k.live:8080/ASMDani/DaniASM/31277"
+
+         
+
+                },
+
+{
+
+                    "type": "beIN HD",
+
+                "livelink":"http://king4k.live:8080/ASMDani/DaniASM/31267"
+
+         
+
+                },
+
+{
+
+                    "type": "beIN FHD",
+
+                "livelink":"http://king4k.live:8080/ASMDani/DaniASM/31314"
+
+         
 
                 }
 
