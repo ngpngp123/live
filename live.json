@@ -95,9 +95,9 @@
             "link":[
                        {
 
-                    "type": "beIN SD",
+                    "type": "Soco SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=a0f7824bcb1aab5d36e11151e49d62d2&txTime=64656fcd"
 
          
 
@@ -121,7 +121,7 @@
 
          
 
-                }
+                },
                        {
 
                     "type": "beIN HD",
