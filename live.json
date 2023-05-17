@@ -78,7 +78,7 @@
 
             "date": "May 18",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 
@@ -93,6 +93,35 @@
             "hotmat":"yes",
 
             "link":[
+                       {
+
+                    "type": "china SD",
+
+                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9de82f964a42f2b1b6324f616af55a46&auth_key=1684360940-0-0-c46f0210ed094404470c012a2e768666"
+
+         
+
+                },
+
+{
+
+                    "type": "china HD",
+
+                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1684360940-0-0-7bac74cb1334cea441520ce6c7b443cb&user_session_id=498534467bf636504c3a85741b0b2a84&edge_slice=true&sub_m3u8=true"
+
+         
+
+                },
+
+{
+
+                    "type": "beIN FHD",
+
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=ac33b2ef10fb6bca35fbf2bf01af02ca&auth_key=1684361060-0-0-5de114c1a774ebdc9db86765a5a0cc67"
+
+         
+
+                },
 
   {
 
@@ -144,7 +173,7 @@
 
             "date": "May 18",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8549_small.png",
 
@@ -164,7 +193,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lsd.m3u8?user_session_id=0a6d54984070f9356f57a68f54de7948&auth_key=1684361120-0-0-b65ab4dc5d8fa5195298081dc787b293&sub_m3u8=true&edge_slice=true"
 
          
 
@@ -184,7 +213,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684361120-0-0-16d3186570f0de7624e2b4ada9ca038d&user_session_id=1de71cb63474fd118ca29c01cf3de261"
 
          
 
