@@ -1,120 +1,21 @@
 [
-           
-
-           
-
-           
-
-
-
-                    
            {
 
-           "league": "🏆 Champions League Semi Final",
+           "league": "🏆 Premier League",
 
-            "date": "May 18(1:30AM)",
+            "date": "May 19",
 
-            "time": "live",
+            "time": "1:00 AM",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
 
-            "teams" : "Man City Vs Real Madrid",
+            "teams" : "Newcastle Vs Brighton",
 
-            "hteam" : "Man City",
+            "hteam" : "Newcastle",
 
-            "ateam" : "Real Madrid",
-
-            "hotmat":"yes",
-
-            "link":[
-                       {
-
-                    "type": "Soco SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=a0f7824bcb1aab5d36e11151e49d62d2&txTime=64656fcd"
-
-         
-
-                },
-
-{
-
-                    "type": "Vebo SD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "Vebo FHD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
-
-         
-
-                },
-                       {
-
-                    "type": "china SD",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9de82f964a42f2b1b6324f616af55a46&auth_key=1684360940-0-0-c46f0210ed094404470c012a2e768666"
-
-         
-
-                },
-
-{
-
-                    "type": "china HD",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1684360940-0-0-7bac74cb1334cea441520ce6c7b443cb&user_session_id=498534467bf636504c3a85741b0b2a84&edge_slice=true&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "Soco FHD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991127_lhd.m3u8?auth_key=1684371757-0-0-81bdfcfab8044e80634e5fd0a0137c43&edge_slice=true&sub_m3u8=true&user_session_id=bbbab0ffc81c63ab22170a9866e44260"
-
-         
-
-                
-                }
-                       
-
-                    
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Championship Semi Final",
-
-            "date": "May 18",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8549_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8669_small.png",
-
-            "teams" : "Middlesbrough Vs Coventry City",
-
-            "hteam" : "Middlesbrough",
-
-            "ateam" : "Coventry City",
+            "ateam" : "Brighton",
 
             "hotmat":"no",
 
@@ -124,7 +25,7 @@
 
                     "type": "SD",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lsd.m3u8?user_session_id=0a6d54984070f9356f57a68f54de7948&auth_key=1684361120-0-0-b65ab4dc5d8fa5195298081dc787b293&sub_m3u8=true&edge_slice=true"
+                "livelink":""
 
          
 
@@ -134,7 +35,7 @@
 
                     "type": "SD 2",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=d47ebff138e26ee172ff7bae065978ca&txTime=64654e49"
+                "livelink":""
 
          
 
@@ -144,7 +45,7 @@
 
                     "type": "HD",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684361120-0-0-16d3186570f0de7624e2b4ada9ca038d&user_session_id=1de71cb63474fd118ca29c01cf3de261"
+                "livelink":""
 
          
 
@@ -154,7 +55,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=d47ebff138e26ee172ff7bae065978ca&txTime=64654e49"
+                "livelink":""
 
                 }
 
@@ -162,35 +63,222 @@
 
             ]
 
-}           
-           
+},
 
-            
+           {
 
+           "league": "🏆 Europa League Semi Final",
 
+            "date": "May 19",
+
+            "time": "1:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+
+            "teams" : "Leverkusen Vs Roma",
+
+            "hteam" : "Leverkusen",
+
+            "ateam" : "Roma",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
 
                 
 
-            
+            ]
 
-            
+},  
+ 
+
+           {
+
+           "league": "🏆 Europa League Semi Final",
+
+            "date": "May 19",
+
+            "time": "1:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+
+            "teams" : "Sevilla Vs Juventus",
+
+            "hteam" : "Sevilla",
+
+            "ateam" : "Juventus",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
+
                 
-  
-  
-]
-                    
-                       
+
+            ]
+
+},
+
+           {
+
+           "league": "🏆 Conference League Semi Final",
+
+            "date": "May 17",
+
+            "time": "1:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10229_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+
+            "teams" : "AZ Alkmaar Vs West Ham United",
+
+            "hteam" : "AZ Alkmaar",
+
+            "ateam" : "West Ham United",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
+}              
+           
+]           
+
+           
+
+           
+
 
 
                     
            
+                
+                
+         
 
-                    
-                                 
-
-
-              
-
+                
 
 
                 
