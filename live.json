@@ -1,174 +1,45 @@
 [
-           {
+{
 
-           "league": "🏆 Premier League",
+           "league": "MAN U",
 
-            "date": "May 19",
+            "date": "TV Channel",
 
             "time": "live",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
 
-            "teams" : "Newcastle Vs Brighton",
+            "teams" : "Man United TV",
 
-            "hteam" : "Newcastle",
+            "hteam" : "MAN U",
 
-            "ateam" : "Brighton",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991103_lsd.m3u8?sub_m3u8=true&auth_key=1684455337-0-0-11f3fb2316a421a44c25c47e5b437a14&edge_slice=true&user_session_id=1abfbfd4b385437b994c3feffb126fad"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-250874_lsd.m3u8?sub_m3u8=true&auth_key=1684455397-0-0-5d860ece37faad8e5fe922907d809479&user_session_id=bc9797b0a11224dbc5bdd3a044187262&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-250874_lhd.m3u8?sub_m3u8=true&auth_key=1684455397-0-0-05f416854c4696ec71ef3981d64af13f&edge_slice=true&user_session_id=3f0607a8b20ecce3b165e43ad9629370"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991103_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9d7e82825918934a01bf3f58ef9606d4&auth_key=1684455337-0-0-5831fd311b8421b4d4f625ac51992050"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Europa League Semi Final",
-
-            "date": "May 19",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-
-            "teams" : "Leverkusen Vs Roma",
-
-            "hteam" : "Leverkusen",
-
-            "ateam" : "Roma",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991127_lsd.m3u8?user_session_id=b6155679e02348d2be3efe3720e08a2c&edge_slice=true&sub_m3u8=true&auth_key=1684457197-0-0-b769056334e2b17aaaa4eaa9b4c65fb6"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991117_lsd.m3u8?txSecret=30d66c2e5ba7c9e281a8190db1242a04&txTime=6466c6ed"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-991127_lhd.m3u8?user_session_id=5fe050f203386ba0b4e0415b2d15efbf&auth_key=1684457197-0-0-b8be03647c29151d707fe5561d653b6c&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=30d66c2e5ba7c9e281a8190db1242a04&txTime=6466c6ed"
-
-                }
-
-                
-
-            ]
-
-},  
- 
-
-           {
-
-           "league": "🏆 Europa League Semi Final",
-
-            "date": "May 19",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-
-            "teams" : "Sevilla Vs Juventus",
-
-            "hteam" : "Sevilla",
-
-            "ateam" : "Juventus",
+            "ateam" : "TV",
 
             "hotmat":"yes",
 
             "link":[
 
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991123_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=196128b4cfc84d82acdf8ad224b51576&auth_key=1684457017-0-0-12801f9a5751448cc06c91a267fe6857"
-
-         
-
-                },                     
+                
 
 {
 
-                    "type": "SD 2",
+                    "type": "MUTV 360 SD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=db013bfa41d85d4e5274c29336f52cfe&txTime=6466c639"
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+
+         
+
+                },
+
+                
+
+{
+
+                    "type": "MUTV 240 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
 
          
 
@@ -176,9 +47,9 @@
 
 {
 
-                    "type": "HD",
+                    "type": "MUTV 540 HD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=db013bfa41d85d4e5274c29336f52cfe&txTime=6466c639"
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
 
          
 
@@ -186,9 +57,9 @@
 
 {
 
-                    "type": "HD 2",
+                    "type": "MAN U TV 1080HD",
 
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991123_lhd.m3u8?auth_key=1684457017-0-0-e9d9889fc84a7f3ba2accff5a904d221&user_session_id=0db6f1acb8b0ea220f2ca90d481d1867&sub_m3u8=true&edge_slice=true"
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
 
                 }
 
@@ -196,75 +67,32 @@
 
             ]
 
-},
+}
+           ]
+  
 
-           {
+                    
 
-           "league": "🏆 Conference League Semi Final",
 
-            "date": "May 17",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10229_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-
-            "teams" : "AZ Alkmaar Vs West Ham United",
-
-            "hteam" : "AZ Alkmaar",
-
-            "ateam" : "West Ham United",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-379975_lsd.m3u8?txSecret=ff7e45c4c39a94e7fc9bec8bf94493e8&txTime=6466c6b1"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=ff7e45c4c39a94e7fc9bec8bf94493e8&txTime=6466c6b1"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-420171_lsd.m3u8?txSecret=dcf30a85943ad78944577d27277d74a8&txTime=6466c675"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=dcf30a85943ad78944577d27277d74a8&txTime=6466c675"
-
-                }
-
-                
-
-            ]
-
-}              
            
-]           
+
+
+
+            
+
+
+
+
+            
+
+           
+
+           
+
+  
+
+
+     
 
            
 
