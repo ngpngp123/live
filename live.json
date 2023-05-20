@@ -1,74 +1,7 @@
 [
 
-  
-           
-                    
 
-           {
 
-           "league": "🏆 Laliga",
-
-            "date": "May 20",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-
-            "teams" : "Girona Vs Villarreal",
-
-            "hteam" : "Girona",
-
-            "ateam" : "Villarreal",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-348199_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=823f74c9cd0a09c9caf0b93925028ca9&auth_key=1684604497-0-0-4d7588091c456d89d4ef8331c82013e3"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-238362_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684604601-0-0-390900ec4c10974fd34af6c97f68e675&user_session_id=1044f77e63e7cbdfa896bfbf1ef29d2e"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-348199_lhd.m3u8?sub_m3u8=true&auth_key=1684604497-0-0-c75dc28b7541c16b1576b75a6d736224&user_session_id=12449dffb2e937250072a1fae4270b72&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-238362_lhd.m3u8?user_session_id=86a9ae78d0fa72081d4919c6af3d3301&sub_m3u8=true&auth_key=1684604601-0-0-e0d5f0674c826e248eba8230ac865d4d&edge_slice=true"
-
-                }
-
-                
-
-            ]
-
-},
            
 
            {
@@ -415,6 +348,15 @@
                     "type": "HD",
 
                 "livelink":"https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=b9dfc70d0d85b4cc897e0496e025fa4c&txTime=64691fa1"
+
+         
+
+                },
+              {
+
+                    "type": "test SD",
+
+                "livelink":"https://d1xknp48tuvgvx.cloudfront.net/out/v1/c7ac6c7a328449cbbcf1caf520ab99cd/playlist_1.m3u8"
 
          
 
