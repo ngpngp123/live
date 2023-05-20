@@ -70,270 +70,28 @@
 },
            
 
-           {
+           
 
-           "league": "🏆 Bundesliga",
+            
 
-            "date": "May 20",
 
-            "time": "live",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
+           
+  
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
 
-            "teams" : "SC Freiburg Vs Wolfsburg",
-
-            "hteam" : "SC Freiburg",
-
-            "ateam" : "Wolfsburg",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-611421_lsd.m3u8?auth_key=1684536200-0-0-71e0c946666a4b2cff42b0e2384c7f27&user_session_id=c30cafb5e578c0e5a50328d05b64fc25&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-420171_lsd.m3u8?txSecret=585ba6bedcb613f7a2c12fcafd2be1f7&txTime=6467faa9"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-611421_lsd.m3u8?auth_key=1684536200-0-0-71e0c946666a4b2cff42b0e2384c7f27&user_session_id=c30cafb5e578c0e5a50328d05b64fc25&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=585ba6bedcb613f7a2c12fcafd2be1f7&txTime=6467faa9"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Serie A",
-
-            "date": "May 17",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
-
-            "teams" : "Sassuolo Vs Monza",
-
-            "hteam" : "Sassuolo",
-
-            "ateam" : "Monza",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?user_session_id=2f086d3a2e61bc73708a9dbb1374d72d&sub_m3u8=true&auth_key=1684536260-0-0-32385bd50c039e1fd5ceb657c041a589&edge_slice=true"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=f6b23a66bc4d3df88deaf3d2af76c316&txTime=6467fae5"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?auth_key=1684536260-0-0-e43f00f5ecccc64321d7ca56c5ef23e9&sub_m3u8=true&edge_slice=true&user_session_id=c9066f1d45d07f9d3cde7f4056f9c585"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=f6b23a66bc4d3df88deaf3d2af76c316&txTime=6467fae5"
-
-                }
-
-                
-
-            ]
-
-},
         
 
-           {
+           
+  
 
-           "league": "🏆 Laliga",
 
-            "date": "May 20",
 
-            "time": "live",
+           
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
+  
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
 
-            "teams" : "Cadiz Vs Real Valladolid",
-
-            "hteam" : "Cadiz",
-
-            "ateam" : "Real Valladolid",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lsd.m3u8?auth_key=1684536380-0-0-992887baa0dfa9014292df33943644e1&user_session_id=58b7a52fed45d7d3caf38714a31e91bd&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991114_lsd.m3u8?txSecret=ddb56e3472b0192e79c3f9be0dac3a96&txTime=6467fae5"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?user_session_id=dea34021575e71b6efe782a75a94c8ee&edge_slice=true&sub_m3u8=true&auth_key=1684536380-0-0-64e044d0b4379d53f35cecf5b7216429"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=ddb56e3472b0192e79c3f9be0dac3a96&txTime=6467fae5"
-
-                }
-
-                
-
-            ]
-
-},
-
-           {
-
-           "league": "🏆 Ligue 1",
-
-            "date": "May 17",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-
-            "teams" : "Lyon Vs Monaco",
-
-            "hteam" : "Lyon",
-
-            "ateam" : "Monaco",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-669312_lsd.m3u8?auth_key=1684536320-0-0-8cda1dcef4416125fa77ac2baf6888e1&edge_slice=true&user_session_id=249aa446544982145df9727567f19b51&sub_m3u8=true"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-250874_lsd.m3u8?auth_key=1684536097-0-0-e3686ba136747d5c121a494ca03bd174&user_session_id=9ce5a2bcb101feee5e80454d50070a02&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-669312_lhd.m3u8?auth_key=1684536320-0-0-e15bbd6cd041b6ab04f3df8266d8ca18&edge_slice=true&sub_m3u8=true&user_session_id=c61dce701e8c6efb41770389325cd89f"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-250874_lhd.m3u8?auth_key=1684536097-0-0-71fc4e2c8b654beb28a5f50fe6483490&user_session_id=7e9bef026df874b8e85f00479ad61f87&sub_m3u8=true&edge_slice=true"
-
-                }
-
-                
-
-            ]
-
-},
            
 
            {
