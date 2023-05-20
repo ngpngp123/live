@@ -271,7 +271,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-104707_lsd.m3u8?txSecret=0710e4af857fc116d67fc4ea68765bbd&txTime=64691461"
 
          
 
@@ -301,7 +301,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=0710e4af857fc116d67fc4ea68765bbd&txTime=64691461"
 
                 }
 
@@ -336,7 +336,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-499490_lsd.m3u8?user_session_id=e12e11bdd3e8ef6e90100e7bcb5beb94&auth_key=1684608157-0-0-4cda7922add176111133e23ad8ed0b33&edge_slice=true&sub_m3u8=true"
 
          
 
@@ -356,7 +356,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-499490_lhd.m3u8?user_session_id=9b075ab23ab5d8940efdef1f2fbf75b6&auth_key=1684608157-0-0-89da27a3704b4180331f41336c70028c&edge_slice=true&sub_m3u8=true"
 
          
 
