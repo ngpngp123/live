@@ -597,7 +597,7 @@
 
             "date": "May 20",
 
-            "time": "9:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
 
@@ -617,7 +617,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-106737_lsd.m3u8?txSecret=e7099c740c45ffd7ed903dca00ebc55c&txTime=6469329d"
 
          
 
@@ -627,7 +627,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-115447_lsd.m3u8?txSecret=4f0bf3165d96bfc4e5fb2dca1911f876&txTime=646932d9"
 
          
 
@@ -637,7 +637,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-102153_lhd.m3u8?sub_m3u8=true&user_session_id=2eb1bfbb75997d5791ccf83fdc2a0889&edge_slice=true&auth_key=1684615897-0-0-e0e7d193c12c1b982adb7a9056351c37"
 
          
 
@@ -647,7 +647,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=e7099c740c45ffd7ed903dca00ebc55c&txTime=6469329d"
 
                 }
 
