@@ -1,16 +1,6 @@
 [
 
   
-
-
-
-           
-
-  
-
-
-           
-
            {
 
            "league": "🏆 Premier League",
@@ -233,7 +223,7 @@
 
             "date": "May 20",
 
-            "time": "8:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
 
@@ -263,7 +253,7 @@
 
                     "type": "SD 2",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lsd.m3u8?user_session_id=8b2732dbfa3a959631c62086fd4fdb5d&edge_slice=true&auth_key=1684608381-0-0-038bffafd576ba832816fb170a218952&sub_m3u8=true"
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?user_session_id=7d42481613946a29d047a94951d17ecc&auth_key=1684608861-0-0-8d7c8a1f37a94e6d69c6c2ef653e50da&sub_m3u8=true&edge_slice=true"
 
          
 
@@ -298,7 +288,7 @@
 
             "date": "May 20",
 
-            "time": "8:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
 
@@ -328,7 +318,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-530471_lsd.m3u8?auth_key=1684608956-0-0-4e432dab79a3363d2b445163b3e3c709&sub_m3u8=true&user_session_id=cdb7cdac7abfc0aad225ee656d56f68a&edge_slice=true"
 
          
 
@@ -348,7 +338,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-530471_lhd.m3u8?auth_key=1684608956-0-0-f0c09910d9a7ea56cf8aa14dd5bb847f&sub_m3u8=true&user_session_id=2088a0294cdbd5ca88bc381de8271319&edge_slice=true"
 
                 }
 
