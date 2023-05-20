@@ -268,6 +268,15 @@
          
 
                 },
+                       {
+
+                    "type": "Eng SD",
+
+                "livelink":"https://storage.googleapis.com/untering1/mux_video_ts1/index-1.m3u8"
+
+         
+
+                },
 
 {
 
@@ -357,6 +366,15 @@
                     "type": "test SD",
 
                 "livelink":"https://d1xknp48tuvgvx.cloudfront.net/out/v1/c7ac6c7a328449cbbcf1caf520ab99cd/playlist_1.m3u8"
+
+         
+
+                },
+                       {
+
+                    "type": "Eng SD",
+
+                "livelink":"https://storage.googleapis.com/untering2/mux_video_ts1/index-1.m3u8"
 
          
 
