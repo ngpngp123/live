@@ -432,7 +432,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-566370_lsd.m3u8?auth_key=1684611861-0-0-4abc4769a0f90fa229b22adef3d2330d&user_session_id=41ada02cb756522d0e49162397ecf76b&edge_slice=true&sub_m3u8=true"
 
          
 
@@ -452,7 +452,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-566370_lhd.m3u8?auth_key=1684611861-0-0-6479aeeac41dd3872e5674cca5f99606&user_session_id=62b32eebe4f3466c6d1d5fb8f1ab7b14&edge_slice=true&sub_m3u8=true"
 
                 }
 
@@ -497,7 +497,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lsd.m3u8?user_session_id=f03eba39c406529f864db5dc2e65c357&sub_m3u8=true&auth_key=1684611920-0-0-49a3bf67aa29d4e04c9fb4aedbd1b1c2&edge_slice=true"
 
          
 
@@ -517,7 +517,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684611920-0-0-f93e633fca5a0a1b2251a6e4ee53a58a&user_session_id=f9e154900a58d1993a2eafc2c2ea5daa"
 
                 }
 
@@ -562,7 +562,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-611421_lsd.m3u8?user_session_id=00c4c3b3cdeb5691e6c10deb2cfbbeec&auth_key=1684611921-0-0-2f529d7e9a76eaa3a327bc5f63bcb683&sub_m3u8=true&edge_slice=true"
 
          
 
@@ -582,7 +582,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-611421_lhd.m3u8?auth_key=1684611921-0-0-b017642bacff25234f7b8ba42f591c38&user_session_id=17b73aa05a75b90289dc47174e26b2c6&sub_m3u8=true&edge_slice=true"
 
                 }
 
