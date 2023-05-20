@@ -3,72 +3,7 @@
            
 
                     
-           {
-
-           "league": "🏆 Laliga",
-
-            "date": "May 20",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
-
-            "teams" : "Athletic Club Vs Celta Vigo",
-
-            "hteam" : "Athletic Club",
-
-            "ateam" : "Celta Vigo",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?sub_m3u8=true&auth_key=1684611217-0-0-6a4a50ef43f294922f8b87a8082afc06&edge_slice=true&user_session_id=741f1cc27f2e8c91990351e06e1607a3"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-611421_lsd.m3u8?user_session_id=00c4c3b3cdeb5691e6c10deb2cfbbeec&auth_key=1684611921-0-0-2f529d7e9a76eaa3a327bc5f63bcb683&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?sub_m3u8=true&auth_key=1684611217-0-0-62f8dba5c14ce3778853c9d74441b342&edge_slice=true&user_session_id=fc76a5277e9f1fbbbf1d903ccd0ff39c"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-611421_lhd.m3u8?auth_key=1684611921-0-0-b017642bacff25234f7b8ba42f591c38&user_session_id=17b73aa05a75b90289dc47174e26b2c6&sub_m3u8=true&edge_slice=true"
-
-                }
-
-                
-
-            ]
-
-},
-
+           
  
 
            {
@@ -248,6 +183,35 @@
                     "type": "HD",
 
                 "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?edge_slice=true&auth_key=1684620660-0-0-d35cf1b33420570dc7402091321df314&sub_m3u8=true&user_session_id=1de9ed1dcb0d6b44c3ffd73099352ff8"
+
+         
+
+                },
+                       {
+
+                    "type": "beIN SD",
+
+                "livelink":"https://d1xknp48tuvgvx.cloudfront.net/out/v1/c7ac6c7a328449cbbcf1caf520ab99cd/playlist_3.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "beIN HD",
+
+                "livelink":"https://d1xknp48tuvgvx.cloudfront.net/out/v1/c7ac6c7a328449cbbcf1caf520ab99cd/playlist_2.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "beIN FHD",
+
+                "livelink":"https://d1xknp48tuvgvx.cloudfront.net/out/v1/c7ac6c7a328449cbbcf1caf520ab99cd/playlist_1.m3u8"
 
          
 
