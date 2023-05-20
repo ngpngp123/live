@@ -207,7 +207,7 @@
 
             "date": "May 20",
 
-            "time": "11:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
 
@@ -227,7 +227,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?edge_slice=true&user_session_id=f89b62a11309fb9d13a66ded00f70d8a&auth_key=1684620660-0-0-87ed264c2703682fa64a78c046029347&sub_m3u8=true"
 
          
 
@@ -247,7 +247,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?edge_slice=true&auth_key=1684620660-0-0-d35cf1b33420570dc7402091321df314&sub_m3u8=true&user_session_id=1de9ed1dcb0d6b44c3ffd73099352ff8"
 
          
 
@@ -272,7 +272,7 @@
 
             "date": "May 20",
 
-            "time": "11:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
 
@@ -292,7 +292,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991126_lsd.m3u8?sub_m3u8=true&auth_key=1684620697-0-0-8fe1dbf103bd73f5c63cab1b0c8a9ab2&edge_slice=true&user_session_id=43380ccc597450d4b53f26b33823899c"
 
          
 
@@ -312,7 +312,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991126_lhd.m3u8?edge_slice=true&user_session_id=71400306535a4f7f047b9370b6a27a4e&sub_m3u8=true&auth_key=1684620697-0-0-f97100d6c39bef815dc54db6c3bd623a"
 
          
 
@@ -337,7 +337,7 @@
 
             "date": "May 20",
 
-            "time": "11:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
 
@@ -360,7 +360,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-921508_lsd.m3u8?sub_m3u8=true&auth_key=1684620757-0-0-24b27d7c70e22f0f6ceec9c8c46d8f49&user_session_id=34a728f2805ff03c900dd8a20a1f3517&edge_slice=true""
 
          
 
@@ -380,7 +380,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?sub_m3u8=true&auth_key=1684620757-0-0-a09d646a9e570088c5f349a652b587f8&user_session_id=70a1245e20e2e4b9e2d5cebf879e03ef&edge_slice=true"
 
          
 
@@ -405,7 +405,7 @@
 
             "date": "May 20",
 
-            "time": "11:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
 
@@ -425,7 +425,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-19949_lsd.m3u8?txSecret=04e3a272b20105d15bc4da6f7883735b&txTime=64694611"
 
          
 
@@ -445,7 +445,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=04e3a272b20105d15bc4da6f7883735b&txTime=64694611"
 
          
 
