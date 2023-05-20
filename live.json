@@ -1,88 +1,5 @@
 [
-{
 
-           "league": "MAN U",
-
-            "date": "TV Channel",
-
-            "time": "live",
-
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-
-            "teams" : "Man United TV",
-
-            "hteam" : "MAN U",
-
-            "ateam" : "TV",
-
-            "hotmat":"yes",
-
-            "link":[
-
-                
-
-{
-
-                    "type": "MUTV 360 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-
-         
-
-                },
-
-                
-
-{
-
-                    "type": "MUTV 240 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MUTV 540 HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MAN U TV 1080HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-                }
-
-                
-
-            ]
-
-},
-           
-
-           
-
-            
-
-
-
-           
-  
-
-
-        
-
-           
   
 
 
@@ -401,7 +318,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=852c99b5ca967c4a1bbaaf8a4420cedf&auth_key=1684608277-0-0-91461c261a4c62063d0dd1345ea7c6ca"
 
          
 
@@ -421,7 +338,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-921508_lsd.m3u8?user_session_id=551f39b965f4fc5a971fe99604644eee&auth_key=1684608277-0-0-969018f0d8c92cfd30b6cd1fc52ec4dd&edge_slice=true&sub_m3u8=true"
 
          
 
