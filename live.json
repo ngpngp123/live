@@ -100,7 +100,7 @@
 
             "date": "May 20",
 
-            "time": "6:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
 
@@ -120,7 +120,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991106_lsd.m3u8?sub_m3u8=true&user_session_id=23ab1ae7d5296fd387c38d242839fb55&auth_key=1684602577-0-0-7d423485394bd5052de4745d837cc416&edge_slice=true"
 
          
 
@@ -140,7 +140,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991106_lhd.m3u8?sub_m3u8=true&user_session_id=f8584397d733f9ac7014931536eb692c&auth_key=1684602577-0-0-0166e69090fa248b670c937845530764&edge_slice=true"
 
          
 
