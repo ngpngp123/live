@@ -4,142 +4,7 @@
  
 
            {
-
-           "league": "🏆 Laliga",
-
-            "date": "May 21",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-
-            "teams" : "Rayo Vallecano Vs Espanyol",
-
-            "hteam" : "Rayo Vallecano",
-
-            "ateam" : "Espanyol",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991113_lsd.m3u8?edge_slice=true&user_session_id=3589b1ceb66ac7d9f21ae660a4100fc7&auth_key=1684691677-0-0-f76163f184dfc3bf59dca2467dc2eb73&sub_m3u8=true"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lsd.m3u8?user_session_id=e131cccf5e1ca66818c6a771da9443b5&auth_key=1684691481-0-0-5e2623bb162750b7b5ec940881b72a89&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991113_lhd.m3u8?auth_key=1684691677-0-0-2517474f24e654afef314131c3f8aeea&edge_slice=true&user_session_id=ec7073b103c8c2c59ea32634f5117470&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=6608bc42c280c18e145311132bb792ce&auth_key=1684691481-0-0-5e2623bb162750b7b5ec940881b72a89"
-
-                }
-
-                
-
-            ]
-
-},
-
- 
-
-           {
-
-           "league": "🏆 Premier League",
-
-            "date": "May 21",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-
-            "teams" : "West Ham Vs Leeds",
-
-            "hteam" : "West Ham",
-
-            "ateam" : "Leeds",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-484756_lsd.m3u8?edge_slice=true&auth_key=1684691601-0-0-2a69c83582c2f9caa3b5658a6f90560d&sub_m3u8=true&user_session_id=44b06491d23d49605a0788999ae5f3bb"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991123_lsd.m3u8?auth_key=1684691737-0-0-40b1b67dbaaa1452c6380c2a95d55566&user_session_id=5352e1b6edc561918ec0895a39e8c5c3&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-484756_lhd.m3u8?sub_m3u8=true&auth_key=1684691601-0-0-2fbc5cbe823b1f0daefe553f2271b9f0&edge_slice=true&user_session_id=506ec951a6225b8a1ba87182c1a61d29"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991123_lhd.m3u8?auth_key=1684691737-0-0-2b459f7930db47ef5f2d5a1c390673e9&sub_m3u8=true&user_session_id=e3b6714d9e3002b8bf9118d7e7eb366c&edge_slice=true"
-
-                }
-
-                
-
-            ]
-
-},
-
   
-
-           {
 
            "league": "🏆 Premier League",
 
@@ -714,7 +579,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991116_lsd.m3u8?sub_m3u8=true&auth_key=1684702537-0-0-5cbd60343d22a30bfc0b80323e2febf0&edge_slice=true&user_session_id=2cb8811414fb77d9021864bb8e592a3a"
 
          
 
@@ -724,7 +589,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991116_lhd.m3u8?sub_m3u8=true&user_session_id=cdf59ec80ab38fb9b8892472c8373b3a&edge_slice=true&auth_key=1684702537-0-0-827bfade9ba1140fd555d34a50e93fde"
 
          
 
