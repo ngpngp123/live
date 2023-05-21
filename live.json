@@ -549,7 +549,7 @@
 
             "date": "May 21",
 
-            "time": "9:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 
@@ -569,7 +569,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991121_lsd.m3u8?txSecret=3667d15c3a7fd60d28821b878e01871c&txTime=646a8369"
 
          
 
@@ -589,7 +589,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=3667d15c3a7fd60d28821b878e01871c&txTime=646a8369"
 
          
 
@@ -616,7 +616,7 @@
 
             "date": "May 21",
 
-            "time": "9:35 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
 
@@ -636,7 +636,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-102933_lsd.m3u8?txSecret=38776b1c7dd4f117d098616fc9f96b01&txTime=646a83a5"
 
          
 
@@ -656,7 +656,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=38776b1c7dd4f117d098616fc9f96b01&txTime=646a83a5"
 
          
 
