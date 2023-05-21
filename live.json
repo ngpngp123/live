@@ -1,150 +1,8 @@
 [
  
 
- 
-
-           
-
-
-  
-           
-
-
-
- 
-
-           {
-
-           "league": "🏆 Bundesliga",
-
-            "date": "May 21",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
-
-            "teams" : "Mainz 05 Vs VfB Stuttgart",
-
-            "hteam" : "Mainz 05",
-
-            "ateam" : "VfB Stuttgart",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-379975_lsd.m3u8?txSecret=18e17a07523cea50a47d25558f61eeea&txTime=646a6b45"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-294127_lsd.m3u8?auth_key=1684695681-0-0-e7a28b8ce35f61817c47613bed904b89&edge_slice=true&sub_m3u8=true&user_session_id=47602f9cedaff3c5642c5d1a8cd9b65a"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=18e17a07523cea50a47d25558f61eeea&txTime=646a6b45"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-294127_lhd.m3u8?edge_slice=true&auth_key=1684695681-0-0-7af59cff3aa06f621a46c31edb53eb95&user_session_id=bacf2a824121742d4d5c8a8475cd7758&sub_m3u8=true"
-
-                }
 
                 
-
-            ]
-
-},
-
-    
-
-           {
-
-           "league": "🏆 Laliga",
-
-            "date": "May 21",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
-
-            "teams" : "Atletico Madrid Vs Osasuna",
-
-            "hteam" : "Atletico Madrid",
-
-            "ateam" : "Osasuna",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-348199_lsd.m3u8?txSecret=b3a0a0d244923fff81d820a070e3aad4&txTime=646a7ef5"
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lsd.m3u8?auth_key=1684700001-0-0-cda709443b5bae82c980c566b9a8838d&user_session_id=79f3d6d8bf2b3c729449c35ba69f9490&edge_slice=true&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lhd.m3u8?auth_key=1684700001-0-0-e0f943bac88404d4e32ef3ee6cd96c76&user_session_id=438d2c3d52a3e2bcfd278c38d7e1400f&edge_slice=true&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=b3a0a0d244923fff81d820a070e3aad4&txTime=646a7ef5"
-
-                }
-
-                
-
-            ]
-
-},
            
 
            {
@@ -443,7 +301,7 @@
 
             "date": "May 21",
 
-            "time": "11:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
 
@@ -463,7 +321,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=48071642c50f330a6722721a9865b1e4&txTime=646a98f9"
 
          
 
@@ -483,7 +341,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=48071642c50f330a6722721a9865b1e4&txTime=646a98f9"
 
          
 
@@ -541,7 +399,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-201313_lsd.m3u8?txSecret=a32d366877629f6984eb03bc741e5273&txTime=646a9935"
 
          
 
@@ -561,7 +419,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-201313_lhd.m3u8?txSecret=a32d366877629f6984eb03bc741e5273&txTime=646a9935"
 
                 }
 
@@ -606,7 +464,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-113906_lsd.m3u8?txSecret=d5edd1a932955b3dff2ad5f85f93bd85&txTime=646a9971"
 
          
 
@@ -626,7 +484,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=d5edd1a932955b3dff2ad5f85f93bd85&txTime=646a9971"
 
                 }
 
@@ -674,7 +532,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991106_lsd.m3u8?user_session_id=250e655c8c606ff5bd7726c6f9461fb6&edge_slice=true&sub_m3u8=true&auth_key=1684707697-0-0-9b5c018718e16e5d93bbb0da0e77ccf7"
 
          
 
@@ -694,7 +552,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991106_lhd.m3u8?sub_m3u8=true&user_session_id=2d33c490cd20dcf8925f3d991a8a3eaf&auth_key=1684707697-0-0-fb6c1b7786840d5d9aedd90a64fe02c5&edge_slice=true"
 
                 }
 
@@ -753,7 +611,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=e4a9418cf67dfe78b51bfb52caf3f75b&txTime=646a99ad"
 
          
 
@@ -763,7 +621,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=e4a9418cf67dfe78b51bfb52caf3f75b&txTime=646a99ad"
 
                 }
 
