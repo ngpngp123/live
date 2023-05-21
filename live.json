@@ -579,7 +579,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?auth_key=1684702221-0-0-ec712416517f15f9e58a8dbdf3e99321&edge_slice=true&sub_m3u8=true&user_session_id=bc58f00197a67f735e64013a3b67a84d"
 
          
 
@@ -599,7 +599,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?auth_key=1684702221-0-0-9e8f4a3ccf3b4b336cced1234586583d&edge_slice=true&sub_m3u8=true&user_session_id=2727a749af649b4d7a934412191af8d8"
 
                 }
 
@@ -646,7 +646,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-611421_lsd.m3u8?user_session_id=c45ccb689b6bf02d3369fb4f56726840&auth_key=1684702281-0-0-3f23ad0c1dc24068d11de2b9d0a5547e&sub_m3u8=true&edge_slice=true"
 
          
 
@@ -666,7 +666,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-611421_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3b6d7077ea372489d41f5510718d1778&auth_key=1684702281-0-0-645ebc652eefe824c5f8529ac53763c0"
 
                 }
 
@@ -684,7 +684,7 @@
 
             "date": "May 21",
 
-            "time": "10:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
 
@@ -704,7 +704,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1684702340-0-0-e8c48b74a7c13f9121a39e66a9d40b05&sub_m3u8=true&user_session_id=951c130157beac2d26cff077c45a6f2a&edge_slice=true"
 
          
 
@@ -734,7 +734,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1684702340-0-0-402dd22464d697820b1e9af85f1f5f35&sub_m3u8=true&edge_slice=true&user_session_id=a6bfc9f399f5bfa4e3d6ff50fb6f50f1"
 
                 }
 
