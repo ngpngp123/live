@@ -1,142 +1,7 @@
 [
- {
-
-           "league": "MAN U",
-
-            "date": "TV Channel",
-
-            "time": "live",
-
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-
-            "teams" : "Man United TV",
-
-            "hteam" : "MAN U",
-
-            "ateam" : "TV",
-
-            "hotmat":"yes",
-
-            "link":[
+ 
 
                 
-
-{
-
-                    "type": "MUTV 360 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-
-         
-
-                },
-
-                
-
-{
-
-                    "type": "MUTV 240 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MUTV 540 HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MAN U TV 1080HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-                }
-
-                
-
-            ]
-
-},
-  
-
-           {
-
-           "league": "🏆 Serie A",
-
-            "date": "May 21",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-
-            "teams" : "Roma Vs Salernitana",
-
-            "hteam" : "Roma",
-
-            "ateam" : "Salernitana",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991120_lsd.m3u8?txSecret=a77b5e333f7de1449080c2b2ea6606a6&txTime=646be605"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991120_lsd.m3u8?txSecret=a77b5e333f7de1449080c2b2ea6606a6&txTime=646be605"
-
-         
-
-                },
-
-{
-
-                    "type": "English HD",
-
-                "livelink":"https://ds1.enjoyhd.club/stream/ch1/tracks-v1a1/mono.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=a77b5e333f7de1449080c2b2ea6606a6&txTime=646be605"
-
-                }
-
-                
-
-            ]
-
-},
-
-          
 
            {
 
@@ -144,7 +9,7 @@
 
             "date": "May 22",
 
-            "time": "1:15 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
 
@@ -164,7 +29,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991114_lsd.m3u8?txSecret=6d867f5eda35584def60d96b9be16a5a&txTime=646c0a1d"
 
          
 
@@ -174,7 +39,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-348199_lsd.m3u8?auth_key=1684802017-0-0-1a9c434fa9714b617b7ee07a17c2399c&sub_m3u8=true&user_session_id=a45bc706292f7188cffa05171d7c734f&edge_slice=true"
 
          
 
@@ -182,9 +47,9 @@
 
 {
 
-                    "type": "HD",
+                    "type": "English HD",
 
-                "livelink":""
+                "livelink":"https://ds1.enjoyhd.club/stream/ch1/tracks-v1a1/mono.m3u8"
 
          
 
@@ -194,7 +59,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1684802017-0-0-82b5010c4d31337dbbdbeefc8c138ae9&edge_slice=true&user_session_id=a17a46b3c51b83c93f33cfbc88c23ef8&sub_m3u8=true"
 
                 }
 
@@ -212,7 +77,7 @@
 
             "date": "May 22",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 
@@ -232,7 +97,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991124_lsd.m3u8?txSecret=89c9ea953329bcddcad4ab88f74e0846&txTime=646c09e1"
 
          
 
@@ -242,7 +107,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=12d99cebe75683cbe185a23973e50d26&txTime=646c09a5"
 
          
 
@@ -252,7 +117,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=89c9ea953329bcddcad4ab88f74e0846&txTime=646c09e1"
 
          
 
@@ -262,7 +127,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=12d99cebe75683cbe185a23973e50d26&txTime=646c09a5"
 
                 }
 
