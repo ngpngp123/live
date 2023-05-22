@@ -1,48 +1,45 @@
 [
- 
+ {
 
+           "league": "MAN U",
 
-
-
-          
-
-           {
-
-           "league": "🏆 Serie A",
-
-            "date": "May 21",
+            "date": "TV Channel",
 
             "time": "live",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
 
-            "teams" : "Napoli Vs Inter",
+            "teams" : "Man United TV",
 
-            "hteam" : "Napoli",
+            "hteam" : "MAN U",
 
-            "ateam" : "Inter",
+            "ateam" : "TV",
 
             "hotmat":"yes",
 
             "link":[
 
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991109_lsd.m3u8?sub_m3u8=true&auth_key=1684706017-0-0-66f2d4bd187a0666cb355b9648727bc1&edge_slice=true&user_session_id=450e9cfcc94add5918b6b16df6feb9e4"
-
-         
-
-                },                     
+                
 
 {
 
-                    "type": "SD 2",
+                    "type": "MUTV 360 SD",
 
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?sub_m3u8=true&auth_key=1684705957-0-0-ca692236def83121446e86c7b7d85870&edge_slice=true&user_session_id=34c7540ede039b365b7116764009496e"
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+
+         
+
+                },
+
+                
+
+{
+
+                    "type": "MUTV 240 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
 
          
 
@@ -50,9 +47,9 @@
 
 {
 
-                    "type": "HD",
+                    "type": "MUTV 540 HD",
 
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991109_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684706017-0-0-e3ff0541ce399e977dba8f0b7a874208&user_session_id=84a09b5c3a580124b8b445bfd3483b7e"
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
 
          
 
@@ -60,9 +57,9 @@
 
 {
 
-                    "type": "HD 2",
+                    "type": "MAN U TV 1080HD",
 
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&auth_key=1684705897-0-0-af295350dde3b4456850575f55856afd&user_session_id=e9aaecaf8243fdc799cbbdcf6a14554d&edge_slice=true"
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
 
                 }
 
@@ -71,228 +68,25 @@
             ]
 
 },
-
-                  
-          
-
-           {
-
-           "league": "🏆 Laliga",
-
-            "date": "May 21",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-
-            "teams" : "Valencia Vs Real Madrid",
-
-            "hteam" : "Valencia",
-
-            "ateam" : "Real Madrid",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=48071642c50f330a6722721a9865b1e4&txTime=646a98f9"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1684707956-0-0-657f5422ed9cce3975bc24af105caf1b&edge_slice=true&user_session_id=3f7c5b24a1dfa24f852691a59bb86971&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=48071642c50f330a6722721a9865b1e4&txTime=646a98f9"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?edge_slice=true&auth_key=1684707956-0-0-31ec26f62b1d7d58fe08ebec405f0eda&sub_m3u8=true&user_session_id=ebd32cdb3e74a376c16498350a84f3fb"
-
-                }
-
-                
-
-            ]
-
-},
-
-         
-
-           {
-
-           "league": "🏆 Bundesliga",
-
-            "date": "May 22",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
-
-            "teams" : "Leverkusen Vs M'Gladbach",
-
-            "hteam" : "Leverkusen",
-
-            "ateam" : "M'Gladbach",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lsd.m3u8?auth_key=1684707980-0-0-bd6e35ce06d52c31c21c03bd451f8b02&user_session_id=82d8b897db99fc21581ad56d184981a9&edge_slice=true&sub_m3u8=true"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-201313_lsd.m3u8?txSecret=a32d366877629f6984eb03bc741e5273&txTime=646a9935"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?user_session_id=62e8d0046954fd65c95ca6c9d04eaef5&sub_m3u8=true&edge_slice=true&auth_key=1684707980-0-0-62791d6d41bfdca19e19f4b73558f42c"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-201313_lhd.m3u8?txSecret=a32d366877629f6984eb03bc741e5273&txTime=646a9935"
-
-                }
-
-                
-
-            ]
-
-},
-           {
-
-           "league": "🏆 Ligue 1",
-
-            "date": "May 22",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-
-            "teams" : "Auxerre Vs PSG",
-
-            "hteam" : "Auxerre",
-
-            "ateam" : "PSG",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-609240_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=16a4bdafb933bed506de9b85b2ff1d88&auth_key=1684708041-0-0-922cce52d33fc35117fb163c1e133a26"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-113906_lsd.m3u8?txSecret=d5edd1a932955b3dff2ad5f85f93bd85&txTime=646a9971"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-609240_lhd.m3u8?auth_key=1684708041-0-0-bfeddcb3748b175834fa31572e4adc02&user_session_id=9ea90292447ba871be9f621a078b9bc9&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=d5edd1a932955b3dff2ad5f85f93bd85&txTime=646a9971"
-
-                }
-
-                
-
-            ]
-
-},
-
   
 
            {
 
            "league": "🏆 Serie A",
 
-            "date": "May 22",
+            "date": "May 21",
 
-            "time": "live",
+            "time": "11:00 PM",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
 
-            "teams" : "Udinese Vs Lazio",
+            "teams" : "Roma Vs Salernitana",
 
-            "hteam" : "Udinese",
+            "hteam" : "Roma",
 
-            "ateam" : "Lazio",
+            "ateam" : "Salernitana",
 
             "hotmat":"no",
 
@@ -302,7 +96,7 @@
 
                     "type": "SD",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lsd.m3u8?edge_slice=true&auth_key=1684708101-0-0-9c32c313661489921b25282e435c40fe&user_session_id=c5a4bfef06453e7c7eac8002ba558ced&sub_m3u8=true"
+                "livelink":""
 
          
 
@@ -312,7 +106,7 @@
 
                     "type": "SD 2",
 
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991106_lsd.m3u8?user_session_id=250e655c8c606ff5bd7726c6f9461fb6&edge_slice=true&sub_m3u8=true&auth_key=1684707697-0-0-9b5c018718e16e5d93bbb0da0e77ccf7"
+                "livelink":""
 
          
 
@@ -322,7 +116,7 @@
 
                     "type": "HD",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?edge_slice=true&auth_key=1684708101-0-0-07eef2d3d8c14feb462dd36a99c63b30&user_session_id=38f93142cf155fd9910cbea61f6264ac&sub_m3u8=true"
+                "livelink":""
 
          
 
@@ -332,7 +126,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991106_lhd.m3u8?sub_m3u8=true&user_session_id=2d33c490cd20dcf8925f3d991a8a3eaf&auth_key=1684707697-0-0-fb6c1b7786840d5d9aedd90a64fe02c5&edge_slice=true"
+                "livelink":""
 
                 }
 
@@ -342,26 +136,25 @@
 
 },
 
-                  
-     
+          
 
            {
 
-           "league": "🏆 Laliga",
+           "league": "🏆 Serie A",
 
             "date": "May 22",
 
-            "time": "live",
+            "time": "1:15 AM",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 
-            "teams" : "Sevilla Vs Real Betis",
+            "teams" : "Empoli Vs Juventus",
 
-            "hteam" : "Sevilla",
+            "hteam" : "Empoli",
 
-            "ateam" : "Real Betis",
+            "ateam" : "Juventus",
 
             "hotmat":"no",
 
@@ -371,7 +164,7 @@
 
                     "type": "SD",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1684708101-0-0-8fdaefbbb82a6f1cbb27039a0b93e3d3&sub_m3u8=true&user_session_id=a943489015c0543dbbe518115fffc7cf&edge_slice=true"
+                "livelink":""
 
          
 
@@ -381,7 +174,7 @@
 
                     "type": "SD 2",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1684708101-0-0-ca96976e241cfd1871bc39ada9b4ec8b&user_session_id=98441a3457349b5f8266096d0601d0b4&sub_m3u8=true&edge_slice=true"
+                "livelink":""
 
          
 
@@ -391,7 +184,7 @@
 
                     "type": "HD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=e4a9418cf67dfe78b51bfb52caf3f75b&txTime=646a99ad"
+                "livelink":""
 
          
 
@@ -401,7 +194,75 @@
 
                     "type": "HD 2",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=e4a9418cf67dfe78b51bfb52caf3f75b&txTime=646a99ad"
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
+},
+
+          
+
+           {
+
+           "league": "🏆 Premier League",
+
+            "date": "May 22",
+
+            "time": "1:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+
+            "teams" : "Newcastle Vs Leicester",
+
+            "hteam" : "Newcastle",
+
+            "ateam" : "Leicester",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
 
                 }
 
@@ -411,9 +272,47 @@
 
 }
 
+          
+]
+
+
+
+          
+
+           
+
+  
+
+
+
+
+
+         
+
+           
+
+                    
+         
+
+                                     
+
+
+                
+                    
+
+
+
+                  
+     
+
+           
+
+  
+
+
                                                                                                        
            
-]           
+       
            
 
            
