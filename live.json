@@ -1,82 +1,14 @@
 [
- {
-
-           "league": "MAN U",
-
-            "date": "TV Channel",
-
-            "time": "live",
-
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-
-            "teams" : "Man United TV",
-
-            "hteam" : "MAN U",
-
-            "ateam" : "TV",
-
-            "hotmat":"yes",
-
-            "link":[
-
-                
-
-{
-
-                    "type": "MUTV 360 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-
-         
-
-                },
-
-                
-
-{
-
-                    "type": "MUTV 240 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MUTV 540 HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MAN U TV 1080HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-                }
-
-                
-
-            ]
-
-},
  
 
+                    
            {
 
            "league": "🏆 Laliga",
 
             "date": "May 24",
 
-            "time": "12:00 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
 
@@ -96,7 +28,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991137_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684884037-0-0-8d41d3c863b0d6bd0061e38baf887a1e&user_session_id=42fcdae8714f7c065d5c95ace1dec273"
 
          
 
@@ -116,7 +48,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1684884037-0-0-a4849244b207be37194534e6a6234500&sub_m3u8=true&user_session_id=21bf6cef887b6e86c02d69c33be0fa21&edge_slice=true"
 
          
 
@@ -144,7 +76,7 @@
 
             "date": "May 24",
 
-            "time": "12:00AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 
@@ -164,7 +96,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-201313_lsd.m3u8?txSecret=a30d84e1e3e02ab275c248be8120d0e8&txTime=646d49cd"
 
          
 
@@ -192,7 +124,7 @@
                 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-201313_lhd.m3u8?txSecret=a30d84e1e3e02ab275c248be8120d0e8&txTime=646d49cd"
 
                 },
              {
@@ -348,49 +280,4 @@
 }
 
           
-] 
-
-                
-
-           
-
-
-
-           
-
-  
-
-
-
-
-
-         
-
-           
-
-                    
-         
-
-                                     
-
-
-                
-                    
-
-
-
-                  
-     
-
-           
-
-  
-
-
-                                                                                                       
-           
-       
-           
-
-           
-           
+]
