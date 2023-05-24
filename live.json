@@ -1,247 +1,113 @@
 [
  
+{
 
-                    
-           {
+           "league": "MAN U",
 
-           "league": "🏆 Laliga",
-
-            "date": "May 24",
+            "date": "TV Channel",
 
             "time": "live",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
 
-            "teams" : "Celta Vigo Vs Girona",
+            "teams" : "Man United TV",
 
-            "hteam" : "Celta Vigo",
+            "hteam" : "MAN U",
 
-            "ateam" : "Girona",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991137_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684884037-0-0-8d41d3c863b0d6bd0061e38baf887a1e&user_session_id=42fcdae8714f7c065d5c95ace1dec273"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lsd.m3u8?user_session_id=5ea4cb50fd97f8690d7816351eda85ce&auth_key=1684884201-0-0-6b4d85227e03aaed8eef801402e7e81b&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1684884037-0-0-a4849244b207be37194534e6a6234500&sub_m3u8=true&user_session_id=21bf6cef887b6e86c02d69c33be0fa21&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lhd.m3u8?edge_slice=true&auth_key=1684884201-0-0-80c7f6eeff247d1437b53ffd817d929d&sub_m3u8=true&user_session_id=1ba5d26daf4dc4dcb5b97ad541e7886e"
-
-                }
-
-                
-
-            ]
-
-},
-
-          
-
-           {
-
-           "league": "🏆 Laliga",
-
-            "date": "May 24",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-
-            "teams" : "Real Sociedad Vs Almeria",
-
-            "hteam" : "Real Sociedad",
-
-            "ateam" : "Almeria",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-201313_lsd.m3u8?txSecret=a30d84e1e3e02ab275c248be8120d0e8&txTime=646d49cd"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991133_lsd.m3u8?auth_key=1684883737-0-0-749a1ccb1a7d30e5df397ac127476836&sub_m3u8=true&user_session_id=67a3fc89600066adc49408d66c469707&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991133_lhd.m3u8?user_session_id=947f60c608b7d8718b2fe7fa4c773872&auth_key=1684883737-0-0-b7da7601be6c9aeff787d92b13d07e80&edge_slice=true&sub_m3u8=true"
-},
-             {
-         
-
-                
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-201313_lhd.m3u8?txSecret=a30d84e1e3e02ab275c248be8120d0e8&txTime=646d49cd"
-
-                },
-             {
-
-                    "type": "English HD",
-
-                "livelink":"https://ds1.enjoyhd.club/stream/ch89/tracks-v1a1/mono.m3u8"
-
-         
-
-                }
-
-                
-
-            ]
-
-},
-
-          
-
-           {
-
-           "league": "🏆 Saudi Pro League",
-
-            "date": "May 24",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101916_small.png",
-
-            "teams" : "Al Nassr FC Vs Al Shabab",
-
-            "hteam" : "Al Nassr FC",
-
-            "ateam" : "Al Shabab",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991134_lsd.m3u8?auth_key=1684887937-0-0-59bd940e298744085e12a268af216289&sub_m3u8=true&edge_slice=true&user_session_id=93b461958981963c4f923771d7c26157"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=3ed3bdb5bf61b6ee954b83cd596b368f&txTime=646d4abd"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1684887937-0-0-74abcfea85ac3266d2342e953e114df3&user_session_id=a30adaecfb10f1226644592967361661&edge_slice=true&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"http://212.224.84.227:2200/EX/SSC_01_HD-ar/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3Fnc3cTNwFpcgEUD3NjfXtlCT9gfXtlc3VnfHVl"
-
-                }
-
-                
-
-            ]
-
-},
-
-          
-
-           {
-
-           "league": "🏆 Laliga",
-
-            "date": "May 24",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-
-            "teams" : "Real Valladolid Vs Barcelona",
-
-            "hteam" : "Real Valladolid",
-
-            "ateam" : "Barcelona",
+            "ateam" : "TV",
 
             "hotmat":"yes",
 
             "link":[
 
-                       
+                
+
+{
+
+                    "type": "MUTV 360 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+
+         
+
+                },
+
+                
+
+{
+
+                    "type": "MUTV 240 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "MUTV 540 HD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "MAN U TV 1080HD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+
+                }
+
+                
+
+            ]
+
+},
+    
+
+           {
+
+           "league": "🏆 Laliga",
+
+            "date": "May 25",
+
+            "time": "12:00 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
+
+            "teams" : "Real Madrid Vs Rayo Vallecano",
+
+            "hteam" : "Real Madrid",
+
+            "ateam" : "Rayo Vallecano",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
 
 {
 
                     "type": "SD 2",
 
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991133_lsd.m3u8?auth_key=1684883737-0-0-749a1ccb1a7d30e5df397ac127476836&sub_m3u8=true&user_session_id=67a3fc89600066adc49408d66c469707&edge_slice=true"
+                "livelink":""
 
          
 
@@ -251,7 +117,7 @@
 
                     "type": "HD",
 
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991133_lhd.m3u8?user_session_id=947f60c608b7d8718b2fe7fa4c773872&auth_key=1684883737-0-0-b7da7601be6c9aeff787d92b13d07e80&edge_slice=true&sub_m3u8=true"
+                "livelink":""
 
          
 
@@ -261,7 +127,412 @@
 
                     "type": "HD 2",
 
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?sub_m3u8=true&user_session_id=5665fe3796455119610025071c16d1ac&edge_slice=true&auth_key=1684884200-0-0-6f3cc1a8fb00591547a8d017d9cc8b3c"
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
+},
+
+          
+
+           {
+
+           "league": "🏆 Laliga",
+
+            "date": "May 25",
+
+            "time": "12:00 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+
+            "teams" : "Elche Vs Sevilla",
+
+            "hteam" : "Elche",
+
+            "ateam" : "Sevilla",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
+},
+
+         
+
+           {
+
+           "league": "🏆 Laliga",
+
+            "date": "May 25",
+
+            "time": "12:00 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
+
+            "teams" : "Villarreal Vs Cadiz",
+
+            "hteam" : "Villarreal",
+
+            "ateam" : "Cadiz",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
+},
+
+           
+
+           {
+
+           "league": "🏆 Premier League",
+
+            "date": "May 25",
+
+            "time": "1:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+
+            "teams" : "Brighton Vs Man City",
+
+            "hteam" : "Brighton",
+
+            "ateam" : "Man City",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
+},
+
+          
+
+           {
+
+           "league": "🏆 Serie A",
+
+            "date": "May 25",
+
+            "time": "1:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+
+            "teams" : "Fiorentina Vs Inter",
+
+            "hteam" : "Fiorentina",
+
+            "ateam" : "Inter",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
+},
+
+         
+
+           {
+
+           "league": "🏆 Laliga",
+
+            "date": "May 25",
+
+            "time": "2:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+
+            "teams" : "Espanyol Vs Atletico Madrid",
+
+            "hteam" : "Espanyol",
+
+            "ateam" : "Atletico Madrid",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
+},
+           {
+
+           "league": "🏆 Laliga",
+
+            "date": "May 25",
+
+            "time": "2:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
+
+            "teams" : "Real Betis Vs Getafe",
+
+            "hteam" : "Real Betis",
+
+            "ateam" : "Getafe",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
 
                 }
 
@@ -272,4 +543,24 @@
 }
 
           
-]
+           
+    ]
+                    
+           
+
+
+          
+
+           
+                
+
+            
+
+
+                       
+
+
+
+
+          
+
