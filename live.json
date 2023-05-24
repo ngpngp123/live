@@ -69,27 +69,27 @@
             ]
 
 },
-    
+ 
 
            {
 
            "league": "🏆 Laliga",
 
-            "date": "May 25",
+            "date": "May 26",
 
-            "time": "live",
+            "time": "12:00 AM",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
 
-            "teams" : "Real Madrid Vs Rayo Vallecano",
+            "teams" : "Mallorca Vs Valencia",
 
-            "hteam" : "Real Madrid",
+            "hteam" : "Mallorca",
 
-            "ateam" : "Rayo Vallecano",
+            "ateam" : "Valencia",
 
-            "hotmat":"yes",
+            "hotmat":"no",
 
             "link":[
 
@@ -97,7 +97,7 @@
 
                     "type": "SD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-991121_lsd.m3u8?txSecret=ed753aa481312987cc6fa34cefa8208d&txTime=646ea345"
+                "livelink":""
 
          
 
@@ -107,7 +107,7 @@
 
                     "type": "SD 2",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684972641-0-0-d6ac10176684c8b24bf1e6fce738c6f5&user_session_id=d152c57d7ce31013507926e172ac73c8"
+                "livelink":""
 
          
 
@@ -117,34 +117,7 @@
 
                     "type": "HD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=ed753aa481312987cc6fa34cefa8208d&txTime=646ea345"
-
-         
-
-                },
-             {
-
-                    "type": "beIN SD",
-
-                "livelink":"https://ds1.enjoyhd.club/stream/ch116/tracks-v1a1/mono.m3u8"
-
-         
-
-                },
-             {
-
-                    "type": "beIN SD",
-
-                "livelink":"https://ds1.enjoyhd.club/stream/ch1/tracks-v1a1/mono.m3u8"
-
-         
-
-                },
-             {
-
-                    "type": "beIN SD",
-
-                "livelink":"https://ds1.enjoyhd.club/stream/ch90/tracks-v1a1/mono.m3u8"
+                "livelink":""
 
          
 
@@ -154,7 +127,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1684972641-0-0-b1819063f5f3c95e4373075438f9b353&user_session_id=ca20f6bc38482398be432202f21fc40d&sub_m3u8=true&edge_slice=true"
+                "livelink":""
 
                 }
 
@@ -165,177 +138,44 @@
 },
 
           
-
-           {
-
-           "league": "🏆 Laliga",
-
-            "date": "May 25",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-
-            "teams" : "Elche Vs Sevilla",
-
-            "hteam" : "Elche",
-
-            "ateam" : "Sevilla",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991116_lsd.m3u8?sub_m3u8=true&user_session_id=6d96d64012e01056f45ca660db0ef367&edge_slice=true&auth_key=1684972417-0-0-1eb31e127f63e42801ce2706b9e38940"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lsd.m3u8?user_session_id=d99138552843a9d88bef45ffb5ebf2e7&sub_m3u8=true&auth_key=1684972581-0-0-7f68d1281e17e09855450a8a5e90cd79&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991116_lhd.m3u8?sub_m3u8=true&user_session_id=342554be04a340c68e0b0439725100fa&edge_slice=true&auth_key=1684972417-0-0-53c0fd923756e1c2effa5dbc2018f966"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?user_session_id=c3c3d85a4838ecc0eee069d716591667&sub_m3u8=true&auth_key=1684972581-0-0-9641729a8da4f15691a156ebb45d96e0&edge_slice=true"
-
-                }
-
-                
-
-            ]
-
-},
-
-         
-
-           {
-
-           "league": "🏆 Laliga",
-
-            "date": "May 25",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-
-            "teams" : "Villarreal Vs Cadiz",
-
-            "hteam" : "Villarreal",
-
-            "ateam" : "Cadiz",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-19949_lsd.m3u8?txSecret=c71471ab57281fe5445fdecc3eb3fc78&txTime=646ea3bd"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-698583_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684972521-0-0-d3a48fe95cf668c993960635903a0179&user_session_id=d72bcf3ce05986058d844ab76996b6df"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=c71471ab57281fe5445fdecc3eb3fc78&txTime=646ea3bd"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-698583_lhd.m3u8?auth_key=1684972521-0-0-7588138512b3582f32a16e8639429bf9&edge_slice=true&user_session_id=741fd711c808cce333cc0128beb4eb7f&sub_m3u8=true"
-
-                }
-
-                
-
-            ]
-
-},
-
-           
 
            {
 
            "league": "🏆 Premier League",
 
-            "date": "May 25",
+            "date": "May 26",
 
-            "time": "live",
+            "time": "1:30 AM",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 
-            "teams" : "Brighton Vs Man City",
+            "teams" : "Man United Vs Chelsea",
 
-            "hteam" : "Brighton",
+            "hteam" : "Man United",
 
-            "ateam" : "Man City",
+            "ateam" : "Chelsea",
 
             "hotmat":"yes",
 
             "link":[
 
-  
+  {
 
-                    
+                    "type": "SD",
+
+                "livelink":""
+
          
 
-                           
+                },                     
 
 {
 
                     "type": "SD 2",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=53df826d27124698f3812b91074d5048&txTime=646eaa11"
+                "livelink":""
 
          
 
@@ -345,7 +185,7 @@
 
                     "type": "HD",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&auth_key=1684974321-0-0-d0743ff0e1e106b3594b1c52b4fc1985&sub_m3u8=true&user_session_id=276fdd000e9bfdc7eb3439999c0c43f6"
+                "livelink":""
 
          
 
@@ -355,7 +195,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=53df826d27124698f3812b91074d5048&txTime=646eaa11"
+                "livelink":""
 
                 }
 
@@ -369,21 +209,21 @@
 
            {
 
-           "league": "🏆 Serie A",
+           "league": "🏆 Laliga",
 
-            "date": "May 25",
+            "date": "May 26",
 
-            "time": "live",
+            "time": "2:00 AM",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
 
-            "teams" : "Fiorentina Vs Inter",
+            "teams" : "Osasuna Vs Athletic Club",
 
-            "hteam" : "Fiorentina",
+            "hteam" : "Osasuna",
 
-            "ateam" : "Inter",
+            "ateam" : "Athletic Club",
 
             "hotmat":"no",
 
@@ -393,7 +233,7 @@
 
                     "type": "SD",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lsd.m3u8?user_session_id=91e67fc0cc6b70abcf26ceb9035b6320&sub_m3u8=true&edge_slice=true&auth_key=1684974321-0-0-e73cd13fce90af4ef4adf2713990e688"
+                "livelink":""
 
          
 
@@ -403,7 +243,7 @@
 
                     "type": "SD 2",
 
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?sub_m3u8=true&user_session_id=ec5d11f2364bc7b1a2146e887c970bd2&auth_key=1684974157-0-0-86ee6bc4925bb0d33d0ca2f596ec6df5&edge_slice=true"
+                "livelink":""
 
          
 
@@ -413,7 +253,7 @@
 
                     "type": "HD",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684974321-0-0-3eb8422328fd07a0878ba804aab4d54e&user_session_id=b8103e9190ce3b102d0d7920f0d302e0"
+                "livelink":""
 
          
 
@@ -423,140 +263,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&user_session_id=65f657ffb1155b69f570b6f96f60ed6b&auth_key=1684974157-0-0-5d9339f72679d3cca749674aa00ebe3a&edge_slice=true"
-
-                }
-
-                
-
-            ]
-
-},
-
-         
-
-           {
-
-           "league": "🏆 Laliga",
-
-            "date": "May 25",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-
-            "teams" : "Espanyol Vs Atletico Madrid",
-
-            "hteam" : "Espanyol",
-
-            "ateam" : "Atletico Madrid",
-
-            "hotmat":"yes",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-609240_lsd.m3u8?sub_m3u8=true&auth_key=1684974381-0-0-591c9284716d571c0290df66582390b0&edge_slice=true&user_session_id=e8888e53cb713eef955a813216e8ec45"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991133_lsd.m3u8?sub_m3u8=true&auth_key=1684974217-0-0-2460ea196d506c68046554cc939ef345&edge_slice=true&user_session_id=5854f47d5e9a6e366fd88bacc5574701"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-609240_lhd.m3u8?edge_slice=true&auth_key=1684974381-0-0-acb4486961e99af28b1693024d910727&user_session_id=7a868f2537fd87af61a31e46588c24d6&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991133_lhd.m3u8?edge_slice=true&auth_key=1684974217-0-0-71c56e9bf373fc6136187aacbe285aae&user_session_id=530cee55d88a247ccc980a72b57ed02d&sub_m3u8=true"
-
-                }
-
-                
-
-            ]
-
-},
-           {
-
-           "league": "🏆 Laliga",
-
-            "date": "May 25",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
-
-            "teams" : "Real Betis Vs Getafe",
-
-            "hteam" : "Real Betis",
-
-            "ateam" : "Getafe",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lsd.m3u8?edge_slice=true&auth_key=1684974441-0-0-2a506a1c0107c28316b1f7ebede7a805&sub_m3u8=true&user_session_id=fd1cc522f80dac372705a191ac125dea"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-113906_lsd.m3u8?txSecret=b4412f97c874d8fed137ff08fec36cde&txTime=646eaa89"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?auth_key=1684974441-0-0-7348d7d5f5e7612d61723e9090e0aaf2&sub_m3u8=true&user_session_id=7d6968ce0f8db00ff77c15acc7a7d2a2&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=b4412f97c874d8fed137ff08fec36cde&txTime=646eaa89"
+                "livelink":""
 
                 }
 
@@ -567,8 +274,66 @@
 }
 
           
-           
     ]
+
+           
+
+
+             
+          
+
+           
+
+  
+
+
+                
+
+            
+                    
+
+
+           
+
+           
+
+  
+
+                    
+         
+
+                           
+
+
+
+
+          
+
+           
+
+            
+
+            
+
+                                 
+
+
+
+            
+
+  
+
+
+
+                
+
+            
+
+
+
+          
+           
+    
                     
            
 
