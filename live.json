@@ -68,212 +68,33 @@
 
             ]
 
-},
+}
+ ]
  
 
-           {
+           
 
-           "league": "🏆 Laliga",
+            
 
-            "date": "May 26",
+                
+                
 
-            "time": "live",
+            
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-
-            "teams" : "Mallorca Vs Valencia",
-
-            "hteam" : "Mallorca",
-
-            "ateam" : "Valencia",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=fcc39d31ce7fb3017130d15ee031186d&txTime=646ff142"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=ad97afcd3deece0c234dcafaf8915f99&txTime=646ff106"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=ad97afcd3deece0c234dcafaf8915f99&txTime=646ff106"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=fcc39d31ce7fb3017130d15ee031186d&txTime=646ff142"
-
-                }
+            
 
                 
 
-            ]
-
-},
-
           
 
-           {
-
-           "league": "🏆 Premier League",
-
-            "date": "May 26(1:30AM)",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-
-            "teams" : "Man United Vs Chelsea",
-
-            "hteam" : "Man United",
-
-            "ateam" : "Chelsea",
-
-            "hotmat":"yes",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991133_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685061398-0-0-bca1bd72a35526ff1a498fc947ec85c8&user_session_id=4e0819c512cb8d64d127dbcebbbfc950"
-
+           
          
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=e04c193d0151fc7fc43838102c10620d&txTime=646ffe26"
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=94c0bef6aff3341a33569b1e455accda&txTime=646ff1f6"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991120_lsd.m3u8?txSecret=e04c193d0151fc7fc43838102c10620d&txTime=646ffe26"
-
-                }
 
                 
 
-            ]
-
-},
 
           
-
-           {
-
-           "league": "🏆 Laliga",
-
-            "date": "May 26",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-
-            "teams" : "Osasuna Vs Athletic Club",
-
-            "hteam" : "Osasuna",
-
-            "ateam" : "Athletic Club",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991117_lsd.m3u8?txSecret=b2c37662102d57e0eaa0e8a7774f962e&txTime=646ff232"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=01df8eae57985a2f24797b1bbacc7fea&txTime=646ff232"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=b2c37662102d57e0eaa0e8a7774f962e&txTime=646ff232"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=01df8eae57985a2f24797b1bbacc7fea&txTime=646ff232"
-
-                }
-
-                
-
-            ]
-
-}
-
-          
-    ]
+    
 
            
 
