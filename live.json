@@ -209,73 +209,7 @@
 
             ]
 
-},
 
-          
-
-           {
-
-           "league": "🏆 Ligue 1",
-
-            "date": "May 28",
-
-            "time": "1:30 AM",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
-
-            "teams" : "Angers Vs Troyes",
-
-            "hteam" : "Angers",
-
-            "ateam" : "Troyes",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":""
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":""
-
-                }
-
-                
-
-            ]
 
 },
            {
@@ -284,7 +218,7 @@
 
             "date": "May 28",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
 
@@ -352,7 +286,7 @@
 
             "date": "May 28",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
 
@@ -420,7 +354,7 @@
 
             "date": "May 28",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
 
