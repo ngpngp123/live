@@ -83,7 +83,7 @@
 
             "date": "May 27",
 
-            "time": "7:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
 
@@ -103,37 +103,19 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-206851_lsd.m3u8?txSecret=6dab379c747899d488104315d33de603&txTime=64724ea6"
 
          
 
                 },                     
 
-{
 
-                    "type": "SD 2",
-
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
-
-         
-
-                },
 
 {
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=6dab379c747899d488104315d33de603&txTime=64724ea6"
 
                 }
 
@@ -148,7 +130,7 @@
 
             "date": "May 27",
 
-            "time": "7:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
 
@@ -168,7 +150,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-360663_lsd.m3u8?user_session_id=335d3e38ed44b45460a39d84c393bd3f&edge_slice=true&auth_key=1685212898-0-0-82eaaa2b3c01d3cc77d014c9096ac559&sub_m3u8=true"
 
          
 
@@ -178,7 +160,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-104707_lsd.m3u8?txSecret=7ce5ff4af8c7c30adcaf04382dbd2450&txTime=64724e6a"
 
          
 
@@ -188,7 +170,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?sub_m3u8=true&user_session_id=b685c3cf4d42b8ebfd8754d8d6451c09&auth_key=1685212898-0-0-abe3d287c518bf82a895d5fe6a3251c0&edge_slice=true"
 
          
 
@@ -198,7 +180,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=7ce5ff4af8c7c30adcaf04382dbd2450&txTime=64724e6a"
 
                 }
 
