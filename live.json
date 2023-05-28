@@ -737,7 +737,7 @@
 
             "date": "May 28",
 
-            "time": "11:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 
@@ -825,7 +825,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=ba92e32a0f894926ae2959218844d1d2&txTime=6473d956"
 
          
 
@@ -845,7 +845,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=ba92e32a0f894926ae2959218844d1d2&txTime=6473d956"
 
          
 
@@ -870,7 +870,7 @@
 
             "date": "May 28",
 
-            "time": "11:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
 
@@ -896,25 +896,7 @@
 
                 },                     
 
-{
 
-                    "type": "SD 2",
-
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
-
-         
-
-                },
 
 {
 
@@ -935,7 +917,7 @@
 
             "date": "May 28",
 
-            "time": "11:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
 
@@ -961,25 +943,7 @@
 
                 },                     
 
-{
 
-                    "type": "SD 2",
-
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
-
-         
-
-                },
 
 {
 
@@ -997,72 +961,9 @@
 
          
 
-           {
-
-           "league": "🏆 Laliga",
-
-            "date": "May 28",
-
-            "time": "11:30 PM",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
-
-            "teams" : "Getafe Vs Osasuna",
-
-            "hteam" : "Getafe",
-
-            "ateam" : "Osasuna",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":""
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":""
-
-                }
-
+           
                 
 
-            ]
-
-},
-
          
 
            {
@@ -1071,7 +972,7 @@
 
             "date": "May 28",
 
-            "time": "11:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
 
@@ -1097,25 +998,7 @@
 
                 },                     
 
-{
 
-                    "type": "SD 2",
-
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
-
-         
-
-                },
 
 {
 
@@ -1156,7 +1039,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=e57d2702a97e1751cf2a51123542b920&txTime=6473d992"
 
          
 
@@ -1166,7 +1049,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=c40f5fcb93ebcb0b52981355900b9cc8&txTime=6473d9ce"
 
          
 
@@ -1176,7 +1059,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=c40f5fcb93ebcb0b52981355900b9cc8&txTime=6473d9ce"
 
          
 
@@ -1186,7 +1069,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=e57d2702a97e1751cf2a51123542b920&txTime=6473d992"
 
                 }
 
