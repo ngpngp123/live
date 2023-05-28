@@ -198,6 +198,15 @@
          
 
                 },
+             {
+
+                    "type": "English HD",
+
+                "livelink":""
+
+         
+
+                },
 
 {
 
@@ -259,6 +268,15 @@
                     "type": "HD",
 
                 "livelink":"https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=3e2dac1b1692cad2caec145267c2fb37&txTime=6473c29a"
+
+         
+
+                },
+             {
+
+                    "type": "English HD",
+
+                "livelink":"https://skcgagsv.azureedge.net/live/s3/chunks.m3u8"
 
          
 
