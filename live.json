@@ -1,23 +1,90 @@
 [
- 
+ {
 
-           {
+           "league": "MAN U",
 
-           "league": "🏆 Laliga",
-
-            "date": "May 28",
+            "date": "TV Channel",
 
             "time": "live",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
 
-            "teams" : "Barcelona Vs Mallorca",
+            "teams" : "Man United TV",
 
-            "hteam" : "Barcelona",
+            "hteam" : "MAN U",
 
-            "ateam" : "Mallorca",
+            "ateam" : "TV",
+
+            "hotmat":"yes",
+
+            "link":[
+
+                
+
+{
+
+                    "type": "MUTV 360 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+
+         
+
+                },
+
+                
+
+{
+
+                    "type": "MUTV 240 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "MUTV 540 HD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "MAN U TV 1080HD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+
+                }
+
+                
+
+            ]
+
+},
+           {
+
+           "league": "🏆 Saudi Premier League",
+
+            "date": "June 1",
+
+            "time": "12:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/177356_small.png",
+
+            "teams" : "Al Nassr FC Vs Al Fateh FC",
+
+            "hteam" : "Al Nassr FC",
+
+            "ateam" : "Al Fateh FC",
 
             "hotmat":"no",
 
@@ -27,7 +94,7 @@
 
                     "type": "SD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-434154_lsd.m3u8?txSecret=fc6be89c075393b7858b8275952fd424&txTime=6473f22e"
+                "livelink":""
 
          
 
@@ -37,7 +104,7 @@
 
                     "type": "SD 2",
 
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-252503_lsd.m3u8?auth_key=1685320298-0-0-16f251056a7ec3c7d75cc3f97de94d5f&sub_m3u8=true&user_session_id=bdfdfa5855db1339ac7b4478360d1f20&edge_slice=true"
+                "livelink":""
 
          
 
@@ -47,7 +114,7 @@
 
                     "type": "HD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=fc6be89c075393b7858b8275952fd424&txTime=6473f22e"
+                "livelink":""
 
          
 
@@ -57,7 +124,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1685320298-0-0-d41d8e8b6ca09377222822317bffff83&sub_m3u8=true&user_session_id=9cf2d9f0365a484faf8f717fa20cef90&edge_slice=true"
+                "livelink":""
 
                 }
 
@@ -66,6 +133,83 @@
             ]
 
 },
+           {
+
+           "league": "🏆 Europa League Final",
+
+            "date": "June 1",
+
+            "time": "1:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+
+            "teams" : "Sevilla Vs Roma",
+
+            "hteam" : "Sevilla",
+
+            "ateam" : "Roma",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
+}
+ ]
+ 
+ 
+
+          
+           
+
+           
+
+            
+
+
 
           
 
@@ -137,100 +281,13 @@
                 
 
             
-           {
+           
+                    
 
-           "league": "🏆 Laliga",
-
-            "date": "May 28",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
-
-            "teams" : "Almeria Vs Real Valladolid",
-
-            "hteam" : "Almeria",
-
-            "ateam" : "Real Valladolid",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1685313621-0-0-df83eaa0d8e6ede201e1781fb45df513&sub_m3u8=true&user_session_id=11eaaacab73ba515019ae5bb6a1dc63e&edge_slice=true"
-
+            
          
 
-                },                     
-
-
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1685313621-0-0-763532b38cd35d86c2c9379d5984a257&sub_m3u8=true&user_session_id=1c0e3c33a0cf9974ddd645a29ce21941&edge_slice=true"
-
-                }
-
                 
-
-            ]
-
-},
-           {
-
-           "league": "🏆 Laliga",
-
-            "date": "May 28",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
-
-            "teams" : "Cadiz Vs Celta Vigo",
-
-            "hteam" : "Cadiz",
-
-            "ateam" : "Celta Vigo",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lsd.m3u8?edge_slice=true&auth_key=1685313561-0-0-87d2284350b78d8dc563650f5ec85824&user_session_id=46d35294c1ca04d7bbeced21c0672bfe&sub_m3u8=true"
-
-         
-
-                },                     
-
-
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lhd.m3u8?auth_key=1685313561-0-0-f393b8db2b9b82c2b9b770dc97bee5ff&sub_m3u8=true&edge_slice=true&user_session_id=94b8ae4e90b26b591729ca7b0bd0e821"
-
-                }
-
-                
-
-            ]
-
-},
 
          
 
@@ -239,125 +296,19 @@
 
          
 
-           {
+           
 
-           "league": "🏆 Laliga",
+  
+            
 
-            "date": "May 28",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-
-            "teams" : "Valencia Vs Espanyol",
-
-            "hteam" : "Valencia",
-
-            "ateam" : "Espanyol",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?auth_key=1685313502-0-0-1608a1a89225a311b46d366a0ccddd51&edge_slice=true&sub_m3u8=true&user_session_id=771ac9f6ffd021892bcc337f8fa2454c"
-
-         
-
-                },                     
-
-
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?user_session_id=621101d47cfca201b5d1f02096526746&edge_slice=true&sub_m3u8=true&auth_key=1685313502-0-0-c8f3b87108ee783f43909d1605dd7a1e"
-
-                }
-
-                
-
-            ]
-
-},
-           {
-
-           "league": "🏆 Serie A",
-
-            "date": "May 29",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-
-            "teams" : "Juventus Vs AC Milan",
-
-            "hteam" : "Juventus",
-
-            "ateam" : "AC Milan",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=e57d2702a97e1751cf2a51123542b920&txTime=6473d992"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=c40f5fcb93ebcb0b52981355900b9cc8&txTime=6473d9ce"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=c40f5fcb93ebcb0b52981355900b9cc8&txTime=6473d9ce"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=e57d2702a97e1751cf2a51123542b920&txTime=6473d992"
-
-                }
-
-                
-
-            ]
-
-}
+                    
 
           
             
           
           
           
-  ]
+  
  
 
            
