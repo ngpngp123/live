@@ -68,23 +68,25 @@
             ]
 
 },
+ 
+
            {
 
-           "league": "🏆 Saudi Premier League",
+           "league": "🏆 Serie A",
 
-            "date": "June 1",
+            "date": "June 3",
 
-            "time": "live",
+            "time": "1:30 AM",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/177356_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
 
-            "teams" : "Al Nassr FC Vs Al Fateh FC",
+            "teams" : "Sassuolo Vs Fiorentina",
 
-            "hteam" : "Al Nassr FC",
+            "hteam" : "Sassuolo",
 
-            "ateam" : "Al Fateh FC",
+            "ateam" : "Fiorentina",
 
             "hotmat":"no",
 
@@ -94,7 +96,7 @@
 
                     "type": "SD",
 
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685575598-0-0-ad631b3c04470bfa20badbc7a488cf74&user_session_id=99d2fe2c8808d6d844c46cbada03e303"
+                "livelink":""
 
          
 
@@ -104,7 +106,7 @@
 
                     "type": "SD 2",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=213d88499e1370b91337ed9551532cfb&auth_key=1685575701-0-0-dffb8fce1c296bcde18bb8cdf3f9a99e"
+                "livelink":""
 
          
 
@@ -114,7 +116,7 @@
 
                     "type": "HD",
 
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1685575598-0-0-31bd0d66e3bc3c703cac986d906146eb&sub_m3u8=true&user_session_id=56c375051df5740905a430a722834246&edge_slice=true"
+                "livelink":""
 
          
 
@@ -124,7 +126,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lhd.m3u8?auth_key=1685575701-0-0-21b89df87b264ed71f6d33be3b2d47de&user_session_id=4c3c9d9838e9e5dc0be8a37eb95d1e0e&sub_m3u8=true&edge_slice=true"
+                "livelink":""
 
                 }
 
@@ -135,21 +137,21 @@
 },
            {
 
-           "league": "🏆 Europa League Final",
+           "league": "🏆 FA Cup Final",
 
-            "date": "June 1(1:30AM)",
+            "date": "June 3",
 
-            "time": "live",
+            "time": "",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 
-            "teams" : "Sevilla Vs Roma",
+            "teams" : "Man City Vs Man United",
 
-            "hteam" : "Sevilla",
+            "hteam" : "Man City",
 
-            "ateam" : "Roma",
+            "ateam" : "Man United",
 
             "hotmat":"yes",
 
@@ -159,7 +161,7 @@
 
                     "type": "SD",
 
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?edge_slice=true&user_session_id=b4f30e31dd86b93296ab78fc2f50ffb8&sub_m3u8=true&auth_key=1685579438-0-0-2c989e3f6ddcfbe68bd33498a42e0d4e"
+                "livelink":""
 
          
 
@@ -169,7 +171,7 @@
 
                     "type": "SD 2",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=a32af23288a3d528937ed3b56932b815&txTime=6477d772"
+                "livelink":""
 
          
 
@@ -179,7 +181,7 @@
 
                     "type": "HD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=a32af23288a3d528937ed3b56932b815&txTime=6477d772"
+                "livelink":""
 
          
 
@@ -189,7 +191,7 @@
 
                     "type": "HD 2",
 
-                "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?edge_slice=true&user_session_id=2ed09ca0b7fe8e3beb7e0a5524ab1d89&sub_m3u8=true&auth_key=1685579438-0-0-745f9e840b4fc311f58f4b209ce9e0f1"
+                "livelink":""
 
                 }
 
@@ -198,8 +200,17 @@
             ]
 
 }
+
+          
+          
  ]
- 
+           
+                
+            
+
+                
+
+            
  
 
           
