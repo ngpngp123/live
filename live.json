@@ -74,7 +74,7 @@
 
             "date": "June 1",
 
-            "time": "12:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
 
@@ -94,7 +94,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685575598-0-0-ad631b3c04470bfa20badbc7a488cf74&user_session_id=99d2fe2c8808d6d844c46cbada03e303"
 
          
 
@@ -114,7 +114,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1685575598-0-0-31bd0d66e3bc3c703cac986d906146eb&sub_m3u8=true&user_session_id=56c375051df5740905a430a722834246&edge_slice=true"
 
          
 
@@ -139,7 +139,7 @@
 
             "date": "June 1",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
 
@@ -159,7 +159,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991138_lsd.m3u8?auth_key=1685575538-0-0-e81294d0d6411b7ad476cc5b2db19506&sub_m3u8=true&edge_slice=true&user_session_id=ad5322fbea0627fea3243ae92366b014"
 
          
 
@@ -169,7 +169,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=a32af23288a3d528937ed3b56932b815&txTime=6477d772"
 
          
 
@@ -179,7 +179,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=a32af23288a3d528937ed3b56932b815&txTime=6477d772"
 
          
 
@@ -189,7 +189,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991138_lhd.m3u8?edge_slice=true&auth_key=1685575538-0-0-28df0efaffbc256762fe1d15bf1eb48f&user_session_id=7603597dcbccf938a6b4ddefaf019223&sub_m3u8=true"
 
                 }
 
