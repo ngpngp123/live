@@ -7,89 +7,15 @@
 
             
 
-
-
-
                 
 
-            
-
-
-           
- 
-
-           {
-
-           "league": "🏆 Serie A",
-
-            "date": "June 3",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-
-            "teams" : "Torino Vs Inter",
-
-            "hteam" : "Torino",
-
-            "ateam" : "Inter",
-
-            "hotmat":"yes",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-118582_lsd.m3u8?txSecret=10f8cb39cbb391544970ba5b0e09a3bc&txTime=647bb9aa"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991128_lsd.m3u8?txSecret=07e030936092295c37abcef534827717&txTime=647bb9e7"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=10f8cb39cbb391544970ba5b0e09a3bc&txTime=647bb9aa"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991128_lhd.m3u8?txSecret=07e030936092295c37abcef534827717&txTime=647bb9e7"
-
-                }
-
-                
-
-            ]
-
-},
-           {
+             {
 
            "league": "🏆 Serie A",
 
             "date": "June 4",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
 
@@ -115,15 +41,7 @@
 
                 },                     
 
-{
 
-                    "type": "SD 2",
-
-                "livelink":""
-
-         
-
-                },
 
 {
 
@@ -133,15 +51,9 @@
 
          
 
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":""
-
                 }
+
+
 
                 
 
@@ -157,7 +69,7 @@
 
             "date": "June 3",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
 
@@ -177,37 +89,19 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=f56f5ca0c577819d0553d60154d1fb27&txTime=647bdf2a"
 
          
 
                 },                     
 
-{
 
-                    "type": "SD 2",
-
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
-
-         
-
-                },
 
 {
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=f56f5ca0c577819d0553d60154d1fb27&txTime=647bdf2a"
 
                 }
 
@@ -225,7 +119,7 @@
 
             "date": "June 4",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
 
@@ -255,7 +149,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=d58761b63bccd0f5a886748d4872c1e8&txTime=647bdf2b"
 
          
 
@@ -275,7 +169,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=d58761b63bccd0f5a886748d4872c1e8&txTime=647bdf2b"
 
                 }
 
@@ -293,7 +187,7 @@
 
             "date": "June 4",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
 
@@ -313,37 +207,19 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991137_lsd.m3u8?edge_slice=true&user_session_id=09bf790587dac6ccc933f947a9488407&auth_key=1685839538-0-0-7b7a7afa72d4f39d6e6a43f5c9de9c9f&sub_m3u8=true"
 
          
 
                 },                     
 
-{
 
-                    "type": "SD 2",
-
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
-
-         
-
-                },
 
 {
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1685839538-0-0-376908b0537736ba7a2ffc23a18b4894&edge_slice=true&user_session_id=17b9228788f9efa50518acf3e784225e&sub_m3u8=true"
 
                 }
 
