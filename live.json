@@ -1,4 +1,74 @@
 [
+   {
+
+           "league": "MAN U",
+
+            "date": "TV Channel",
+
+            "time": "live",
+
+            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+
+            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+
+            "teams" : "Man United TV",
+
+            "hteam" : "MAN U",
+
+            "ateam" : "TV",
+
+            "hotmat":"yes",
+
+            "link":[
+
+                
+
+{
+
+                    "type": "MUTV 360 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+
+         
+
+                },
+
+                
+
+{
+
+                    "type": "MUTV 240 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "MUTV 540 HD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "MAN U TV 1080HD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+
+                }
+
+                
+
+            ]
+
+}
+    ]
  
 
                     
@@ -9,232 +79,25 @@
 
                 
 
-             {
+             
+           
 
-           "league": "🏆 Serie A",
-
-            "date": "June 4",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
-
-            "teams" : "Empoli Vs Lazio",
-
-            "hteam" : "Empoli",
-
-            "ateam" : "Lazio",
-
-            "hotmat":"yes",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-991140_lsd.m3u8?sub_m3u8=true&auth_key=1685838578-0-0-7cc4ae86acbaeacabf674e812639dfba&edge_slice=true&user_session_id=07ab19fdee1cc42f3f081dd096140cd2"
-
-         
-
-                },                     
+            
 
 
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?sub_m3u8=true&auth_key=1685838578-0-0-efd7855e12d2ef6851a30f645f40ed62&edge_slice=true&user_session_id=ae56f549d9716a1f833ee7b555b86f27"
-
-         
-
-                }
-
-
+            
 
                 
 
-            ]
-
-},
-
-          
-
-           {
-
-           "league": "🏆 Serie A",
-
-            "date": "June 3",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-
-            "teams" : "Cremonese Vs Salernitana",
-
-            "hteam" : "Cremonese",
-
-            "ateam" : "Salernitana",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=f56f5ca0c577819d0553d60154d1fb27&txTime=647bdf2a"
-
-         
-
-                },                     
-
-
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=f56f5ca0c577819d0553d60154d1fb27&txTime=647bdf2a"
-
-                }
-
-                
-
-            ]
-
-},
-
-          
-
-           {
-
-           "league": "🏆 Ligue 1",
-
-            "date": "June 4",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
-
-            "teams" : "PSG Vs Clermont Foot",
-
-            "hteam" : "PSG",
-
-            "ateam" : "Clermont Foot",
-
-            "hotmat":"yes",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-379816_lsd.m3u8?edge_slice=true&auth_key=1685838638-0-0-43e953e26c0f36c9c94f9cb666f35c4a&sub_m3u8=true&user_session_id=fd060c794be605508e18576d9f2dc275"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=d58761b63bccd0f5a886748d4872c1e8&txTime=647bdf2b"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-379816_lhd.m3u8?sub_m3u8=true&auth_key=1685838638-0-0-f0f0c76e41ab31dbdd2d7d16c7e2d4c7&edge_slice=true&user_session_id=87866453116263547e0847b4f886a268"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=d58761b63bccd0f5a886748d4872c1e8&txTime=647bdf2b"
-
-                }
-
-                
-
-            ]
-
-},
-
-          
-
-           {
-
-           "league": "🏆 Ligue 1",
-
-            "date": "June 4",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
-
-            "teams" : "Monaco Vs Toulouse",
-
-            "hteam" : "Monaco",
-
-            "ateam" : "Toulouse",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991137_lsd.m3u8?edge_slice=true&user_session_id=09bf790587dac6ccc933f947a9488407&auth_key=1685839538-0-0-7b7a7afa72d4f39d6e6a43f5c9de9c9f&sub_m3u8=true"
-
-         
-
-                },                     
-
-
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1685839538-0-0-376908b0537736ba7a2ffc23a18b4894&edge_slice=true&user_session_id=17b9228788f9efa50518acf3e784225e&sub_m3u8=true"
-
-                }
-
-                
-
-            ]
-
-}
+            
+                    
 
           
           
 
           
           
- ]
+ 
            
                 
             
