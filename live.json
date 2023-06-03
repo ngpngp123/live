@@ -36,7 +36,15 @@
             "hotmat":"yes",
 
             "link":[
+{
 
+                    "type": "Soco SD",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-991135_lsd.m3u8?txSecret=8d7096624a92456fea764eb98c5f03ae&txTime=647b9a07"
+
+         
+
+                },
   {
 
                     "type": "SD",
