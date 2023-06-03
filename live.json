@@ -40,7 +40,7 @@
 
                     "type": "Soco SD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-991135_lsd.m3u8?txSecret=8d7096624a92456fea764eb98c5f03ae&txTime=647b9a07"
+                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?sub_m3u8=true&user_session_id=da7df3e4e0c92d29ebf9a4716b519917&edge_slice=true&auth_key=1685824899-0-0-5c8d82e11ed2de0a427dbb11ffce76b0"
 
          
 
@@ -49,7 +49,7 @@
 
                     "type": "SD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-991120_lsd.m3u8?txSecret=3050dcbe642417b6fcb1d2481e1a1c8a&txTime=647b93ee"
+                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-991140_lsd.m3u8?edge_slice=true&auth_key=1685824959-0-0-d577d9a63930544d8525c3a4ac43645a&sub_m3u8=true&user_session_id=2cbd4fe708e2b91759fa1f1bac6dcbb5"
 
          
 
@@ -59,7 +59,8 @@
 
                     "type": "SD 2",
 
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?edge_slice=true&user_session_id=aae006ceabdb06fd2a68352860606684&sub_m3u8=true&auth_key=1685820561-0-0-062ea03ae1ac01adb3901964c4b2fa7d"
+                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?sub_m3u8=true&user_session_id=4800b259201c444bdd03c16d4cc196fe&edge_slice=true&auth_key=1685824959-0-0-3ca0466332f63182ae809eafd383203c"
+
 
          
 
@@ -69,7 +70,7 @@
 
                     "type": "HD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=3050dcbe642417b6fcb1d2481e1a1c8a&txTime=647b93ee"
+                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?sub_m3u8=true&user_session_id=b4b647f820c79b728aaa4de5865ded8b&edge_slice=true&auth_key=1685824899-0-0-1c5810795f390aa1c9118b8277b631ee"
 
          
 
