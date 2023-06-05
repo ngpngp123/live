@@ -69,7 +69,73 @@
 
 },
    
+           {
 
+           "league": "🏆 Club Friendly Game",
+
+            "date": "June 6",
+
+            "time": "5:00 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/4688_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+
+            "teams" : "Vissel Kobe Vs Barcelona",
+
+            "hteam" : "Vissel Kobe",
+
+            "ateam" : "Barcelona",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
+},
+
+          
            {
 
            "league": "🏆 Europa Conference League Final",
