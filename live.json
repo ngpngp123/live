@@ -67,53 +67,6 @@
 
             ]
 
-},
-   
-
-           
-
-                    
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=b1f8bd6aed8eab8d93861546a73eca35&txTime=647d0b2b"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?user_session_id=bc8a0c1bd606282f8af52273f194eefe&edge_slice=true&auth_key=1685916742-0-0-f2369710e4e5b9928b9b60fcf7d8acd8&sub_m3u8=true"
-
-                }
-
-                
-
-            ]
-
-},
-
-          
-
-           
-           
-            
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://e77a86395142b728795df09655c758b0.livehwc3.cn/pull06.scstream.net/live/stream-991112_lhd.m3u8?sub_m3u8=true&auth_key=1685921199-0-0-684c0a2cad181bc6986d11ba7857e1c1&edge_slice=true&user_session_id=8df6a870b9a508f36b5a7cc97af39687"
-
-                }
-
-                
-
-            ]
-
 }
 ]
 
