@@ -72,55 +72,38 @@
            
 
           
-           {
+           
+            
 
-           "league": "🏆 Europa Conference League Final",
+            
 
-            "date": "June 8",
+  
 
-            "time": "live",
+                   
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-
-            "teams" : "Fiorentina Vs West Ham United",
-
-            "hteam" : "Fiorentina",
-
-            "ateam" : "West Ham United",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?edge_slice=true&auth_key=1686184599-0-0-5ff76aefd1e8e6fd4b4cd9c45a68e2c9&sub_m3u8=true&user_session_id=473e9a81d4ba41e7a8845a56cae7d145"
+                
 
          
 
-                },                     
+                          
 
-{
 
-                    "type": "SD 2",
 
-                "livelink":"https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?sub_m3u8=true&auth_key=1686177579-0-0-d7d7f3690aed974cbfb42bf3a1bb209b&user_session_id=9c1f38eaa712a25e817d0327064d3bb8&edge_slice=true"
+
+
+     
 
          
 
-                },
+
 
 
 
                 
 
-            ]
 
-},
+
+
 
           
 
