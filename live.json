@@ -8,7 +8,7 @@
 
             "date": "June 11",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 
@@ -28,7 +28,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=a813771dfff188bc75a6b0adb07eba7d&txTime=64851393"
 
          
 
@@ -48,7 +48,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=a813771dfff188bc75a6b0adb07eba7d&txTime=64851393"
 
          
 
