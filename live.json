@@ -1,26 +1,25 @@
 [
-   
-
+  
 
            {
 
-           "league": "🏆 Champion League Final",
+           "league": "🏆 Major League Soccer",
 
-            "date": "June 11",
+            "date": "June 12",
 
             "time": "live",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6580_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
 
-            "teams" : "Manchester City Vs Inter",
+            "teams" : "New England Revolution Vs Inter Miami CF",
 
-            "hteam" : "Manchester City",
+            "hteam" : "New England Revolution",
 
-            "ateam" : "Inter",
+            "ateam" : "Inter Miami CF",
 
-            "hotmat":"yes",
+            "hotmat":"no",
 
             "link":[
 
@@ -28,96 +27,46 @@
 
                     "type": "SD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-991121_lsd.m3u8?txSecret=490f446f0ebb3226a939edac7534a45f&txTime=648522cf"
+                "livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991110_lsd.m3u8?sub_m3u8=true&auth_key=1686457599-0-0-cd5a04fb468ed64b36dbebf751ab8a51&user_session_id=93b34b456aa143fffb367ee8b5a3c47f&edge_slice=true"
 
          
 
-                },       
-               {
+                },                     
 
-"type": "English 1 HD",
 
-"livelink": "https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8"
-
-},
-               {
-
-                    "type": "smooth",
-
-                "livelink":"https://live.myanball.com/sschone/hls/shwesports_hd.m3u8"
-
-         
-
-                },
-{
-
-                    "type": "Test SD",
-
-                "livelink":"https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3d162m2w/chunklist_w1727913019.m3u8"
-
-         
-
-                },
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-609240_lsd.m3u8?edge_slice=true&user_session_id=25a431e644bdc5ee8385d1f348b9e744&sub_m3u8=true&auth_key=1686443002-0-0-0c2253f7f34764a61a80f8847e206ccd"
-
-         
-
-                },
 
 {
 
                     "type": "HD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=490f446f0ebb3226a939edac7534a45f&txTime=648522cf"
+                "livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991110_lhd.m3u8?sub_m3u8=true&user_session_id=22dccafe47f4f090a2d2f91485f4fd40&auth_key=1686457599-0-0-981be62cd32074da29f631688650f238&edge_slice=true"
 
          
-
-                },
-               {
-
-                    "type": "Test HD",
-
-                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-x7lm7ph3d162m2w/chunklist_w1805770997.m3u8"
-
-         
-
-                },
-               {
-
-                    "type": "Vebo FHD2",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8"
-
-         
-
-                },
-               {
-
-                    "type": "Vebo FHD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-609240_lhd.m3u8?sub_m3u8=true&auth_key=1686443002-0-0-5019bc08645720dbe072b0a0f5050eb1&user_session_id=128f6373bdec2c88a128208c7e93a5bc&edge_slice=true"
 
                 }
+
+
 
                 
 
             ]
 
 },
+
+           
+
+
+           
+
+            
+  
+                
+
+                    
+
+                
+
+            
            {
 
            "league": "🏆 Serie A Relegation Final",
