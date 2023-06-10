@@ -33,7 +33,15 @@
          
 
                 },                     
+{
 
+                    "type": "Test SD",
+
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3d162m2w/chunklist_w1727913019.m3u8"
+
+         
+
+                },
 {
 
                     "type": "SD 2",
@@ -49,6 +57,15 @@
                     "type": "HD",
 
                 "livelink":"https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=a813771dfff188bc75a6b0adb07eba7d&txTime=64851393"
+
+         
+
+                },
+               {
+
+                    "type": "Test HD",
+
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-x7lm7ph3d162m2w/chunklist_w1805770997.m3u8"
 
          
 
