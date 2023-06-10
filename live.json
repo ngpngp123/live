@@ -32,7 +32,16 @@
 
          
 
-                },                     
+                },       
+               {
+
+                    "type": "smooth",
+
+                "livelink":"https://live.myanball.com/sschone/hls/shwesports_hd.m3u8"
+
+         
+
+                },
 {
 
                     "type": "Test SD",
