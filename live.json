@@ -171,8 +171,74 @@
 
             ]
 
+},
+           {
+
+           "league": "🏆 Serie A Relegation Final",
+
+            "date": "June 12",
+
+            "time": "1:15 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
+
+            "teams" : "Spezia Vs Hellas Verona",
+
+            "hteam" : "Spezia",
+
+            "ateam" : "Hellas Verona",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
 }
 
+          
           
 ]
 
