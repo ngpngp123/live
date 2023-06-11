@@ -1,57 +1,7 @@
 [
   
 
-           {
-
-           "league": "🏆 Major League Soccer",
-
-            "date": "June 12",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6580_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
-
-            "teams" : "New England Revolution Vs Inter Miami CF",
-
-            "hteam" : "New England Revolution",
-
-            "ateam" : "Inter Miami CF",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991110_lsd.m3u8?sub_m3u8=true&auth_key=1686457599-0-0-cd5a04fb468ed64b36dbebf751ab8a51&user_session_id=93b34b456aa143fffb367ee8b5a3c47f&edge_slice=true"
-
-         
-
-                },                     
-
-
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991110_lhd.m3u8?sub_m3u8=true&user_session_id=22dccafe47f4f090a2d2f91485f4fd40&auth_key=1686457599-0-0-981be62cd32074da29f631688650f238&edge_slice=true"
-
-         
-
-                }
-
-
-
-                
-
-            ]
-
-},
+           
 
            
 
