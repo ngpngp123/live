@@ -1,5 +1,74 @@
 [
-  
+ 
+
+           {
+
+           "league": "🏆 Club Friendlies Games",
+
+            "date": "June 12",
+
+            "time": "10:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6718_small.png",
+
+            "teams" : "Germany Vs Ukraine",
+
+            "hteam" : "Germany",
+
+            "ateam" : "Ukraine",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
+}
+  ]
+
+           
 
            
 
@@ -17,75 +86,10 @@
                 
 
             
-           {
+           
 
-           "league": "🏆 Serie A Relegation Final",
+   
 
-            "date": "June 12",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
-
-            "teams" : "Spezia Vs Hellas Verona",
-
-            "hteam" : "Spezia",
-
-            "ateam" : "Hellas Verona",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=bec029fe05bf5c233b3383def3d3ac8d&txTime=64865343"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?sub_m3u8=true&user_session_id=d84180b9aac8f891f2211ea90c208c29&auth_key=1686524799-0-0-7f46fc3a526a469fd8013a79a3f6648e&edge_slice=truelive"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1686524799-0-0-fd750b4e56209b7659d0b79cbfaeaaba&sub_m3u8=true&user_session_id=d0e5c0fb2d9c694b3ad79fae68824a47&edge_slice=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=bec029fe05bf5c233b3383def3d3ac8d&txTime=64865343"
-
-                }
-
-                
-
-            ]
-
-}
-
-          
-          
-]
 
           
 
