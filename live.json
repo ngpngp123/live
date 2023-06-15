@@ -154,7 +154,7 @@
 
             "date": "June 15",
 
-            "time": "6:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
 
@@ -174,7 +174,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-102933_lsd.m3u8?txSecret=105015a467a9a829cc28f39df4381725&txTime=648b4bb0"
 
          
 
@@ -184,7 +184,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=a43a0f46968171249dab9953e7cb16ed&txTime=648b4bb0"
 
          
 
@@ -194,7 +194,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=a43a0f46968171249dab9953e7cb16ed&txTime=648b4bb0"
 
          
 
@@ -204,7 +204,7 @@
 
                     "type": "HD 2",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=105015a467a9a829cc28f39df4381725&txTime=648b4bb0"
 
                 }
 
