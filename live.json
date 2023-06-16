@@ -52,7 +52,7 @@
            {
            "league": "Friendlies",
             "date": "june 16",
-            "time": "(0) AM",
+            "time": "5:30PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5798_small.png",
             "teams" : "South Korea Vs Peru",
@@ -77,12 +77,12 @@
            {
            "league": "0",
             "date": "june 16",
-            "time": "(0) AM",
-            "himg": "0",
-            "aimg": "0",
-            "teams" : "0 Vs 0",
-            "hteam" : "0",
-            "ateam" : "0",
+            "time": "11:30PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8520_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5820_small.png",
+            "teams" : "Sweden Vs New Zealand",
+            "hteam" : "Sweden",
+            "ateam" : "New Zealand",
          "hotmat":"yes",
             "link":[
                 {
