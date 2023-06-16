@@ -3,11 +3,11 @@
            "league": "EURO Qualification Grp. H",
             "date": "june 16",
             "time": "(0) AM",
-            "himg": "Finland",
-            "aimg": "Slovenia",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5787_small.png",
             "teams" : "Finland Vs Slovenia",
-            "hteam" : "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
-            "ateam" : "https://images.fotmob.com/image_resources/logo/teamlogo/5787_small.png",
+            "hteam" : "Finland",
+            "ateam" : "Slovenia",
          "hotmat":"yes",
             "link":[
                 {
@@ -28,11 +28,11 @@
            "league": "Friendlies",
             "date": "june 16",
             "time": "5 PM",
-            "himg": "China",
-            "aimg": "Myanmar",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
             "teams" : "China Vs Myanmar",
-            "hteam" : "https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",
-            "ateam" : "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
+            "hteam" : "China",
+            "ateam" : "Myanmar",
          "hotmat":"yes",
             "link":[
                 {
