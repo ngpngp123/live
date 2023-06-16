@@ -3,7 +3,7 @@
            {
            "league": "Friendlies",
             "date": "june 16",
-            "time": "5 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
             "teams" : "China Vs Myanmar",
@@ -11,17 +11,25 @@
             "ateam" : "Myanmar",
          "hotmat":"yes",
             "link":[
+                          {
+                    "type": "720 HD 1",
+                "livelink":"https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=5da8ee0b19f6e855a5b221d54ad54dd2&txTime=648c8b9c"
+                },
                 {
-                    "type": "720 HD",
+                    "type": "720 HD 2",
                 "livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/3"
                 },
                 {
-                    "type": "480HD",
-                "livelink":"0"
+                    "type": "480HD 1",
+                "livelink":"https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=5da8ee0b19f6e855a5b221d54ad54dd2&txTime=648c8b9c"
+                },
+                        {
+                    "type": "480HD 2",
+                "livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/9906"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=5da8ee0b19f6e855a5b221d54ad54dd2&txTime=648c8b9c"
                 }
             ]
          },
