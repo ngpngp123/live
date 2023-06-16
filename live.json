@@ -202,101 +202,57 @@
             ]
          },
            {
-
-           "league": "🏆 International Friendly Games",
-
-            "date": "June 15",
-
-            "time": "end",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",
-
-            "teams" : "Argentina Vs Australia",
-
-            "hteam" : "Argentina",
-
-            "ateam" : "Australia",
-
-            "hotmat":"yes",
-
+           "league": "EURO Qualification Grp. H",
+            "date": "june 17",
+            "time": "(1:30) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10259_small.png",
+            "teams" : "Denmark Vs Northern Ireland",
+            "hteam" : "Denmark",
+            "ateam" : "Northern Ireland",
+         "hotmat":"yes",
             "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-102933_lsd.m3u8?txSecret=105015a467a9a829cc28f39df4381725&txTime=648b4bb0"
-
-         
-
-                },                     
-
-{
-
-                    "type": "SD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=a43a0f46968171249dab9953e7cb16ed&txTime=648b4bb0"
-
-         
-
+                {
+                    "type": "720 HD",
+                "livelink":"0"
                 },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=a43a0f46968171249dab9953e7cb16ed&txTime=648b4bb0"
-
-         
-
+                {
+                    "type": "480HD",
+                "livelink":"0"
                 },
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=105015a467a9a829cc28f39df4381725&txTime=648b4bb0"
-
+                {
+                    "type": "320SD",
+                "livelink":"0"
                 }
-                       ,
-
-{
-
-                    "type": "HD 2",
-
-                "livelink":"https://fotlive.xyz:443/fotlive/fotlive/8445"
-
+            ]
+         },
+           {
+           "league": "EURO Qualification Grp. I",
+            "date": "june 17",
+            "time": "(1:30) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10045_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",
+            "teams" : "Andorra Vs Switzerland",
+            "hteam" : "Andorra",
+            "ateam" : "Switzerland",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
                 },
-                       {
-                    "type": "Vietnam Vs Hong Kaung HD",
-                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991137_lsd.m3u8?auth_key=1686853780-0-0-71853dcfa9a5be9cf2275d85c85f9940&edge_slice=true&user_session_id=cf7b66209101b4ec181e6e8d353545ed&sub_m3u8=true"
-         
-                       }
-
-                
-
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
             ]
            }
 ]
-
-
-
-          
-
            
-                
-
-            
-
-
-
-          
- 
-
-           
-
   
 
 
