@@ -30,6 +30,11 @@
                 {
                     "type": "320SD",
                 "livelink":"https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=5da8ee0b19f6e855a5b221d54ad54dd2&txTime=648c8b9c"
+                },
+                       
+                {
+                    "type": "320SD 2",
+                "livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/9907"
                 }
             ]
          },
