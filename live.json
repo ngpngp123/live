@@ -12,6 +12,14 @@
             "ateam" : "Slovenia",
          "hotmat":"yes",
             "link":[
+                       {
+                    "type": "720 HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=b16dee0fc589728cd7ce4b73d7d495da&txTime=648cd5e8"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-991114_lsd.m3u8?txSecret=b16dee0fc589728cd7ce4b73d7d495da&txTime=648cd5e8"
+                },
                 {
                     "type": "720 HD",
                 "livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/9908"
