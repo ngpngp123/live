@@ -50,14 +50,14 @@
             ]
          },
            {
-           "league": "0",
+           "league": "Friendlies",
             "date": "june 16",
             "time": "(0) AM",
-            "himg": "0",
-            "aimg": "0",
-            "teams" : "0 Vs 0",
-            "hteam" : "0",
-            "ateam" : "0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5798_small.png",
+            "teams" : "South Korea Vs Peru",
+            "hteam" : "Peru",
+            "ateam" : "South Korea",
          "hotmat":"yes",
             "link":[
                 {
