@@ -1,13 +1,13 @@
 [
 {
-           "league": "0",
+           "league": "EURO Qualification Grp. H",
             "date": "june 16",
             "time": "(0) AM",
-            "himg": "0",
-            "aimg": "0",
-            "teams" : "0 Vs 0",
-            "hteam" : "0",
-            "ateam" : "0",
+            "himg": "Finland",
+            "aimg": "Slovenia",
+            "teams" : "Finland Vs Slovenia",
+            "hteam" : "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
+            "ateam" : "https://images.fotmob.com/image_resources/logo/teamlogo/5787_small.png",
          "hotmat":"yes",
             "link":[
                 {
