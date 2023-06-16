@@ -41,7 +41,7 @@
            {
            "league": "Friendlies",
             "date": "june 16",
-            "time": "5:30PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5798_small.png",
             "teams" : "South Korea Vs Peru",
@@ -51,11 +51,11 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1686934000-0-0-922b08da2d92e35926306ccaa408e311&edge_slice=true&sub_m3u8=true&user_session_id=cd8127c38d0581416efedd9973c583d4"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991142_lsd.m3u8?auth_key=1686934000-0-0-7e2a8e5c312bb1d5b94357e627ec3ef1&user_session_id=392b65394a2d08aaaa0e12131ee0744c&sub_m3u8=true&edge_slice=true"
                 },
                 {
                     "type": "320SD",
