@@ -178,15 +178,15 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lhd.m3u8?edge_slice=true&auth_key=1686962440-0-0-f5d81995f9478187ad850a4cc09739e0&sub_m3u8=true&user_session_id=63591cd11616b002d3210aeff8ca4653"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lsd.m3u8?user_session_id=12957e056de5eca408771c61c6e3fd56&auth_key=1686962440-0-0-cfc99e0bad1cd8125c735f9d349c37f7&sub_m3u8=true&edge_slice=true"
                 }
             ]
          },
@@ -203,15 +203,15 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=38de6c06e7af6b79109b14ea2b4bbe80&txTime=648d0144"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://pull.juqihuo.com/live/stream-466758_lhd.flv?auth_key=1686962543-0-0-41f1605d9dcd8a43a223c0607cea708f"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=38de6c06e7af6b79109b14ea2b4bbe80&txTime=648d0144"
                 }
             ]
            }
