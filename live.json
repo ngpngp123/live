@@ -188,7 +188,7 @@
 {
 "league": "🏆 International Friendly",
 "date": "June 18",
-"time": "2:00 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6289_small.png",
 "teams" : "Brazil Vs Guinea",
@@ -198,19 +198,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://sports01.livnvess.com/live/stream-214855_lsd.m3u8?txSecret=6c00f8a79c54484f5e00838af5a34ca5&txTime=648e5c60"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=6c00f8a79c54484f5e00838af5a34ca5&txTime=648e5c60"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://sports01.livnvess.com/live/stream-214855_lsd.m3u8?txSecret=6c00f8a79c54484f5e00838af5a34ca5&txTime=648e5c60"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=6c00f8a79c54484f5e00838af5a34ca5&txTime=648e5c60"
 }
 ]
 }
