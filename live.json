@@ -3,7 +3,7 @@
 {
 "league": "🏆 EURO Qualification Grp. A",
 "date": "June 17",
-"time": "10:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_small.png",
 "teams" : "Norway Vs Scotland",
@@ -13,19 +13,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1687037800-0-0-64d75dae59af803763f6246b7eb67475&sub_m3u8=true&user_session_id=dc457d327dea67f7f50e7c9fd43a892a&edge_slice=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687037800-0-0-7bf5f042d90e71b6503789177b031931&sub_m3u8=true&user_session_id=91bbb30bc4db5ef7646247fe06583fad&edge_slice=true"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
 }
 ]
 },
