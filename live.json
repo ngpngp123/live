@@ -214,8 +214,39 @@
 "livelink":""
 }
 ]
+},
+
+{
+"league": "🏆 International Friendly",
+"date": "June 18",
+"time": "2:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6289_small.png",
+"teams" : "Brazil Vs Guinea",
+"hteam" : "Brazil",
+"ateam" : "Guinea",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
 }
 
+           
            
 ]
            
