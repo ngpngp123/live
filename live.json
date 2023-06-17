@@ -1,214 +1,232 @@
 [
 
+{
+"league": "🏆 EURO Qualification Grp. A",
+"date": "June 17",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_small.png",
+"teams" : "Norway Vs Scotland",
+"hteam" : "Norway",
+"ateam" : "Scotland",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
            
 {
-           "league": "International Friendly",
-            "date": "june 17",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
-            "teams" : "Poland Vs Germany",
-            "hteam" : "Poland",
-            "ateam" : "Germany",
-         "hotmat":"yes",
-            "link":[
-                    {
-                    "type": "720 FHD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8"
-         
-                },     
-              {
-                    "type": "480 HD",
-                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=66f4266a4d51bfcbebd8338d65536893&auth_key=1686963220-0-0-2e4f1e269ed829d558f31fe795f3185e"
-         
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=cf2190d82d90497ec98796b85bca45a1&auth_key=1686963220-0-0-d7789b92f1387d517d4715347fe5aac5"
-                }
-            ]
-         },
-
-           {
-           "league": "Friendlies",
-            "date": "june 16",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8520_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5820_small.png",
-            "teams" : "Sweden Vs New Zealand",
-            "hteam" : "Sweden",
-            "ateam" : "New Zealand",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1686955360-0-0-30dd5467e705377224a214f53686c9a3&sub_m3u8=true&edge_slice=true&user_session_id=6214ac5a41c3676c49fdbcf1a59f420f"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-319191_lsd.m3u8?auth_key=1686955420-0-0-cd1822bfb088a26447972f6318c112fd&sub_m3u8=true&user_session_id=23d27dd1df206d6d6b6e2b24e6a221d5&edge_slice=true"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-380460_lsd.m3u8?auth_key=1686955480-0-0-4f1fd9a1fa5b19380e05dea23742c2f2&edge_slice=true&user_session_id=67789fd08490dbf582d20cfaf8e6ec0b&sub_m3u8=true"
-                }
-            ]
-         },
-           {
-           "league": "EURO Qualification Grp. B",
-            "date": "june 17",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/507764_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
-            "teams" : "Gibraltar Vs France",
-            "hteam" : "Gibraltar",
-            "ateam" : "France",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991131_lhd.m3u8?sub_m3u8=true&user_session_id=966facbb87ace6997ef02df1c24959cd&edge_slice=true&auth_key=1686961900-0-0-23e5c9fdbeb7825a7b8e77ddf834687e"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991131_lsd.m3u8?sub_m3u8=true&user_session_id=adeee423ccebd180a2c8b352e9383568&edge_slice=true&auth_key=1686961900-0-0-dec2e832118c8b6d09ee2e7c23e21700"
-                }
-            ]
-         },
-           {
-           "league": "EURO Qualification Grp. B",
-            "date": "june 17",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6383_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5791_small.png",
-            "teams" : "Greece Vs Ireland",
-            "hteam" : "Greece",
-            "ateam" : "Ireland",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://pull.juqihuo.com/live/stream-658659_lhd.flv?auth_key=1686962183-0-0-332ceea8688e75f181d81a717279f87f"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-239521_lhd.m3u8?edge_slice=true&user_session_id=df188b10c8fb6c0555992f6836bf8acb&sub_m3u8=true&auth_key=1686962020-0-0-a0780fd74fbdb8bdbec748d59b87b607"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-239521_lsd.m3u8?edge_slice=true&user_session_id=d9398b3e65dcd8f76055f6666367c522&sub_m3u8=true&auth_key=1686962020-0-0-651a6d674eadbd180631dc29ffd3b928"
-                }
-            ]
-         },
-           {
-           "league": "EURO Qualification Grp. C",
-            "date": "june 17",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8495_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
-            "teams" : "Malta Vs England",
-            "hteam" : "Malta",
-            "ateam" : "England",
-         "hotmat":"yes",
-            "link":[
-                       {
-                    "type": "English FHD",
-                "livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/10877"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?user_session_id=a078396cef147f15d5619bd72cf4f1c4&auth_key=1686962080-0-0-a42bd124bf7e9ed23e9f044765ae8210&edge_slice=true&sub_m3u8=true"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?user_session_id=7a86f53a8d1a336ad51aad4cc9b9c6f8&auth_key=1686962080-0-0-5cb4663111086853bea162cd32fdb74c&edge_slice=true&sub_m3u8=true"
-                }
-            ]
-         },
-           {
-           "league": "EURO Qualification Grp. C",
-            "date": "june 17",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8260_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6718_small.png",
-            "teams" : "North Macedonia Vs Ukraine",
-            "hteam" : "North Macedonia",
-            "ateam" : "Ukraine",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=0caa08db73ae8c8451daf79247b87b6b&txTime=648d0054"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://pull.juqihuo.com/live/stream-516701_lhd.flv?auth_key=1686962303-0-0-66faf4f8b5bde8380ce7fc3e19513595"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-348199_lsd.m3u8?txSecret=0caa08db73ae8c8451daf79247b87b6b&txTime=648d0054"
-                }
-            ]
-         },
-           {
-           "league": "EURO Qualification Grp. H",
-            "date": "june 17",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10259_small.png",
-            "teams" : "Denmark Vs Northern Ireland",
-            "hteam" : "Denmark",
-            "ateam" : "Northern Ireland",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lhd.m3u8?edge_slice=true&auth_key=1686962440-0-0-f5d81995f9478187ad850a4cc09739e0&sub_m3u8=true&user_session_id=63591cd11616b002d3210aeff8ca4653"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lsd.m3u8?user_session_id=12957e056de5eca408771c61c6e3fd56&auth_key=1686962440-0-0-cfc99e0bad1cd8125c735f9d349c37f7&sub_m3u8=true&edge_slice=true"
-                }
-            ]
-         },
-           {
-           "league": "EURO Qualification Grp. I",
-            "date": "june 17",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10045_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",
-            "teams" : "Andorra Vs Switzerland",
-            "hteam" : "Andorra",
-            "ateam" : "Switzerland",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=38de6c06e7af6b79109b14ea2b4bbe80&txTime=648d0144"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"https://pull.juqihuo.com/live/stream-466758_lhd.flv?auth_key=1686962543-0-0-41f1605d9dcd8a43a223c0607cea708f"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=38de6c06e7af6b79109b14ea2b4bbe80&txTime=648d0144"
-                }
-            ]
-           }
+"league": "🏆 EURO Qualification Grp. A",
+"date": "June 18",
+"time": "1:15 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5793_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8268_small.png",
+"teams" : "Cyprus Vs Georgia",
+"hteam" : "Cyprus",
+"ateam" : "Georgia",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
 ]
+},
+
+           
+{
+"league": "🏆 EURO Qualification Grp. E",
+"date": "June 18",
+"time": "1:15 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10024_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5794_small.png",
+"teams" : "Albania Vs Moldova",
+"hteam" : "Albania",
+"ateam" : "Moldova",
+"hotmat":"no",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+           
+{
+"league": "🏆 EURO Qualification Grp. A",
+"date": "June 18",
+"time": "1:15 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8269_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8496_small.png",
+"teams" : "Faroe Islands Vs Czechia",
+"hteam" : "Faroe Islands",
+"ateam" : "Czechia",
+"hotmat":"no",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+           
+{
+"league": "🏆 EURO Qualification Grp. A",
+"date": "June 18",
+"time": "1:15 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8255_small.png",
+"teams" : "Belgium Vs Austria",
+"hteam" : "Belgium",
+"ateam" : "Austria",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+           
+{
+"league": "🏆 EURO Qualification Grp. A",
+"date": "June 18",
+"time": "1:15 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8536_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8497_small.png",
+"teams" : "Iceland Vs Slovakia",
+"hteam" : "Iceland",
+"ateam" : "Slovakia",
+"hotmat":"no",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+           
+{
+"league": "🏆 EURO Qualification Grp. A",
+"date": "June 18",
+"time": "1:15 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10106_small.png",
+"teams" : "Portugal Vs Bosnia and Herzegovina",
+"hteam" : "Portugal",
+"ateam" : "Bosnia and Herzegovina",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+}
+
+           
+]
+           
+            
+         
+                
+                
+           
+                
+                    
+            
            
   
 
