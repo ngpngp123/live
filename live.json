@@ -37,7 +37,7 @@
 {
 "league": "🏆 UEFA Nationals League A",
 "date": "June 18",
-"time": "1:15 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
 "teams" : "Croatia Vs Spain",
@@ -47,19 +47,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991118_lsd.m3u8?auth_key=1687132600-0-0-e17e69c2ff6bd47f36e6a5511bd5b722&sub_m3u8=true&edge_slice=true&user_session_id=98959d16351491475785b7ea2e575fef"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687132600-0-0-a70559d4eb41068c40272f153c54c0b3&user_session_id=bb7fb2a5646464b6e7c9eb8a457371bc&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://sports01.livnvess.com/live/stream-991128_lsd.m3u8?txSecret=f5c9068ceda5afde02f04b095cc39355&txTime=648f99f4"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://sports01.livnvess.com/live/stream-991128_lhd.m3u8?txSecret=f5c9068ceda5afde02f04b095cc39355&txTime=648f99f4"
 }
 ]
 }
