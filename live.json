@@ -6,7 +6,7 @@
 {
 "league": "🏆 International Friendly",
 "date": "June 18",
-"time": "11:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10255_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/408231_small.png",
 "teams" : "Egypt Vs South Sudan",
@@ -16,19 +16,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991130_lsd.m3u8?user_session_id=824b138c619c72135b27293a2b6153c7&sub_m3u8=true&auth_key=1687128040-0-0-b285d8ea45ef48c03a2adc3166ae2db0&edge_slice=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?user_session_id=69d77ca66fd7f16326789a8f61bb212e&sub_m3u8=true&auth_key=1687128040-0-0-ce08c554ea5e4d63c2918d7603cf5b4c&edge_slice=true"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-19949_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=e78f551b059084835cde6b79a75e603f&auth_key=1687128100-0-0-e987d1dd157d25b00c9a9c2981734431"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687128100-0-0-c92c5a6b1c8b6d13eb85095c96807e9a&edge_slice=true&sub_m3u8=true&user_session_id=ae189fa727eb7c2a68ba964f89bf2a43"
 }
 ]
 },
