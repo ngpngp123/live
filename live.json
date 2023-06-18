@@ -3,7 +3,7 @@
 {
 "league": "🏆 UEFA Nations League A",
 "date": "June 18",
-"time": "7:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8204_small.png",
 "teams" : "Netherlands Vs Italy",
@@ -13,19 +13,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?user_session_id=e9c8c46f828226ac1a6503904b533456&edge_slice=true&auth_key=1687113100-0-0-ee3b98a8d4d8b8c5ea2032cfa47a6718&sub_m3u8=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?user_session_id=79a3ed554bbc46a8d77a4d3fdd5ce4b7&edge_slice=true&sub_m3u8=true&auth_key=1687113100-0-0-40f47b4fbb866839a762c15afdd49c34"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://sports01.livnvess.com/live/stream-113906_lsd.m3u8?txSecret=ad8ca16ab1309d46e01cd7398569b125&txTime=648f4dc8"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=ad8ca16ab1309d46e01cd7398569b125&txTime=648f4dc8"
 }
 ]
 },
