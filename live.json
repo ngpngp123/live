@@ -26,6 +26,11 @@
 "type": "480 HD",
 "livelink":"https://pull.juqihuo.com/live/stream-551899_lhd.flv?auth_key=1687210943-0-0-d7a54668f43072e6559d72e6ace69861"
 },
+           
+{
+"type": "480 2HD",
+"livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/3"
+},
 {
 "type": "720 FHD",
 "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991124_lhd.m3u8?user_session_id=d6b22204a9dd945bb7d57187ebfc808c&edge_slice=true&sub_m3u8=true&auth_key=1687193042-0-0-5243e1fa99e587ab6256982df1e86c04"
@@ -56,6 +61,10 @@
 {
 "type": "480 HD",
 "livelink":"https://pull.juqihuo.com/live/stream-551866_lsd.flv?auth_key=1687211063-0-0-1a6a74e33329edd6b14303b5234e258e"
+},
+           {
+"type": "480 2 HD",
+"livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/1"
 },
 {
 "type": "720 FHD",
