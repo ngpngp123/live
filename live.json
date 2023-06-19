@@ -62,10 +62,7 @@
 "type": "480 HD",
 "livelink":"https://pull.juqihuo.com/live/stream-551866_lsd.flv?auth_key=1687211063-0-0-1a6a74e33329edd6b14303b5234e258e"
 },
-           {
-"type": "480 2 HD",
-"livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/1"
-},
+      
 {
 "type": "720 FHD",
 "livelink":"https://pull.juqihuo.com/live/stream-551866_lhd.flv?auth_key=1687211063-0-0-8f4246c91e9f2c38184e5c92aa3bf029"
@@ -96,6 +93,10 @@
 {
 "type": "480 HD",
 "livelink":"https://pull.juqihuo.com/live/stream-552917_lsd.flv?auth_key=1687211123-0-0-6590fc82df476a342987959bbdb8bfec"
+},
+                {
+"type": "480 2 HD",
+"livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/1"
 },
 {
 "type": "720 FHD",
