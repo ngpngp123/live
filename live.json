@@ -3,7 +3,7 @@
 {
 "league": "🏆 International Friendly",
 "date": "June 19",
-"time": "7:00 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6324_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
 "teams" : "Indonesia Vs Argentina",
@@ -13,19 +13,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-991121_lsd.m3u8?auth_key=1687180202-0-0-178db128bc6ae6c44af7af526a3cdfbd&edge_slice=true&sub_m3u8=true&user_session_id=cc48d20091616a56d6e578dc91f3c38c"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-991121_lhd.m3u8?edge_slice=true&auth_key=1687180202-0-0-9804693714a2341ed85de7159df36d3e&sub_m3u8=true&user_session_id=b8b5774e199d4491d5103356c7200fa3"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-921508_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1687180202-0-0-3cfa1243c78e6b2f78ca6e275c200caa&user_session_id=0ca7749a5713db3cc908862246772cd2"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?sub_m3u8=true&auth_key=1687180202-0-0-184ac2186fd8e8607b61aadbcf077b46&user_session_id=4e58f5cb66d7d83dc28906e28bef697e&edge_slice=true"
 }
 ]
 },
