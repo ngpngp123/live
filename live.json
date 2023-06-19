@@ -1,25 +1,5 @@
 [
-{
-"league": "🏆 International Friendly",
-"date": "June 19",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/4175.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
-"teams" : "Indonesia Vs Argentina",
-"hteam" : "Macao",
-"ateam" : "Myanmar",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/3"
-},
-           {
-"type": "HD with Sound",
-"livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/1"
-}
-]
-},
+
 {
 "league": "🏆 International Friendly",
 "date": "June 19",
