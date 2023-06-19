@@ -1,306 +1,282 @@
 [
-           
-
-
 
 {
 "league": "🏆 International Friendly",
-"date": "June 18",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10255_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/408231_small.png",
-"teams" : "Egypt Vs South Sudan",
-"hteam" : "Egypt",
-"ateam" : "South Sudan",
+"date": "June 19",
+"time": "7:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6324_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
+"teams" : "Indonesia Vs Argentina",
+"hteam" : "Indonesia",
+"ateam" : "Argentina",
 "hotmat":"yes",
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991130_lsd.m3u8?user_session_id=824b138c619c72135b27293a2b6153c7&sub_m3u8=true&auth_key=1687128040-0-0-b285d8ea45ef48c03a2adc3166ae2db0&edge_slice=true"
+"livelink":""
 }, 
 {
 "type": "480 HD",
-"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?user_session_id=69d77ca66fd7f16326789a8f61bb212e&sub_m3u8=true&auth_key=1687128040-0-0-ce08c554ea5e4d63c2918d7603cf5b4c&edge_slice=true"
+"livelink":""
 },
 {
 "type": "480 HD",
-"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-19949_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=e78f551b059084835cde6b79a75e603f&auth_key=1687128100-0-0-e987d1dd157d25b00c9a9c2981734431"
+"livelink":""
 },
 {
 "type": "720 FHD",
-"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687128100-0-0-c92c5a6b1c8b6d13eb85095c96807e9a&edge_slice=true&sub_m3u8=true&user_session_id=ae189fa727eb7c2a68ba964f89bf2a43"
+"livelink":""
 }
 ]
 },
 
            
 {
-"league": "🏆 UEFA Nationals League A",
-"date": "June 18",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
-"teams" : "Croatia Vs Spain",
-"hteam" : "Croatia",
-"ateam" : "Spain",
+"league": "🏆 EURO Qualification Grp. C",
+"date": "June 19",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6718_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8495_small.png",
+"teams" : "Ukraine Vs Malta",
+"hteam" : "Ukraine",
+"ateam" : "Malta",
 "hotmat":"yes",
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991118_lsd.m3u8?auth_key=1687132600-0-0-e17e69c2ff6bd47f36e6a5511bd5b722&sub_m3u8=true&edge_slice=true&user_session_id=98959d16351491475785b7ea2e575fef"
+"livelink":""
 }, 
 {
 "type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687132600-0-0-a70559d4eb41068c40272f153c54c0b3&user_session_id=bb7fb2a5646464b6e7c9eb8a457371bc&sub_m3u8=true&edge_slice=true"
+"livelink":""
 },
 {
 "type": "480 HD",
-"livelink":"https://sports01.livnvess.com/live/stream-991128_lsd.m3u8?txSecret=f5c9068ceda5afde02f04b095cc39355&txTime=648f99f4"
+"livelink":""
 },
 {
 "type": "720 FHD",
-"livelink":"https://sports01.livnvess.com/live/stream-991128_lhd.m3u8?txSecret=f5c9068ceda5afde02f04b095cc39355&txTime=648f99f4"
+"livelink":""
+}
+]
+},
+
+           
+{
+"league": "🏆 EURO Qualification Grp. D",
+"date": "June 19",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5795_small.png",
+"teams" : "Armenia Vs Latvia",
+"hteam" : "Armenia",
+"ateam" : "Latvia",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+           
+{
+"league": "🏆 EURO Qualification Grp. H",
+"date": "June 19",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6035_small.png",
+"teams" : "Finland Vs San Marino",
+"hteam" : "Finland",
+"ateam" : "San Marino",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+           
+{
+"league": "🏆 EURO Qualification Grp. B",
+"date": "June 20",
+"time": "1:15 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6383_small.png",
+"teams" : "France Vs Greece",
+"hteam" : "France",
+"ateam" : "Greece",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+{
+"league": "🏆 EURO Qualification Grp. B",
+"date": "June 20",
+"time": "1:15 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5791_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/507764_small.png",
+"teams" : "Ireland Vs Gibraltar",
+"hteam" : "Ireland",
+"ateam" : "Gibraltar",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+           
+{
+"league": "🏆 EURO Qualification Grp. C",
+"date": "June 20",
+"time": "1:15 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8260_small.png",
+"teams" : "England Vs North Macedonia",
+"hteam" : "England",
+"ateam" : "North Macedonia",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+{
+"league": "🏆 EURO Qualification Grp. D",
+"date": "June 20",
+"time": "1:15 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6595_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
+"teams" : "Türkiye Vs Wales",
+"hteam" : "Türkiye",
+"ateam" : "Wales",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+           
+{
+"league": "🏆 EURO Qualification Grp. H",
+"date": "June 20",
+"time": "1:15 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5787_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
+"teams" : "Slovenia Vs Denmark",
+"hteam" : "Slovenia",
+"ateam" : "Denmark",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
 }
 ]
 }
 
            
            
-]
-
+]           
            
-           
-
-           
-            
-         
-                
-                
-           
-                
-                    
-            
-           
-  
-
-
-
-                
-
-            
-  
-
-           
-
-           
-
-           
-
-
-           
-
-            
-  
-                
-
-                    
-
-                
-
-            
-           
-
-   
-
-
-          
-
-           
-
-           
-
-            
-
-                
-
-             
-           
-
-            
-
-
-            
-
-                
-
-            
-                    
-
-          
-          
-
-          
-          
- 
-           
-                
-            
-
-                
-
-            
- 
-
-          
-           
-
-           
-
-            
-
-
-
-          
-
-  
-           
-                    
-
-          
-
-           
-
-  
-
-
-
-
-           
-  
-
-
-
-                
-
-            
-
-            
-
-                
-
-  
-
-
-                      
-
-
-
-
-          
-          
-
-           
-
-  
-
-           
-  
-
-
-          
-
-           
-            
-
-
-         
-
-           
-
-            
-
-
-
-           
-
-           
-
-    
-
-                
-
-            
-           
-                    
-
-            
-         
-
-                
-
-         
-
-           
-                
-
-         
-
-           
-
-  
-            
-
-                    
-
-          
-            
-          
-          
-          
-  
- 
-
-           
-
-            
-                
-
-
-
-            
-                
-          
-
-           
-
-                
-
-                
-
-          
-
- 
-
-  
-
-          
-
-           
-
-  
-
-
-           
-
-  
-
-
-          
-
-           
-
-            
-
-
-                
-
