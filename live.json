@@ -13,6 +13,10 @@
 {
 "type": "360 SD",
 "livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/3"
+},
+           {
+"type": "HD with Sound",
+"livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/1"
 }
 ]
 },
