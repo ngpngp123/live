@@ -24,8 +24,12 @@
 "livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-921508_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1687180202-0-0-3cfa1243c78e6b2f78ca6e275c200caa&user_session_id=0ca7749a5713db3cc908862246772cd2"
 },
 {
-"type": "720 FHD",
+"type": "720 HD",
 "livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?sub_m3u8=true&auth_key=1687180202-0-0-184ac2186fd8e8607b61aadbcf077b46&user_session_id=4e58f5cb66d7d83dc28906e28bef697e&edge_slice=true"
+},
+{
+"type": "FHD",
+"livelink":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8"
 }
 ]
 },
