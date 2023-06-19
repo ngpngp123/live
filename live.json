@@ -2,114 +2,13 @@
 
 
 
-           
-{
-"league": "🏆 EURO Qualification Grp. C",
-"date": "June 19",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6718_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8495_small.png",
-"teams" : "Ukraine Vs Malta",
-"hteam" : "Ukraine",
-"ateam" : "Malta",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991118_lsd.m3u8?edge_slice=true&user_session_id=bec9e468c4c05028052834d24b0d49c7&sub_m3u8=true&auth_key=1687192802-0-0-a7db806e2b188bb321af199bdea74f45"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991118_lhd.m3u8?edge_slice=true&user_session_id=dbd739f3b32d4b8802fbef4a64338204&sub_m3u8=true&auth_key=1687192802-0-0-7f90d7f2e0e6017d4990e0b264450ee3"
-},
-{
-"type": "480 HD",
-"livelink":"https://pull.juqihuo.com/live/stream-551899_lhd.flv?auth_key=1687210943-0-0-d7a54668f43072e6559d72e6ace69861"
-},
-           
-{
-"type": "480 2HD",
-"livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/3"
-},
-{
-"type": "720 FHD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991124_lhd.m3u8?user_session_id=d6b22204a9dd945bb7d57187ebfc808c&edge_slice=true&sub_m3u8=true&auth_key=1687193042-0-0-5243e1fa99e587ab6256982df1e86c04"
-}
-]
-},
 
-           
-{
-"league": "🏆 EURO Qualification Grp. D",
-"date": "June 19",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5795_small.png",
-"teams" : "Armenia Vs Latvia",
-"hteam" : "Armenia",
-"ateam" : "Latvia",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991140_lsd.m3u8?sub_m3u8=true&user_session_id=60156e7548e953999df420648e5a35c3&auth_key=1687192862-0-0-9bb0e82bc3c3d0a0e1194dfc446ccb50&edge_slice=true"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?edge_slice=true&auth_key=1687192862-0-0-3860ef8bcf7ebc5213ddd7653ce7ee31&sub_m3u8=true&user_session_id=18b39a2c884e63ad62feb8fdd99677c0"
-},
-{
-"type": "480 HD",
-"livelink":"https://pull.juqihuo.com/live/stream-551866_lsd.flv?auth_key=1687211063-0-0-1a6a74e33329edd6b14303b5234e258e"
-},
-      
-{
-"type": "720 FHD",
-"livelink":"https://pull.juqihuo.com/live/stream-551866_lhd.flv?auth_key=1687211063-0-0-8f4246c91e9f2c38184e5c92aa3bf029"
-}
-]
-},
-
-           
-{
-"league": "🏆 EURO Qualification Grp. H",
-"date": "June 19",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6035_small.png",
-"teams" : "Finland Vs San Marino",
-"hteam" : "Finland",
-"ateam" : "San Marino",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?sub_m3u8=true&auth_key=1687192862-0-0-62781afaf283fde42b0fd85b5e8bd855&user_session_id=2155f60ce69cc5e9767f31c79e8f90ab&edge_slice=true"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?sub_m3u8=true&auth_key=1687192862-0-0-bbd17a422f303f79f93a5b98beaa7567&user_session_id=318e01ddc62b6e006657db4f67da3d29&edge_slice=true"
-},
-{
-"type": "480 HD",
-"livelink":"https://pull.juqihuo.com/live/stream-552917_lsd.flv?auth_key=1687211123-0-0-6590fc82df476a342987959bbdb8bfec"
-},
-                {
-"type": "480 2 HD",
-"livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/1"
-},
-{
-"type": "720 FHD",
-"livelink":"https://pull.juqihuo.com/live/stream-552917_lhd.flv?auth_key=1687211123-0-0-cc907e7930006113da1831049a57eae9"
-}
-]
-},
 
            
 {
 "league": "🏆 EURO Qualification Grp. B",
 "date": "June 20",
-"time": "1:15 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6383_small.png",
 "teams" : "France Vs Greece",
@@ -127,11 +26,11 @@
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-991140_lsd.m3u8?auth_key=1687202762-0-0-39ad9ba81323724c82e97f47fa02afca&sub_m3u8=true&edge_slice=true&user_session_id=7de5c353bb16e52dcf9a449f85a3512a"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687202762-0-0-3107025f7e516cbf528f2291ca8fa1ea&sub_m3u8=true&edge_slice=true&user_session_id=9852dfe04b1242d182445b72c5ea19f7"
 }
 ]
 },
@@ -139,7 +38,7 @@
 {
 "league": "🏆 EURO Qualification Grp. B",
 "date": "June 20",
-"time": "1:15 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5791_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/507764_small.png",
 "teams" : "Ireland Vs Gibraltar",
@@ -149,19 +48,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-380460_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=046b0913cb4a7e4e4a8dc9884e1891f9&auth_key=1687202822-0-0-a1638116125700ebba92b6b5837a7082"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1687202822-0-0-9250f0d3ea8e5ceba5c17fd605dbbe83&edge_slice=true&sub_m3u8=true&user_session_id=30d8bdf5d5f3468236e75938729309c0"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-380460_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=046b0913cb4a7e4e4a8dc9884e1891f9&auth_key=1687202822-0-0-a1638116125700ebba92b6b5837a7082"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1687202822-0-0-9250f0d3ea8e5ceba5c17fd605dbbe83&edge_slice=true&sub_m3u8=true&user_session_id=30d8bdf5d5f3468236e75938729309c0"
 }
 ]
 },
@@ -170,7 +69,7 @@
 {
 "league": "🏆 EURO Qualification Grp. C",
 "date": "June 20",
-"time": "1:15 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8260_small.png",
 "teams" : "England Vs North Macedonia",
@@ -180,19 +79,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-201313_lsd.m3u8?edge_slice=true&auth_key=1687202882-0-0-352e3b81f9ffc12c72f00115ada6ab34&sub_m3u8=true&user_session_id=159fa43f3e878f40d662edd9ac5296cb"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-201313_lhd.m3u8?edge_slice=true&auth_key=1687202882-0-0-5f491e5b289cc883252efb9c5a3936e7&sub_m3u8=true&user_session_id=f69bf924563eb7aec04dc70d83e4ec41"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-158814_lsd.m3u8?edge_slice=true&user_session_id=6cdfa960d3bf91c9e9348c55af9c1ac5&sub_m3u8=true&auth_key=1687202942-0-0-4cd7b7501292089ebb76a75a68492354"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1687202942-0-0-76e4950b5e0167fe98fea76ccbb33831&sub_m3u8=true&edge_slice=true&user_session_id=cbd50961cec54630684fe99149330710"
 }
 ]
 },
@@ -200,7 +99,7 @@
 {
 "league": "🏆 EURO Qualification Grp. D",
 "date": "June 20",
-"time": "1:15 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6595_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
 "teams" : "Türkiye Vs Wales",
@@ -210,19 +109,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-499490_lsd.m3u8?auth_key=1687202942-0-0-50e37ec7c01e6eb29102134108fe8cd9&sub_m3u8=true&user_session_id=2fd833c639e73a0038ca3ec57cdb144e&edge_slice=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1687202942-0-0-ace468644c209308a0c7040211f294c1&sub_m3u8=true&user_session_id=f23eb4ee60f796d9b168f6c714189063&edge_slice=true"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-379816_lsd.m3u8?txSecret=17c75ab66fcc643a1eb1564c16ddf859&txTime=6490f30a"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=d8ea0d703fdcebb275f867fabe2ff61b&txTime=6490f30a"
 }
 ]
 },
@@ -231,7 +130,7 @@
 {
 "league": "🏆 EURO Qualification Grp. H",
 "date": "June 20",
-"time": "1:15 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5787_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
 "teams" : "Slovenia Vs Denmark",
@@ -241,19 +140,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-991142_lsd.m3u8?user_session_id=b03d04b4f3635e323e670d5197e1a83a&sub_m3u8=true&auth_key=1687203062-0-0-def038c6290286db7e5168a8538b97d9&edge_slice=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-991142_lhd.m3u8?user_session_id=c1e1092e2dca0f4c47d8fcff36f3fb8a&sub_m3u8=true&auth_key=1687203062-0-0-2baf3b8c8d3f1be8c9bd21db91c7885b&edge_slice=true"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-991142_lsd.m3u8?user_session_id=b03d04b4f3635e323e670d5197e1a83a&sub_m3u8=true&auth_key=1687203062-0-0-def038c6290286db7e5168a8538b97d9&edge_slice=true"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-991142_lhd.m3u8?user_session_id=c1e1092e2dca0f4c47d8fcff36f3fb8a&sub_m3u8=true&auth_key=1687203062-0-0-2baf3b8c8d3f1be8c9bd21db91c7885b&edge_slice=true"
 }
 ]
 }
