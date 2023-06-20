@@ -43,11 +43,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-991132_lsd.m3u8?edge_slice=true&auth_key=1687257362-0-0-021903d2b30798b54b90641447451d41&sub_m3u8=true&user_session_id=45f4027ee9d16282ed3a6f012a7a4bdd"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull06.scstream.net/live/stream-991132_lhd.m3u8?edge_slice=true&auth_key=1687257362-0-0-cdae5ef71d5cdc1be782db1204b20673&sub_m3u8=true&user_session_id=ddcbeee7b60bc3192a63f39fde9d0cde"
 },
 {
 "type": "480 HD",
