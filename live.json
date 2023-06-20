@@ -74,7 +74,7 @@
 {
 "league": "🏆 EURO Qualification Grp. F",
 "date": "June 21",
-"time": "1:15 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8261_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
 "teams" : "Estonia Vs Belgium",
@@ -92,11 +92,11 @@
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991122_lsd.m3u8?edge_slice=true&auth_key=1687289582-0-0-a06bb2305e273a5c8ab01773b5172bc0&user_session_id=8fadd76245501b5847a3114d7c508b62&sub_m3u8=true"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991122_lhd.m3u8?user_session_id=2de47fd1ffe552e059550ce19307d8a4&auth_key=1687289582-0-0-8496704e4f536bdd0f5c7bcce9addc50&edge_slice=true&sub_m3u8=true"
 }
 ]
 },
@@ -105,7 +105,7 @@
 {
 "league": "🏆 EURO Qualification Grp. J",
 "date": "June 21",
-"time": "1:15 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8536_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
 "teams" : "Iceland Vs Portugal",
@@ -115,19 +115,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991121_lsd.m3u8?edge_slice=true&auth_key=1687289642-0-0-2e7db999c79f066f80df1df4d8992231&sub_m3u8=true&user_session_id=c613a549c16381bcd0370b9c363c22ba"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991121_lhd.m3u8?user_session_id=df672aa3ee20e8e6cfa19e6b308e6045&edge_slice=true&sub_m3u8=true&auth_key=1687289642-0-0-e3c026db5da26c92f8b4ad59f45373d7"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-421651_lsd.m3u8?edge_slice=true&auth_key=1687289642-0-0-53f0dcc381150905bf4ffe34510bb596&user_session_id=bdf64eb4037a00cc25236dd985036edb&sub_m3u8=true"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1687289642-0-0-b43b63e3839fee94d18646e8192314dd&edge_slice=true&sub_m3u8=true&user_session_id=5325d09f4bfb70c5a968caf8017f6943"
 }
 ]
 },
@@ -136,7 +136,7 @@
 {
 "league": "🏆 International Friendly",
 "date": "June 21",
-"time": "1:15 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_small.png",
 "teams" : "Germany Vs Colombia",
@@ -146,19 +146,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991109_lsd.m3u8?user_session_id=eef8d74e840b5b51587ac49218ef36e3&sub_m3u8=true&auth_key=1687289702-0-0-3b4340664340db667798e5d0407e6f2f&edge_slice=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1687289702-0-0-f51caeaa027a15c0489dff36671f75c6&edge_slice=true&sub_m3u8=true&user_session_id=5c73eb1ba6b275b949590c905ede5262"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-380460_lsd.m3u8?user_session_id=09284918699c68659e779dd00a20c733&auth_key=1687289762-0-0-4e036c940e4fa42ff3104abfdfe779d7&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-380460_lhd.m3u8?user_session_id=24a91eeefc7102ca36b64c5d94c0e370&auth_key=1687289762-0-0-338e9b349f16ef8b61eb4917310dd9a9&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
@@ -167,7 +167,7 @@
 {
 "league": "🏆 International Friendly",
 "date": "June 21",
-"time": "1:30 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
 "teams" : "Brazil Vs Senegal",
@@ -177,11 +177,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=381f28253e7ca8e57473579ac4392e59&txTime=6492462e"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=d764bfe9d2e2927a9b8ca954cb41ee30&txTime=6492462e"
 },
 {
 "type": "480 HD",
