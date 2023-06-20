@@ -33,7 +33,7 @@
 {
 "league": "🏆 International Friendly",
 "date": "June 20",
-"time": "6:5 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6333_small.png",
 "teams" : "China Vs Palestine",
@@ -51,11 +51,11 @@
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://883f0cd13cae4b9414b1c6ed244aad5f.livehwc3.cn/pull06.scstream.net/live/stream-427562_lsd.m3u8?sub_m3u8=true&user_session_id=f0093ae3d080979ec10c628e3614f739&auth_key=1687263242-0-0-606d1c1eb587ed6ea36624d7686bc0e5&edge_slice=true"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://883f0cd13cae4b9414b1c6ed244aad5f.livehwc3.cn/pull06.scstream.net/live/stream-427562_lhd.m3u8?user_session_id=c7c627f5d6275f28167cc2434989d4c7&auth_key=1687263242-0-0-c18bb4f8ed3fbde859af9848cd3e8395&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
