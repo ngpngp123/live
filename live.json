@@ -6,7 +6,7 @@
 {
 "league": "🏆 EURO Qualification Grp. A",
 "date": "June 21",
-"time": "1:15 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5793_small.png",
 "teams" : "Norway Vs Cyprus",
@@ -16,19 +16,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991135_lhd.m3u8?user_session_id=de7c354692a661418263a43f23e90688&auth_key=1687289342-0-0-434fb1bd82330d90db1326876cd13493&sub_m3u8=true&edge_slice=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991135_lsd.m3u8?edge_slice=true&auth_key=1687289342-0-0-c117efb017ade0b749944d5d19116fcc&user_session_id=c5c55f495c01f4c4ff4ad6f99c061239&sub_m3u8=true"
 }
 ]
 },
@@ -37,7 +29,7 @@
 {
 "league": "🏆 EURO Qualification Grp. A",
 "date": "June 21",
-"time": "1:15 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8268_small.png",
 "teams" : "Scotland Vs Georgia",
@@ -47,19 +39,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-344687_lsd.m3u8?auth_key=1687289402-0-0-4779eea2dfaaf469c2d0f95f644410fa&user_session_id=762ae2fea51b201a38de70f9419bc4d5&sub_m3u8=true&edge_slice=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-344687_lhd.m3u8?user_session_id=377117a03a1c6b6d7cc7a34f7dd6be9f&sub_m3u8=true&edge_slice=true&auth_key=1687289402-0-0-f3735689e87842e1859e39fc1840886b"
 }
 ]
 },
@@ -68,7 +52,7 @@
 {
 "league": "🏆 EURO Qualification Grp. E",
 "date": "June 21",
-"time": "1:15 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5794_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
 "teams" : "Moldova Vs Poland",
@@ -78,19 +62,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-348199_lsd.m3u8?user_session_id=02973e7755dfd3390da247a9ca25bb6f&auth_key=1687289462-0-0-23353cc3c3d46409c8d848c24360bae4&sub_m3u8=true&edge_slice=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-348199_lhd.m3u8?user_session_id=3aa6000267529024c135bb6ac4e3e948&sub_m3u8=true&auth_key=1687289462-0-0-9c98f547b9a9e2688b770a52fa80b9dd&edge_slice=true"
 }
 ]
 },
@@ -108,11 +84,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991138_lsd.m3u8?edge_slice=true&auth_key=1687289522-0-0-32c99f15fd0bdaabb60a4dd8e4dd8cd5&sub_m3u8=true&user_session_id=adb6d9e87fea34a3aa4b966fc4903789"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991138_lhd.m3u8?user_session_id=a962ccdab287a37877707b6aa52083c7&sub_m3u8=true&auth_key=1687289522-0-0-5d3d4b470540fd6ef23c4331323c21dc&edge_slice=true"
 },
 {
 "type": "480 HD",
