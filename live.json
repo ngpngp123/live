@@ -185,11 +185,11 @@
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-434154_lsd.m3u8?txSecret=508b274890b520d808681f3089b7a9d9&txTime=64924a2a"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=8480ec9544041f5296cdff3fc305531e&txTime=64924a2a"
 }
 ]
 }
