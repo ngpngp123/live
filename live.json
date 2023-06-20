@@ -64,7 +64,7 @@
 {
 "league": "🏆 International Friendly",
 "date": "June 20",
-"time": "5:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6327_small.png",
 "teams" : "South Korea Vs El Salvador",
@@ -74,19 +74,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://883f0cd13cae4b9414b1c6ed244aad5f.livehwc3.cn/pull06.scstream.net/live/stream-19949_lsd.m3u8?user_session_id=d3c330f9b1d1ca5f045c87ebcb1b554c&auth_key=1687261802-0-0-1a843853a5292f865be4e1a2d2c5790c&sub_m3u8=true&edge_slice=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://883f0cd13cae4b9414b1c6ed244aad5f.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687261802-0-0-5bc1e5b8bc9b83553783c2771016a91a&edge_slice=true&sub_m3u8=true&user_session_id=6d358167e0621cac6fb75ffa20dcf81f"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://883f0cd13cae4b9414b1c6ed244aad5f.livehwc3.cn/pull06.scstream.net/live/stream-991140_lsd.m3u8?sub_m3u8=true&auth_key=1687261982-0-0-ccb097bc60f1a6fb9a3df76b33c31fed&user_session_id=fb1a697404842b6f52498431f432de86&edge_slice=true"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://883f0cd13cae4b9414b1c6ed244aad5f.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?sub_m3u8=true&user_session_id=28d57fbc1fdfa8176d2c78f8b797bf16&edge_slice=true&auth_key=1687261982-0-0-f7cbe9e3368bdecd8b1a93737804807c"
 }
 ]
 },
