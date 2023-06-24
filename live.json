@@ -3,7 +3,7 @@
 {
 "league": "🏆 Major League Soccer",
 "date": "June 25",
-"time": "6:00 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/191716_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
 "teams" : "Philadelphia Union Vs Inter Miami CF",
@@ -13,19 +13,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991130_lsd.m3u8?sub_m3u8=true&auth_key=1687652463-0-0-5f48ba21d464a2ac05eb3d14feb3ff69&edge_slice=true&user_session_id=66c0ae172f14e81686b6a15a05c59850"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?sub_m3u8=true&auth_key=1687652463-0-0-153017ae28ab1370b7bed185f149a81f&edge_slice=true&user_session_id=697f4134779db13db04d3f87abadb426"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull.juqihuo.com/live/stream-238362_lsd.flv?auth_key=1687670603-0-0-343106193171de29f2170e7f7361f3b6"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://pull.juqihuo.com/live/stream-238362_lhd.flv?auth_key=1687670603-0-0-753d240a5698900f6f39dba7457f691f"
 }
 ]
 }
