@@ -1,6 +1,99 @@
 [
 
 {
+"league": "🏆 EURO U21 Grp. C",
+"date": "June 25",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5833_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6638_small.png",
+"teams" : "Czechia U21 Vs Germany U21",
+"hteam" : "Czechia U21",
+"ateam" : "Germany U21",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+  
+{
+"league": "🏆 EURO U21 Grp. C",
+"date": "June 25",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5846_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5828_small.png",
+"teams" : "England U21 Vs Israel U21",
+"hteam" : "England U21",
+"ateam" : "Israel U21",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+  
+{
+"league": "🏆 EURO U21 Grp. D",
+"date": "June 25",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5854_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6659_small.png",
+"teams" : "Switzerland U21 Vs Italy U21",
+"hteam" : "Switzerland U21",
+"ateam" : "Italy U21",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+  
+{
 "league": "🏆 EURO U21 Grp. A",
 "date": "June 27",
 "time": "10:30 PM",
