@@ -1,96 +1,10 @@
 [
 
-{
-"league": "🏆 EURO U21 Grp. C",
-"date": "June 25",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5833_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6638_small.png",
-"teams" : "Czechia U21 Vs Germany U21",
-"hteam" : "Czechia U21",
-"ateam" : "Germany U21",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://pull01.rrwes.live/live/stream-348199_lsd.m3u8?txSecret=acef24f981b26ce1f3a1241c32d1cbfc&txTime=6498b3f7"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=cab88c0675d3a0c797511d764f8bbab8&txTime=6498b3f7"
-},
-{
-"type": "480 HD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?auth_key=1687711203-0-0-2992857d9bccc28bdebbd3af17770e7c&edge_slice=true&sub_m3u8=true&user_session_id=84ae0141f997e4006b3a60c1648e7694"
-},
-{
-"type": "720 FHD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1687711203-0-0-79f9006f4272800a1f02a882f39682e5&sub_m3u8=true&user_session_id=122cf53354e2147b8d150e763fc528d4&edge_slice=true"
-}
-]
-},
+
 
   
-{
-"league": "🏆 EURO U21 Grp. C",
-"date": "June 25",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5846_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5828_small.png",
-"teams" : "England U21 Vs Israel U21",
-"hteam" : "England U21",
-"ateam" : "Israel U21",
-"hotmat":"yes",
-"link":[
-{
-"type": "Eng SD",
-"livelink":"https://iptv.fotlive.xyz:443/fotlive/fotlive/3"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=ff79684a9a7a4bfe5537c156cd7c3e13&txTime=6498b46f"
-},
-{
-"type": "480 HD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991109_lsd.m3u8?edge_slice=true&user_session_id=573e048c6800511c07a9cc1ad54a7cfb&auth_key=1687711323-0-0-65b04ab561af1da278f80bd7ffa6acce&sub_m3u8=true"
-},
-{
-"type": "720 FHD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991109_lhd.m3u8?user_session_id=34b2131f5be3316e9f226df486a674e2&auth_key=1687711323-0-0-a0d31bff51c78e7a9edb532974c3b75f&edge_slice=true&sub_m3u8=true"
-}
-]
-},
 
   
-{
-"league": "🏆 EURO U21 Grp. D",
-"date": "June 25",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5854_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6659_small.png",
-"teams" : "Switzerland U21 Vs Italy U21",
-"hteam" : "Switzerland U21",
-"ateam" : "Italy U21",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=9bad069c9248c56b48da63af8a354d56&txTime=6498b4ab"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=b392f0281dbb8bdfc383472db7d437f6&txTime=6498b4ab"
-},
-{
-"type": "480 HD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991142_lsd.m3u8?auth_key=1687711383-0-0-2faa88122bdad7cef95289fb76fc696f&user_session_id=484323ce2e6f8a30b1a75250f929a4d8&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "720 FHD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1687711383-0-0-26eeb9618fd7b2836be4d60b54590679&user_session_id=a5ec9618730eb52507a9293fe9842827&edge_slice=true&sub_m3u8=true"
-}
-]
-},
 
   
 {
