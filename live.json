@@ -10,7 +10,7 @@
 {
 "league": "🏆 EURO U21 Grp. A",
 "date": "June 27",
-"time": "10:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8557_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8506_small.png",
 "teams" : "Portugal U21 Vs Belgium U21",
@@ -20,19 +20,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1687883847-0-0-0bab81fffeeb1a42a4dc9854833a4949&sub_m3u8=true&edge_slice=true&user_session_id=c03cfa5cb58bd6de1309543a92d07571"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?auth_key=1687883944-0-0-46938b002587121a6bcac4b6f5ed3764&edge_slice=true&sub_m3u8=true&user_session_id=649889fa06bb51233cf2428d31bc10ac"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687883764-0-0-daa395d64b60a7136b4a44be731110b4&user_session_id=3c8742d6dd17188aca0e05e1b1dc2798&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1687883944-0-0-d9d9411a8d984fb15b15f9ba4ff90421&edge_slice=true&sub_m3u8=true&user_session_id=739a359d9684119e42e368db26df971e"
 }
 ]
 },
@@ -41,7 +41,7 @@
 {
 "league": "🏆 EURO U21 Grp. A",
 "date": "June 27",
-"time": "10:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6635_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5855_small.png",
 "teams" : "Netherlands U21 Vs Georgia U21",
@@ -51,19 +51,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-112565_lhd.m3u8?user_session_id=40bfae4ded165c8782259a381dfa5282&auth_key=1687883884-0-0-c8f816ac0d0a6ec093101fbf40162679&edge_slice=true&sub_m3u8=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-112565_lhd.m3u8?user_session_id=40bfae4ded165c8782259a381dfa5282&auth_key=1687883884-0-0-c8f816ac0d0a6ec093101fbf40162679&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-348199_lsd.m3u8?txSecret=4a8547959ffca3e3fcba1d247a8a340c&txTime=649b56bc"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=4b0f05ba1a34ca11e1bc54f9bef9dfb4&txTime=649b56bc"
 }
 ]
 }
