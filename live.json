@@ -1,40 +1,12 @@
 [
 
-{
-"league": "🏆 EURO U21 Quarter-finall",
-"date": "July 2",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8505_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5854_small.png",
-"teams" : "Spain U21 Vs Switzerland U21",
-"hteam" : "Spain U21",
-"ateam" : "Switzerland U21",
-"hotmat":"yes",
-"link":[
-           {
-"type": "SD 1",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/cuonSD/chunklist.m3u8"
-},
-                                 {
-"type": "HD 3",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-365007_lhd.m3u8?sub_m3u8=true&auth_key=1688241006-0-0-e9896540efc632ee71fdcd433334e63a&edge_slice=true&user_session_id=25850ea7fbb497ceaaed9466cdaaf446"
-},
-                                 {
-"type": "HD 1",
-"livelink":"https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8"
-},
-                                 {
-"type": "HD 2",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-365007_lhd.m3u8?user_session_id=1dd4dddf70ba1db333ffffee44a274a6&auth_key=1688241006-0-0-e9896540efc632ee71fdcd433334e63a&edge_slice=true&sub_m3u8=true"
-}
-]
-},
+
 
   
 {
 "league": "🏆 Major League Soccer",
 "date": "July 2",
-"time": "6:00 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1218886_small.png",
 "teams" : "Inter Miami CF Vs Austin FC",
@@ -42,22 +14,16 @@
 "ateam" : "Austin FC",
 "hotmat":"yes",
 "link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
+     {
+"type": "SD 1",
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?sub_m3u8=true&auth_key=1688257685-0-0-c87602c44d25c5769eaf0d55f8a87456&user_session_id=c6b6b6f4106a5df570ce080ad1ec4af4&edge_slice=true"
 },
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
+   
+                                 {
+"type": "HD 1",
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1688257685-0-0-c87602c44d25c5769eaf0d55f8a87456&edge_slice=true&user_session_id=b3640672839cbf00c462e3f3e6e70e31&sub_m3u8=true"
 }
+    
 ]
 }
 
