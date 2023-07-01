@@ -3,7 +3,7 @@
 {
 "league": "🏆 EURO U21 Quarter-final",
 "date": "July 1",
-"time": "10:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5855_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5828_small.png",
 "teams" : "Georgia U21 Vs Israel U21",
@@ -13,11 +13,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e8fe34efab3f3146c32100045efae53a&auth_key=1688228465-0-0-c7c87aa7935f41b346dac5c8da1f14e5"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lhd.m3u8?sub_m3u8=true&auth_key=1688228465-0-0-ee800590add93fe6b2bbd83ed3ed5ff1&user_session_id=51851e7bc93f5486ca22e9a79aa3db6f&edge_slice=true"
 },
 {
 "type": "480 HD",
