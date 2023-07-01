@@ -1,31 +1,31 @@
 [
 
 {
-"league": "🏆 EURO U21 Quarter-final",
-"date": "July 1",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5855_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5828_small.png",
-"teams" : "Georgia U21 Vs Israel U21",
-"hteam" : "Georgia U21",
-"ateam" : "Israel U21",
+"league": "🏆 EURO U21 Quarter-finall",
+"date": "July 2",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8505_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5854_small.png",
+"teams" : "Spain U21 Vs Switzerland U21",
+"hteam" : "Spain U21",
+"ateam" : "Switzerland U21",
 "hotmat":"yes",
 "link":[
-{
-"type": "360 SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e8fe34efab3f3146c32100045efae53a&auth_key=1688228465-0-0-c7c87aa7935f41b346dac5c8da1f14e5"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lhd.m3u8?sub_m3u8=true&auth_key=1688228465-0-0-ee800590add93fe6b2bbd83ed3ed5ff1&user_session_id=51851e7bc93f5486ca22e9a79aa3db6f&edge_slice=true"
+           {
+"type": "SD 1",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/cuonSD/chunklist.m3u8"
 },
-{
-"type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?auth_key=1688229305-0-0-cf34f6431e16eb0e57077a4e2426c700&user_session_id=ea4c25cb3bd8e5b06f647a67d2646937&sub_m3u8=true&edge_slice=true"
+                                 {
+"type": "HD 3",
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-365007_lhd.m3u8?sub_m3u8=true&auth_key=1688241006-0-0-e9896540efc632ee71fdcd433334e63a&edge_slice=true&user_session_id=25850ea7fbb497ceaaed9466cdaaf446"
 },
-{
-"type": "720 FHD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1688229305-0-0-2e8640b7654c392b9a934578700e9835&user_session_id=029ae9d6de4992fede55bca8e72b47f3&sub_m3u8=true&edge_slice=true"
+                                 {
+"type": "HD 1",
+"livelink":"https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8"
+},
+                                 {
+"type": "HD 2",
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-365007_lhd.m3u8?user_session_id=1dd4dddf70ba1db333ffffee44a274a6&auth_key=1688241006-0-0-e9896540efc632ee71fdcd433334e63a&edge_slice=true&sub_m3u8=true"
 }
 ]
 },
@@ -59,38 +59,10 @@
 "livelink":""
 }
 ]
-},
+}
 
   
-{
-"league": "🏆 EURO U21 Quarter-finall",
-"date": "July 2",
-"time": "1:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8505_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5854_small.png",
-"teams" : "Spain U21 Vs Switzerland U21",
-"hteam" : "Spain U21",
-"ateam" : "Switzerland U21",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-}
+
 
   
 ]
