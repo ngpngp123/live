@@ -1,34 +1,8 @@
 [
-
-  {
-           "league": "EURO U21",
-            "date": "july 2",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5846_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8557_small.png",
-            "teams" : "England U21 Vs Portugal U21",
-            "hteam" : "England U21",
-            "ateam" : "Portugal U21",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1688315766-0-0-8df14ca7045956a8c5c788f67cf1f951&edge_slice=true&user_session_id=f809177ab66e968ffe6bd3ba74f15240&sub_m3u8=true"
-                },
-                {
-                    "type": "HD",
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688315646-0-0-adcd05490139aa31aff25f158c2b27a5&sub_m3u8=true&user_session_id=498abe5566efdecd7651e926211bb3a9&edge_slice=true"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?auth_key=1688315826-0-0-f03955bd73bdde27e78f4e555665773a&edge_slice=true&user_session_id=11e8a5299dd82aac7a3a0f56d5a3b688&sub_m3u8=true"
-                }
-            ]
-         },
   {
            "league": "Euro U21",
             "date": "july 2",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6653_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6658_small.png",
             "teams" : "France U21 Vs Ukraine U21",
@@ -38,15 +12,15 @@
             "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=e63ee76fd1aa7f6f3fe0e463e698fba1&txTime=64a217ba"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991138_lsd.m3u8?auth_key=1688326686-0-0-b58f572c296b35527e63c80e961d614e&edge_slice=true&sub_m3u8=true&user_session_id=5e2b635bc72b6d1cdc5ce96056021000"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=935035fe9266dc5106b39f0a310ff377&txTime=64a217ba"
                 }
             ]
          }
