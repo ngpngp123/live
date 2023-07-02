@@ -3,7 +3,7 @@
   {
            "league": "EURO U21",
             "date": "july 2",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5846_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8557_small.png",
             "teams" : "England U21 Vs Portugal U21",
@@ -12,12 +12,12 @@
          "hotmat":"yes",
             "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "SD",
+                "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1688315766-0-0-8df14ca7045956a8c5c788f67cf1f951&edge_slice=true&user_session_id=f809177ab66e968ffe6bd3ba74f15240&sub_m3u8=true"
                 },
                 {
-                    "type": "480HD",
-                "livelink":"0"
+                    "type": "HD",
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688315646-0-0-adcd05490139aa31aff25f158c2b27a5&sub_m3u8=true&user_session_id=498abe5566efdecd7651e926211bb3a9&edge_slice=true"
                 },
                 {
                     "type": "320SD",
