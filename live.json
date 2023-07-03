@@ -23,7 +23,33 @@
                 "livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=935035fe9266dc5106b39f0a310ff377&txTime=64a217ba"
                 }
             ]
-         }
+         },
+    {
+           "league": "Euro U21",
+            "date": "july 6",
+            "time": "1:30AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5828_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5846_small.png",
+            "teams" : "Israel U21 Vs England U21",
+            "hteam" : "Israel U21",
+            "ateam" : "England U21",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=e63ee76fd1aa7f6f3fe0e463e698fba1&txTime=64a217ba"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991138_lsd.m3u8?auth_key=1688326686-0-0-b58f572c296b35527e63c80e961d614e&edge_slice=true&sub_m3u8=true&user_session_id=5e2b635bc72b6d1cdc5ce96056021000"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=935035fe9266dc5106b39f0a310ff377&txTime=64a217ba"
+                }
+            ]
+    }
+  
 ]
 
 
