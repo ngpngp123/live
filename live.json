@@ -1,13 +1,13 @@
 [
   {
            "league": "Euro U21",
-            "date": "july 2",
-            "time": "live",
+            "date": "july 5",
+            "time": "10:30PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6653_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6658_small.png",
-            "teams" : "France U21 Vs Ukraine U21",
-            "hteam" : "France U21",
-            "ateam" : "Ukraine U21",
+            "teams" : "Israel U21 Vs England U21",
+            "hteam" : "Israel U21",
+            "ateam" : "England U21",
          "hotmat":"yes",
             "link":[
                 {
