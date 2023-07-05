@@ -1,36 +1,5 @@
 [
-  
-{
-"league": "🏆 Major League Soccer",
-"date": "July 5",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6001_small.png",
-"teams" : "Inter Miami CF Vs Columbus",
-"hteam" : "Inter Miami CF",
-"ateam" : "Columbus",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991121_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7733ca7532b69042b7471a7fb165d7d7&auth_key=1688516287-0-0-ad8c73a4eb50d1ea183deefdc71caed8"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://pull.juqihuo.com/live/stream-516701_lsd.flv?auth_key=1688534364-0-0-924c347e9cf321a14fa70f0da41eada6"
-},
-{
-"type": "480 HD",
-"livelink":"https://pull.juqihuo.com/live/stream-516701_lhd.flv?auth_key=1688534364-0-0-9c7e1b9f8262ae0b03a16f6f800739a5"
-},
-{
-"type": "720 FHD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991121_lhd.m3u8?sub_m3u8=true&auth_key=1688516287-0-0-a8606542ed6ed9fb993112c5f12ffc3b&edge_slice=true&user_session_id=66b975f334ab97b4d16f8ac4fb2bf5ba"
-}
-]
-},
 
-  
   {
            "league": "Euro U21",
             "date": "july 5",
