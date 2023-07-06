@@ -1,39 +1,11 @@
 [
     
-{
-"league": "🏆 Myanmar National League",
-"date": "July 6",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/606033.png",
-"aimg": "",
-"teams" : "Yadanarbon FC Vs Myawady",
-"hteam" : "Yadanarbon FC",
-"ateam" : "Myawady",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991140_lsd.m3u8?sub_m3u8=true&auth_key=1688637548-0-0-75eb698292715014228235cd930eecb0&edge_slice=true&user_session_id=580f96bbcdbcc5fcac853a5635ce0681"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-104707_lsd.m3u8?edge_slice=true&user_session_id=86af2c069bbdb0aa0c322503a6f583bf&auth_key=1688637608-0-0-15277526b620827460c798d868d16ff1&sub_m3u8=true"
-},
-{
-"type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-104707_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1688637608-0-0-24f9cb24d8a1de6d0af95716ab79b7c7&user_session_id=413dad3bb45d00cebad658bca68090c8"
-},
-{
-"type": "720 FHD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?sub_m3u8=true&auth_key=1688637548-0-0-ffb62d538bdd20e74ff6a74adb5f339f&user_session_id=c6a9245f9ecd3169beb201689389d382&edge_slice=true"
-}
-]
-},
+
 
 {
 "league": "🏆 EURO U19 Grp. A",
 "date": "July 6",
-"time": "10:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7738_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5929_small.png",
 "teams" : "Portugal U19 Vs Italy U19",
@@ -43,19 +15,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-991118_lsd.m3u8?txSecret=f121944354bf9dca921e08c3f8f58f1b&txTime=64a73620"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-348199_lsd.m3u8?txSecret=06db10e265a72d3506796cc1b60b8ff1&txTime=64a73698"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=15d97e73e9c330646646481a507ff0c7&txTime=64a73698"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-991118_lhd.m3u8?txSecret=f4b7b346f157f3275b73788897a2c2a0&txTime=64a73620"
 }
 ]
 },
