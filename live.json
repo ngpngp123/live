@@ -2,35 +2,7 @@
     
 
 
-{
-"league": "🏆 EURO U19 Grp. A",
-"date": "July 6",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7738_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5929_small.png",
-"teams" : "Portugal U19 Vs Italy U19",
-"hteam" : "Portugal U19",
-"ateam" : "Italy U19",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991118_lsd.m3u8?txSecret=f121944354bf9dca921e08c3f8f58f1b&txTime=64a73620"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://pull01.rrwes.live/live/stream-348199_lsd.m3u8?txSecret=06db10e265a72d3506796cc1b60b8ff1&txTime=64a73698"
-},
-{
-"type": "480 HD",
-"livelink":"https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=15d97e73e9c330646646481a507ff0c7&txTime=64a73698"
-},
-{
-"type": "720 FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-991118_lhd.m3u8?txSecret=f4b7b346f157f3275b73788897a2c2a0&txTime=64a73620"
-}
-]
-},
+
 
     
     
