@@ -3,7 +3,7 @@
 {
 "league": "🏆 EURO U19 Grp. B",
 "date": "July 7",
-"time": "10:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5960_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5932_small.png",
 "teams" : "Greece U19 Vs Spain U19",
@@ -13,11 +13,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-479379_lsd.m3u8?sub_m3u8=true&user_session_id=e74e703fcbaebf8365d5eb73e40e8cd6&auth_key=1688747528-0-0-a94ad665654a2b5892387b509c1a7f80&edge_slice=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-479379_lhd.m3u8?sub_m3u8=true&user_session_id=b669f66d362c4a362ee1812fcf6ec1c3&auth_key=1688747528-0-0-91937185a77267fdc9c86b65c059d6bc&edge_slice=true"
 },
 {
 "type": "480 HD",
