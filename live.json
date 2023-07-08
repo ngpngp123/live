@@ -13,6 +13,10 @@
             "ateam" : "Spain U21",
          "hotmat":"yes",
             "link":[
+                 {
+                    "type": "SD",
+                "livelink":"https://pull01.rrwes.live/live/stream-991128_lsd.m3u8?txSecret=a507ea05ec1145d629c1335e22661a57&txTime=64a9dac4"
+                },
                 {
                     "type": "720 HD",
                 "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?edge_slice=true&user_session_id=679073e4178f49f0be29a6191f5e60cb&auth_key=1688834348-0-0-5bd2f8571af9788a23dd762205daee0d&sub_m3u8=true"
