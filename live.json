@@ -1,28 +1,7 @@
 [
 
 
-{
-"league": "🏆 EURO U19 Grp. B",
-"date": "July 8",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/401886_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5964_small.png",
-"teams" : "Iceland U19 Vs Norway U19",
-"hteam" : "Iceland U19",
-"ateam" : "Norway U19",
-"hotmat":"yes",
-"link":[
 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-},
    {
            "league": "Euro U21 Final",
             "date": "july 8",
