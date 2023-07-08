@@ -28,6 +28,10 @@
                 {
                     "type": "320SD",
                 "livelink":"https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=23fdd7aa334dc631656d51f4b4b15a7c&txTime=64a9d7b8"
+                },
+                {
+                    "type": "Test",
+                "livelink":"http://68.183.228.225:80/fotlive/fotlive/1"
                 }
             ]
     }
