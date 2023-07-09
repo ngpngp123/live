@@ -28,7 +28,131 @@
 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-158814_lhd.m3u8?edge_slice=true&auth_key=1688948528-0-0-3b12d8882d8d1a028c6cced01ae1458e&user_session_id=fd8543d0360f4b0549b90acd7a464cf6&sub_m3u8=true"
 }
 ]
+},
+
+{
+"league": "🏆 EURO U19 Grp. B",
+"date": "July 11",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5932_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5964_small.png",
+"teams" : "Spain U19 Vs Norway U19",
+"hteam" : "Spain U19",
+"ateam" : "Norway U19",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+   
+{
+"league": "🏆 EURO U19 Grp. B",
+"date": "July 11",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5960_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/401886_small.png",
+"teams" : "Greece U19 Vs Iceland U19",
+"hteam" : "Greece U19",
+"ateam" : "Iceland U19",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+   
+{
+"league": "🏆 Club Friendlies",
+"date": "July 12",
+"time": "9:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+"teams" : "Man United Vs Leeds",
+"hteam" : "Man United",
+"ateam" : "Leeds",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+   
+{
+"league": "🏆 Club Friendlies",
+"date": "July 12",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/208110_small.png",
+"teams" : "Dortmund Vs Westfalia Rhynern",
+"hteam" : "Dortmund",
+"ateam" : "Westfalia Rhynern",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
 }
 
+   
    
 ]
