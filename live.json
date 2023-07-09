@@ -14,19 +14,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991136_lsd.m3u8?sub_m3u8=true&auth_key=1688920688-0-0-d45d4026d7af2c8b54fc081ce3c7d843&edge_slice=true&user_session_id=2175f5f1fe4f8d0fc33e3d3b3d20a49a"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd.m3u8?edge_slice=true&auth_key=1688920688-0-0-713786e163a5527a77e45a0ded02e0d9&sub_m3u8=true&user_session_id=8cebdc844a40eeb2789516b62a181511"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?auth_key=1688920748-0-0-d3b236c6600fc858c4f16ad9f46ad801&user_session_id=d362693a08919c6504b2b66a7181e371&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?user_session_id=d88c56d5f5c57fa81bdf0f2b793dcd19&edge_slice=true&auth_key=1688920748-0-0-4dc87722e4284c67ebddbe4f86c82039&sub_m3u8=true"
 }
 ]
 },
