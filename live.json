@@ -4,7 +4,7 @@
 {
 "league": "🏆 EURO U19 Grp. A",
 "date": "July 9",
-"time": "10:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7738_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/401896_small.png",
 "teams" : "Portugal U19 Vs Malta U19",
@@ -35,7 +35,7 @@
 {
 "league": "🏆 EURO U19 Grp. A",
 "date": "July 9",
-"time": "10:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5929_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5931_small.png",
 "teams" : "Italy U19 Vs Poland U19",
@@ -45,19 +45,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=cfce6abd59a19b1a8d86b214f88e1f0d&txTime=64ab28fc"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=f56e2ae06a9e6f2a388fe5a0fa56769a&txTime=64ab28fc"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991137_lsd.m3u8?sub_m3u8=true&auth_key=1688920808-0-0-51ba2aad0c3507400b06feaf5403df4b&edge_slice=true&user_session_id=d1bf3b6a454a3d8686271e894d0c5edf"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991137_lhd.m3u8?edge_slice=true&user_session_id=10172f56e1bd357e7a3034ac9abb65c1&sub_m3u8=true&auth_key=1688920808-0-0-ff86ed703a427ab8d9b8c821a91d7e83"
 }
 ]
 }
