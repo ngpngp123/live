@@ -1,75 +1,34 @@
 [
 
-
 {
-"league": "🏆 EURO U19 Grp. A",
-"date": "July 9",
+"league": "🏆 CONCACAF Gold Cup Quarter-final",
+"date": "July 10",
 "time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7738_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/401896_small.png",
-"teams" : "Portugal U19 Vs Malta U19",
-"hteam" : "Portugal U19",
-"ateam" : "Malta U19",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5810_small.png",
+"teams" : "USA Vs Canada",
+"hteam" : "USA",
+"ateam" : "Canada",
 "hotmat":"yes",
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991136_lsd.m3u8?sub_m3u8=true&auth_key=1688920688-0-0-d45d4026d7af2c8b54fc081ce3c7d843&edge_slice=true&user_session_id=2175f5f1fe4f8d0fc33e3d3b3d20a49a"
+"livelink":"https://pull01.rrwes.live/live/stream-348199_lsd.m3u8?txSecret=719d7bf6a11103d613e0fa6d547563b9&txTime=64ab9544"
 }, 
 {
 "type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd.m3u8?edge_slice=true&auth_key=1688920688-0-0-713786e163a5527a77e45a0ded02e0d9&sub_m3u8=true&user_session_id=8cebdc844a40eeb2789516b62a181511"
+"livelink":"https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=33e3e59c615ac5605a47fdb04bcb6e36&txTime=64ab9544"
 },
 {
 "type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?auth_key=1688920748-0-0-d3b236c6600fc858c4f16ad9f46ad801&user_session_id=d362693a08919c6504b2b66a7181e371&sub_m3u8=true&edge_slice=true"
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-158814_lsd.m3u8?sub_m3u8=true&auth_key=1688948528-0-0-3cda838f1df8c564febe4faf4bb29b01&edge_slice=true&user_session_id=13560214a07201400af39f3baac88999"
 },
 {
 "type": "720 FHD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?user_session_id=d88c56d5f5c57fa81bdf0f2b793dcd19&edge_slice=true&auth_key=1688920748-0-0-4dc87722e4284c67ebddbe4f86c82039&sub_m3u8=true"
-}
-]
-},
-
-   
-{
-"league": "🏆 EURO U19 Grp. A",
-"date": "July 9",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5929_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5931_small.png",
-"teams" : "Italy U19 Vs Poland U19",
-"hteam" : "Italy U19",
-"ateam" : "Poland U19",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=cfce6abd59a19b1a8d86b214f88e1f0d&txTime=64ab28fc"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=f56e2ae06a9e6f2a388fe5a0fa56769a&txTime=64ab28fc"
-},
-{
-"type": "480 HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991137_lsd.m3u8?sub_m3u8=true&auth_key=1688920808-0-0-51ba2aad0c3507400b06feaf5403df4b&edge_slice=true&user_session_id=d1bf3b6a454a3d8686271e894d0c5edf"
-},
-{
-"type": "720 FHD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991137_lhd.m3u8?edge_slice=true&user_session_id=10172f56e1bd357e7a3034ac9abb65c1&sub_m3u8=true&auth_key=1688920808-0-0-ff86ed703a427ab8d9b8c821a91d7e83"
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-158814_lhd.m3u8?edge_slice=true&auth_key=1688948528-0-0-3b12d8882d8d1a028c6cced01ae1458e&user_session_id=fd8543d0360f4b0549b90acd7a464cf6&sub_m3u8=true"
 }
 ]
 }
+
+   
 ]
-   
-  
-
-
-
-
-
-
-
-   
-
