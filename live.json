@@ -3,7 +3,7 @@
 {
 "league": "🏆 EURO U19 Grp. B",
 "date": "July 11",
-"time": "1:30 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5932_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5964_small.png",
 "teams" : "Spain U19 Vs Norway U19",
@@ -13,19 +13,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1689017228-0-0-93085048c62cc7dcc36b84a772a7cafb&edge_slice=true&sub_m3u8=true&user_session_id=7246fbec7a56034dd0ef4be1b90f4751"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?sub_m3u8=true&auth_key=1689017228-0-0-93085048c62cc7dcc36b84a772a7cafb&edge_slice=true&user_session_id=54b352fc2ba1411f136564291c92d6a6"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991138_lsd.m3u8?edge_slice=true&auth_key=1689017168-0-0-fcf5f4698a29cd168fe09c9b3971d031&user_session_id=1c53f154ac3e9427233641776816c3e9&sub_m3u8=true"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991138_lhd.m3u8?edge_slice=true&auth_key=1689017168-0-0-4471a47adad9e68db69e25a94c53ae17&user_session_id=ec16f0e500baacd11bd7f481ddc798ac&sub_m3u8=true"
 }
 ]
 },
