@@ -34,7 +34,7 @@
 {
 "league": "🏆 EURO U19 Grp. B",
 "date": "July 11",
-"time": "1:30 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5960_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/401886_small.png",
 "teams" : "Greece U19 Vs Iceland U19",
@@ -44,19 +44,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=50ff87ff7cfd1152e09349f778235e2e&txTime=64aca218"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=1b3d0818cb35243fe166dc05f5a6281b&txTime=64aca218"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=1b3d0818cb35243fe166dc05f5a6281b&txTime=64aca218"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=50ff87ff7cfd1152e09349f778235e2e&txTime=64aca218"
 }
 ]
 },
