@@ -60,8 +60,70 @@
 "livelink":""
 }
 ]
+},
+
+{
+"league": "🏆 Club Friendlies",
+"date": "July 13",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8165_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+"teams" : "1.FC Nürnberg Vs Arsenal",
+"hteam" : "1.FC Nürnberg",
+"ateam" : "Arsenal",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+   
+{
+"league": "🏆 Club Friendlies",
+"date": "July 13",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10251_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+"teams" : "Hibernian Vs Bournemouth",
+"hteam" : "Hibernian",
+"ateam" : "Bournemouth",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
 }
 
+   
    
    
 ]
