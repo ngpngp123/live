@@ -40,15 +40,15 @@
 "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1689176169-0-0-d52ea3aebe232c4f142028a3afcf3224&user_session_id=d314199911c26a0d18756ffff2096f45&sub_m3u8=true&edge_slice=true"
 }, 
 {
-"type": "480 HD",
+"type": "720 HD",
 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=23f432e71b4dbb91b561a29dec7917f7&auth_key=1689176169-0-0-2ca548bb4ab7900248c1d60231f9f5c1"
 },
 {
-"type": "480 HD",
+"type": "SD",
 "livelink":"https://1123793335.cdn.vnns.org/may1SD/chunks.m3u8"
 },
 {
-"type": "720 FHD",
+"type": "FHD",
 "livelink":"https://1123793335.cdn.vnns.org/may1FHD/chunks.m3u8"
 }
 ]
