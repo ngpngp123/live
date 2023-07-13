@@ -1,129 +1,70 @@
 [
+                        
 
-    {
-           "league": "🏆 Club Friendlies",
-            "date": "July 12",
-            "time": "live",
-            "hotmat":"yes",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",
-            "hteam" : "Southampton",
-            "ateam" : "Benfica",
-           "link":[
-                          {
-                    "type": "FHD",
-                "livelink":"https://1123793335.cdn.vnns.org/myFHD/chunks.m3u8"
-                },
-                    {
-                    "type": "720 HD",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
-                },
-                        {
-                    "type": "480 HD",
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/mySD/chunklist.m3u8"
-                }
-                   ]
-     },
+
 {
-"league": "🏆 Club Friendlies",
-"date": "July 12",
+"league": "🏆 CONCACAF Gold Cup Semi-final",
+"date": "July 13",
 "time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-"teams" : "Man United Vs Leeds",
-"hteam" : "Man United",
-"ateam" : "Leeds",
-"hotmat":"yes",
-"link":[
-    {
-
-                    "type": "MUTV 360 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-
-         
-
-                },
-
-                
-
-{
-
-                    "type": "MUTV 240 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MUTV 540 HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MAN U TV 1080HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-},
-{
-"type": "360 SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1689176169-0-0-d52ea3aebe232c4f142028a3afcf3224&user_session_id=d314199911c26a0d18756ffff2096f45&sub_m3u8=true&edge_slice=true"
-}, 
-{
-"type": "720 HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=23f432e71b4dbb91b561a29dec7917f7&auth_key=1689176169-0-0-2ca548bb4ab7900248c1d60231f9f5c1"
-},
-{
-"type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-},
-{
-"type": "FHD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-}
-]
-},
-
-   
-{
-"league": "🏆 Club Friendlies",
-"date": "July 12",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/208110_small.png",
-"teams" : "Dortmund Vs Westfalia Rhynern",
-"hteam" : "Dortmund",
-"ateam" : "Westfalia Rhynern",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5922_small.png",
+"teams" : "USA Vs Panama",
+"hteam" : "USA",
+"ateam" : "Panama",
 "hotmat":"yes",
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?sub_m3u8=true&user_session_id=426aa6c16aff062c79fd537a8fe62dca&auth_key=1689179829-0-0-580d2a548b8094686cc6f503575bc86e&edge_slice=true"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1689212709-0-0-6a04e7c7a85fc3e484c4e9a030d2e89a&user_session_id=ab2e183b6cfb3b86cdc9ca4de69977a2"
 }, 
 {
-"type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1689179829-0-0-55fcc561b7ec93b83121d17877066311&sub_m3u8=true&edge_slice=true&user_session_id=89ae319a906a5698a93e204823b9de92"
+"type": "360 SD",
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?user_session_id=e5ad5e9249fc651590691582b9a8bc22&sub_m3u8=true&auth_key=1689212709-0-0-70a234333a3b4fcf9e3b2d3f91f23de1&edge_slice=true"
 },
 {
 "type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-231997_lsd.m3u8?auth_key=1689179949-0-0-a605672a11a2ecc7748f315bccf354ac&edge_slice=true&sub_m3u8=true&user_session_id=9adc6edaf035d7920775705ea4f0cbfa"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1689212709-0-0-8cc9cfec21cf18ee28c6753a42016eb1&user_session_id=f391d09c33f1bb12b749e8a21eabcb78"
 },
 {
 "type": "720 FHD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-231997_lhd.m3u8?user_session_id=5292c291afd09f3f684b4852e1d04a07&edge_slice=true&sub_m3u8=true&auth_key=1689179949-0-0-598dd87eed97662ff711533de9e19a2b"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?edge_slice=true&user_session_id=f518d5d325ee1197ed734e606500bde5&sub_m3u8=true&auth_key=1689212709-0-0-6877d246339aa582941e8071ec2a4f44"
 }
 ]
 },
 
+    
+
+{
+"league": "🏆 EURO U19 Semi-final",
+"date": "July 13",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7738_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5964_small.png",
+"teams" : "Portugal U19 Vs Norway U19",
+"hteam" : "Portugal U19",
+"ateam" : "Norway U19",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+    
 {
 "league": "🏆 Club Friendlies",
 "date": "July 13",
