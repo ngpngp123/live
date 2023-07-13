@@ -124,8 +124,39 @@
 "livelink":""
 }
 ]
+},
+
+{
+"league": "🏆 EURO U19 Semi-final",
+"date": "July 14",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5932_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5929_small.png",
+"teams" : "Spain U19 Vs Italy U19",
+"hteam" : "Spain U19",
+"ateam" : "Italy U19",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
 }
 
+  
    
    
    
