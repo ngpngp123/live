@@ -6,7 +6,7 @@
 {
 "league": "🏆 EURO U19 Semi-final",
 "date": "July 13",
-"time": "10:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7738_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5964_small.png",
 "teams" : "Portugal U19 Vs Norway U19",
@@ -16,19 +16,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-231997_lsd.m3u8?auth_key=1689265569-0-0-8d5c4d16c2f5fd3b396f39b3c283b97e&edge_slice=true&sub_m3u8=true&user_session_id=5b5a82ee1ca10e9ba9b5725eb62d8858"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-231997_lhd.m3u8?user_session_id=3a48c2068d163fd0b57c304112648866&auth_key=1689265569-0-0-a5f86ee3e26ccd073ba55806869ddbd8&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1689265629-0-0-7609662e0d079186618d0a57de52e9d9&sub_m3u8=true&user_session_id=70aec5a90d0059cc35de2e019cd4d1cf&edge_slice=true"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1689265629-0-0-fd28c4198bc5497083abe6bc8f363486&user_session_id=aeeef334228ec5d3f4f81b0c8d324ac4&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
