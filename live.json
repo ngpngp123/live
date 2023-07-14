@@ -68,69 +68,9 @@
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
 }
 ]
-},
+}
 
   
-{
-"league": "🏆 Club Friendlies",
-"date": "July 14",
-"time": "11:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/183563_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-"teams" : "De Treffers Vs Lyon",
-"hteam" : "De Treffers",
-"ateam" : "Lyon",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-},
-
-  
-{
-"league": "🏆 Club Friendlies",
-"date": "July 14",
-"time": "11:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8318_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
-"teams" : "TuS Koblenz Vs Mainz",
-"hteam" : "TuS Koblenz",
-"ateam" : "Mainz",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-}
 
   
 ]
