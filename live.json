@@ -4,35 +4,7 @@
 
 
   
-{
-"league": "🏆 Club Friendlies",
-"date": "July 14",
-"time": "9:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7730_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
-"teams" : "Lausanne Vs Nice",
-"hteam" : "Lausanne",
-"ateam" : "Nice",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-},
+
 
   
 {
