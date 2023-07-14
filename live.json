@@ -1,132 +1,220 @@
 [
-                        
 
-    
-
-{
-"league": "🏆 EURO U19 Semi-final",
-"date": "July 13",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7738_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5964_small.png",
-"teams" : "Portugal U19 Vs Norway U19",
-"hteam" : "Portugal U19",
-"ateam" : "Norway U19",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-231997_lsd.m3u8?auth_key=1689265569-0-0-8d5c4d16c2f5fd3b396f39b3c283b97e&edge_slice=true&sub_m3u8=true&user_session_id=5b5a82ee1ca10e9ba9b5725eb62d8858"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-231997_lhd.m3u8?user_session_id=3a48c2068d163fd0b57c304112648866&auth_key=1689265569-0-0-a5f86ee3e26ccd073ba55806869ddbd8&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "480 HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1689265629-0-0-7609662e0d079186618d0a57de52e9d9&sub_m3u8=true&user_session_id=70aec5a90d0059cc35de2e019cd4d1cf&edge_slice=true"
-},
-{
-"type": "720 FHD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1689265629-0-0-fd28c4198bc5497083abe6bc8f363486&user_session_id=aeeef334228ec5d3f4f81b0c8d324ac4&sub_m3u8=true&edge_slice=true"
-}
-]
-},
-
-    
 {
 "league": "🏆 Club Friendlies",
-"date": "July 13",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8165_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-"teams" : "1.FC Nürnberg Vs Arsenal",
-"hteam" : "1.FC Nürnberg",
-"ateam" : "Arsenal",
-"hotmat":"yes",
-"link":[
-{
-"type": "480 SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991138_lsd.m3u8?edge_slice=true&auth_key=1689269349-0-0-1c32b41be952d83715df719bc520a004&sub_m3u8=true&user_session_id=fddb13070b563d34d0e149bbe6c3cb23"
-}, 
-{
-"type": "720 HD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991138_lhd.m3u8?edge_slice=true&user_session_id=6a67b4d0ab3c22a49bb6d202152ff8e0&sub_m3u8=true&auth_key=1689269349-0-0-4403533b747af90814c5e655cf452b3e"
-},
-{
-"type": "480 HD",
-"livelink":"https://pull01.rrwes.live/live/stream-144861_lsd.m3u8?txSecret=98fd9d088b15167abce041fc515263b5&txTime=64b07b69"
-},
-{
-"type": "720 FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=45fe7fe07c9b06e7c8623e5d5ca11ba2&txTime=64b07b69"
-}
-]
-},
-
-   
-{
-"league": "🏆 Club Friendlies",
-"date": "July 13",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10251_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-"teams" : "Hibernian Vs Bournemouth",
-"hteam" : "Hibernian",
-"ateam" : "Bournemouth",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-112565_lsd.m3u8?auth_key=1689269589-0-0-a8a5475ccd6caa50fbb0856cadc217d2&user_session_id=a69445fc80289e5df527ef371b792478&edge_slice=true&sub_m3u8=true"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-112565_lhd.m3u8?user_session_id=205e945e8cbe4011a8bd883527605ce6&auth_key=1689269589-0-0-4e762d4df6e25bc859831fb0d2c9ffd2&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "480 HD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991130_lsd.m3u8?sub_m3u8=true&auth_key=1689269589-0-0-dead367ab5b8f9c4b6f1ebf085a64973&user_session_id=8a4b5bf17e018dd9d25a24e49d4a6140&edge_slice=true"
-},
-{
-"type": "720 FHD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1689269589-0-0-aa3f6b5624f0e72667efe3f19b17981a&user_session_id=e681ffe6504f95f9eebcc6622bc1db55&sub_m3u8=true&edge_slice=true"
-}
-]
-},
-
-{
-"league": "🏆 EURO U19 Semi-final",
 "date": "July 14",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5932_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5929_small.png",
-"teams" : "Spain U19 Vs Italy U19",
-"hteam" : "Spain U19",
-"ateam" : "Italy U19",
+"time": "8:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8587_small.png",
+"teams" : "Lens Vs Amiens",
+"hteam" : "Lens",
+"ateam" : "Amiens",
 "hotmat":"yes",
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991144_lsd.m3u8?auth_key=1689269649-0-0-a8a04f3f123cbadc35368effbe5e27de&edge_slice=true&user_session_id=8658a3319a023d07c50acece1542114c&sub_m3u8=true"
+"livelink":""
 }, 
 {
 "type": "480 HD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991144_lhd.m3u8?auth_key=1689269649-0-0-5802046136ab331edd8bb11fba2cb510&edge_slice=true&user_session_id=d3c45fdea342eaefb0416a0a88332f77&sub_m3u8=true"
+"livelink":""
 },
 {
 "type": "480 HD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1689269709-0-0-c3416755f4e31e3b6c660a47f081af0c&user_session_id=d69508f285cf05488f0e3e8b10509b62"
+"livelink":""
 },
 {
 "type": "720 FHD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1689269709-0-0-4ea68d48a147c8d14fc31ae65e596256&user_session_id=f6d3e5140d4696b3f65f79112f6ddf03"
+"livelink":""
+}
+]
+},
+
+  
+{
+"league": "🏆 Club Friendlies",
+"date": "July 14",
+"time": "9:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7730_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
+"teams" : "Lausanne Vs Nice",
+"hteam" : "Lausanne",
+"ateam" : "Nice",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+  
+{
+"league": "🏆 Club Friendlies",
+"date": "July 14",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/553865_small.png",
+"teams" : "Mallorca Vs Union Gurten",
+"hteam" : "Mallorca",
+"ateam" : "Union Gurten",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+  
+{
+"league": "🏆 Club Friendlies",
+"date": "July 14",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/2442_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+"teams" : "Stade Nyonnais Vs Everton",
+"hteam" : "Stade Nyonnais",
+"ateam" : "Everton",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+  
+{
+"league": "🏆 Club Friendlies",
+"date": "July 14",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7869_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+"teams" : "Cordoba Vs Sevilla",
+"hteam" : "Cordoba",
+"ateam" : "Sevilla",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+  
+{
+"league": "🏆 Club Friendlies",
+"date": "July 14",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/183563_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+"teams" : "De Treffers Vs Lyon",
+"hteam" : "De Treffers",
+"ateam" : "Lyon",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+  
+{
+"league": "🏆 Club Friendlies",
+"date": "July 14",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8318_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
+"teams" : "TuS Koblenz Vs Mainz",
+"hteam" : "TuS Koblenz",
+"ateam" : "Mainz",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
 }
 ]
 }
 
   
-   
-   
-   
 ]
