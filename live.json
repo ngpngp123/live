@@ -27,35 +27,7 @@
 ]
 },
 
-{
-"league": "🏆 Club Friendlies",
-"date": "July 15",
-"time": "5:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9776_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-"teams" : "Eintracht Braunschweig Vs Real Betis",
-"hteam" : "Eintracht Braunschweig",
-"ateam" : "Real Betis",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-},
+
 
  
 {
