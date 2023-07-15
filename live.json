@@ -83,35 +83,7 @@
 
 
  
-{
-"league": "🏆 Club Friendlies",
-"date": "July 15",
-"time": "7:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8595_small.png",
-"teams" : "Crystal Palace Vs Brøndby IF",
-"hteam" : "Crystal Palace",
-"ateam" : "Brøndby IF",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-},
+
 
  
 {
