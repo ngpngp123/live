@@ -30,35 +30,6 @@
 
 
  
-{
-"league": "🏆 Club Friendlies",
-"date": "July 15",
-"time": "6:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6189_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-"teams" : "Gateshead FC Vs Newcastle",
-"hteam" : "Gateshead FC",
-"ateam" : "Newcastle",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-},
 
  
 {
