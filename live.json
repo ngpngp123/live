@@ -21,11 +21,11 @@
 },
 {
 "type": "480 HD",
-"livelink":"https://179720687.global.cdnfastest.com/live/sd-dn1m1ghp5x3zmoe/chunklist_w854915086.m3u8"
+"livelink":"http://stream.doball.com:8080/hls/ch3.m3u8"
 },
 {
 "type": "720 FHD",
-"livelink":"https://179720687.global.cdnfastest.com/live/sd-dn1m1ghp5x3zmoe/chunklist_w854915086.m3u8"
+"livelink":"http://stream.doball.com:8080/hls/ch3.m3u8"
 }
 ]
 },
