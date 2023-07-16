@@ -1,34 +1,5 @@
 [
 
-{
-"league": "🏆 Club Friendlies",
-"date": "July 16",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9931_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",
-"teams" : "Basel Vs Benfica",
-"hteam" : "Basel",
-"ateam" : "Benfica",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
-},
-{
-"type": "480 HD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
-},
-{
-"type": "720 FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
-}
-]
-},
 
  
 
