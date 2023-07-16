@@ -11,7 +11,7 @@
 {
 "league": "🏆 EURO U19 Final",
 "date": "July 17",
-"time": "1:30 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7738_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5929_small.png",
 "teams" : "Portugal U19 Vs Italy U19",
@@ -21,15 +21,15 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=c24a42e5c76df16b7b7db4e2deaa3e76&txTime=64b489b1"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=98c69191330b8309338590e89953d7a1&txTime=64b489b1"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=98c69191330b8309338590e89953d7a1&txTime=64b489b1"
 },
 {
 "type": "720 FHD",
