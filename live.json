@@ -3,7 +3,7 @@
 {
 "league": "🏆 Club Friendlies",
 "date": "July 17",
-"time": "9:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
 "teams" : "Hoffenheim Vs Strasbourg",
@@ -13,19 +13,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-313893_lsd.m3u8?auth_key=1689608349-0-0-2d000a9176f33c62d0fb4a56aaba9fb0&user_session_id=0f6ae581c65bca83d8ebe749ee32d63e&edge_slice=true&sub_m3u8=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1689608349-0-0-b7d734a52a0a4d0af97e991f2999a9d8&user_session_id=8bf94870296edc318bdddb6d37c6772c&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991109_lsd.m3u8?user_session_id=4d8b910e5837772a9f753d261dae5dba&edge_slice=true&sub_m3u8=true&auth_key=1689608469-0-0-f1d3bd0c1b87e39fe45d0b28db93bfb8"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991109_lhd.m3u8?user_session_id=a71d4bae61902de435c2b44380caef19&edge_slice=true&sub_m3u8=true&auth_key=1689608469-0-0-ad4d36ccc195348a61868c59c94fa59d"
 }
 ]
 },
