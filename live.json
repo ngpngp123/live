@@ -4,35 +4,7 @@
 
 
  
-{
-"league": "🏆 Club Friendlies",
-"date": "July 18",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-"teams" : "Tottenham Vs West Ham",
-"hteam" : "Tottenham",
-"ateam" : "West Ham",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://pull.niues.live/live/stream-991139_lsd.m3u8?auth_key=1689680390-0-0-02491e30e70dc3286c9c1fcbbbd273ba"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "English HD",
-"livelink":"https://179720687.global.cdnfastest.com/live/sd-zp5rzgh6k7ggq82/chunklist_w1526863038.m3u8"
-},
-{
-"type": "720 FHD",
-"livelink":"https://pull.niues.live/live/stream-991139_lhd.m3u8?auth_key=1689680390-0-0-7e8bd9faef7d8e1207e3d799f8c1a3ec"
-}
-]
-},
+
 
  
 {
