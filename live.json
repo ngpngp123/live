@@ -17,7 +17,7 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://1123793335.cdn.vnns.org/may1SD/chunks.m3u8"
+"livelink":"https://pull.niues.live/live/stream-991139_lsd.m3u8?auth_key=1689680390-0-0-02491e30e70dc3286c9c1fcbbbd273ba"
 }, 
 {
 "type": "480 HD",
@@ -29,7 +29,7 @@
 },
 {
 "type": "720 FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+"livelink":"https://pull.niues.live/live/stream-991139_lhd.m3u8?auth_key=1689680390-0-0-7e8bd9faef7d8e1207e3d799f8c1a3ec"
 }
 ]
 },
