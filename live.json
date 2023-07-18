@@ -38,7 +38,7 @@
 {
 "league": "🏆 Club Friendlies",
 "date": "July 18",
-"time": "6:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",
 "teams" : "Ajax Vs Shakhtar Donetsk",
@@ -48,19 +48,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-171964_lsd.m3u8?txSecret=62a4588c0b747c5888db2bb69b657db1&txTime=64b6cdb2"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=045f7dcca178700fa370b7525ada3f62&txTime=64b6cdb2"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-239521_lsd.m3u8?auth_key=1689683930-0-0-13f4b6fc27047c53b780983de92ccee7"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-239521_lhd.m3u8?auth_key=1689683930-0-0-b5890f3311e2c1ad6e9b1fef952f57fc"
 }
 ]
 },
