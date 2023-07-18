@@ -45,7 +45,7 @@
 {
 "league": "🏆 Club Friendlies",
 "date": "July 18",
-"time": "11:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
 "teams" : "Valencia Vs Nottm Forest",
@@ -55,19 +55,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8"
+"livelink":"https://pull.niues.live/live/stream-991105_lsd.m3u8?auth_key=1689702110-0-0-e7a0ad9cec903943774989f00404ff4c"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-991105_lhd.m3u8?auth_key=1689702110-0-0-d3d94207b148206dcc9fc8521de3e825"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-991130_lsd.m3u8?auth_key=1689702170-0-0-d311c634255de3245d3eb216695d7630"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-991130_lhd.m3u8?auth_key=1689702170-0-0-72115a4d674ffffbb3de116aa42665a3"
 }
 ]
 }
