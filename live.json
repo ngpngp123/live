@@ -16,24 +16,48 @@
 "ateam" : "Lyon",
 "hotmat":"yes",
 "link":[
+ {
+
+                    "type": "MUTV 360 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+
+         
+
+                },
+
+                
+
 {
-"type": "360 SD",
-"livelink":""
-}, 
+
+                    "type": "MUTV 240 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+
+         
+
+                },
+
 {
-"type": "480 HD",
-"livelink":""
-},
+
+                    "type": "MUTV 540 HD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+
+         
+
+                },
+
 {
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
+
+                    "type": "MAN U TV 1080HD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+
 }
 ]
 },
+
 
  
 {
