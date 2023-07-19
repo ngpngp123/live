@@ -92,12 +92,12 @@
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
 },
 {
-"type": "480 HD",
-"livelink":""
+"type": "SD",
+"livelink":"https://pull01.rrwes.live/live/stream-991148_lhd.m3u8?txSecret=5a00ebf3622b287f2cf3deccce54a392&txTime=64b87572"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-991148_lsd.m3u8?txSecret=2aef2457fc9af5f1c4c2e52e7ace84b3&txTime=64b87572"
 }
 ]
 },
