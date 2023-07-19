@@ -2,30 +2,340 @@
 
 {
 "league": "🏆 Club Friendlies",
-"date": "July 18",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-"teams" : "Valencia Vs Nottm Forest",
-"hteam" : "Valencia",
-"ateam" : "Nottm Forest",
+"date": "July 19",
+"time": "3:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9765_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",
+"teams" : "Portimonense Vs FC Porto",
+"hteam" : "Portimonense",
+"ateam" : "FC Porto",
 "hotmat":"yes",
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://pull.niues.live/live/stream-991105_lsd.m3u8?auth_key=1689702110-0-0-e7a0ad9cec903943774989f00404ff4c"
+"livelink":""
 }, 
 {
 "type": "480 HD",
-"livelink":"https://pull.niues.live/live/stream-991105_lhd.m3u8?auth_key=1689702110-0-0-d3d94207b148206dcc9fc8521de3e825"
+"livelink":""
 },
 {
 "type": "480 HD",
-"livelink":"https://pull.niues.live/live/stream-991130_lsd.m3u8?auth_key=1689702170-0-0-d311c634255de3245d3eb216695d7630"
+"livelink":""
 },
 {
 "type": "720 FHD",
-"livelink":"https://pull.niues.live/live/stream-991130_lhd.m3u8?auth_key=1689702170-0-0-72115a4d674ffffbb3de116aa42665a3"
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendlies",
+"date": "July 19",
+"time": "4:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1773_small.png",
+"teams" : "Leicester Vs OH Leuven",
+"hteam" : "Leicester",
+"ateam" : "OH Leuven",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendlies",
+"date": "July 19",
+"time": "7:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+"teams" : "Man United Vs Lyon",
+"hteam" : "Man United",
+"ateam" : "Lyon",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendlies",
+"date": "July 19",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7782_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+"teams" : "Oberhausen Vs Dortmund",
+"hteam" : "Oberhausen",
+"ateam" : "Dortmund",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendlies",
+"date": "July 19",
+"time": "11:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8295_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+"teams" : "Karlsruher SC Vs Liverpool",
+"hteam" : "Karlsruher SC",
+"ateam" : "Liverpool",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendlies",
+"date": "July 19",
+"time": "11:45 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7854_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
+"teams" : "Leganes Vs Getafe",
+"hteam" : "Leganes",
+"ateam" : "Getafe",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendlies",
+"date": "July 20",
+"time": "12:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
+"teams" : "Real Betis Vs Monaco",
+"hteam" : "Real Betis",
+"ateam" : "Monaco",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendlies",
+"date": "July 20",
+"time": "1:15 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8647_small.png",
+"teams" : "Crystal Palace Vs Crawley",
+"hteam" : "Crystal Palace",
+"ateam" : "Crawley",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendlies",
+"date": "July 20",
+"time": "6:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9841_small.png",
+"teams" : "Chelsea Vs Wrexham",
+"hteam" : "Chelsea",
+"ateam" : "Wrexham",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendlies",
+"date": "July 20",
+"time": "7:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/207967_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+"teams" : "MLS All-Stars Vs Arsenal",
+"hteam" : "MLS All-Stars",
+"ateam" : "Arsenal",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 World Cup Grp. A",
+"date": "July 20",
+"time": "1:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/74876_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5813_small.png",
+"teams" : "New Zealand Vs Norway",
+"hteam" : "New Zealand",
+"ateam" : "Norway",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
 }
 ]
 }
@@ -34,6 +344,5 @@
 
 
 
- 
  
 ]
