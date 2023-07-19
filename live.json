@@ -103,35 +103,7 @@
 },
 
  
-{
-"league": "🏆 Club Friendlies",
-"date": "July 20",
-"time": "1:15 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8647_small.png",
-"teams" : "Crystal Palace Vs Crawley",
-"hteam" : "Crystal Palace",
-"ateam" : "Crawley",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-},
+
 
  
 {
@@ -193,38 +165,10 @@
 "livelink":""
 }
 ]
-},
+}
 
  
-{
-"league": "🏆 World Cup Grp. A",
-"date": "July 20",
-"time": "1:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/74876_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5813_small.png",
-"teams" : "New Zealand Vs Norway",
-"hteam" : "New Zealand",
-"ateam" : "Norway",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-}
+
 
  
 
