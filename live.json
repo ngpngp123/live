@@ -16,11 +16,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-112565_lsd.m3u8?auth_key=1689763310-0-0-ffec8323bc6eb6981107a549df5b1654"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-112565_lhd.m3u8?auth_key=1689763310-0-0-66574e6e0073435835a9834b805d59c4"
 },
 {
 "type": "480 HD",
