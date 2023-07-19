@@ -10,7 +10,7 @@
 {
 "league": "🏆 Club Friendlies",
 "date": "July 19",
-"time": "10:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7782_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
 "teams" : "Oberhausen Vs Dortmund",
@@ -20,19 +20,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-991144_lsd.m3u8?auth_key=1689784910-0-0-e8b51b946ae2e0c6724829246b68b058"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-113906_lhd.m3u8?auth_key=1689784850-0-0-c528c029af592b4258780513f20af16b"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-113906_lsd.m3u8?auth_key=1689784850-0-0-b3f6d835e0ae0ad93db57f8b3a559aa2"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-991144_lhd.m3u8?auth_key=1689784910-0-0-98cf286c8e508c1f03885bc23b12684b"
 }
 ]
 },
