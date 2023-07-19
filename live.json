@@ -7,68 +7,6 @@
  
 
  
-{
-"league": "🏆 Club Friendlies",
-"date": "July 19",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7782_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-"teams" : "Oberhausen Vs Dortmund",
-"hteam" : "Oberhausen",
-"ateam" : "Dortmund",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://pull.niues.live/live/stream-991144_lsd.m3u8?auth_key=1689784910-0-0-e8b51b946ae2e0c6724829246b68b058"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://pull.niues.live/live/stream-113906_lhd.m3u8?auth_key=1689784850-0-0-c528c029af592b4258780513f20af16b"
-},
-{
-"type": "480 HD",
-"livelink":"https://pull.niues.live/live/stream-113906_lsd.m3u8?auth_key=1689784850-0-0-b3f6d835e0ae0ad93db57f8b3a559aa2"
-},
-{
-"type": "Test FHD",
-"livelink":"http://128.199.156.233:80/fotlive/fotlive/1"
-}
-]
-},
-
- 
-{
-"league": "🏆 Club Friendlies",
-"date": "July 19",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8295_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-"teams" : "Karlsruher SC Vs Liverpool",
-"hteam" : "Karlsruher SC",
-"ateam" : "Liverpool",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://pull.niues.live/live/stream-231997_lsd.m3u8?auth_key=1689786710-0-0-5226387485db29ee561e11437ed5a03b"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://pull.niues.live/live/stream-231997_lhd.m3u8?auth_key=1689786710-0-0-5bb17307482f92c18dea216272053890"
-},
-{
-"type": "480 HD",
-"livelink":"https://pull.niues.live/live/stream-381973_lsd.m3u8?auth_key=1689786710-0-0-2a592f6b12e9701b8441ef7e4d5ae6c3"
-},
-{
-"type": "Test FHD",
-"livelink":"http://128.199.156.233:80/fotlive/fotlive/1"
-}
-]
-},
-
- 
 
 
  
@@ -76,40 +14,6 @@
 "league": "🏆 Club Friendlies",
 "date": "July 20",
 "time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-"teams" : "Real Betis Vs Monaco",
-"hteam" : "Real Betis",
-"ateam" : "Monaco",
-"hotmat":"yes",
-"link":[
-{
-"type": "HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
-}, 
-{
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
-},
-{
-"type": "SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991148_lhd.m3u8?txSecret=5a00ebf3622b287f2cf3deccce54a392&txTime=64b87572"
-},
-{
-"type": "720 FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-991148_lsd.m3u8?txSecret=2aef2457fc9af5f1c4c2e52e7ace84b3&txTime=64b87572"
-}
-]
-},
-
- 
-
-
- 
-{
-"league": "🏆 Club Friendlies",
-"date": "July 20",
-"time": "6:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9841_small.png",
 "teams" : "Chelsea Vs Wrexham",
@@ -119,19 +23,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 }
 ]
 },
@@ -140,7 +44,7 @@
 {
 "league": "🏆 Club Friendlies",
 "date": "July 20",
-"time": "7:00 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/207967_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
 "teams" : "MLS All-Stars Vs Arsenal",
@@ -150,19 +54,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
 }
 ]
 }
