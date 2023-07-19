@@ -62,8 +62,8 @@
 "livelink":"https://pull.niues.live/live/stream-381973_lsd.m3u8?auth_key=1689786710-0-0-2a592f6b12e9701b8441ef7e4d5ae6c3"
 },
 {
-"type": "720 FHD",
-"livelink":"https://pull.niues.live/live/stream-381973_lhd.m3u8?auth_key=1689786710-0-0-4081bf1599545a155337137aa4eacd39"
+"type": "Test FHD",
+"livelink":"http://128.199.156.233:80/fotlive/fotlive/1"
 }
 ]
 },
