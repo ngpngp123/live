@@ -69,35 +69,7 @@
 },
 
  
-{
-"league": "🏆 Club Friendlies",
-"date": "July 19",
-"time": "11:45 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7854_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
-"teams" : "Leganes Vs Getafe",
-"hteam" : "Leganes",
-"ateam" : "Getafe",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-},
+
 
  
 {
