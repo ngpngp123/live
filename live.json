@@ -48,6 +48,14 @@
 
                 },
  {
+"type": "460 HD",
+"livelink":"https://pull01.rrwes.live/live/stream-991122_lsd.m3u8?txSecret=e8ba4472984e26194edcf21b58c54f01&txTime=64b832e2"
+}, 
+{
+"type": "780 HD",
+"livelink":"https://pull01.rrwes.live/live/stream-991122_lhd.m3u8?txSecret=a8b22aa4feb34cb6834c860bde50a913&txTime=64b832e2"
+},
+ {
 "type": "HD",
 "livelink":"https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8"
 }, 
