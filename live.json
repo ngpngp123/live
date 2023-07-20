@@ -8,69 +8,121 @@
 
  
 
-
+{
+"league": "🏆 Women World Cup GP(A)",
+"date": "July 20",
+"time": "1:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/74876_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5813_small.png",
+"hotmat":"yes",
+"hteam" : "New Zealand",
+"ateam" : "Norway",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+ 
+{
+"league": "🏆 Women World Cup GP(B)",
+"date": "July 20",
+"time": "4:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/74876_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5813_small.png",
+"hotmat":"yes",
+"hteam" : "Australia",
+"ateam" : "Ireland",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
  
 {
 "league": "🏆 Club Friendlies",
 "date": "July 20",
-"time": "Ended",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9841_small.png",
-"teams" : "Chelsea Vs Wrexham",
-"hteam" : "Chelsea",
-"ateam" : "Wrexham",
+"time": "9:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6452_small.png",
 "hotmat":"yes",
+"hteam" : "AC Milan",
+"ateam" : "Lumezzane",
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+"livelink":""
 }, 
 {
 "type": "480 HD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+"livelink":""
 },
 {
 "type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+"livelink":""
 },
 {
 "type": "720 FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+"livelink":""
 }
 ]
 },
-
  
 {
 "league": "🏆 Club Friendlies",
 "date": "July 20",
-"time": "Ended",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/207967_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-"teams" : "MLS All-Stars Vs Arsenal",
-"hteam" : "MLS All-Stars",
-"ateam" : "Arsenal",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+"aimg": "https://volleybox.net/media/upload/teams/1554471982wvuz0.png",
 "hotmat":"yes",
+"hteam" : "Napoli",
+"ateam" : "Anaune",
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
+"livelink":""
 }, 
 {
 "type": "480 HD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
+"livelink":""
 },
 {
 "type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
+"livelink":""
 },
 {
 "type": "720 FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
+"livelink":""
 }
 ]
 }
-
  
 
 
