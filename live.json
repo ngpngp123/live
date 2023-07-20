@@ -8,43 +8,12 @@
 
  
 
-{
-"league": "🏆 Women World Cup GP(A)",
-"date": "July 20",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/74876_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5813_small.png",
-"hotmat":"yes",
-"hteam" : "New Zealand",
-"ateam" : "Norway",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://pull.niues.live/live/stream-991143_lsd.m3u8?auth_key=1689838190-0-0-30907d8600962317cde0de6f7ccb8a30"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "480 HD",
-"livelink":"https://pull.niues.live/live/stream-991143_lhd.m3u8?auth_key=1689838190-0-0-394423a9f60350641df10db4aa593a65"
-},
-{
-"type": "720 FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-},
- {
-"type": "English",
-"livelink":"https://179720687.global.cdnfastest.com/live/hd-en-x7lm7ph3jz9km2w/chunklist_w1318005872.m3u8"
- }
-]
-},
+
  
 {
 "league": "🏆 Women World Cup GP(B)",
 "date": "July 20",
-"time": "4:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5981_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/394241_small.png",
 "hotmat":"yes",
@@ -57,7 +26,7 @@
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8"
 },
 {
 "type": "480 HD",
@@ -65,7 +34,7 @@
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8"
 }
 ]
 },
