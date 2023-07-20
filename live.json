@@ -1,39 +1,10 @@
 [
 
 
-
-{
-"league": "🏆 Club Friendlies",
-"date": "July 20",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6452_small.png",
-"hotmat":"yes",
-"hteam" : "AC Milan",
-"ateam" : "Lumezzane",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991128_lsd.m3u8?txSecret=ee3af951f87572c4505b450ea185ae4d&txTime=64b99ae2"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=c7414c3e0422173888e4e5066c7ee6d0&txTime=64b99ae2"
-},
-{
-"type": "360 SD",
-"livelink":"https://pull.niues.live/live/stream-158814_lsd.m3u8?auth_key=1689867710-0-0-21e3e55ecadc5cf06810234c6f5debae"
-},
-{
-"type": "480 HD",
-"livelink":"https://pull.niues.live/live/stream-158814_lhd.m3u8?auth_key=1689867710-0-0-926feed39dbd0a4ffaf0dec69675541c"
-}
-]
-}, 
 {
 "league": "🏆 Club Friendlies",
 "date": "July 21",
-"time": "2:00 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
 "teams" : "Benfica Vs Al Nassr FC",
@@ -43,19 +14,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-991136_lsd.m3u8?auth_key=1689883910-0-0-2792adae58696c4ee0a20caca053e209"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-991136_lhd.m3u8?auth_key=1689883910-0-0-7ea57d566bd376d413c417dbe4e96a92"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-231997_lsd.m3u8?auth_key=1689883970-0-0-21c011bf2df68eaf4ac0702e3575beb3"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-231997_lhd.m3u8?auth_key=1689883970-0-0-19c5db8a0fdd9d2697a6638e369ebc62"
 }
 ]
 },
