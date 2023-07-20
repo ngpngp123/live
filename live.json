@@ -152,8 +152,163 @@
 "livelink":""
 }
 ]
+},
+
+{
+"league": "🏆 World Cup Grp. B",
+"date": "July 21",
+"time": "9:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5908_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/74873_small.png",
+"teams" : "Nigeria (W) Vs Canada (W)",
+"hteam" : "Nigeria (W)",
+"ateam" : "Canada (W)",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 World Cup Grp. A",
+"date": "July 21",
+"time": "11:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/633428_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/391943_small.png",
+"teams" : "Philippines Vs Switzerland",
+"hteam" : "Philippines (W)",
+"ateam" : "Switzerland (W)",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 World Cup Grp. C",
+"date": "July 21",
+"time": "2:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/244165_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/604109_small.png",
+"teams" : "Spain (W) Vs Costa Rica (W)",
+"hteam" : "Spain (W)",
+"ateam" : "Costa Rica (W)",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendlies",
+"date": "July 21",
+"time": "9:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+"teams" : "Le Havre Vs PSG",
+"hteam" : "Le Havre",
+"ateam" : "PSG",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendlies",
+"date": "July 21",
+"time": "10:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8460_small.png",
+"teams" : "Leverkusen Vs Paderborn",
+"hteam" : "Leverkusen",
+"ateam" : "Paderborn",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
 }
 
+ 
  
 
 
