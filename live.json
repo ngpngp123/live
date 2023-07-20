@@ -2,43 +2,6 @@
 
 
 
-
-
- 
-
- 
-
-
- 
-{
-"league": "🏆 Women World Cup GP(B)",
-"date": "July 20",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5981_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/394241_small.png",
-"hotmat":"yes",
-"hteam" : "Australia",
-"ateam" : "Ireland",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&auth_key=1680041144-0-0-b0152135a666317014b2770c790f8908&sub_m3u8=true&user_session_id=ba8d48d286f854399b6978bf671091d6"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8"
-},
-{
-"type": "480 HD",
-"livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&auth_key=1680041144-0-0-eaa35cde925d3b82e3ffa7d7d9e1ba0f&user_session_id=31657b487597feb1431347aba02198ff&edge_slice=true"
-},
-{
-"type": "720 FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8"
-}
-]
-},
- 
 {
 "league": "🏆 Club Friendlies",
 "date": "July 20",
