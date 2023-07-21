@@ -37,7 +37,7 @@
 {
 "league": "🏆 World Cup Grp. A",
 "date": "July 21",
-"time": "11:30 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/633428_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/391943_small.png",
 "teams" : "Philippines Vs Switzerland",
@@ -47,11 +47,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-991143_lsd.m3u8?auth_key=1689917930-0-0-e62bf86098f9ad7042a88e05b9d3783f"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-991143_lhd.m3u8?auth_key=1689917930-0-0-e99ca623e88f1c6070f770e47618f4e8"
 },
 {
 "type": "480 HD",
