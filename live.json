@@ -8,39 +8,6 @@
 
 
  
-{
-"league": "🏆 World Cup Grp. C",
-"date": "July 21",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/244165_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/604109_small.png",
-"teams" : "Spain (W) Vs Costa Rica (W)",
-"hteam" : "Spain (W)",
-"ateam" : "Costa Rica (W)",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://pull.niues.live/live/stream-991134_lsd.m3u8?auth_key=1689927890-0-0-b6905e392eee198de74f83816528e464"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://pull.niues.live/live/stream-991134_lhd.m3u8?auth_key=1689927890-0-0-3ff1d36aa4693a2168e5cd5d5bc1fcea"
-},
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "720 FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-},
- {
-"type": "MATH FHD",
-"livelink":"https://179720687.global.cdnfastest.com/live/hd-en-23xmvkhp6849qg8/chunklist_w1130509218.m3u8"
- }
-]
-},
 
  
 {
