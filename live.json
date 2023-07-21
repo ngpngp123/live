@@ -10,63 +10,34 @@
  
 
  
-{
-"league": "🏆 Club Friendlies",
-"date": "July 21",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-"teams" : "Le Havre Vs PSG",
-"hteam" : "Le Havre",
-"ateam" : "PSG",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?user_session_id=d80967600c5d8628cacb3869c14df961&sub_m3u8=true&auth_key=1689953907-0-0-7d33fad49acba685f03f53f2553b42d5&edge_slice=true"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?user_session_id=74c3578bed6986c24c5e588ee64774e3&sub_m3u8=true&auth_key=1689953907-0-0-d629451b948e1ea4337909370d3fee39&edge_slice=true"
-},
-{
-"type": "480 HD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
-},
-{
-"type": "720 FHD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-},
-{
-"type": "English",
-"livelink":"https://yeszet1x1cdn23.goalarab.site/liveb1/b1/playlist.m3u8"
-}
-]
-},
 
  
 {
-"league": "🏆 Club Friendlies",
-"date": "July 21",
+"league": "🏆 Leagues Cup of Gp-3",
+"date": "July 22",
 "time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8460_small.png",
-"teams" : "Leverkusen Vs Paderborn",
-"hteam" : "Leverkusen",
-"ateam" : "Paderborn",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6578_small.png",
+
+"hteam" : "Inter Miami CF",
+"ateam" : "Cruz Azul",
 "hotmat":"yes",
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8"
+"livelink":"https://1123793335.cdn.vnns.org/may3SD/playlist.m3u8"
+}, 
+ {
+"type": "Soco",
+"livelink":"https://pull01.rrwes.live/live/stream-991121_lhd.flv?txSecret=5e222c28610335950a28203b388ce9aa&txTime=64bb6a2c"
 }, 
 {
 "type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
+"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
 },
 {
-"type": "480 HD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8"
+"type": "FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
 }
 
 ]
