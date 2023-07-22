@@ -41,7 +41,193 @@
 }
 
 ]
+},
+
+{
+"league": "🏆 World Cup Grp. E",
+"date": "July 22",
+"time": "live",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5909_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/633431_small.png",
+"teams" : "USA (W) Vs Vietnam (W)",
+"hteam" : "USA (W)",
+"ateam" : "Vietnam (W)",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+}, 
+{
+"type": "480 HD",
+"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 }
+]
+},
+
+ 
+{
+"league": "🏆 World Cup Grp. C",
+"date": "July 22",
+"time": "1:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/1202714_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5906_small.png",
+"teams" : "Zambia (W) Vs Japan (W)",
+"hteam" : "Zambia (W)",
+"ateam" : "Japan (W)",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 World Cup Grp. D",
+"date": "July 22",
+"time": "4:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5811_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1126571_small.png",
+"teams" : "England (W) Vs Haiti (W)",
+"hteam" : "England (W)",
+"ateam" : "Haiti (W)",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 World Cup Grp. D",
+"date": "July 22",
+"time": "6:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5818_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5904_small.png",
+"teams" : "Deanmark (W) Vs China (W)",
+"hteam" : "Denmark (W)",
+"ateam" : "China (W)",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+}, 
+{
+"league": "🏆 Club Friendlies",
+"date": "July 23",
+"time": "3:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+"teams" : "Man United Vs Arsenal",
+"hteam" : "Man United",
+"ateam" : "Arsenal",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendlies",
+"date": "July 23",
+"time": "5:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+"teams" : "Chelsea Vs Brighton",
+"hteam" : "Chelsea",
+"ateam" : "Brighton",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+}
+
+ 
+
 
  
  
