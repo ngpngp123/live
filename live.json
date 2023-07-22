@@ -62,19 +62,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?auth_key=1690052968-0-0-36f6a1bc084217150cb5ee573077aa69&user_session_id=6a1b6e403e7b2203b1595a77c46dae99&edge_slice=true&sub_m3u8=true"
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?auth_key=1690070068-0-0-6767ad0a8db149da1f4a0ac77f460d29&edge_slice=true&sub_m3u8=true&user_session_id=fce3a88d2ab695fe672b3dba239aceaen_id=6a1b6e403e7b2203b1595a77c46dae99&edge_slice=true&sub_m3u8=true"
 }, 
 {
 "type": "480 HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?sub_m3u8=true&auth_key=1690052968-0-0-c5d0fb329c94477c3b7c2b26a6e9b101&edge_slice=true&user_session_id=1f07f4c782b5470606e53d2f072f7141"
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?auth_key=1690070068-0-0-6767ad0a8db149da1f4a0ac77f460d29&edge_slice=true&sub_m3u8=true&user_session_id=392a649de10ebc9c00017774374d77b1"
 },
 {
 "type": "480 HD",
-"livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=fa373ec675e4ae705247fe905a8e68e7&txTime=64bc6ff4"
+"livelink":"https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8"
 },
 {
-"type": "720 FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=b519cbb5091f6ae81c53ece0156bfd04&txTime=64bc6ff4"
+"type": " FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8"
 }
 ]
 },
