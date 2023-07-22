@@ -74,10 +74,7 @@
 "ateam" : "West Ham",
 "hotmat":"yes",
 "link":[
-{
-"type": "Wait SD",
-"livelink":""
-}, 
+
 {
 "type": "480 HD",
 "livelink":"https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8"
