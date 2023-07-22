@@ -42,7 +42,7 @@
 {
 "league": "🏆 World Cup Grp. D",
 "date": "July 22",
-"time": "4:00 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5811_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1126571_small.png",
 "teams" : "England (W) Vs Haiti (W)",
@@ -52,19 +52,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991130_lsd.m3u8?edge_slice=true&auth_key=1690020028-0-0-2dc0df1bfce1434e48c9d02676473243&user_session_id=05fcb9c572dda18c7335da8dc6cb49d7&sub_m3u8=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991150_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1690020028-0-0-ab6e2f3255c1978ceba89f76ba9584df&user_session_id=9ffb81e40a4be2d672c03cf435ad6255"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991150_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1690020028-0-0-aeeee038a2ea5d8024a261df745525ef&user_session_id=8c65eb783c2e16cc35d6453c4dcd021f"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?edge_slice=true&auth_key=1690020028-0-0-60aca9dc80976e6e1ad1a977addbe47e&user_session_id=cf7a5defd07a4db1a39b1be6e9c118fa&sub_m3u8=true"
 }
 ]
 },
