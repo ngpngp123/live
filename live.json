@@ -66,7 +66,7 @@
 {
 "league": "🏆 Club Friendlies",
 "date": "July 22",
-"time": "8:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8009_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
 "teams" : "Dagenham & Redbridge Vs West Ham",
@@ -75,7 +75,7 @@
 "hotmat":"yes",
 "link":[
 {
-"type": "360 SD",
+"type": "Wait SD",
 "livelink":""
 }, 
 {
