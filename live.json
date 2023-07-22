@@ -18,6 +18,11 @@
 "type": "English HD",
 "livelink":"https://us.livenflstream.xyz/playlist/stream_1.m3u8"
 }, 
+ {
+"type": "English SD",
+"livelink":"https://yeszet1x1cdn23.goalarab.site/liveb1/b1/playlist.m3u8"
+}, 
+ 
 {
 "type": "480 HD",
 "livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=eb15ecfa3dfcde72042109783d4beb9b&txTime=64bbce00"
