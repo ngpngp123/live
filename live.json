@@ -1,102 +1,12 @@
 [
-{
-"league": "🏆 Club Friendlies",
-"date": "July 22",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8528_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-"teams" : "Wigan Vs Everton",
-"hteam" : "Wigan",
-"ateam" : "Everton",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://179720687.global.cdnfastest.com/live/sd-dn1m1ghp67pxmoe/chunklist_w507956366.m3u8"
-}
 
-
-]
-}, 
-{
-"league": "🏆 Club Friendlies",
-"date": "July 22",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9798_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
-"teams" : "Reading  Vs Southampton",
-"hteam" : "Reading",
-"ateam" : "Southampton",
-"hotmat":"yes",
-"link":[
-
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8"
-},
-{
-"type": "720 FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8"
-}
-]
-},
-
-{
-"league": "🏆 Club Friendlies",
-"date": "July 22",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8148_small.png",
-"teams" : "Dortmund Vs Rot-Weiss Erfurt",
-"hteam" : "Dortmund",
-"ateam" : "Rot-Weiss Erfurt",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-},
-{
-"type": "720 FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
-}
-]
-},
-
- 
-{
-"league": "🏆 Club Friendlies",
-"date": "July 22",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-"teams" : "Leeds Vs Monaco",
-"hteam" : "Leeds",
-"ateam" : "Monaco",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8"
-}
-
-]
-},
 
  
  
 {
 "league": "🏆 Club Friendlies",
 "date": "July 23",
-"time": "3:30 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
 "teams" : "Man United Vs Arsenal",
@@ -106,19 +16,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991144_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1690030528-0-0-36a2c2230280c66ca4839cd254da0fe0&user_session_id=6d6a36299ccb3cd4a9150227afa771ec"
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991110_lsd.m3u8?auth_key=1690052848-0-0-649cfc9f4f3f620e0e2a2ddf17bd12de&edge_slice=true&user_session_id=ad8c7c4f541402128ccf7eb0d42f38a3&sub_m3u8=true"
 }, 
 {
 "type": "480 HD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-348199_lsd.m3u8?edge_slice=true&auth_key=1690030468-0-0-1b38353f8a245c75b3b0fcd4bef89b53&sub_m3u8=true&user_session_id=af0788460d8ed94b2d9f306a105ee6da"
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1690052848-0-0-9f1dc0ff6d5a88e0481dddee5b8c5b85&edge_slice=true&user_session_id=87568ce1f814b8e11440ccf4a069d652&sub_m3u8=true"
 },
 {
 "type": "480 HD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-348199_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1690030468-0-0-399f4c3bc0a0f3a0cc148e232d420d67&user_session_id=1b429d935e87853413d8b71567dab3f8"
+"livelink":""
 },
 {
 "type": "720 FHD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991144_lhd.m3u8?auth_key=1690030528-0-0-176dda596f7e27542770658ce82490db&sub_m3u8=true&user_session_id=46998fe74e1fa566f4a54c618b172d2d&edge_slice=true"
+"livelink":""
 }
 ]
 },
