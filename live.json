@@ -89,7 +89,7 @@
 {
 "league": "🏆 Club Friendlies",
 "date": "July 22",
-"time": "9:00 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8148_small.png",
 "teams" : "Dortmund Vs Rot-Weiss Erfurt",
@@ -99,15 +99,15 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
 }
 ]
 },
