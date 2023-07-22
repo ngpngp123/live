@@ -57,7 +57,17 @@
 {
 "type": "360 SD",
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-}, 
+},
+ {
+                    "type": "China SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/sd-jw2r09h6k21orz8/chunklist_w993404662.m3u8"
+         
+                },
+ {
+                    "type": "Good HD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-jw2r09h6k21orz8/chunklist_w1944031911.m3u8"
+         
+                },
 {
 "type": "480 HD",
 "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
