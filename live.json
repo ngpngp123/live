@@ -62,6 +62,14 @@
 "type": "480 HD",
 "livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991150_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1690020028-0-0-aeeee038a2ea5d8024a261df745525ef&user_session_id=8c65eb783c2e16cc35d6453c4dcd021f"
 },
+ {
+"type": "480 HD",
+"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+{
+"type": "FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+},
 {
 "type": "720 FHD",
 "livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?edge_slice=true&auth_key=1690020028-0-0-60aca9dc80976e6e1ad1a977addbe47e&user_session_id=cf7a5defd07a4db1a39b1be6e9c118fa&sub_m3u8=true"
