@@ -5,7 +5,7 @@
  
 {
 "league": "🏆 Club Friendlies",
-"date": "July 23",
+"date": "July 23 (3:30 AM)",
 "time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
@@ -36,7 +36,7 @@
  
 {
 "league": "🏆 Club Friendlies",
-"date": "July 23",
+"date": "July 23 (5:30 AM)",
 "time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
@@ -60,6 +60,139 @@
 {
 "type": "720 FHD",
 "livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=b519cbb5091f6ae81c53ece0156bfd04&txTime=64bc6ff4"
+}
+]
+},
+
+{
+"league": "🏆 Women World Cup Grp. G",
+"date": "July 23",
+"time": "11:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5814_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/316118_small.png",
+"teams" : "Sweden Vs South Africa",
+"hteam" : "Sweden",
+"ateam" : "South Africa",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Women World Cup Grp. E",
+"date": "July 23",
+"time": "2:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/159980_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/131400_small.png",
+"teams" : "Netherlands Vs Portugal",
+"hteam" : "Netherlands",
+"ateam" : "Portugal",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Women World Cup Grp. F",
+"date": "July 23",
+"time": "4:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6325_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/967029_small.png",
+"teams" : "France Vs Jamaica",
+"hteam" : "France",
+"ateam" : "Jamaica",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 23",
+"time": "4:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6581_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+"teams" : "Yokohoma FM Vs Man City",
+"hteam" : "Yokohoma FM",
+"ateam" : "Man City",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 23",
+"time": "4:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+"teams" : "Leicester Vs Tottenham",
+"hteam" : "Leicester",
+"ateam" : "Tottenham",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
 }
 ]
 }
