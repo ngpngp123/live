@@ -1,5 +1,23 @@
 [
+{
+"league": "🏆 Club Friendlies",
+"date": "July 22",
+"time": "live",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+"teams" : "Chelsea Vs Brighton",
+"hteam" : "Chelsea",
+"ateam" : "Brighton",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":"https://179720687.global.cdnfastest.com/live/sd-dn1m1ghp67pxmoe/chunklist_w507956366.m3u8"
+}
 
+
+]
+},
 
  
 {
