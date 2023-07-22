@@ -6,7 +6,7 @@
 {
 "league": "🏆 World Cup Grp. C",
 "date": "July 22",
-"time": "1:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/1202714_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5906_small.png",
 "teams" : "Zambia (W) Vs Japan (W)",
@@ -15,20 +15,20 @@
 "hotmat":"yes",
 "link":[
 {
-"type": "360 SD",
-"livelink":""
+"type": "English HD",
+"livelink":"https://us.livenflstream.xyz/playlist/stream_1.m3u8"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=eb15ecfa3dfcde72042109783d4beb9b&txTime=64bbce00"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
-"type": "720 FHD",
-"livelink":""
+"type": "FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 }
 ]
 },
