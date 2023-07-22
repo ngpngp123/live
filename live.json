@@ -14,21 +14,36 @@
 "ateam" : "Arsenal",
 "hotmat":"yes",
 "link":[
+ {
+                    "type": "Vebo SD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+         
+                },
 {
 "type": "360 SD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991110_lsd.m3u8?auth_key=1690052848-0-0-649cfc9f4f3f620e0e2a2ddf17bd12de&edge_slice=true&user_session_id=ad8c7c4f541402128ccf7eb0d42f38a3&sub_m3u8=true"
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=98988bf3939d1bca1153db124713d761&txTime=64bc90c4"
 }, 
+ {
+                    "type": "Vebo HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         
+                },
 {
 "type": "480 HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1690052848-0-0-9f1dc0ff6d5a88e0481dddee5b8c5b85&edge_slice=true&user_session_id=87568ce1f814b8e11440ccf4a069d652&sub_m3u8=true"
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=c2640055794eb2b0cebd8d31aa71cb2c&txTime=64bc90c4"
 },
 {
 "type": "480 HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-231997_lsd.m3u8?auth_key=1690052968-0-0-b2165e6ab585368fb4fd5ce221e1e461&user_session_id=19e4ffee51afe5135bd1fc605f2c8635&sub_m3u8=true&edge_slice=true"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-231997_lsd.m3u8?user_session_id=57ffcc705bb5a1fa54f7d8ee34089b67&auth_key=1690061488-0-0-fca795cb0cb7592f353c137884d17001&edge_slice=true&sub_m3u8=true"
 },
+ {
+                    "type": "Vebo FHD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+         
+                },
 {
 "type": "720 FHD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1690052968-0-0-b6bea4809cf6e64cbd91c22b1f906232&edge_slice=true&user_session_id=42e86c5888a1816391f8741b481e7d62&sub_m3u8=true"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-231997_lhd.m3u8?user_session_id=d75e669069efdf67b3a69ff548b9ef8c&auth_key=1690061488-0-0-f16e5682db503b52f86da1a895cf6170&edge_slice=true&sub_m3u8=true"
 }
 ]
 },
