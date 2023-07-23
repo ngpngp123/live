@@ -39,6 +39,14 @@
 "ateam" : "Portugal",
 "hotmat":"yes",
 "link":[
+ {
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
 {
 "type": "360 SD",
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
