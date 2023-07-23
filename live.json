@@ -1,35 +1,5 @@
 [
 
-
-
-
-
-{
-"league": "🏆 Club Friendly Games",
-"date": "July 24",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-"teams" : "Fulham Vs Brentford",
-"hteam" : "Fulham",
-"ateam" : "Brentford",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-327261_lsd.m3u8?auth_key=1690123168-0-0-6419cb184e72dbfe3dab286f4d21ea21&user_session_id=f72c7ed7aed2c4b9e8ce3393d307e170&sub_m3u8=true&edge_slice=true"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-327261_lhd.m3u8?user_session_id=dcff2594892e28040d6848e624043c84&edge_slice=true&auth_key=1690123168-0-0-79d694fa99fb9ac67ec22c39652ce195&sub_m3u8=true"
-},
-{
-"type": "720 FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=1da9802bd056d82c1cd5896d9f84a158&txTime=64bd822c"
-}
-]
-},
-
 {
 "league": "🏆 Club Friendly Games",
 "date": "July 24",
