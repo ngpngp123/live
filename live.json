@@ -1,4 +1,4 @@
-[
+ko[
 
 
 {
@@ -41,11 +41,11 @@
 "link":[
  {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991151_lsd.m3u8?edge_slice=true&user_session_id=d727d89b89565c9df96b4444db57bd1b&sub_m3u8=true&auth_key=1690100728-0-0-b8b4bf4e1ee6d5412284c15ba2672ce8"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991151_lhd.m3u8?sub_m3u8=true&auth_key=1690100728-0-0-49950e7660598f18f450a957a2e25e3f&edge_slice=true&user_session_id=9709e2df1d0e5abb96682912f126986c"
 },
 {
 "type": "360 SD",
