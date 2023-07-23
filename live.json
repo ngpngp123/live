@@ -4,7 +4,7 @@
 {
 "league": "🏆 Women World Cup Grp. G",
 "date": "July 23",
-"time": "11:30 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5814_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/316118_small.png",
 "teams" : "Sweden Vs South Africa",
@@ -14,15 +14,15 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991151_lsd.m3u8?user_session_id=8f75d25e07c9ad5d0666ef29422ac05b&edge_slice=true&auth_key=1690090888-0-0-a93ff35b668473d313d4739213358482&sub_m3u8=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991151_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1690090888-0-0-c3f3e4d36efc2b3fa65d36835663bb23&user_session_id=1b853b202744fee5314ebc28e211c3f1"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
 }
 ]
 },
