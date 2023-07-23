@@ -66,7 +66,7 @@
 {
 "league": "🏆 Women World Cup Grp. F",
 "date": "July 23",
-"time": "4:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6325_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/967029_small.png",
 "teams" : "France Vs Jamaica",
@@ -76,11 +76,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?auth_key=1690108168-0-0-10f23841c6b172fe48ad444f3f2e59f4&edge_slice=true&user_session_id=a57bd06d591a410a907919e01700f78a&sub_m3u8=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?user_session_id=506e07f0578928628f2cef2bf4a36daf&auth_key=1690108168-0-0-945110f8e3c5e22725c9979867e87616&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "720 FHD",
@@ -93,7 +93,7 @@
 {
 "league": "🏆 Club Friendly Games",
 "date": "July 23",
-"time": "4:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6581_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 "teams" : "Yokohoma FM Vs Man City",
@@ -103,11 +103,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-372601_lsd.m3u8?auth_key=1690108288-0-0-680e6b1868d7a820c4b98548dd56f3c3&edge_slice=true&user_session_id=cc101b51b9c993d187915e56eb203435&sub_m3u8=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1690108288-0-0-b78d01b17dce41af7f8c910824eb26f9&edge_slice=true&user_session_id=0f973a38d7b642b405f0ed8bda261213&sub_m3u8=true"
 },
 {
 "type": "720 FHD",
