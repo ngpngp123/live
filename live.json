@@ -11,8 +11,12 @@
 "ateam" : "Aston Villa",
 "hotmat":"yes",
 "link":[
+ {
+"type": "360 SD 1",
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-113906_lsd.m3u8?auth_key=1690123168-0-0-f6e8a55065e2f8df5f0c68ef61d69b9b&edge_slice=true&sub_m3u8=true&user_session_id=02fe41201a6fe233460b693d20bbbd26"
+}, 
 {
-"type": "360 SD",
+"type": "360 SD 2",
 "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-113906_lsd.m3u8?auth_key=1690123168-0-0-f6e8a55065e2f8df5f0c68ef61d69b9b&edge_slice=true&sub_m3u8=true&user_session_id=02fe41201a6fe233460b693d20bbbd26"
 }, 
 {
@@ -22,6 +26,10 @@
 {
 "type": "720 FHD",
 "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-421651_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c315fe5c6c0251036fc1a1bf2c0c8be8&auth_key=1690123108-0-0-03cf8e0767e22dba8427aa3dc96f445c"
+},
+ {
+"type": "Vebo FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8"
 }
 ]
 },
