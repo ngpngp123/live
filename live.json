@@ -132,8 +132,197 @@
 "livelink":""
 }
 ]
+},
+
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 24",
+"time": "2:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+"teams" : "Fulham Vs Brentford",
+"hteam" : "Fulham",
+"ateam" : "Brentford",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 24",
+"time": "5:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+"teams" : "Newcastle Vs Aston Villa",
+"hteam" : "Newcastle",
+"ateam" : "Aston Villa",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 24",
+"time": "8:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+"teams" : "Real Madrid Vs Milan",
+"hteam" : "Real Madrid",
+"ateam" : "Milan",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Women World Cup Grp. G",
+"date": "July 24",
+"time": "12:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6326_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/74870_small.png",
+"teams" : "Italy Vs Argentina",
+"hteam" : "Italy",
+"ateam" : "Argentina",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Women World Cup Grp. H",
+"date": "July 24",
+"time": "3:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5812_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1129300_small.png",
+"teams" : "Germany Vs Morocco",
+"hteam" : "Germany",
+"ateam" : "Morocco",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 24",
+"time": "5:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8357_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+"teams" : "Greuther Fürth Vs Liverpool",
+"hteam" : "Greuther Fürth",
+"ateam" : "Liverpool",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Women World Cup Grp. F",
+"date": "July 24",
+"time": "5:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5903_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/967026_small.png",
+"teams" : "Brazil Vs Panam",
+"hteam" : "Brazil",
+"ateam" : "Panama",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
 }
 
+ 
+ 
+ 
  
 
 
