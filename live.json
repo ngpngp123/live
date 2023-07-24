@@ -1,97 +1,30 @@
 [
 
-
- 
-
-
-
- 
-
-
-
- 
 {
 "league": "🏆 Club Friendly Games",
 "date": "July 24",
-"time": "end",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8357_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-"teams" : "Greuther Fürth Vs Liverpool",
-"hteam" : "Greuther Fürth",
-"ateam" : "Liverpool",
+"time": "live",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8547_small.png",
+"teams" : "Napoli Vs SPAL",
+"hteam" : "Napoli",
+"ateam" : "SPAL",
 "hotmat":"yes",
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=74c575430e90e2b8cb175ecc2bdf2a54&txTime=64bea6e8"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991148_lsd.m3u8?user_session_id=ae38526db43c6e0ec7340e25c2233ed6&sub_m3u8=true&auth_key=1690221148-0-0-82f4811ee9517e9645c60a4d7e98d018&edge_slice=true"
 }, 
 {
 "type": "480 HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=bf54326a095fae9516d42a7402bc3958&txTime=64bea6e8"
-},
- {
-"type": "360 SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991148_lhd.m3u8?user_session_id=da9c22a1227e3ee7709522c276d6856d&sub_m3u8=true&auth_key=1690221148-0-0-9c47f9d452053daac97ac05bd7c1d19c&edge_slice=true"
 },
 {
 "type": "720 FHD",
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-},
-{
-"type": "English HD",
-"livelink":"https://179720687.global.cdnfastest.com/live/sd-965mkyh2v87zr1g/chunklist_w2008799132.m3u8"
-},
-{
-"type": "English FHD",
-"livelink":"https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
-}
-]
-},
-
- 
-{
-"league": "🏆 Women World Cup Grp. F",
-"date": "July 24",
-"time": "end",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5903_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/967026_small.png",
-"teams" : "Brazil Vs Panam",
-"hteam" : "Brazil",
-"ateam" : "Panama",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991150_lsd.m3u8?sub_m3u8=true&user_session_id=8f11be8bfa159c30081481f934cce8ce&edge_slice=true&auth_key=1690198348-0-0-1c30da8d2c509af5014aee383c07e8e3"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991150_lhd.m3u8?auth_key=1690198348-0-0-fa455af44f996e379000c8b27eb7163a&edge_slice=true&sub_m3u8=true&user_session_id=6af2f1dd7312bc3f8f3f89f2ce804411"
-},
-{
-"type": "720 FHD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
 }
 ]
 }
-
- 
- 
- 
- 
-
-
- 
- 
-
-
- 
-
-
 
  
 ]
