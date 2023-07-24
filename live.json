@@ -27,7 +27,12 @@
 {
 "type": "720 FHD",
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
-}
+},
+ {
+                    "type": "Astro HD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-l7oqdeh8pn02r51/chunklist_w258887137.m3u8"
+         
+                }
 ]
 },
 
