@@ -6,31 +6,8 @@
 
 
  
-{
-"league": "🏆 Women World Cup Grp. H",
-"date": "July 24",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5812_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1129300_small.png",
-"teams" : "Germany Vs Morocco",
-"hteam" : "Germany",
-"ateam" : "Morocco",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=9149e8fb380d5aa388d56590aadacb60&txTime=64be9464"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=1606d2f200c15fb7a56001e9a7451ff4&txTime=64be9464"
-},
-{
-"type": "720 FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=1606d2f200c15fb7a56001e9a7451ff4&txTime=64be9464"
-}
-]
-},
+
+
 
  
 {
@@ -71,7 +48,7 @@
 {
 "league": "🏆 Women World Cup Grp. F",
 "date": "July 24",
-"time": "5:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5903_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/967026_small.png",
 "teams" : "Brazil Vs Panam",
@@ -81,15 +58,15 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991150_lsd.m3u8?sub_m3u8=true&user_session_id=8f11be8bfa159c30081481f934cce8ce&edge_slice=true&auth_key=1690198348-0-0-1c30da8d2c509af5014aee383c07e8e3"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991150_lhd.m3u8?auth_key=1690198348-0-0-fa455af44f996e379000c8b27eb7163a&edge_slice=true&sub_m3u8=true&user_session_id=6af2f1dd7312bc3f8f3f89f2ce804411"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
 }
 ]
 }
