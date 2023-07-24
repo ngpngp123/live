@@ -32,7 +32,7 @@
 {
 "league": "🏆 Women World Cup Grp. H",
 "date": "July 24",
-"time": "3:00 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5812_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1129300_small.png",
 "teams" : "Germany Vs Morocco",
@@ -42,15 +42,15 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=9149e8fb380d5aa388d56590aadacb60&txTime=64be9464"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=1606d2f200c15fb7a56001e9a7451ff4&txTime=64be9464"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=1606d2f200c15fb7a56001e9a7451ff4&txTime=64be9464"
 }
 ]
 },
