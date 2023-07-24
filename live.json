@@ -24,7 +24,467 @@
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 }
 ]
+},
+
+{
+"league": "🏆 Women World Cup Grp. H",
+"date": "July 25",
+"time": "8:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/239729_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/244164_small.png",
+"teams" : "Colombia Vs South Korea",
+"hteam" : "Colombia",
+"ateam" : "South Korea",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Women World Cup Grp. A",
+"date": "July 25",
+"time": "12:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/74876_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/633428_small.png",
+"teams" : "New Zealand Vs Philippines",
+"hteam" : "New Zealand",
+"ateam" : "Philippines",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Women World Cup Grp. A",
+"date": "July 25",
+"time": "2:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/391943_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5813_small.png",
+"teams" : "Switzerland Vs Norway",
+"hteam" : "Switzerland",
+"ateam" : "Norway",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 25",
+"time": "4:50 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+"teams" : "PSG Vs Al Nassr FC",
+"hteam" : "PSG",
+"ateam" : "Al Nassr FC",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 25",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+"teams" : "RB Leipzig Vs Udinese",
+"hteam" : "RB Leipzig",
+"ateam" : "Udinese",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 26",
+"time": "12:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+"teams" : "FC Porto Vs Wolves",
+"hteam" : "FC Porto",
+"ateam" : "Wolves",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 26",
+"time": "1:15 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8559_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+"teams" : "Bolton Vs Everton",
+"hteam" : "Bolton",
+"ateam" : "Everton",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 26",
+"time": "1:15 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+"teams" : "Southampton Vs Bournemouth",
+"hteam" : "Southampton",
+"ateam" : "Bournemouth",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 26",
+"time": "2:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
+"teams" : "Real Sociedad Vs Sporting CP",
+"hteam" : "Real Sociedad",
+"ateam" : "Sporting CP",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 26",
+"time": "3:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
+"teams" : "Benfica Vs Burnley",
+"hteam" : "Benfica",
+"ateam" : "Burnley",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Leagues Cup South Grp. 3",
+"date": "July 26",
+"time": "6:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/773958_small.png",
+"teams" : "Inter Miami CF Vs Atlanta United",
+"hteam" : "Inter Miami CF",
+"ateam" : "Atlanta United",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 26",
+"time": "9:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9841_small.png",
+"teams" : "Man United Vs Wrexham",
+"hteam" : "Man United",
+"ateam" : "Wrexham",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+{
+"league": "🏆 Women World Cup Grp. C",
+"date": "July 26",
+"time": "11:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5906_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/604109_small.png",
+"teams" : "Japan Vs Costa Rica",
+"hteam" : "Japan",
+"ateam" : "Costa Rica",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+ 
+ 
+{
+"league": "🏆 Women World Cup Grp.C",
+"date": "July 26",
+"time": "2:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/244165_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1202714_small.png",
+"teams" : "Spain Vs Zambia",
+"hteam" : "Spain",
+"ateam" : "Zambia",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 26",
+"time": "5:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+"teams" : "Bayern München Vs Man City",
+"hteam" : "Bayern München",
+"ateam" : "Man City",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Club Friendly Games",
+"date": "July 26",
+"time": "6:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/67366_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+"teams" : "Lion City Sailors FC Vs Tottenham",
+"hteam" : "Lion City Sailors FC",
+"ateam" : "Tottenham",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "🏆 Women World Cup Grp. B",
+"date": "July 26",
+"time": "6:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/74873_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/394241_small.png",
+"teams" : "Canada Vs Ireland",
+"hteam" : "Canada",
+"ateam" : "Ireland",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
 }
 
+ 
+
+
+ 
  
 ]
