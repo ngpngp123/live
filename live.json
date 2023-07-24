@@ -2,42 +2,8 @@
 
 {
 "league": "🏆 Club Friendly Games",
-"date": "July 24",
+"date": "July 24 (8:40 AM)",
 "time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-"teams" : "Newcastle Vs Aston Villa",
-"hteam" : "Newcastle",
-"ateam" : "Aston Villa",
-"hotmat":"yes",
-"link":[
- {
-"type": "360 SD 1",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-113906_lsd.m3u8?auth_key=1690123168-0-0-f6e8a55065e2f8df5f0c68ef61d69b9b&edge_slice=true&sub_m3u8=true&user_session_id=02fe41201a6fe233460b693d20bbbd26"
-}, 
-{
-"type": "360 SD 2",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-113906_lsd.m3u8?auth_key=1690123168-0-0-f6e8a55065e2f8df5f0c68ef61d69b9b&edge_slice=true&sub_m3u8=true&user_session_id=02fe41201a6fe233460b693d20bbbd26"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1690123108-0-0-cdb8882a5eff459cd0799a3a42cbc138&edge_slice=true&user_session_id=c12d6aea0c1016070f2a3c21d16ca50f&sub_m3u8=true"
-},
-{
-"type": "720 FHD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-421651_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c315fe5c6c0251036fc1a1bf2c0c8be8&auth_key=1690123108-0-0-03cf8e0767e22dba8427aa3dc96f445c"
-},
- {
-"type": "Vebo FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8"
-}
-]
-},
-
-{
-"league": "🏆 Club Friendly Games",
-"date": "July 24",
-"time": "8:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
 "teams" : "Real Madrid Vs Milan",
@@ -47,15 +13,15 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
 }
 ]
 },
