@@ -45,11 +45,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=84551b22b1d0db166acab4cae363678b&txTime=64bfacf0"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=38a74c4a03babaf43b1f67f0b0479dc1&txTime=64bfacf0"
 },
 {
 "type": "720 FHD",
