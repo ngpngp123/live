@@ -21,16 +21,22 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 }, 
 {
-"type": "360 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
+"type": "360 SD",
+"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991168_lsd.m3u8?sub_m3u8=true&auth_key=1690330168-0-0-b1c9979b5140c88bc6c9e5641f7cfbba&user_session_id=752bebab44c4afe238c0b23235ec464f&edge_slice=true"
 },
 {
-"type": "3600 FHD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-}
+"type": "480 HD",
+"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991168_lhd.m3u8?auth_key=1690330168-0-0-79f370a2ae55d42eb60206c6e8e7ff72&edge_slice=true&sub_m3u8=true&user_session_id=d17b4a9693ee556b74a9c5d3fa3b1392"
+},
+ {
+                    "type": "Vebo FHD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+         
+                }
+
 ]
 },
 
