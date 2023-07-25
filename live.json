@@ -4,7 +4,7 @@
 {
 "league": "🏆 Club Friendly Games",
 "date": "July 25",
-"time": "10:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
 "teams" : "RB Leipzig Vs Udinese",
@@ -14,7 +14,7 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-381973_lsd.m3u8?sub_m3u8=true&user_session_id=a650268873fd93b2391e9bff94d15490&auth_key=1690302568-0-0-cef128bcccfc2be3c518fb4e3a7001be&edge_slice=true"
 }, 
 {
 "type": "480 HD",
