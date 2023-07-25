@@ -5,39 +5,7 @@
 
 
  
-{
-"league": "🏆 Women World Cup Grp. A",
-"date": "July 25",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/74876_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/633428_small.png",
-"teams" : "New Zealand Vs Philippines",
-"hteam" : "New Zealand",
-"ateam" : "Philippines",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991155_lsd.m3u8?sub_m3u8=true&user_session_id=ff384be3eefc4199c99b7f37e9c8a987&auth_key=1690265128-0-0-6015231c86cd39737ba9ad04e6edbc1f&edge_slice=true"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991155_lhd.m3u8?auth_key=1690265128-0-0-8616dd910e13cfcc74f6303f7a9c8728&user_session_id=6999c02de06518867949ee69a772293e&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8"
-},
- {
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
-},
-{
-"type": "720 FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8"
-}
-]
-},
+
 
  
 {
@@ -61,7 +29,7 @@
 },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 }
 ]
 },
