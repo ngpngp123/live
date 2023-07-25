@@ -1,60 +1,6 @@
 [
 
  
-{
-"league": "🏆 Club Friendly Games",
-"date": "July 25",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-"teams" : "RB Leipzig Vs Udinese",
-"hteam" : "RB Leipzig",
-"ateam" : "Udinese",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-381973_lsd.m3u8?sub_m3u8=true&user_session_id=a650268873fd93b2391e9bff94d15490&auth_key=1690302568-0-0-cef128bcccfc2be3c518fb4e3a7001be&edge_slice=true"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-},
-{
-"type": "720 FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
-}
-]
-},
-
- 
-{
-"league": "🏆 Club Friendly Games",
-"date": "July 26",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-"teams" : "FC Porto Vs Wolves",
-"hteam" : "FC Porto",
-"ateam" : "Wolves",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "720 FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-}
-]
-},
-
- 
 
  
 
