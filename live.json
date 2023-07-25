@@ -63,7 +63,7 @@
 {
 "league": "🏆 Club Friendly Games",
 "date": "July 26",
-"time": "2:00 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
 "teams" : "Real Sociedad Vs Sporting CP",
@@ -89,8 +89,8 @@
  
 {
 "league": "🏆 Club Friendly Games",
-"date": "July 26",
-"time": "3:00 AM",
+"date": "July 3:00AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
 "teams" : "Benfica Vs Burnley",
@@ -103,11 +103,11 @@
 "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 }, 
 {
-"type": "480 HD",
+"type": "360 HD",
 "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
 },
 {
-"type": "720 FHD",
+"type": "360 FHD",
 "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 }
 ]
@@ -116,8 +116,8 @@
  
 {
 "league": "🏆 Leagues Cup South Grp. 3",
-"date": "July 26",
-"time": "6:00 AM",
+"date": "July 26(6:00AM)",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/773958_small.png",
 "teams" : "Inter Miami CF Vs Atlanta United",
@@ -130,11 +130,11 @@
 "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 }, 
 {
-"type": "480 HD",
+"type": "360 HD",
 "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
 },
 {
-"type": "720 FHD",
+"type": "3600 FHD",
 "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 }
 ]
@@ -143,8 +143,8 @@
  
 {
 "league": "🏆 Club Friendly Games",
-"date": "July 26",
-"time": "9:00 AM",
+"date": "July 26(9:00AM)",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9841_small.png",
 "teams" : "Man United Vs Wrexham",
@@ -152,6 +152,45 @@
 "ateam" : "Wrexham",
 "hotmat":"yes",
 "link":[
+ {
+
+                    "type": "MUTV 360 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+
+         
+
+                },
+
+                
+
+{
+
+                    "type": "MUTV 240 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "MUTV 540 HD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "MAN U TV 1080HD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+
+},
 {
 "type": "360 SD",
 "livelink":""
