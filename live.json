@@ -7,63 +7,7 @@
 
 
  
-{
-"league": "🏆 Club Friendly Games",
-"date": "July 26",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/67366_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-"teams" : "Lion City Sailors FC Vs Tottenham",
-"hteam" : "Lion City Sailors FC",
-"ateam" : "Tottenham",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991147_lsd.m3u8?auth_key=1690373428-0-0-3ff78d7413f51b914049cfcda141bf65&edge_slice=true&sub_m3u8=true&user_session_id=4494a5c4ef4946dab33e22ed20484698"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991147_lhd.m3u8?edge_slice=true&user_session_id=1b9e25336f6c3b17450a4b4d9c80edf6&sub_m3u8=true&auth_key=1690373428-0-0-277be0e4d362204648c401d8aa4db71e"
-},
-{
-"type": "720 FHD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
- {
-"type": "720 FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 
-}
-]
-},
-
- 
-{
-"league": "🏆 Women World Cup Grp. B",
-"date": "July 26",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/74873_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/394241_small.png",
-"teams" : "Canada Vs Ireland",
-"hteam" : "Canada",
-"ateam" : "Ireland",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991164_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690373488-0-0-0cf9d8c4cf8487a00d106bf5ea1e274a&user_session_id=b3379760efd2cae1f9023e05662e3fa9"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991164_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=cb2d4097faa6a78a810dae46ef79228e&auth_key=1690373488-0-0-4a5d03c8303e467f0625b72cacfb3052"
-},
-{
-"type": "720 FHD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8"
-}
-]
-},
  
 {
 "league": "🏆 Club Friendly Games",
