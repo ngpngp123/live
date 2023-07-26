@@ -1,43 +1,4 @@
 [
-
- 
-
- 
-
-
-{
-"league": "🏆 Women World Cup Grp. C",
-"date": "July 26",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5906_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/604109_small.png",
-"teams" : "Japan Vs Costa Rica",
-"hteam" : "Japan",
-"ateam" : "Costa Rica",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991170_lsd.m3u8?user_session_id=15c4819a5716f5724ce1968a04aa4880&edge_slice=true&sub_m3u8=true&auth_key=1690350088-0-0-ac1a29ccdab1c21fda5caa5296c05bd6"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991170_lhd.m3u8?user_session_id=8756a8409810b50f854b58a5c625f66d&edge_slice=true&sub_m3u8=true&auth_key=1690350088-0-0-db66876df27ac408f249c2531c1630d5"
-},
-{
-"type": "720 FHD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
- {
-"type": "360 SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-}
-]
-},
  
  
 {
@@ -59,6 +20,11 @@
 "type": "480 HD",
 "livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=ecbe8fa7a752b8212e105aaffe765247&txTime=64c11568"
 },
+ {
+                    "type": "Eng FHD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-4jwq2ghzne7em0v/chunklist_w1502390431.m3u8"
+         
+                },
 {
 "type": "720 FHD",
 "livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=ecbe8fa7a752b8212e105aaffe765247&txTime=64c11568"
