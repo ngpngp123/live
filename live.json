@@ -4,39 +4,7 @@
 
 
  
-{
-"league": "🏆 Club Friendly Games",
-"date": "July 26",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-"teams" : "Bayern München Vs Man City",
-"hteam" : "Bayern München",
-"ateam" : "Man City",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-},
-{
-"type": "720 FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
-},
- {
-"type": "360 SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991122_lsd.m3u8?txSecret=1faa9ca7567f4be8e57a0459bd828d52&txTime=64c14790"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991122_lhd.m3u8?txSecret=2d9727876b4a2ba6dcade331e7ff05df&txTime=64c14790"
-}
-]
-},
+
 
  
 {
