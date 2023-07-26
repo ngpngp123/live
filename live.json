@@ -79,11 +79,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991164_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690373488-0-0-0cf9d8c4cf8487a00d106bf5ea1e274a&user_session_id=b3379760efd2cae1f9023e05662e3fa9"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991164_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=cb2d4097faa6a78a810dae46ef79228e&auth_key=1690373488-0-0-4a5d03c8303e467f0625b72cacfb3052"
 },
 {
 "type": "720 FHD",
