@@ -70,6 +70,11 @@
 "type": "480 HD",
 "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991153_lhd.m3u8?auth_key=1690341448-0-0-2280e138e1677ea33d1d899905095eb6&user_session_id=ad5de472b459e2d3b8b9f2a481ec5973&sub_m3u8=true&edge_slice=true"
 },
+ {
+                    "type": "Eng FHD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-vjxm8gh51487r6o/chunklist_w396766213.m3u8"
+         
+                },
 {
 "type": "720 FHD",
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8"
