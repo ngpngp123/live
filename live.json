@@ -64,11 +64,11 @@
 },
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991153_lsd.m3u8?auth_key=1690341448-0-0-fe85d709306cd313c2011e520327a077&user_session_id=1f96f5193e0da111af1ed39a011437a2&sub_m3u8=true&edge_slice=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991153_lhd.m3u8?auth_key=1690341448-0-0-2280e138e1677ea33d1d899905095eb6&user_session_id=ad5de472b459e2d3b8b9f2a481ec5973&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "720 FHD",
