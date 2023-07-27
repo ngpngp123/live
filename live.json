@@ -1,14 +1,5 @@
 [
  
- 
-
-
- 
-
-
- 
-
-
 
  
 {
@@ -67,253 +58,79 @@
 }
 ]
 },
-  
-{
-"league": "fot live pro",
-"date": "Play Store",
-"time": "Download",
-"himg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
-"aimg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
-"teams" : "Chelsea Vs Newcastle",
-"hteam" : "UPDATE",
-"ateam" : "NEW VERSION",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-
-}
-]
-},
-
- 
-{
-"league": "fot live pro",
-"date": "Play Store",
-"time": "Download",
-"himg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
-"aimg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
-"teams" : "Man United Vs Real Madrid",
-"hteam" : "Man United",
-"ateam" : "Real Madrid",
-"hotmat":"yes",
-"link":[
  {
-
-                    "type": "MUTV 360 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-
-         
-
-                },
-
-                
-
-{
-
-                    "type": "MUTV 240 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MUTV 540 HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MAN U TV 1080HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-},
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-},
-
-{
 "league": "fot live pro",
 "date": "Play Store",
 "time": "Download",
 "himg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
 "aimg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
-"teams" : "USA Vs Netherlands",
-"hteam" : "USA",
-"ateam" : "Netherlands",
+"teams" : "Chelsea Vs Newcastle",
+"hteam" : "UPDATE",
+"ateam" : "NEW VERSION",
 "hotmat":"yes",
 "link":[
 {
 "type": "360 SD",
 "livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
+
 }
 ]
 },
 
- 
- 
-{
+ {
 "league": "fot live pro",
-"date": "July 27",
-"time": "9:00 AM",
+"date": "Play Store",
+"time": "Download",
 "himg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
 "aimg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
-"teams" : "Arsenal Vs Barcelona",
-"hteam" : "Arsenal",
-"ateam" : "Barcelona",
+"teams" : "Chelsea Vs Newcastle",
+"hteam" : "UPDATE",
+"ateam" : "NEW VERSION",
 "hotmat":"yes",
 "link":[
 {
 "type": "360 SD",
 "livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
+
 }
 ]
 },
-
- 
-{
+  {
 "league": "fot live pro",
-"date": "July 27",
-"time": "2:00 PM",
+"date": "Play Store",
+"time": "Download",
 "himg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
 "aimg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
-"teams" : "Portugal Vs Vietnam",
-"hteam" : "Portugal",
-"ateam" : "Vietnam",
+"teams" : "Chelsea Vs Newcastle",
+"hteam" : "UPDATE",
+"ateam" : "NEW VERSION",
 "hotmat":"yes",
 "link":[
 {
 "type": "360 SD",
 "livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
+
 }
 ]
 },
-
- 
-{
+  {
 "league": "fot live pro",
-"date": "July 27",
-"time": "4:30 PM",
+"date": "Play Store",
+"time": "Download",
 "himg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
 "aimg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
-"teams" : "Australia Vs Nigeria",
-"hteam" : "Australia",
-"ateam" : "Nigeria",
+"teams" : "Chelsea Vs Newcastle",
+"hteam" : "UPDATE",
+"ateam" : "NEW VERSION",
 "hotmat":"yes",
 "link":[
 {
 "type": "360 SD",
 "livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-},
 
- 
-{
-"league": "🏆 Club Friendly Games",
-"date": "July 27",
-"time": "4:45 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-"teams" : "Al Nassr FC Vs Inter",
-"hteam" : "Al Nassr FC",
-"ateam" : "Inter",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-},
-
- 
-{
-"league": "🏆 Club Friendly Games",
-"date": "July 27",
-"time": "5:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/207969_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-"teams" : "K-League All Stars Vs Atletico Madrid",
-"hteam" : "K-League All Stars",
-"ateam" : "Atletico Madrid",
-"hotmat":"yes",
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
 }
 ]
 }
 ]
-
- 
+  
+  
