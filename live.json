@@ -18,21 +18,71 @@
 "himg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
 "aimg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
 "teams" : "Chelsea Vs Newcastle",
-"hteam" : "Chelsea",
-"ateam" : "Newcastle",
+"hteam" : "update",
+"ateam" : "version",
 "hotmat":"yes",
 "link":[
 {
 "type": "360 SD",
 "livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
+
+}
+]
 },
+  
 {
-"type": "720 FHD",
+"league": "fot live pro",
+"date": "Play Store",
+"time": "Download",
+"himg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
+"aimg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
+"teams" : "Chelsea Vs Newcastle",
+"hteam" : "update",
+"ateam" : "version",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
 "livelink":""
+
+}
+]
+},
+  
+{
+"league": "fot live pro",
+"date": "Play Store",
+"time": "Download",
+"himg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
+"aimg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
+"teams" : "Chelsea Vs Newcastle",
+"hteam" : "update",
+"ateam" : "version",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+
+}
+]
+},
+  
+{
+"league": "fot live pro",
+"date": "Play Store",
+"time": "Download",
+"himg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
+"aimg": "https://coppercorridorbsc.org/wp-content/uploads/2018/12/bigstock_online_update_11303201.jpg",
+"teams" : "Chelsea Vs Newcastle",
+"hteam" : "update",
+"ateam" : "version",
+"hotmat":"yes",
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+
 }
 ]
 },
